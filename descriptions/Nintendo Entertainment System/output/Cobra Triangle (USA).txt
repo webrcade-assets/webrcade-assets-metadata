@@ -9,10 +9,4 @@ Cobra Triangle is a single-player boat-racing game that lets you do more than ra
 (4) Fry the Monster - The 'boss' levels. You fight a sea-serpent, a crab, a shark, etc. He has his own health display right above yours, but it tends to deplete slower.
 (BONUS) Shoot the Targets - after every boss level you go to an auto-scrolling level where you are rewarded with a 1UP prize if you manage to shoot all the targets along the shore without missing any.
 
-(5) Guard the People - There's a large square filled with 8 helpless swimmers, and for some reason they're all about to be kidnapped. Other boats race into the square and tow them away unless you destroy their ships before they get away. You can tow the people back into the square-if you have time-while avoiding the spaceships that fire stunning missiles at you. If you have at least one swimmer left when the timer runs out then you pass.
-
-(6) Reach the Finish - Race in a straight course with plenty of obstacles but no other boats. You drive upstream while the current drags a horde of logs and whirlpools in your direction to stop you. Occasionally some planes fly by and shoot at you. If you happen to die in this or any other level, you simply reappear on the spot as long as you have an extra life. A continue puts you back at the beginning of the level you were on.
-
-(7) Jump the Waterfall - A level that consists of a series of moving ramps you must use to jump over huge pits. Moving currents, whirlpools, and the violation of several laws of physics makes this more difficult than it sounds.
-
-The entire game consists of repeating these types of levels for a grand total of 25 stages. The later stages are much more difficult than the first. They're filled with additional obstacles like icebergs, more mines, more enemies, and longer courses. There are even speed-ramps that let you take small short-cuts in later racing levels.
+(5) Guard the People - There's a large square filled with 8 helpless swimmers, and for some reason they're all about to be kidnapped. Other boats race into the square and tow them away unless you destroy their ships before they get away. You can tow the people back into the square-if you have time-whil

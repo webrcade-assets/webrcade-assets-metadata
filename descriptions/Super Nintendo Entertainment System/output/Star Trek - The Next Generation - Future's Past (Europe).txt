@@ -8,4 +8,4 @@ Before starting an away mission, you have to assemble a team of four crew member
 
 Ship battles are also seen from a top-down perspective and let you attack enemy ships with phasers and photon torpedoes, while keeping an eye or your shields and trying to dodge you enemy's torpedoes. If your ship too heavily damaged you can surrender and hope that your enemy spares you.
 
-While the SNES and Genesis versions are essentially the same games, there are some noticeable differences. The Genesis version plays considerably faster during ship battles and on away missions as well as on the bridge (meaning it takes much less time to repair the ship). There are many graphical differences and the map layout for away missions is slightly different from the SNES version as well.
+While the SNES and Genesis versions are essentially the same games, there are some noticeable differences. The Genesis version plays considerably faster during ship battles and on away missions as well as on the bridge (meaning it takes much less time to repair the ship). There are many graphical differences and the map layout for away missions is slightly different from the SNES 

@@ -1,1 +1,4 @@
-One day at an amusement park an evil being kidnaps a girl. Her friend hurries to the rescue. The Trolls in Crazyland is a typical platform game featuring a boy who kicks a ball at the enemies (in the original Japanese version). When damaged the boy changes the color of his shirt and the power of his weapon increases. Among the stuff that remains from the fallen enemies he can collect a bird that will chase and defeat foes. For the European market, the sprite of the main character was redrawn to depict a popular troll character under license from Russ Berrie & Co. 
+Players control a boy with a helmet who kicks balls at enemies in an attempt to save his girlfriend from a unknown force inside an amusement park. The more damage he takes the more damage he does to enemies.
+
+
+The game was renamed The Trolls in Crazyland for release on the NES by American Softworks. It was previously scheduled to be released as Crazyland, but was then changed to feature the popular Troll dolls. That version was only released in Italy(PAL-A), and Eastern Europe(PAL-B).

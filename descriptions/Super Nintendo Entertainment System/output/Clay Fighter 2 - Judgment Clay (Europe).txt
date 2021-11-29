@@ -1,1 +1,3 @@
-Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.
+Clay Fighter 2, just like its predecessor, is a Street Fighter-like fighting game for 1 or 2 players.
+
+The characters were made out of clay and then renderized, which provides the game some individuality in the enormous mass of Super NES fighting games.

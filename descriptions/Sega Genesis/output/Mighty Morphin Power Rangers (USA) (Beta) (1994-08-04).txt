@@ -1,3 +1,1 @@
-This is a one-on-one fighting game for one or two players. 
-
-Single players pick a Ranger (Red, Pink, Blue, Yellow, Black, or the unlockable Green) and take him or her through a series of battles against Rita's monsters. After one normal battle, the monster grows very large, and then it is time to take out the MegaZord.
+Mighty Morphin Power Rangers is a one-on-one competitive fighting game, featuring two different game modes: a Scenario Mode where the player competes against a series of CPU-controlled opponents, and a Battle Mode for two players. In the Scenario Mode, the matches consist of two segments: the player will fight against a regular-sized monster as one of the Rangers, and after the defeating the monster they will battle a giant version of it. Initially only the five original Rangers and the Megazord are available with the Green Ranger and Dragonzord being locked until they are defeated.

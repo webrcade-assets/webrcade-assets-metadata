@@ -4,4 +4,4 @@ Halfway through the first of the 30 levels, you meet Squeak and the full nature 
 
 Bubble Mode is an equivalent of Super Mario mode - it allows you to jump higher, run faster and shoot more lethal weaponry (bubbles in this case). It is activated by placing a coin into a Bubblegum machine, and then jumping on Squeak's back.
 
-In between the main platform levels there are side-view shoot 'em up sections taking place underwater � completing these earns bonuses.
+In between the main platform levels there are side-view shoot 'em up sections taking place underwater  completing these earns bonuses.
