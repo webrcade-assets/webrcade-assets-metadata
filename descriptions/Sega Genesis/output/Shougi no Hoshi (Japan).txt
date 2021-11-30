@@ -1,0 +1,1 @@
+Shougi no Hoshi is a 1991 game for the Sega Mega Drive by Home Data. The game is an implementation of the Japanese board game Shogi.

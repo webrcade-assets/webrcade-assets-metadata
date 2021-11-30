@@ -1,7 +1,5 @@
-This game is based on an arcade game that was released by Atari.
-
-You play the Road Runner. You must run along the road, avoiding trucks, landmines, falling rocks, etc. and also not get caught by Wile E. Coyote. You must also eat birdseed along the way or you will become faint and Wile E. will catch you.
-
-You can get points for eating birdseed and making Wile E. get hit by trucks, falling rocks, etc.
-
-The Amstrad CPC, Commodore 64 and ZX Spectrum versions are one player only. The Atari 2600 version is one or two player, alternating. The Atari 2600 version also has another difference in that you don't HAVE to eat the birdseed but you can for the points. This may have been due to programming constraints on the Atari 2600.
+That's right, folks, the cartoon you know and love is ready to roll again - except this time you get to be Road Runner!
+The desert's plenty dangerous all by itself; falling boulders, oncoming trucks, land mines and cannon balls as well as mazes, sand traps and ravines.
+Throw in that crafty Wile E. Coyote and you've got one wild-goose chase that's fun, fast and exciting!
+He may not be too bright, but he is hungry. And he's got his rocket, jet skates, pogo stick and helicopter.
+Better get cookin' before you get cooked.

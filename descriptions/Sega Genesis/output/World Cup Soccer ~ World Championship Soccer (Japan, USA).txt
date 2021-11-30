@@ -1,5 +1,5 @@
-This soccer game lets you choose a team representing one of twenty-four countries around the world to participate in the World Championship tournament. This is identical to the real 1990 World Cup.
-
-Once you pick your team you can also select which players you want on the field, so that you can round out the team's strengths and weaknesses. Also provided are modes for single exhibition matches, either against the computer or against a friend.
-
-The action is viewed from above with large player sprites. Violent play is encouraged as there are no free kicks. Whereas later sports games often carry heavy focus on the attention to detail, this game is rather simplified -- you can only control the player closest to the ball, for example, and it is missing many of the rules of soccer such as penalty flags and offsides.
+World Championship Soccer kicks-off against an international set of stars for the prized World Championship. To win, you'll move swiftly through qualifying rounds onto the Final Tournament where only the best are lined up for intense competition.
+ 
+Maybe you'll meet the teams of France, Italy or England who play with the unusual bravado. Long on strategy, they prove worthy contenders against the fiery speed of their Latin counterparts from Mexico, Brazil and Argentina. But nothing beats the determination of China and Japan whose team credo remains, "Never say die!". And these are just some of the twenty-four teams, our ol' red, white and blue included, who are ready to kick, dribble and shoot their way to victory.
+ 
+So how will you play? Tough offense, strong defense? Only one can win. So lace up your cleats and let's see some smoke on that field.

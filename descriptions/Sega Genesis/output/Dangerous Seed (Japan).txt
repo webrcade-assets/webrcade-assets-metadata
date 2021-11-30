@@ -1,0 +1,5 @@
+Dangerous Seed is a 1989 arcade shoot-'em-up by Namco ported to the Sega Mega Drive in 1990. Both versions were released exclusively in Japan.
+
+The Moon Diver is a ship consisting of three sub-ships, sometimes called wings: Alpha, Beta, and Gamma. You must stop an alien invasion whose base is Danger Seed by going through several "tubes;" however before the game starts Beta and Gamma break off and you must begin with Alpha alone.
+
+A shoots a normal shot which can be rapidfired. B shoots a bomb (you have a limited supply of bombs). As you pass through each tube, your ship collects wings; use C to change the arrangement of wings. Powerups are collected as in most schmups.

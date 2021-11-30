@@ -1,3 +1,1 @@
-Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.
-
-The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Theme," "Highway Star" and "Paranoid."
+The game pits four racers against each other, with up to two of them being player-controlled and the rest being AI opponents. Each race consists of four laps around tracks viewed from an isometric perspective, which enables players to discern the presence of frequent sloping sections spread throughout the game's various tracks. In addition to navigating the turns, racers must also maneuver hills and dips without falling or jumping over the guard rail at the track's edge.

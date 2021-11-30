@@ -1,0 +1,3 @@
+Sonic Classics compiles three games from the Sonic The Hedgehog series onto one cartridge. They are: Sonic the Hedgehog, Sonic the Hedgehog 2, Dr. Robotnik's Mean Bean Machine
+
+Each of the three games control the same as their stand-alone versions. The games are selected from a menu, however only one game can be played at once. Also, even though Sonic The Hedgehog 2 is on this cartridge, it is not possible for this game to lock-on to Sonic And Knuckles to create Knuckles the Echidna.

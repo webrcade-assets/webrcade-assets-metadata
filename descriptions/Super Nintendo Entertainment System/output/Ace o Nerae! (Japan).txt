@@ -1,0 +1,4 @@
+It's a tennis videogame adapted from the Manga and Anime of the same name.
+This is one of the first games the used effects from the Mode 7 technology, simulating third-dimensional tennis arena.
+
+During 2003 and 2004 a ROM-hacking group named "RPGOne" translated the game to english and renamed it as "Aim For The Ace! ACE TENNIS".

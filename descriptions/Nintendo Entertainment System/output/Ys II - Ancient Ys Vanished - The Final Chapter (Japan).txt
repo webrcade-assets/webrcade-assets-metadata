@@ -1,0 +1,3 @@
+The player controls Adol as he battles his way across the land of Ys. As in the first game, Adol's strength is measured in a typical RPG fashion: He has numerical statistics such as HP, Attack Power, and Defense Power that determine his strength. These stats are increased by raising his experience level through battling.
+
+Also returning from the first game is the 'bump' combat system. The player attacks enemies by running into them, and the enemy takes damage according to Adol's Attack Power. A new addition to Ys II is the Magic system: Adol can acquire several different spells he can use throughout the course of play, such as a Fire spell for attack, and a Time spell which can stop enemies as long as it is active. The use of magic consumes Adol's MP stat.

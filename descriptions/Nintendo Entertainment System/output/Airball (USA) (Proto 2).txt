@@ -1,0 +1,1 @@
+The player begins every round atop inflating stations. These inflating stations, which are scattered throughout the arenas, also act as checkpoints. Remaining atop an inflating station for too long will cause the player to burst. A bar gauge at the bottom of the screen allows the player to monitor their air level.

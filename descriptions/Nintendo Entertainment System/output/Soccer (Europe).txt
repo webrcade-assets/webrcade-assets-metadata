@@ -1,1 +1,10 @@
-Soccer is an action game for two players or one player against the computer. You can play the game in one of five skill levels, choose from several different teams, and select the amount of time the match will take. Soccer features throw-ins, goal kicks, corner kicks, penalty kicks and an overhead view of the field which scrolls to follow the action.
+The objective is to kick the ball into the opponent's goal. The game features cheerleaders and the ability to choose between 15, 30, and 45-minutes halves. Pressing B passes the ball, while A shoots at the opponent's goal.
+
+There are seven teams represented in the game:
+BRA -  Brazil
+ESP -  Spain
+FRA -  France
+FRG -  West Germany
+GBR -  England
+JPN -  Japan
+USA -  United States

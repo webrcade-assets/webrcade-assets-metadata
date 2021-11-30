@@ -1,5 +1,1 @@
-The hero of the game is a young jungle-man named Toki. One day the evil wizard Dr. Stark kidnaps his girlfriend Wanda. When Toki tries to save her, he is turned into a monkey! Now Toki has to find Dr. Stark in his palace, to rescue Wanda, and to become a human being again!
-
-It is a platform game with a lot of various levels: jungle, underwater, volcanic caves, on the ice... Toki's only weapons are spitting on the enemies or jumping on them and crashing them. There are many possibilities to upgrade his spitting "weapon";  for example, if he finds an upgrade, he can spit fireballs. 
-
-This game is ported from an older arcade version.
+Toki, known in Japan as JuJu Densetsu (JuJu?) is a 1989 shoot 'em up platformer arcade game, or a "run and gun" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth (described humorously as "monkey-spit" or "monkey-vomit" by some gamers). The ultimate goal is to destroy the evil wizard who cast a spell on you; therefore transforming yourself from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.

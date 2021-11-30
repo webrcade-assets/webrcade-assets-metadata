@@ -3,5 +3,3 @@ Bandits are holding up a bank and have taken people hostage, and as a gunslinger
 If you're lucky, either a man or a woman will throw you a bag of gold coins. If you shoot any of these people by accident, you also lose a life. More often than not, the person will throw his/her hands up, saying "I haven't got anything". That's when they will be replaced by bandits. 
 
 Some men will carry three to five pieces of gold on top of their heads, and shooting at all of the gold will award you with a bag of gold coins. Others will be tied up with rope. If you shoot the rope, there's more money for you, because not only will you receive one bag of gold coins, but you'll get three bags of gold coins.
-
-There are more than ten rounds in Bank Panic, and each one ends when a person behind all 12 doors was able to throw you a bag of gold coins. The rounds get difficult the further you get. For example, in later rounds, a few bandits will block your shot, and you have to then shoot twice. Also, regardless of what round you're on, you can shoot so many bandits before time runs out.

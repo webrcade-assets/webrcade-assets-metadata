@@ -2,9 +2,9 @@ Another in the series of Midway's retro arcade compilations, this is the first t
 
 The games included are:
 
-1. Asteroids (vector space shooter)
-2. Battlezone (vector 3D tank shooter)
-3. Centipede (insect shooter)
-4. Missile Command (missile shooter)
-5. Super Breakout (the more varied sequel to Breakout, and the only non-shooter in this collection)
-6. Tempest (color vector shooter)
+Asteroids (vector space shooter)
+Battlezone (vector 3D tank shooter)
+Centipede (insect shooter)
+Missile Command (missile shooter)
+Super Breakout (the more varied sequel to Breakout, and the only non-shooter in this collection)
+Tempest (color vector shooter)

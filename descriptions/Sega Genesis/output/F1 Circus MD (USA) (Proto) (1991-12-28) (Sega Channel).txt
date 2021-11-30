@@ -1,0 +1,3 @@
+F1 Circus MD is a 1991 racing game by Nihon Bussan for the Sega Mega Drive in their F1 Circus series, which also contains a Mega CD game.
+
+The game is a typical Formula 1 racing game. In World Championship mode, you are limited to a predefined course set, but you may choose your team, lap count, vehicle specifics, etc. Races are presented in a top-down view. A accelerates, B breaks, Up shifts down, Down shifts up, and C opens a menu.

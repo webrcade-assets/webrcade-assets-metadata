@@ -1,0 +1,3 @@
+Tinhead was an unreleased game, intended for a 1994 release. It was cancelled for SNES after developer MicroProse ran out of money. A completed ROM image of the game exists, and it was released commercially in the US on the Genesis.
+
+TinHead is a platform game. Some exploration is required to find the exit or gather extra health or points. Attacking enemies is done by shooting them with small metal orbs that come out of TinHead's head. He can shoot them in three different directions: diagonal upward, straight, or just let them jump out and bounce over the ground. The direction is chosen by using a specific button.

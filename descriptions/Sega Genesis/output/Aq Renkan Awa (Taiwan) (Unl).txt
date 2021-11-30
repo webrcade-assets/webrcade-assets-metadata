@@ -1,0 +1,4 @@
+Aq Renkan Awa (Q) is an unlicensed educational game for the Sega Mega Drive by C&E Inc. released in 1995.
+There are five game modes. The first three are some variants of the normal gameplay: you are a student on a game board-like path. You roll a die to see how many spaces you move. At most spaces there is a building where you are asked five questions. If you get a certain number correct, you can stay at the spot you were in; otherwise you go back to the previous position. Play continues with the next player.
+The fourth game mode has various minigames (TODO describe).
+The fifth game mode is a basic quiz game show.

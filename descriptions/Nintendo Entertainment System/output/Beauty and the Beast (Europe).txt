@@ -1,3 +1,1 @@
-Disney's Beauty and the Beast is a typical side-scrolling platform game based on the Disney movie of the same name. The player takes on the role of Beast. As Beast the player can walk around, jump and hit enemies with his fists. Beast can also climb against walls.
-
-The levels feature various power-ups that can be collected (such as hearts which earn the player extra life and a magnifying glass which shows the player an upcoming piece of the level) which can be  and on the way the player must watch out for pit traps and various enemies.
+Beauty and the Beast is an action, platformer developed and publisher by Hudson Soft for the NES. It was released in Europe in 1994. Gaston, logically, is the final boss of the game because he wants to kill the Beast, marry Belle and force her to give birth to nothing but baby boys (that look like Gaston).

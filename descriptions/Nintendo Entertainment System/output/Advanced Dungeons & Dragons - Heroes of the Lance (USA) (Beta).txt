@@ -1,5 +1,1 @@
-Based on the later parts of the Dragonlance book Dragons of Autumn Twilight, the heroes descend into a ruined city in search of the disks of Mishakal.
-
-The gameplay consists of horizontal fighting with a maze like map using doors to change the view.  The party consists of the 8 Heroes of the Lance, using one at a time and the player can switch between them at any time.  Each character has different types of attacks and spells making them more suited to fighting different enemies as well as acting as lives.
-
-One of the AD&D games that takes a break from the usual RPG style.
+While Heroes of the Lance is a faithful representation of the books it is based on, it was a departure from the usual RPG style of most Dungeons & Dragons games, and many players lamented its difficult game play interface which consists of using one character at a time in horizontally-scrolling fighting. Each character has different types of attacks and spells making them more suited to fighting different enemies but they merely act as "lives" for the player as in more traditional fighting games, removing one of the main strategies of role-playing games from the game.

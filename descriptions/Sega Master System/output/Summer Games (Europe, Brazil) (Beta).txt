@@ -1,11 +1,1 @@
-Summer Games allows up to eight players to compete in a series of summer themed Olympic events. The gameplay is similar to the other entries in Epyx "games" series. Each player can choose a country to represent, and then takes turns competing in various events to see who will win the gold medal! The game allows you to compete in all of the events sequentially, choose a few events, choose just one event, or practice an event. The events available vary slightly depending on the platform, and may include:
-
-1. Pole vault
-2. Platform diving
-3. 4x400 meter relay
-4. 100 meter dash
-5. Gymnastics
-6. Freestyle swimming
-7. Skeet shooting
-8. 100 meter freestyle
-9. Rowing
+The ceremonial flame is lit, the pigeons released... the Summer Games have officially begun! Athletes from eight different nations are gathered here to display their various talents. You have the chance to outshine them all. Compete in swimming, diving, and track and field events. Choose a nation to represent and go for the Golden Medal, or even a new world record!

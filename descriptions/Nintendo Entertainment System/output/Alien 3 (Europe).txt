@@ -1,9 +1,3 @@
-Alien³ on the NES is similar to Probe Software's adaptations of the film on other systems. While using the same overall game concept as the Sega and Commodore versions, the NES title has unique levels.
+Alien is a video game based on the movie sequel of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.
 
-The player controls Ripley through a number of platform levels. She must not only defend herself against hordes of aliens and find the exit, but also save a number of prisoners, all within a tight time limit of only minutes per level.
-
-Weapons to use against the aliens include a pulse rifle, flame thrower, grenade launcher as well as hand grenades. Ammo for each is limited and must be collected in the levels. The rifle is prone to overheating, so should only be fired in short bursts.
-
-Next to health packs, Ripley can also find a radar. The radar indicates both moving aliens as well as the locations of prisoners.
-
-After every two levels, a guardian level follows, in which an especially tough alien must be defeated to continue.
+The game play of the various Alien conversions varies from platform to platform. The Genesis Alien game is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.

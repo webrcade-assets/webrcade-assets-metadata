@@ -1,1 +1,1 @@
-Junction on the Game Gear plays much like its Genesis equivalent but the view is top-down rather than isometric. The object is still to guide the ball along a path to the exit, shifting tiles as needed.
+Junction is a Puzzle game, developed and published by Micronet in 1991.

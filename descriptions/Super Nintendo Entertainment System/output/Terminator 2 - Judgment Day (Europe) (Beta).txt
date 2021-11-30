@@ -1,1 +1,5 @@
-The game consists of several actions parts linked together. All parts are different, each resembling typical games of the genre (for example: 1st level is like a side-view beat 'em up). Between each level a small cutscene from the movie is shown.
+One of the several games based on the eponymous movie. The player controls the T-800 terminator, a cyborg from the future, who travels to the year 1995 to protect John Connor, the future leader of the human resistance against machines, from being killed by another terminator, the highly advanced model T-1000. 
+
+This adaptation of the movie is essentially a side-scrolling action game, with both melee combat and shooting; there are also driving sequences between the side-scrolling levels, which mainly consists of avoiding pursuers and safely arriving to the next destination. T-800's default weapon is a pistol, but he can later acquire other weapons such as a shotgun, a mini-gun, etc. The "good terminator" can also use kicks and punches to dispose of the enemies. As in the movie, T-1000 appears frequently and must be fought and incapacitated, but can not be permanently killed until the ending part.
+
+Another objective the player must complete is collecting various robotic parts that could lead to a construction of a new terminator. These parts must be sought out and destroyed, to make this new technique impossible.

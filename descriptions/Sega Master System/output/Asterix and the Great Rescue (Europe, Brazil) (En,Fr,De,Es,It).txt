@@ -1,3 +1,3 @@
-The game is based on the popular French comics series Ast�rix. It is 50 B.C., and the entire Gaul (today's France) is conquered by the Romans. Only one village still remains independent, thanks to the incredible powers of its two great warriors, Asterix and Obelix. In the game, they must first of all liberate the village Orvio and rescue their friend Dogmatix.
+Asterix and Obelix must rescue Getafix  and Dogmatix from the Romans, who are in the process of taking over Gaul.
 
-You can play as either Asterix or Obelix. You make your way through platform levels, fighting enemies by punching them, and jumping to access higher ares or to avoid falling down. There are also some items you can collect, such as bombs, with which you can overcome obstacles and advance in the game.
+It is a side-scrolling platform game, with various levels typical of the genre, including underwater. The startup screen offers a choice of difficulty level, as well as the ability to turn off the music and/or sound effects.

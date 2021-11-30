@@ -1,7 +1,5 @@
-Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
+Worms is a critically acclaimed turn based strategy game designed for the Commodore Amiga and ported to a variety of platforms including the Sega Mega Drive and Sega Saturn. It was the first in the series of Worms games, which continue to this day and still largely share the same gameplay as the original.
 
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
+The game involves the player controlling a team of worms, each supplied with a variety of different weapons, and the aim is to eliminate all the enemy worms. Worms was revolutionary at the time due to the randomly generated and fully destructaile landscapes that the game employs, so an explosion will leave a huge crater and a different strategy may need to be divised.
 
-There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
-
-There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.
+As it is turn-based, the game allows up to 16 players to take control of units (though there is only ever a maximum of four teams).

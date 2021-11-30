@@ -1,3 +1,5 @@
-Street Racer is a kart racing game similar to Super Mario Kart.
+Street Racer is a racing game developed by Vivid Image and published by Ubisoft for numerous consoles and computers including the Sega Mega Drive and Sega Saturn. Similar to Super Mario Kart, the game allows the user to select one of many cartoon-like characters, racing around a circuit, avoiding obstacles and using special items.
 
-Up to four players can play by split-screen. If there are no human opponents, the player can drive against seven computer opponents in three leagues. If the player wins the first league, they can play the second and so on. The game has eight different vehicles with different skills in speed, haste or resistance. There are also some power-ups on the tracks such as bombs, nitro fuel, and health packs.
+Due to various hardware restrictions, gameplay differs among platforms - the Mega Drive version of the game has the player travel along a road in a similar manner to Hang On or OutRun, whereas the Saturn version renders its levels through 3D geometry, allowing the user to see more of the stage. The Japanese Saturn version of the game is called Street Racer Extra due to these additions.
+
+The Mega Drive version of the game was not released in Japan or North America, though did make it to Brazil and Europe. Plans for a North American version were put in place (even getting to the stage of having its own box art with ESRB rating), but were cancelled. Likewise the Saturn version of the game was not released in North America.

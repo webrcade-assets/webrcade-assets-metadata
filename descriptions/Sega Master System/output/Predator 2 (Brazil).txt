@@ -1,5 +1,1 @@
-Predator 2 is similar to its 16-bit counterpart. The player controls Lt. Mike Harrigan in a side scrolling view (instead of an isometric one) through 7 levels.
-
-Mike has to fight drug dealers and must rescue a certain number of hostages at each level. The Predator's three-dotted laser aim is a menace to avoid, which can kill either the hostages or Mike himself. Gang members killed drop drugs which can be picked up for points (and sent to the drugs squad). At the end of each level a boss must be defeated.
-
-Mike can move and shoot in all 8 directions, but can only stop and shoot up, down, left and right. Besides his pistol, Mike can also collect new weapons such as grenades, shotguns, machine-guns and rifles. Body armor can be collected for health and med kits for extra lives.
+Players guide Lt. Mike Harrigan as he tracks the Predator through seven levels based on the film. Mike's primary concerns are the hostages held around the levels, and the legions of gang members out for blood. He also has to contend with the Predator, both as a boss at the end of each level, and as a time limit - if the player takes too long to rescue a hostage, the Predator will blast the hostage with his tri-laser.

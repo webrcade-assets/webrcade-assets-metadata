@@ -1,5 +1,1 @@
-ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master" (essentially God), and must save the world from evil. 
-
-First you purge the land by sending your spirit into a warrior with a big sword and magic powers. This side scrolling portion puts you in many different locales, from swamps and forests, to pyramids and snowy mountaintops. 
-
-As you eliminate evil from different parts of the land, you allow villagers to return and build their towns. You then control an angel who helps guide the villagers in their town building, and can send down miracles to aid them in their needs.
+During game play the player fills the role of the 'Master', a powerful being awakened from a long sleep to find the civilizations of his former world in shambles. Through a combination of side-scrolling action stages and overhead-view "god" simulation mode the Master slowly rebuilds his world and regains his followers and powers. He is not referred to as a deity of any kind, and it is stated in the manual that he is mortal, and this is the reason he hid away from the demons he was fighting when he had just enough power to seal himself away and wait them out.

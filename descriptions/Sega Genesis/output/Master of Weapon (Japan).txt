@@ -1,0 +1,5 @@
+Master of Weapon is a 1989 arcade shoot-'em-up by Taito ported to the Sega Mega Drive exclusively in Japan in 1991.
+
+A shoots a gun and B drops bombs. These can be rapidfired, however enemies will only be killed by one or the other. C drops a bomb with a special weapon attached to it. Special weapons and upgrades are collected as powerups found in green capsules throughout each level; they last until you are killed.
+
+In Japan, Sega released a version of Tetris as a conversion kit for Master of Weapon cabinets for unknown reasons.

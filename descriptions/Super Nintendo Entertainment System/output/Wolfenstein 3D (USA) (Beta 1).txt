@@ -1,7 +1,1 @@
-id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions.
-
-While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.
-
-Other changes from the original include new power-ups: an ammo box (taken from Spear of Destiny) and backpack that increases the maximum amount of ammo that can be carried.
-
-The original's weapons (knife, pistol, machine gun, chaingun) all return, but there are also two completely new tools of destruction: a flame thrower and a rocket launcher.
+This masterpiece of wild action and unbelievable graphics brings you virtual reality at its best, as you move through a sensationally realistic 3-D world of amazing detail. It's World War II, and you are B.J. Blazkowicz - the Allies' bad boy of espionage, a terminal action seeker gulit for abuse with an attitude to match. There's just one small problem: you've been captured by the Nazis, tortured, and imprisoned beneath the Castle Wolfenstein where you await execution. Bummer. Now, you must do anything to escape from the belly of a Nazi dungeon - or die trying.

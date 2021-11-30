@@ -1,5 +1,1 @@
-Mystery Quest is a modified version of Hao Kun no Fushigina Tabi. The player is Hao, an apprentice wizard who finally has a chance to prove himself.  The Great Wizard has challenged Hao to seek out his four hidden talismans which he has placed in four different castles.
-
-The player's character has only one type of magic attack that can be upgraded once in the game, and they have the ability to shoot left and right as well as jumping shots and angled upward shots. There are also a limited variety of items that help the player progress through their quest.
-
-The game takes place in three types of areas, outside, inside the castles and underground.
+"As my apprentice, you have been studying a long time to master the secrets of magic. Now the time has come to prove yourself. You must journey to the four Mystery Castles in search of four magic talismans. You will face many perils along the way: the castles are riddled with underground passages and intricate mazes, where you may become lost forever! And strange creatures prowl the castles, ready to pounce upon you when you least expect it! But you will find magic powers hidden along the way, to help you in this Mystery Quest. The magic talismans you seek are the greatest gifts known to man: wealth, wisdom, happiness, and peace. Go now, complete your quest, and prove that you are as great a wizard as I!"

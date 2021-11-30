@@ -1,1 +1,1 @@
-This is a falling pieces puzzle, Puyo Puyo originated on the MSX system and was later turned into an arcade hall version. Get four same-colored puyos touching each other to make them disappear. If more puyos of the same color are connected then they will disappear too. This game can be played simultaneously by two players for a competitive gameplay. Hinder your opponent by making multiple puyo combinations.
+Puyo Puyo is a Puzzle game, developed by Compile and published by Sega,  which was released in Japan in 1993.

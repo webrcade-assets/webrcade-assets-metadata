@@ -1,1 +1,3 @@
-Aa Harimanada is a sumo wrestling game based on the manga and anime created by Kei Sadayasu. As in the real sport, the goal is to knock the opponent out of the ring. However, it is not a particularly realistic interpretation of sumo, playing much like a traditional 1-vs-1 fighting game. There are grabs, throws, and special moves, and the player can also win by knockout by draining the opponent's stamina. There is a single-player mode that follows the story of protagonist Harimanada, as well as a versus mode for one or two players where any of 15 characters can be used.
+Aa Harimanada is a 1993 sumo wrestling game by Sega for the Sega Game Gear and Sega Mega Drive made to tie into TV Tokyo's Aa Harimanada anime.
+
+The game is a typical fighting game with various button combinations doing something different. The Mega Drive version has a password system and a two-player versus mode.

@@ -1,14 +1,1 @@
-Chaos at the Carnival is a collection of six arcade mini-games.
-
-Miss Piggy has been "pignapped" by the sinister Dr. Grump; her Muppet friends come to the rescue. Kermit, Gonzo, Fozzie and three other characters from the children's TV show dash into Grump's mysterious fun fair in search for their pink companion. They must brave five rides in succession in order to take on the Grumpasaurus in the final carnival confrontation.
-
-1. Tunnel of Love: Avoid objects in the waterway
-2. Duck Hunt: Hit passing ducks with tomatoes
-3. Space Ride: Land a spaceship in the correct dock using rocket blasts
-4. Bumper Cars: Race around the track and avoid crashing into obstacles
-5. Funhouse: Find a way through a small maze filled with guard dogs
-6. Battle of the Grumpasaurus: Tickle the Grumpasaurus so that he laughs himself silly
-
-The C-64, Apple II and DOS versions of Chaos at the Carnival support two players, taking turns.
-
-The versions for the four platforms differ strongly; see the trivia section for details.
+Yipes! The awful, evil Dr. Grump has pignapped the lovely Miss Piggy and taken her to his secret carnival hideout! Now Kermit and the whole crazy Muppet crew need your help! Jump! Leap! Hop! And charge into action! But watch out! Dr. Grump's Carnival of Clamorous Confusion is a rollicking roller coaster of thrills, spills, and chills! Join Kermit as he faces the fearsome challenge of the Raging River Ride. Help Fozzie lick the Amazing Ice Cream Maze. (But beware of those Canine Carnival Barkers!) Blast off with Gonzo on the Lost in Space Ride. Then let Animal drive you crazy on the incredible Crash Car Course. And if you dare, enter the ultimate challenge - the Cave of the Grumpasaurus! Only your quick wrist, sharp wit - and some help from Kermit and the gang - can defeat Dr. Grump and rescue the still-lovely Miss Piggy! It's Muppet mayhem! You'll want to play again and again!

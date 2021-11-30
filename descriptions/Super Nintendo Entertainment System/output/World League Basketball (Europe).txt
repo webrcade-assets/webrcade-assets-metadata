@@ -1,0 +1,2 @@
+In the game, the player chooses a basketball team and then plays against either a computer or human player on a court. The goal is to score the most baskets within the given time through dribbling and passing. Players also have the ability to save the game as well as change options and difficulty settings.
+The game allows the player to play either an exhibition game or a full season #(featuring fictional professional teams located throughout the world).

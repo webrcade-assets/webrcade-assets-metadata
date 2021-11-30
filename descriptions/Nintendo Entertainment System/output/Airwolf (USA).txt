@@ -1,1 +1,3 @@
-Airwolf is a from the cockpit view flight simulator based upon the 1980s TV series with the titular super helicopter. Archangel gives you the mission (always the same; rescue people) after which the mission starts; half the screen is cockpit and map, the rest your view through the window. Get to the icons on the map as fast as possible, hold your fire buttons and hope for the best. The key to victory is planning the optimal route.
+The game's manual included the following description:
+From the outside, Airwolf looks like a sophisticated executive helicopter. Slick. Self-contained. Harmless. Which means it can slip in and out of airports without causing much suspicion.
+But from the inside, its true military strength is revealed; walls of computerized controls, a satellite tracking system for locating enemies and allies, and a weapons guidance system for launching missiles and firing machine guns.

@@ -1,5 +1,1 @@
-Alien Syndrome is a scrolling shooter arcade conversion.
-
-Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.
-
-You can play as a single player or two people, taking turns. (Player 2 starts the game after Player 1 dies and vice versa.)
+Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.

@@ -1,0 +1,3 @@
+The perspective of Ys III is a sharp departure from the previous two games. Instead of the previously used top-down camera view, Ys III uses a side-scrolling platformer presentation. Auto-attack is removed; the player must push a button to make Adol attack enemies. As in previous entries, however, neither the player character nor the enemies have temporary invincibility.
+
+Otherwise, the gameplay mechanics are identical to previous entries in the series. The statistics, equipment, shopping, experience system, and magic all function the same as in Ys I and II (though spells are represented by rings instead of wand icons, and MP is renamed "Ring Power").

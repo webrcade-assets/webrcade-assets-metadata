@@ -1,1 +1,1 @@
-A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.
+The player takes the role of commando-like warriors named Ralf and Clark, who must try to reach the village of Ikari. Enemy units attempting to kill the player include tanks, enemy soldiers and helicopters. A number of power-ups along the way help the player to achieve victory.

@@ -1,7 +1,1 @@
-Featuring heavyweight champion George Foreman, this is a boxing simulation where players, taking the role of Foreman, go through a series of twelve rounds against different boxers to win the championship title belt.
-
-Played from an third-person perspective using a view from right over the shoulders over the boxer, players can move left and right to dodge incoming punches, block and throw left and right punches. The standard punch is a cross, but by holding the Up-key pressed, jabs can also be thrown.
-
-By avoiding punches and hitting them, a superpunch often becomes available, inflicting much more damage. A fight consists of a maximum of three rounds of three minutes each. When a boxer is knocked down four times, the match is over (technical knock-out). The same happens when a boxer goes down three times in a single round (regular knock-out). When down, players need to press both punch buttons in rapid succession to get back to their feet. The screen shows an energy meter drained when punches are received. After being knocked down and during intermissions, some energy is restored.
-
-All versions, except for the Game Boy, can be played with two players. A password system is used to save the progress.
+You're "Big George" Foreman - the people's champion - and you've got an appetite for big action that only KO boxing can satisfy. It's a full menu of hard-hitting, real-ring action! Take on a roster of heavyweight contenders as you go for the World Championship. Rock your opponents with stinging left-right combos and pound your way to the title with a spectacular "Big George" Super Punch, while the computer tracks the action. George Foreman's KO Boxing puts the power of the greatest knockout artist in your hands!

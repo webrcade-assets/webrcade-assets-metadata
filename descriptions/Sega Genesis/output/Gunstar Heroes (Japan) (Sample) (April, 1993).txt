@@ -1,5 +1,5 @@
-Chaos has broken out on the planet Gunstar-9!!
+Gunstar Heroes is a side scrolling shooter. The player has four weapons to choose from, and they can be combined in various pairs to create a total of 14 unique weapons. In addition to the weapons, the player can engage enemies in close quarters combat. It is possible to grab and toss enemies, perform sliding and jumping attacks and a long-range skid.
 
-The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
+Unlike most games in the genre, the player has a life total calculated in numbers. Death to a player requires multiple hits but just one death will issue the option to continue from the start of the level or to end the game. Players have unlimited continues.
 
-Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!
+The main highlight of the game are its boss encounters, which often feature large enemies made up of multiple sprites allowing for fluid movement.

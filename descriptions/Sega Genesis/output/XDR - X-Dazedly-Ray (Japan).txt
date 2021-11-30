@@ -1,0 +1,5 @@
+XDR, short for "X-Dazedly-Ray", is a 1990 shoot-'em-up by UNIPACC released for the Sega Mega Drive exclusively in Japan.
+
+The warlord Guardia was banished from the planet Sephiroth, otherwise known to be a very peaceful planet. Many years later, he returns, complete with an entire army which overpowers the Guardian army, leaving one hope: the newly developed XDR craft.
+
+A shoots. Rapidfire is an option "AUTO" under the "CONTROL" option in the Options menu. C changes speed; the current speed is shown in the HUD. Powerups are collected as in other schmups, except that missiles can also be collected, in limited quantities, and fired with B.

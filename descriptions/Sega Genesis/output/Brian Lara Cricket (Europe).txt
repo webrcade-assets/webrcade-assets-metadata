@@ -1,3 +1,1 @@
-Brian Lara Cricket '96 is an updated version of Brian Lara Cricket on the SEGA Genesis. It is basically the same game, with updated sprites and roster.
-
-The game features international matches, English county matches (with 18 teams) and 6 classic historical matches (from 1960 to 1994). Also available are the World Cup competition (with 12 national teams) and a Test Series. The game also features a team editor, battery back-up save and one to four multiplayer mode.
+The game supports one to four players and has three modes of difficulty. It also features real player names such as Dion Nash, Michael Slater and Brian Lara (Brian Lara is the only player that endorses the game). The player can choose to play either a one day game or a Test match and choose from all the major cricketing nations to play as or against. There are three main types of bowling in the game fast, spin and swing. Fielding can be manual or automatic.

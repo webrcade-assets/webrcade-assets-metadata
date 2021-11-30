@@ -1,5 +1,1 @@
-A Zelda-like game with a twist.
-
-Here you are some sort of a dog with oversized bird which you use to defeat your enemies. Your goal is to find seven pieces of powers. Each piece is spread throughout a colorful world with funny enemies and weird bosses.
-
-It´s like a Zelda-clone, Ardy and Link are not twins but they have same goal, to find pieces which then have to be puzzled together to find the greater evil.
+The story of the game is that the sacred rainbow has shattered into seven pieces and it's up to Ardy to obtain them all again. Whoever collects all seven pieces will receive one wish. An evil king named Visconti has already gotten one piece and is searching for the others. To this end he sends out various creatures and henchmen such as Beecroft, Catry and others. These creatures form the opponents for Ardy during the game. Ardy is assisted by friends along the way like the elder (unknown name), Nina, and a mysterious adventurer named Don Jacoby.

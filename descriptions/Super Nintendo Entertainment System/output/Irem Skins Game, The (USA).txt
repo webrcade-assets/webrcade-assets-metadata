@@ -1,7 +1,5 @@
 A golf game featuring four different game modes. The four game modes are Skins game, Match play, Stroke play, and Tournament.
-
 The Skins game has players compete for prize money on each individual hole.
-
 Match play involves 2 golfers competing to see who can win the most holes out of 9 or 18 holes.
 
 Stroke play counts the total number of strokes over a course of a golf game. The golfer with the least amount of strokes wins.
