@@ -1,1 +1,4 @@
-Out Run is a 3D third-person racing game. The player controls a car, a Ferrari Testarossa Spider, from a rear third-person perspective. In contrast to other third-person racing games at the time where the camera is some distance above the horizon to see into the distance, Out Run places the camera near the ground, directly behind the car, simulating a Ferrari driver's perspective view and limiting the player's view into the distance.The road also curves and dips, which, combined with the low perspective, increases the challenge by making it difficult to see what is on the other side of a hill.
+The player controls a man driving a car with his girlfriend in the passenger seat. The car is an unlicenced Ferrari Testarossa.
+
+Before every checkpoint in the game, there is a fork in the road, allowing the player to enter one of two different environments.
+Out Run also featured five endings depending on the route taken, and each one was an ending sequence.
