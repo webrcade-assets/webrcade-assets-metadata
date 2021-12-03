@@ -1,0 +1,13 @@
+4 PAK All Action for the Master System, published in small quantities in Australia by HES in 1995. This 8 megabit multi-game cartridges contains 4 original Korean games developed for the Master System by Open. Some of them were previously known, but the versions in 4 PAK All Action were localized for an English-speaking audience and bear different names. 
+
+Titles Include:
+
+Adventure Kid:   A clear unlicensed clone of later Adventure Island games (iterations of Wonder Boy) using a legacy SG-1000 video mode (not smooth scrolling alas, but the game plays relatively well).
+
+Power Block:   Previously known as Suho Jeonsa (수호전사), this is its English localization.
+
+Twin Mouse:  An original platformer.
+
+Cave Dude:  Previously known as Toto World 3 (토토 월드３), also an English localization of the game.
+
+Note:  Only supported on a few emulators so far (MEKA and MESS).

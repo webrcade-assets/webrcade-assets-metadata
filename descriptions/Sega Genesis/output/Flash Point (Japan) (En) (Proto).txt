@@ -1,0 +1,3 @@
+Flash Point (フラッシュポイント) is an arcade puzzle game by Sega that is based on Tetris. The player is given a pre-designed Tetris puzzle where the goal is to clear a set of specified, highlighted blocks off the screen. The game ends if the player's blocks reach the top of the screen, similar to traditional Tetris rules.
+
+It was later re-released in the Sega Ages 2500 Series Vol.28: Tetris Collection in its original form. Also included in this collection is a previously-unreleased Sega Mega Drive version of Flash Point—the ROM of which has since been ripped and circulates on the internet today. It is unknown whether Flash Point suffered a similar fate to Sega's Tetris.
