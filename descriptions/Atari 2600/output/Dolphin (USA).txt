@@ -1,1 +1,14 @@
-Dolphin is a side scrolling action game. You control a dolphin that is being chased by a giant sea squid. Your goal is to earn points by staying alive as long as possible. As you swim away from the squid, you will encounter schools of sea horses which form a vertical row on the screen with only a small opening to swim through. As you approach each school, the dolphins sonar will help you locate the opening; a low pitched sound will indicate the opening is near the bottom of the screen, and a higher pitched sound indicates the opening is near the top. If you miss the opening, the dolphin will lose speed allowing the squid to catch up to you! From time to time, a seagull may fly overhead; if you jump out of the water and touch the seagull, your dolphin will temporarily be able to chase the squid. Throughout the ocean are waves which are indicated by arrows; an arrow pointing the same direction you are travelling will boost the dolphins speed, whereas an arrow pointing the opposite direction slows you down. The longer you stay alive, the faster and trickier the squid will become! The game ends when all of your dolphins have been caught by the squid.
+Listen!  An endangered dolphin is calling you!  Only by learning the dolphin's sonic language can you guide her through schools of seahorses, battling a monstrous squid, to gain magic powers from and elusive seagull.  Hurry!  Lend an ear...
+
+You will guide your dolphin through openings in the seahorse schools by listening to sonic tones and catching waves. Pay attention to the following:
+
+THE SEAGULL:  
+Periodically, a seagull will fly overhead.  You'll know he's coming when the squid changes color.  Have your dolphin leap up, touch the seagull and then quickly turn and chase the squid.  This is the best way to gain points.  Also, the game resets at the next difficulty level putting distance between your dolphin and the squid.
+
+THE SLIP:  
+Another great way to outsmart the squid is by giving him "the slip".  If the squid is right on your tail, wait until he catches a good wave.  Then, reverse your dolphin's direction and swim under him immediately.  As long as the squid's good wave remains on the screen, he won't be able to reverse and catch you.
+
+SCORING:  
+Points are earned in a variety of ways.  Every time your dolphin touches a seagull, or a squid, you score points.  The number of points depends on the color of the squid. Scoring peaks at 800 per seagull and 8000 per squid.
+
+Also, you'll score 100 points each time your dolphin catches a good wave or each time you run the squid into a bad wave.  And, when your dolphin swims through the seahorses, you'll score 0 to 50 points, depending on your degree of accuracy in getting her through the opening.

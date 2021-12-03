@@ -1,6 +1,3 @@
-Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes.
+Mario the carpenter and his brother Luigi are hopping mad!  The water pipes in their house are blocked with nests of crawling creatures.  If the two brothers can't get rid of them they'll never take a bath again!
 
-The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective.
-Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected.
-
-For the two player mode, the first to collect the set amount of coins wins.
+Your task is to help Mario and Luigi knock the pipe pests off floors and into a puddle of water below.  Each time a pest is knocked off, you earn points; when all the pests are knocked off, the next round begins.  You start the game with five lives, and earn additional lives every 20,000 points.

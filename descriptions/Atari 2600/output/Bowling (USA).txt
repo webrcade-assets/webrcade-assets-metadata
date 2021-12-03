@@ -1,1 +1,9 @@
-Bowling is, of course, a bowling game which can be played by one or two players. Gameplay is from a side view of the bowling alley; using the joystick, you need to try to bowl the highest score possible by knocking down the pins on the right side of the screen. There are several game variations available; in the easier variation, you can use the joystick to control the direction of the ball on it's way towards the pins. In the harder game, once the ball is released you no longer can control its direction. There are also two difficulty levels which control how difficult it is to get a strike.
+Your objective is to roll as high a score as possible, whether you're playing a one-player or a two-player game.  There are ten "pins" to knock down.  You have two tries (or rolls) to knock down the pins each time you're up.  Each game consists of ten "frames" (or turns).
+
+If you succeed in knocking down all the pins on your first roll, it's called a "strike".  A strike is marked with an "x" on the TV screen.
+
+If you leave pins standing, but "pick them up" on your second try, it's called a "spare".  Spares are marked with a "/" on the screen.
+
+An "open frame" occurs when you fail to knock down all then pins in two rolls.  Open frames are indicated with a straight horizontal line (-) on the screen.
+
+The ultimate goal in BOWLING is to roll 12 consecutive strikes for a "perfect" score of 300.

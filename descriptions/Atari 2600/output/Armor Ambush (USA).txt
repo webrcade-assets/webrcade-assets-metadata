@@ -1,5 +1,1 @@
-Armor Ambush (aka Armor Battle) is a two player game, where each player is in command of two tanks (one at a time), and they must try to destroy each other.
-
-The battlefields constantly change, so no battle is ever the same.  Tanks move at average speed on grass, fast on roads, slow through trees, and slowest through water.
-
-Tanks will explode after three direct hits.  The Harder game mode adds ricochet shots.
+Each player has two tanks per battle. You'll fight one at a time, but you can switch command from tank to tank. Battlefields keep changing. Tanks move fast on roads, slower through trees, slowest through water. Simulated battle sounds and visuals - "cannon" fire, tanks "explode" after three direct hits, and more!

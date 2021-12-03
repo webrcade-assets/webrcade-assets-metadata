@@ -1,14 +1,7 @@
-This is a monster truck race that features true split screen action on an Atari 2600.
+You're second in the grueling competition of an all-day MotoRodeo. Your customized truck, a cherry little number, speeds through the dangerous obstacle course. You quickly break through a brick wall, rumble through a muddy ditch, and jump high into the air. You grin widely as you land on a Plymouth, crushing it beneath the weight of your monster truck.
 
-First, you move the joystick(s) up or down to select if this opponent will be a human player or computer, a blazer or a truck and whether it will have tires or trax. Tires allow you to go over obstacles easier, trax make you bounce higher. Then on the next screen, you select weather you are going to do a competition at hard, medium or easy or whether you are going to practice one of the obstacles in the game.
+Up till now, you and your opponent, Trucker Tom, have been neck and neck throughout the competition, but you've just pulled ahead. Your truck paid its dues during the early part of the competition, but you're confident that you've got the skills needed to outmaneuver Tom as you race for the finish line.
 
-Press the joystick button to accelerate. Move the joystick down to do a wheelie when on the ground. Move the joystick left and right when in the air to control your spin. Move the joystick left and right quickly to escape mud bogs. Press the joystick button and push forward to use a nitro burst if you collected them.
+Your adrenalin pounds. You psych yourself up for the few remaining obstacles. You're only slightly ahead of Tom, but there are still a few more walls and cars to crush. Good thing you learned quickly to jump the mud which is slowing Tom down.
 
-Difficulty switches
-Only the left switch is used.
- Set it to A for a scoring game in which the player with the most points at the end of the race wins.
-Set it to B for a timing race in which the first player across the finish line wins.
-
-Scoring
-If the difficulty switch is set to A, the scoring is as follows:
-Landing upright and flat from a jump
+You rev your engine, add a burst of acceleration, and jump the last mud hole as you race for the finish line. Trucker Tom has finally met his match!

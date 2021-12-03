@@ -1,1 +1,5 @@
-A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.
+You are a member of those elite combat specialists, the Ikari Warriors.  Your buddy and you are on a special mission behind enemy lines, and you've been sleeping, eating, and breathing jungle combat for the last two weeks.  You're tired, but that never affects your razor-sharp judgment and your will to survive.  
+
+Your main weapons are machine guns, grenades, and your own cunning in the face of danger.  Sometimes you'll have a tank at your disposal, which comes in handy when enemy fire is particularly brutal.  
+
+You move swiftly through the jungle, wading through rivers and resting from time to time within the ruins of bombed-out buildings.  You're running out of ammunition and grenades, but you know the battle can't last forever.  Sooner or later, one side is going to emerge victorious.  Let's just hope it's yours!

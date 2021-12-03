@@ -1,7 +1,5 @@
-You play a small green guy who needs to blow up eight towers, because their presence is somehow poisoning the water of planets which could potentially be ideal colonies. Unfortunately you need to get to the top of these towers to blow them up. 
+A serious problem is blocking attempts to colonize the otherwise life-compatible planet Nebulus: it's water is poisonous! The only way to return the water to its harmless, natural form is to destroy the eight enormous towers that maintain a mysterious, lethal hold over all forms of this valuable resource.
 
-You make your way up to the top of the tower via walkways around the outside of the towers. You need to jump over, kick, and run from various enemies in your journey to the top. Most vertical movement is achieved by jumping onto moving ledges at the right moment. 
+Spurred to action by the needs of your dangerously overpopulated home planet, you must attempt to conquer these alien-forsaken relics once and for all. But it won't be easy! You'll have to climb each tower all the way to the top in order to detonate its vulnerable spot. And, succeeding towers are more difficult to topple!
 
-The game was considered revolutionary in its time for its graphic technique. As the main character walked around the outside of the tower, the character was fixed in the middle of the screen while the tower itself rotated. This gave it a pseudo-3D effect.
-
-Towers are linked together via a voyage through the sea in your trusty MK.7 submarine. This plays out as a side-scrolling collect-'em-up in which bonus points can be obtained.
+You'll need all your wits about you to avoid huge, crushing boulders, giant eyes, and indestructible mutant molecules! And watch out for those slippery stairs and disintegrating ledges. One false step and you'll plummet to the depths below!

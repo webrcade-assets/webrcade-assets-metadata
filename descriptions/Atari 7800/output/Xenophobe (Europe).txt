@@ -1,5 +1,9 @@
-Xenos.  The very name strikes fear into every colonist's heart.  A distress call is received from space stations orbiting your homeworld, then silence.  A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.
+Hostile aliens - Xenophobes - are infesting space stations vital to your planet's security.  These aliens threaten to overrun the stations, rendering the space stations useless.
 
-A small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.
+You are part of an elite team who is ready to speed to these endangered space stations.  Your mission is clear: destroy the aliens, regain control of the space stations, and pick up any valuable hardware you might discover as you sweep the stations for aliens.
 
-Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.
+The aliens are a swarming band of uglies, straight out of your worst nightmare. You'll need to use your talent just to stay alive as you rid each space station of these pests.  You don't want to let them catch you.  It's them or you.
+
+The message has come.  It's up to you and your teammates to cleanse each space station of aliens.  Your Mother Ship brings you to the vicinity of each overrun space station.  You then enter the space station via a transfer disk.
+
+Team up with another member of your elite squad, or work on your own to clear the aliens from an infested space station.  Just be careful as you enter a space station.  The aliens are everywhere!

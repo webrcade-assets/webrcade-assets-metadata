@@ -1,1 +1,6 @@
-Title Match is a wrestling game which can be played by one or two players. There are four different wrestlers you can choose from, and two modes of gameplay (one on one, or tag team). Each wrestler can kick, punch, and perform several moves such as the airplane spin, body slam, power lift, and more. Using the available moves you need to deplete your opponents energy  and pin him for three counts (though be careful, as some of the more powerful moves also use up a bit of your own energy). If your opponents energy is low enough and you successfully pin him that will count as a fall, and the best out of three falls will win the match!
+FEATURING TAG-TEAM
+Calling all wrestling maniacs! Tonight's the title match! Climb into the ring and strut your stuff - mix it up with some of the world's most savage wrestlers as you compete for the "Absolute Title Belt".
+
+But prepare yourself for Skin Head's pulverizing rope dives, Mad Dog's vicious airplane spins, Big Chief's bone crushing bear hugs and Mr. Mean's paralyzing body slams.
+
+The sizzling action never stops, whether you battle it out one-on-one, or go to war for the Tag Team Belt. And after it's all aver, if you think you're really good, match yourself against the computer to see who's the ultimate ring warrior.

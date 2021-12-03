@@ -1,11 +1,3 @@
-In this game, you are T. P., the Tooth Protector, and are trying to protect some teeth from tooth decay by the Snack Attacks. 
+The gameplay is similar to that of Activision's Kaboom!, in which the player must prevent objects dropping from the top of the screen from reaching the bottom by positioning their character directly under the falling objects. In Tooth Protectors, the objects are small "snack" squares dropped by the "Snack Attacker", a menacing-looking face that moves horizontally along the top of the screen. The player's character is a small smiling face carrying a strand of dental floss above its head. The player must prevent the snack squares from reaching the row of white teeth along the bottom of the screen; repeated hits by the snacks cause the teeth to blink and disappear from tooth decay.
 
-Snack Attack moves across the top of the screen dropping snack food crumbs towards the teeth. You move at the bottom of the screen, just above the teeth. You must deflect the crumbs back up, hopefully hitting Snack Attack or a falling crumb for points. 
-
-Each round is time-limited. You play until the time runs out then you get bonus points depending on weather you lost any teeth and how many. 
-
-Occasionally, Snack Attack will try to swoop down and grab you. If you are caught, you lose a man. 
-
-If one or more of your teeth are in danger of being lost, indicated by it flashing, you can press your fire button to Reach toothbrush, Johnson & Johnson dental  floss and Act fluoride dental rinse to save that/those tooth/teeth. You get three of these cleanings to start but earn bonus cleanings every 50,000 points. 
-
-The game is over after you lose all three of your men or lose three of your teeth.
+Occasionally the Snack Attacker will dive from the top of the screen in an attempt to grab the player; the player loses a turn if the Snack Attacker succeeds. If teeth begin to decay, the player can press the joystick's fire button to call in the "Tooth Protectors": an orange toothbrush, green box of dental floss and purple dental rinse bottle move across the teeth, brushing, flossing and rinsing them.[

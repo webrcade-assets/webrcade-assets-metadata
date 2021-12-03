@@ -1,1 +1,7 @@
-The king's treasures have been stolen! As the daring young prince, your goal is to recover them all. The treasures are being kept in various castles, each one guarded by a fire breathing dragon. Each level in the game has two parts; first you will need to cross the castle's drawbridge. You will have to jump and duck the dragons fireballs as well as avoid flying arrows to reach the other side! In the second part you need to collect all of the treasures on the screen and make it to the exit while avoiding the dragon who runs across the bottom of the screen. The dragons on each level have different patterns of movement and firing, and as the levels progress will become faster and trickier.
+Dragons have driven the Royal Court from the Castle
+
+"O we are lost, lost" laments the King.  "Without our vast treasures we cannot raise an army 'gainst these accursed dragons.  Our Kingdom must now languish under lizards!"
+
+"Nay, not so, my liege!" replied the young Prince.  "None knows that Castle, those many bridges and storerooms, better than I.  Give me leave and I shall loot those lizards of their plunder and restore my lord to his birthright."
+
+"Brave boy," said the King, fully pleased.  "But," he added darkly, "beware dread dragonfire!"

@@ -1,1 +1,26 @@
-Super Cobra is a side scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.
+Super Cobra (スーパーコブラ Sūpā Kobura?) is a 1981 arcade game, the sequel to popular horizontally scrolling shooter Scramble, Super Cobra was developed by Konami and manufactured and distributed by Stern in North America. It is similar in concept to its predecessor, but much more difficult.
+
+The game was a success, selling 12,337 video game arcade cabinets in the United States in four months, by October 2, 1981, becoming Stern's third best-selling arcade classic after Berzerk and Scramble. Scramble sold 15,136 cabinets in the US in five months earlier that year, adding up to 27,473 US cabinet sales for both.[1]
+
+Super Cobra was widely ported by Parker Brothers, and there was an Adventure Vision handheld version from Entex.
+
+The player controls a helicopter through tight caverns, and the slightest misstep will result in the loss of a life. However, unlike Scramble the game can be continued where the player left off by adding more credits.
+
+The joystick accelerates, decelerates, moves up, and moves down. The helicopter uses a laser and bomb to destroy defenders, tanks, and UFO's while infiltrating 10 Super Cobra defense systems.[2]
+
+The ship has a limited fuel supply, which is depleted over time. More fuel can be acquired by destroying fuel tanks in the game.[2]
+
+The game is divided into ten sections, plus a finale, each with a different style of terrain and different obstacles. Players navigate through ten levels and a base, where they must safely make it through the level and remove the booty. The levels are described as follows,[2]
+
+Player must maneuver the chopper over mountainous terrain against fast and slow firing rockets.
+Chopper faces Arcing missiles over a mountain terrain.
+Smart Bombs flying in groups of four over mountainous terrain. Rockets appear, but do not fire.
+Single Smart Bombs over mountainous terrain. Again, Rockets appear, but do not fire.
+Chopper flies through a cavern-like terrain against falling mines.
+Rapidly firing, roving tanks over mountainous terrain. Rockets appear, but do not fire.
+Maneuver through a field of meteors which explode when hit with bombs or 3 times with laser, plus a single, green, shadow meteor directly in front of chopper which explodes when hit five times with laser. Rockets appear but do not fire.
+Chopper flies over mountainous terrain against rapidly firing UFOs. Tanks and rockets appear, but do not fire.
+Chopper faces arcing missiles over tall buildings.
+Firing rockets in a building maze.
+Base: Player must maneuver the chopper over tall buildings against arcing missiles and rapidly firing tanks to reach the Booty and safely carry it away.
+There is no intermission between each section; the game simply scrolls into the new terrain. If the player destroys the booty on the final level, they must start back at the beginning of the level.

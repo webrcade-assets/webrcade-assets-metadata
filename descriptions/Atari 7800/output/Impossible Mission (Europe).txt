@@ -1,4 +1,2 @@
-You play a secret agent on a quest to stop the evil Professor
-Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.
-
-The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.
+Message from the Agency computer..... "....Your mission. Agent 4125 is to foil a horrible plot. From an underground laboratory, Elvin. the scientist, is holding the world hostage under threat of nuclear annihilation. You must penetrate his stronghold, avoid his human-seeking robots and find pieces of the security code.
+Somersault over the robots or use a precious snooze code to deactivate them long enough to search each room. Use the Agency's computer to unscramble the passwords from the code pieces, or try solve them yourself. You'd better beware....This mission is stamped IMPOSSIBLE!"

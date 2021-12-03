@@ -1,8 +1,1 @@
-You are a secret agent sent on an important mission to recover enemy documents. There are enemy assassins trying to stop you.
-
-You move the joystick to move your character, left or right. Press the button to fire. You fire in the direction you are moving. When you are next to an elevator, you will automatically board it when it gets to your level unless your are pushing towards it, in which case you will walk across it. 
-
-If you are on the same level with an assassin and there is no elevator between you, you can shoot him. If he shoots at you, you can pull down on the joystick to duck. You cannot shoot while ducked. If the assassin shoots or touches you, you lose a life.
-
-Difficulty switch
-A
+You are a secret agent on a mission of crucial importance.  Your mission is to infiltrate a top secret fortress.  You must capture enemy documents and get out alive.  Your challenge: the diabolical maze of corridors and elevators designed to confuse you and keep you from the documents.  Your danger: enemy assassins programmed to shoot on sight.  Your weapon: a high-power laser gun as powerful as that of the enemy.  Your advantage: you're sharp enough to duck when they shoot.  It's a hectic chase.  Hop an elevator.  Survive enemy fire.  Fire back. Duck.  Infiltrate...if you dare!

@@ -1,1 +1,5 @@
-BASIC Programming  attempted to teach simple computer programming on the Atari 2600. It was released in 1979, and it was one of only a few non-gaming cartridges ever designed for the 2600. The programming language was superficially similar to dialects of BASIC, but differed in many important aspects. The extremely small RAM size of the Atari 2600, 128 bytes, severely restricted the possibilities of this cartridge for writing programs.
+Ever wanted to try your hand at computer programming but had no idea where to start? BASIC Programming for the Atari 2600 makes programming, well, basic.
+
+BASIC is an acronym for Beginner's All-purpose Symbolic Instruction Code. In conjunction with the manual, this cartridge will help you learn the beginning steps of this easy-to-learn computer language. You can create simple programs, games, and even compose your own music. Up to nine lines of code are allowed.
+
+To simplify the input of data, BASIC Programming requires a set of special keyboard controllers that plug into both the left and right joystick ports. These keyboard controllers were included in the original packaging.

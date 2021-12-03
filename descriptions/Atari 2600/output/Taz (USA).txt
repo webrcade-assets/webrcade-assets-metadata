@@ -1,1 +1,4 @@
-Taz (the Tasmanian Devil) is going on a feeding frenzy!! Hamburgers, root beers, ice cream cones, tomatoes, apple cores, and other foods will all fly by on the screen, and Taz needs to eat as many of these as he can to earn points. But mixed in with the tasty foods are sticks of dynamite! If Taz accidentally eats the dynamite, he will explode and lose a life. As Taz eats food, the levels will become faster and faster and feature more dynamite mixed in with the food.
+You are TAZ, the ravenous Tasmanian Devil who whirls like a tornado and eats everything in sight. Hamburgers, root beer, ice cream - you are jazzed by such junk! But look out, sometimes your feeding is so frenzied that you accidentally swallow dynamite!
+Pow! What a bellyache!
+
+Your objective: Glut on every edible item that comes your way to achieve the fattest score possible while you stay alive as long as possible.

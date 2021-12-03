@@ -1,6 +1,1 @@
-The object of this game is to use your flying sub, the Sea Hunter,  to destroy enemies and get treasures.
-
-You move fastest when in the air, half speed when in the water and cannot move forward when on the sea bottom.
-
-Your enemies and their point values are:
-Plane
+Crash Dive is a Defender-esque game in which you fly across the screen shooting stuff. But in this case, you can fly like an airplane or crash into the water and travel like a submarine. Treasures can be found at the bottom of the sea whenever you see sea monsters or mines. The objective is to reach the submarine Seaview before your fuel runs out

@@ -1,1 +1,7 @@
-Othello is a conversion of the board game. Each player tries to fill the game board with as many discs of his color as possible. On each turn the player places a disc on the board by selecting a location where the opponents discs will become trapped between two of his discs. The trapped discs are flipped over to the players color. The game ends when the board is filled or time runs out, and the player with the greatest number of his color discs on the board wins. Two players can play against each other, or one player against the computer.
+You'll need strategy, foresight and cunning to be a success at this game.
+
+The field is made up of a grid containing 64 squares.  Each player is designated by a color(white or black) and takes turns trying to capture as many squares as possible.  When you capture a square, it becomes your square and changes to your color.  Your corresponding score is displayed at the top of the screen.
+
+To capture a square, you must OUTFLANK your opponent.  To do this, you must position your squares on the grid so that one or more of your opponent's squares is in a row which is bordered on each end by one of your squares.
+
+If neither player can make a move the game is over.  This can occur when one player has no pieces left on the board.  It is also possible to end a game when there are blank squares on the board and both players have pieces left but there are no legal moves.

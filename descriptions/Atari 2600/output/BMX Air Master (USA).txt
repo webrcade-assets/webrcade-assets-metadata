@@ -1,7 +1,1 @@
-In this game, you ride your BMX doing various tricks.
-
-The tricks are done in events of half-pipe, quarter pipe and ramps.
-Some of the tricks you can do are loops, rotate, flip, and bounce.
-In practice mode, you can select which event to do. In arcade mode, you do the events in a set order.
-
-In advanced mode and later levels, you have to hit the ramp/pipe at more precise angles coming down and gravity and pedaling get harder.
+This isn't kid stuff! It's the fastest, flyingest, most unforgiving trio of events any biker could ask for. Start with a Half Pipe that takes you so high you won't know whether you're coming or going. Then do a Quarter Pipe that makes doing dozens of tricks easy and crashing even easier. Then try the Ramp Jump. It's the jump that's just a bit wider than the Grand Canyon. If there's a more dangerous challenge open to daredevil BMX bikers, we have yet to test it. So, if you think you're good - really good - put your freewheeling skills on the line with BMX AirMaster!

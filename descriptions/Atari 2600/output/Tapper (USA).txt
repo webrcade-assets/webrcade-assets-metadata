@@ -1,5 +1,5 @@
-Tapper is an action game where you're a beer tapper (barman) and have to serve beer to demanding customers. There are four customers, each has its own lane lengthier than the previous one, whom you have to keep at bay. If they reach the end of the lane without receiving their beer, you're a goner; if you miss one and accidentally spill beer needlessly you lose a life and should one of them throw you back the mug and you fail to catch it, you lose a life as well.
+You are a frenzied bartender trying to keep the never ending flow of thirsty customers well watered.  You'll have to keep slinging sodas and occasionally guess which cans of soda the Soda Bandit has shaken.
 
-Occasionally a bizarre icon will appear on one of the lines and, should you grab it, will invoke a &quot;cabarette&quot;-style show which will keep some of the customers occupied.
+As if that's not enough work for one bartender, try covering four different bars with a different crazy crowd in each bar.  There's the Old West Saloon, the Jock Bar, the Punk Rock Bar, and the Space Bar.
 
-The Xbox 360 version includes bonus rounds, as well as co-op and versus multiplayer modes, also online, along with achievements.
+Keep the sodas coming, but not too fast.  You'd better be sure you've got a customer without a drink at the bar or the drink will slide right off the bar and no self-respecting bartender throws drinks away.  Keep your eyes open for the empties the customers sling back your way.

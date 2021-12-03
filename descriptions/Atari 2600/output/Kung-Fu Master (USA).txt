@@ -1,5 +1,1 @@
-A conversion of the arcade game of the same name, which itself is loosely based on a movie, Kung-Fu Master is a side scrolling action game for one or two players, who alternate turns.
-
-Mr. X has captured the pickpocket Sylvia and it is up to Thomas, a kung-fu master who owns a restaurant, to get her back. She is located on the top floor of Mr. X's castle and Thomas will need to fight his way to the top. Of course, this won't be easy as each floor has many opponents to get past and a floor boss at the end of each level. 
-
-Thomas is able to move left and right, jump, duck, and punch and kick. Enemy projectiles such as knives can be kicked in the air to rebound them towards the enemy. On the top floor resides Mr. X himself.
+You are a master of the martial arts. Quietly confident that your skills will allow you to overcome any challenge. Even the greatest challenge of all - THE WIZARDS TEMPLE! Remote and heavily guarded, the temple is a fortress never before defeated. You must avoid demons, dragons, snakes and killer bees while doing battle with the wizard's armed henchmen on each of the five floors of the temple. Failure is out of the question - the wizard holds the princess captive, and only you stand between her and an uncertain fate!

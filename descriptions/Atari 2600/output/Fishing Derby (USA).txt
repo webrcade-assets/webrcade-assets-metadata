@@ -1,1 +1,26 @@
-In Fishing Derby, your goal is to be the first of two players to catch 99 pounds of fish. Each player is on a dock at the top of the screen, and you control the fishing line in the water. By moving the fishing line up or down, you can catch the fish that are swimming by. The deeper down you go, the bigger the fish are. When you catch a fish, you need to real it in! To make the game more difficult, a shark is constantly swimming back and forth. If you have a fish on your line and it touches the shark, the shark will eat it and you then will have to catch another fish. Two difficulty levels are available, and the game can be played by one person against the computer or two players against each other.
+This is one of the Activision video games that is fun to play even if you don't know the rules.  So go ahead!  Use your Joystick Controllers.  And when you're ready to find out why some fish bite and some don't, how to tell the whoppers from the lunkers and--especially--how to keep the shark from eating your catch, read these simple instructions.  Good Luck!
+
+Game 1:  You against the Activision computer fisherman.
+Game 2:  You against another player.
+
+Use left Joystick Controller for fisherman on the left pier and to play against the computer (Game 1).
+
+Use right Joystick Controller for fisherman on the right pier (Game 2). 
+
+Move your Joystick from left to right to move your pole out and back.  To lower and raise your line, move the Joystick up and down. 
+
+Choose your difficulty or handicap for each player (or the computer):
+* A (up) - Fish won't bite unless you get the end of your line right under his nose.
+* B (down) - Fish will bite if you get the end of the line near his mouth.
+
+(Hint: When learning FISHING DERBY, handicap the computer at A, and put  your switch at B.)
+
+SCORING:
+There are six rows of fish.  From the top  down, they count as follows:              
+* First two rows:  2 pounds each
+* Second two rows: 4 pounds each
+* Bottom two rows: 6 pounds each
+
+The big ones are down deep.  Go for 'em!
+
+First player to land 99 lbs. of those beautiful fish wins.

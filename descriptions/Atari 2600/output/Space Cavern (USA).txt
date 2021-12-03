@@ -1,1 +1,6 @@
-You are the commander of an intergalactic starship on a mission to explore new, strange planets. After landing on a new world and beginning to explore the numerous caverns, you discover the planet is inhabited by the deadly Electrosauri. These creatures can generate lethal electric charges, and are now after you! Using your laser gun, you need to defend yourself from the onslaught of Electrosauri. The deadly creatures can come from above, the left, or the right so be sure to keep an eye on all corners of the screen! There are numerous game variations included which dictate the number of attacking creatures that can appear at a time,  their firing characteristics, and the overall difficulty level.
+You are in command of a Mark XIV intergalactic starcruiser in an uncharted quadrant of outer space. You land on a mysterious planet riddled with a subterranean maze of tunnels and caverns inhabited by savage Electrosauri whose horns generate electro-molecular charges capable of disintegrating you and your crew. 
+
+Your photon ray pistol is activated by the joystick and the fire button. The iridescent eyes of the electrosauri light the cavern walls with eerie flashes as they stalk you, their horns crackling and sizzling. If even one blast of electro-molecular energy
+strikes you, your skeleton will glow inside your body as the bio-molecular compounds of your body disintegrate.
+
+WARNING: Beware the savage attack of the shaggy marsupods.

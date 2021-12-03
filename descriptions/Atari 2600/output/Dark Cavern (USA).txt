@@ -1,1 +1,5 @@
-Robots, bats, and spiders chase you around a maze in Night Stalker, which boasts similar gameplay, if some what slower, to the arcade smash Berzerk. Players must pick up a gun that is randomly placed in the maze. The gun provides the player with a certain number of shots. Once depleted, the gun is again placed in a random part of the maze.
+It's a battle for survival in an underground cavern!  You have five men. They enter the cavern one at a time through the center trap door.  Once inside, blobs, spiders and robots begin to enter the left and right doors. (Neither the creatures nor the man can exit through these doors.)
+
+Direct your man down the tunnels.  Pick up ammunition as you go.  Keep clear of the creatures... avoid robot fire.  Shoot to destroy!  Get hit by a robot's bullet... action stops.
+
+Now bring out your next man... get them before they get you!!!

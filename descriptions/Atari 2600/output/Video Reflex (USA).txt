@@ -1,7 +1,1 @@
-This is an exercise game.
-
-You must step on the dot the same color as square the bug is on. If you wait too long or step on the wrong dot, you lose one of your eight lives. In later levels, you will have a bug and a butterfly. You must step on the bug but not the butterfly. Other levels have two bugs and a butterfly and may allow you to step on any bug or may require you to step on them in a certain order.
-
-Game variations
-Use the red dot to select your level.
-One to Three
+This game was originally packaged with Video Jogger and the Foot Craz Activity Pad. When a bug appears in one of the boxes, step on it quickly or lose a life. But if a butterfly appears, DON'T step on it or lose a life. You can end up jumping around pretty fast. You can also play this game with a joystick, but it's not as fun.

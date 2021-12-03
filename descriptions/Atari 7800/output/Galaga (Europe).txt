@@ -1,7 +1,1 @@
-Galaga is a vertical arcade shooter from Namco.  You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!
-
-There are an infinite number of stages to progress through.  Every third level is a "challenge stage" in which you have a free chance to shoot as many aliens as possible and rack up bonus points.
-
-Certain aliens have tractor beams they can use to capture one of your ships.  If that wasn't your last "life," you can try to shoot that alien down and recapture your ship, giving you two ships at once and doubling your firepower.
-
-A summary screen appears when the game is over, giving you both your final score and you final "hit ratio"--the number of missiles fired, enemies destroyed, and the percentage of targets hit.
+The gameplay of Galaga puts the player in control of a space ship which is situated on the bottom of the screen. At the beginning of each stage, the area is empty, but over time, enemy aliens fly in formation, and once all of the enemies arrive on screen, they will come down at the player's ship in formations of one or more and may either shoot it or collide with it. During the entire stage, the player may fire upon the enemies, and once all enemies are vanquished, the player moves onto the next stage.
