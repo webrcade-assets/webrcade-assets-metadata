@@ -1,3 +1,12 @@
-1997 edition of EA's NHL sport simulation series. Improvements in this edition come mostly in the graphical arena, with a refined version of the "virtual stadium" system that adds new camera angles (including the classical top-down one strangely missing from NHL 96), and polygonal players instead of the bitmap-based ones with motion-captured animations.
+NHL 97 is an ice hockey video game by EA Sports. It was released on October 31, 1996 and was the successor to NHL 96. It is the sixth installment of the NHL series and the first to be released on both PlayStation and Saturn.
 
-Other extras include multiplayer support for up to 8 players through network or Gravis's GrIP system, the option to create new players and trade them around, and the usual amount of EA sports licensed multimedia flair, including an interesting "Goalie Mask Viewer" which lets you observe the elaboratedly decorated helmets of 30 goalies.
+
+NHL 97 took the graphics even further ahead, using a full 3D engine, with motion captured polygonal players (PC/PlayStation/Saturn versions only, the Mega Drive and SNES versions retained similar graphical values to previous games, but with further enhanced animations). Each goaltender has his own custom-painted mask and the original artwork can be seen inside the game with a special "Goalie Mask Viewer". NHL 97 also introduces play-by-play commentary, provided by well-known announcer Jim Hughson.
+
+For the first time since EA Hockey, national teams were added, but only Canada, the United States, and Russia have their own teams while the other two are selections of the best European players. NHL 97 introduced a skills competition, allowing the user to pick players to compete in drills such as hardest shot, goalie 2 on 0, and accuracy shooting, among others.
+
+This was the first year of the "Third Jersey." Teams that had available third jerseys for NHL 97 were, Mighty Ducks of Anaheim, Boston Bruins, Los Angeles Kings, Pittsburgh Penguins & Vancouver Canucks. These were the first teams to try out the third jersey. To activate the alternate uniform left click on the teams banner in the controller setup.
+
+In addition, each team in the game had one player with a special skill. Examples are Joe Sakic's (Colorado Avalanche) "wrong-footed wrist shot" and Rob Ray's (Buffalo Sabres) ability to check an opposing player while still controlling the puck. A major flaw in the game was the glitch that allowed players to score 100% of the time when shooting down by taking a shot against the boards at the hash marks of the left circle in the bottom zone.
+
+Along with the PC, Mega Drive/Genesis and SNES versions, both the Sega Saturn and PlayStation version made their debut, although they were rushed and buggy. For instance, the shot speed in the PlayStation and Saturn versions was so slow that some skaters could beat a slapshot down the ice. The cover of the game features Florida Panthers goaltender John Vanbiesbrouck
