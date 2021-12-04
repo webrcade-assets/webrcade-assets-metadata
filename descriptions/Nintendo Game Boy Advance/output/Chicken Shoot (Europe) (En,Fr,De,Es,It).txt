@@ -1,9 +1,1 @@
-Chicken Shoot is a gallery shooting game based on free 2003 flash game of the same name. The player, controlling Chicken Bill, shoots all the chickens that appear on the 2D hand-drawn screens, shown from a first-person perspective. There are 3 game modes:
-
-1. Arcade: shoot a specific number of chickens to move on to the next level. There is no time limit and the enemies attack by throwing eggs towards the screen. There is no time limit and when Chicken Bill's 100 points are depleted, the game is over.
-
-2. Classic: the same gameplay as Arcade, requiring a certain number of chickens to be shot, but now with a time limit added. Certain chickens carry time packages, providing time bonuses.
-
-3. Multiplayer: score more points than your opponent in a set amount of time.
-
-There are three difficulty levels and support for high scores (not saved after powering off). At the end of each level, statistics are shown based on the shots fired, hits, accuracy, general score, and energy or time remaining. There are different types of weapons (pistol, shotgun, uzi, machine gun, laster, flame thrower and bombs) and a limited amount of ammo. During gameplay, accuracy is shown through a thermometer on the screen. When it rises to the top, all hits are awarded with double points.
+A shooting gallery gamewith adventure elements -- you don't have to think too much .... just blow the chickens away. In each mission the player can collect a number of things and can receive many extra points for different actions. Climb behind the trigger and help our distressed farmer friend obliterate hordes of no good cluckers. This classic (fun) shooter uses a cartoonish feel, some great comic sound effects, and catchy original songs to fashion a world where hunting fowl is a blast. Great animation takes you through forests and villages, through deserts and mountains, winging winged adversaries and piling up points. The feel? Is all Saturday morning fun… but as the missions progress in difficulty, you’ll soon find yourself challenged to the limit of your Kentucky Fried skills! Colorful, fun, enticing, and addictive, this is one gamethat is sure to leave your sunny side up.

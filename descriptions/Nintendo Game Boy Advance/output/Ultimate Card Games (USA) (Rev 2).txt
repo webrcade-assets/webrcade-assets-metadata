@@ -1,10 +1,1 @@
-A comprehensive collection of card games for the GBA.  Includes options for both single player and multi-player games.  On screen rules and demo modes are provided for the games.  Simple controls (ala windows-style) allow easy navigation.  Options to change background image, music, and card deck backs are included.  Also includes an option to create a custom face for your player using the built in face generator. The following games are included (by category)
-
-Casino:
-Poker, Black Jack, Video Poker
-
-Classic:
-Hearts, Spades, Euchre, Canasta, Bridge, Cribbage, Go Fish, Gin Rummy, Crazy Eights
-
-Solitaire:
-Klondike, FreeCell, Canfield, Pyramid, Gold, Spiderette, Baker's Dozen, Bristol, Castle, Aces Up, Baroness, Eagle Wing, Eight Off, Calculation, Betsy Ross
+Card gamecompilation pack from Telegames. There are nine classic card games: Hearts, Spades, Euchre, Canasta, Bridge, Cribbage, Go Fish, Gin Rummy, and Crazy Eights. There are also three casino-style games: Poker, Blackjack, and Video Poker. To cap things off, the development team included 15 different styles of solitaire games, including Klondike, FreeCell, Canfield, Pyramid, Golf, Spider, Baker's Dozen, Bristol, Castle, Aces Up, Barons, Eagle Wing, Eight Off, Calc, and Betsy Ross. If you don't know the rules to specific games, there's in-cartridge "how to play" tutorials that can be pulled up at any time. And, like Ultimate Brain Games, Ultimate Card Games features cartridge SRAM to save statistics and games in progress.

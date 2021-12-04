@@ -1,5 +1,1 @@
-In the Game Boy Advance version of Shrek the Third, you must complete levels playing as a combination of Shrek, Prince Artie, Puss in Boots, and Donkey. The levels are mostly puzzles, where you can only access certain areas with a certain character, so all playable characters must work together to all reach the end. Each character has special abilities, such as Shrek's ground pound to break through pits in the ground.
-
-You will encounter many different AI types throughout gameplay, including evil witches, arrow-shooting guys, gnomes, etc. There are collectible faeries in each level that you must collect enough of to progress to the next world. 
-
-This is a simple platformer-puzzle game that is mostly geared towards children, seeing as there are no lives, and relatively simple combat, but it should also appeal to adults who enjoy the Shrek franchise.
+In Shrek the Third, players journey as Shrek and his friends to save Far, Far Away in a twisted fairytale adventure from the movie and beyond. Assuming the roles of Shrek, Puss-in-Boots and newcomer Artie, players journey beyond Far Far Away with the help of Merlin's magic wand. Shrek the Third for the gameBoy Advance closely follows the storyline of the movie as the characters complete great quests that end with them saving Far Far Away from the villainous Prince Charming.

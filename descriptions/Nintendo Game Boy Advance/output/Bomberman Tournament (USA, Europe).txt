@@ -1,1 +1,1 @@
-This latest release of Bomberman, written to exploit the GBA in term of graphics and sound, features a multitude of options and multiplayer capabilities. Upto 4 people can play a deathmatch.
+An S.O.S. from the cosmos signals that planet Phantarion is in trouble! Grab your arsenal and get ready for non-stop action as you blast your way through interactive battlefields and take on up to 4 real-time players. Battle opponents through 8 interactive battlefield mazes! Take on up to 4 players in multi-player blastfests! Fast, furious, explosive bombing adventure!

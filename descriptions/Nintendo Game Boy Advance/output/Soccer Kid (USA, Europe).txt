@@ -1,5 +1,3 @@
-Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
+A million miles away in outer space, far above the planet Earth, an alien pirate is scanning the area for a trophy of great importance to add to its enormous collection. "Beep beep beep" goes the scanner as it locates the World Cup, the most prestigious soccer award on the planet, shining brightly in the sun. Suddenly, a blanket of darkness falls over the stadium as the pirate spaceship materializes. The crowd becomes numb as the World Cup disappears from view. Seconds later, as the spaceship flees to outer space.... Bang! the spaceship collides with an asteroid. The World Cup shatters into five pieces which fall to Earth, each chunk landing on a different part of the world.
 
-Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
-
-There is a saving feature that gives you the ability to save between each country (but not between individual levels).
+Soccer Kid decides there and then to save the day by recovering the five pieces of the World Cup.

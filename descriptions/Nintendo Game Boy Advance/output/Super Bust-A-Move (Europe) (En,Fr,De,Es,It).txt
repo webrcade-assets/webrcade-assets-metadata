@@ -1,5 +1,9 @@
-Super Bust-A-Move brings with it all of the entertaining puzzle action of the series with the addition of new multiplayer modes and graphical improvements.
+Super Puzzle Bobble introduces some new elements to the series (and removes some others):
 
-The aim of the game, as with the previous titles in the series, is to remove a collected number of coloured bubbles from the game screen. To do so, at the bottom of the screen, you aim and fire the coloured bubbles from a launcher, sending the bubbles upwards into the container. Match three or more together of the same colour to clear them from the screen. If you're too slow, the collection of bubbles moves down the screen towards you, and the game will end if it reaches the bottom.
-
-Classic mode features a number of bubble puzzles previously seen in the Bust-A-Move series, while Normal mode has some new variations on the bubble removing theme. Two players can also compete against each other.
+    Large bubbles are found in certain levels. Shooting a bubble of the same color at them makes every bubble in the level change into that color.
+    In some levels, the pointer and the bubbles that are shot are of a very small size, enabling the player to shoot bubbles between small gaps. These bubbles grow into normal size after being clustered.
+    Occasionally, a conveyor belt will surround the level. This makes bouncing off the ceiling and the walls significantly tricky, since the bubbles' trajectory will change upon bouncing.
+    Levels do not always have the usual rectangular shape. Some of them are jagged or have walls inside them, which forces the player to change strategy.
+    Small blocks appear in some levels. They change the bubbles' trajectories, much like walls, but they move down with the level and fall off when they touch the line.
+    The pulley system introduced in Puzzle Bobble 4 is nowhere to be seen.
+    Chain Reaction is only present in 2P battles, but it is completely optional.
