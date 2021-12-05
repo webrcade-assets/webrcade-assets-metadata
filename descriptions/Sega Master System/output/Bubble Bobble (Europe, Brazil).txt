@@ -1,0 +1,1 @@
+The player can blow bubbles. These can trap enemies, who are defeated if the bubble is then burst by the player's spiny back. The bubbles also float for a time before bursting, and can be jumped on, allowing access to otherwise inaccessible areas. Players progress to the next level once all enemies on the current level are defeated.

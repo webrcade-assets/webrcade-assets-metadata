@@ -1,0 +1,2 @@
+Stack-Up is an Action game, developed and published by Nintendo, which was released in 1985.
+In some modes, Professor Hector works with R.O.B. to organize blocks. In others, Hector competes for control of R.O.B. against "glitches" named Spike & Flipper, or against Professor Vector. The player must direct Professor Hector to jump onto buttons, that each activate an action for R.O.B., in a sequence in order to get R.O.B. to arrange the colored discs in a certain order on the five pedestals around R.O.B.

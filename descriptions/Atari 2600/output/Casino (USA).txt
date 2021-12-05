@@ -1,0 +1,1 @@
+There are 3 card games available: Black Jack, Stud Poker and Poker Solitaire

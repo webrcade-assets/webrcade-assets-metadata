@@ -1,0 +1,3 @@
+Each player controls an explorer. Your object is to find the flag using your explorer. The left controller player's explorer starts in the upper left corner square; the right controller player's explorer starts in the lower right corner square.
+
+Explorers can move from square to square. During your turn, you can move your explorer to any square position. To move the explorer up or down the maze, move the Joystick up or down. To move the explorer to the right or left, move the Joystick to the right or left. Move the explorer to diagonal squares by moving the Joystick in one of the four diagonal directions you want.

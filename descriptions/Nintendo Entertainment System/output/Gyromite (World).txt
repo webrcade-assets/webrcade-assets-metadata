@@ -1,0 +1,1 @@
+As the Professor character moves through the levels, R.O.B. must aid navigation by raising and lowering red and blue gates. When a Gyro depresses the red pedestal, red gates are lowered. When a gyro depresses the blue pedestal, blue gates are lowered. The action on the screen never stops, so while operating R.O.B., the on-screen character continues to be vulnerable.
