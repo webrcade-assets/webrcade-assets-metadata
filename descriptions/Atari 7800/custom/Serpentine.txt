@@ -1,0 +1,1 @@
+The goal of Serpentine is to eat the other serpents and avoid being eaten. Head-on collisions with snakes that aren't smaller than you will result in death. You can grow by eating frogs, eggs, and smaller snakes head-on. You can eat the tail/side segments of snakes of any size.
