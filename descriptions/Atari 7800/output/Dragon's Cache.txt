@@ -1,0 +1,1 @@
+In Dragon’s Cache you must match three or more gemstones in rows, columns, or diagonal lines as they fall from the top of the board. Unmatched gems will stay on the board until they are matched. The game will end when enough unmatched gems accumulate to reach past the top of the board, or, if you’re in racing mode, you reduce your predefined score to zero.

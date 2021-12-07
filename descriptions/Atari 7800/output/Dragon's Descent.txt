@@ -1,0 +1,1 @@
+Dragon’s Descent is a roguelike action game. The player can explore thousands of levels, with a variety of encounters and an escalating challenge as they descend through a sprawling labyrinth.
