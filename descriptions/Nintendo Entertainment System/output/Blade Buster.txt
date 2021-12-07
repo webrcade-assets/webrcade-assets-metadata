@@ -1,0 +1,1 @@
+Blade Buster is a score attack shmup that comes with two game modes; two and five minutes, each ending with an epic boss battle.

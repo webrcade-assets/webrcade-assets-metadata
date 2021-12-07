@@ -1,0 +1,1 @@
+Your goal is to connect a set of computers with the provided fragments of wires. To accomplish this, you need to rotate the wires and computers appropriately within the alloted time limit.

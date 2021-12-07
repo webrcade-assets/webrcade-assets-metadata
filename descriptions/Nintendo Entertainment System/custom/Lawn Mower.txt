@@ -1,0 +1,1 @@
+You control a lawn mower, with a goal of cutting ten lawns. The speed of the mower can be controlled by pressing a button. If you run out of fuel, the game is over.
