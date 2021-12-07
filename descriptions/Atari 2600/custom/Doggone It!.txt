@@ -1,0 +1,1 @@
+Doggone It! is a one-player game. You control Hank, a delivery driver who suffers from cynophobia (fear of dogs). Hank must grab packages one at a time from the back of his truck and deliver them to the recipients at the bottom of the screen.

@@ -1,0 +1,1 @@
+Blinky Goes Up is an original platform game for the Atari 2600 by Jan Hermanns. Your goal is to ascend through each level in this vertical scrolling platformer, collecting every gold nugget along the way.

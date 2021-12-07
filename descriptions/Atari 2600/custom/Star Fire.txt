@@ -1,0 +1,1 @@
+Star Fire is based on the 1979 arcade game of the same name. The gameplay is a wave-based space shoot'em-up, with several surprises that you won't find in the original arcade game. It carefully tries to not only adopt most features of the original, but to enhance the gameplay whereever possible as well.

@@ -1,0 +1,1 @@
+Skeleton+ is a 3D maze game written by Eric Ball. In order to escape this labyrinth you need to hunt down and eliminate 80 skeletons lurking about without being killed yourself! There are eight mazes, with each maze containing 10 skeletons.
