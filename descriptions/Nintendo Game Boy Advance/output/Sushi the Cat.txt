@@ -1,0 +1,1 @@
+Sushi the Cat is a neat but short platformer for the GBA. Collect stars and avoid being touched by enemies.

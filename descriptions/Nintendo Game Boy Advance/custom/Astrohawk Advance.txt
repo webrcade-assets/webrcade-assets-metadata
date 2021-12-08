@@ -1,0 +1,1 @@
+Demo of an in-progress space shooter originally for the Super Nintendo. Demo features music & sound, bombs, ground-based enemies, alternating sectors, difficulty levels and high scores.

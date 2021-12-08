@@ -1,0 +1,1 @@
+POWDER is a roguelike developed specifically for the Gameboy Advance. Descend into the depths of the dungeon until you reach the foul daemon known as "He who the author cannot spell consistently", or, Baezl'bub. When you have slain Baezl'bub in heroic combat, or, if Baezl'bub dies in any way, retrieve his black heart and bring it to the surface world.

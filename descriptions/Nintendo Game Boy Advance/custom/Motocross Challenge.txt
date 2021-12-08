@@ -1,0 +1,1 @@
+The gameplay in Motocross Challenge is very similar to that of Excitebike. Players race on a track made up of different track pieces. There are gas and boost buttons. Boosting will drain the boost meter. Using normal gas replenishes the meter.

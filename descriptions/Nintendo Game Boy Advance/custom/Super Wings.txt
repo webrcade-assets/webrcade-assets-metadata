@@ -1,0 +1,1 @@
+Programmer Mukunda "eKid" Johnson created this polished GBA shoot'em up specifically for a PDRoms' coding competition that was constrained to child-friendly games using a maximum of four colors.
