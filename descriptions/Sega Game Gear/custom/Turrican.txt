@@ -1,0 +1,1 @@
+Demo version of Turrican ported to the Sega Game Gear. Turrican can be described as a cross between Metroid and Psycho-Nics Oscar. While the huge levels and the morph-ball function were inspired by Metroid, the overall graphics design and weapons were inspired by Psycho-Nics Oscar.

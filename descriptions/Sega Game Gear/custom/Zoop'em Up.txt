@@ -1,0 +1,1 @@
+Zoop'em Up is a shoot'em up game for the Sega Game Gear. It was developed for the SMS Power Rush Coding Competition. It is only a demonstration version and lacks sound.

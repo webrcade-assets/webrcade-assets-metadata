@@ -1,0 +1,1 @@
+Nibbles is a snake-like game developed by Martin Konrad for the Sega Game Gear. Eat the fruits, avoid the obstacles, and don't run into your growing body.
