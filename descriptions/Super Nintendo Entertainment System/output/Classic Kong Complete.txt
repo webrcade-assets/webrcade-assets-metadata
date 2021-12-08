@@ -1,0 +1,1 @@
+Classic Kong Complete is a homebrew remake of Donkey Kong with updated graphics and sound. Classic Kong includes all four levels from the original arcade game.
