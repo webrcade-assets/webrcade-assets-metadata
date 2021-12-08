@@ -1,0 +1,1 @@
+DARC is a jetpack shooter game inspired several games ("Air fortress"(NES), "H.E.R.O". and "Hero Core"(PC)). The protagonist can fly and shoot in separate directions. Each of the gamepad keys represent a shooting direction. Your goal is to infiltrate the alien fortress. Destroy the cores to disable force fields and advance through the game.
