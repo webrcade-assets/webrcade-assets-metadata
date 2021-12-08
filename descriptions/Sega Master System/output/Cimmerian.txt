@@ -1,0 +1,1 @@
+A "pseudo" port of the famous Barbarian. ("pseudo" because many little things have changed). Cimmerian includes story and versus modes along with 3 distinct arenas.
