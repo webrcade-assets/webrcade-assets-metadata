@@ -1,0 +1,1 @@
+A difficult arcade style platformer based on a Japanese meme roughly meaning "being angry" in a cute way. You destroy enemy ninjas and birds by huffing angry puffs of steam up at them.
