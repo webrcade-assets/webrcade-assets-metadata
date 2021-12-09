@@ -1,0 +1,1 @@
+A GBA port of the DS re-imagining of the original "Pengo" game. The little blue penguin Waimanu can push blocks and make them slide to squash Wekas, the evil alien jellies. He can also destroy blocks that cannot be pushed that are against a wall or if there's another block behind them. Wekas can destroy blocks anytime.
