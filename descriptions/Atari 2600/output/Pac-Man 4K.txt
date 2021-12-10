@@ -1,0 +1,3 @@
+Gobble your way through the maze of Pac-Land, chomping on dots and avoiding the four hungry monsters, Blinky, Pinky, Inky and Clyde. But if you can manage to eat an energizer, turn the tables on those monsters by feasting on them for bonus points!
+
+Dennis Debro sought to create an adaptation of Pac-Man more faithful than Atari's 1982 version for the VCS. Utilizing the same 4K memory limit as the original, Dennis' game is a feat of programming that finally brings Pac-Man to the Atari 2600 as it was intended.
