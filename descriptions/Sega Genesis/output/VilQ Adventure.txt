@@ -1,0 +1,1 @@
+A non-stop side scrolling jump, run, and slider in which you need to avoid the enemies, pick up food, and get as far as possible to reach the highest score.
