@@ -1,0 +1,1 @@
+ µCity (also spelled 'uCity', pronounced 'micro-city'), the open-source city-building game for Game Boy Color. The aim of the game is to build a city. Simple enough.

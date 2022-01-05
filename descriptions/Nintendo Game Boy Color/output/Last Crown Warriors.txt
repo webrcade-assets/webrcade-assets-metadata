@@ -1,0 +1,1 @@
+Action/strategy game for the Nintendo Game Boy. Take on waves of enemies as you try to conquer all of the bases within each stage. Each warrior has his own custom weapon, and each stage its own enemies.

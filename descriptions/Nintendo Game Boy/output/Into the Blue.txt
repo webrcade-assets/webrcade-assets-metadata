@@ -1,0 +1,1 @@
+This game consists of a vertical play field with panels rising from the bottom. The panels can be rearranged and will disappear if three (or more) matching panels are lined up in a horizontal or vertical row. This game is inspired by the Sega Genesis title Megapanel.
