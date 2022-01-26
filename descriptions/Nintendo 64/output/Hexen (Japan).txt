@@ -1,0 +1,3 @@
+Following the tale of D'Sparil's defeat in Heretic, Hexen takes place in another realm, Cronos, which is besieged by the second of the Serpent Riders, Korax. Three heroes set out to destroy Korax. The player assumes the role of one such hero.
+
+Hexen introduces "hub" levels to the series, wherein the player travels back and forth between central hub levels and connected side levels. This is done in order to solve larger-scale puzzles that require a series of items or switches to be thrown. The player must traverse through a hub in order to reach a boss and advance to the next hub.
