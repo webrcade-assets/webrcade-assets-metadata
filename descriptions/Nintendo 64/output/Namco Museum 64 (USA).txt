@@ -1,1 +1,5 @@
-The game is compiled of several classic arcade games released by Namco, including Pac-Man, Ms. Pac-Man, Pole Position, Galaga, Galaxian and Dig-Dug. The game also features the ability to save high scores, with the use of a Nintendo 64 Controller Pak. The N64 Rumble pack can also be used in with this game.
+No this isn't the 64th edition of Namco Museum, but it is a conversion of the series from the Playstation to the N64.
+
+Included in this version of the series are Pac-Man, Ms Pac-Man, Dig Dug, Pole Position, Galaga and Galaxian.
+
+And as usual you can dig into past info, sketches and pics for each title in the museum.

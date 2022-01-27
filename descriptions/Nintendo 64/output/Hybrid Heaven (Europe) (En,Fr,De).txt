@@ -1,2 +1,18 @@
-Hybrid Heaven takes many elements from standard 3-D action-adventure games, such as Tomb Raider. The player can move in any direction, jump, crawl, climb, and shoot. The player must solve puzzles by disabling electronic weapons or through skillful manoeuvering.
-However, when battling a monster (called a "biological weapon" in Hybrid Heaven), the game switches to a completely different mode. The player is constrained to a small room and can no longer jump, crawl, or climb. The monster and the player move around for strategic position in the room. When they are close enough, and have built up enough energy, one or the other will decide to attack. At that point time freezes and a single round similar to a role-playing video game turn ensues: the attacker picks an attack from a list, the defender picks a defense, and the results are displayed. After the attack, both monster and player return to jockeying for position in realtime. All of this can happen within seconds, which keeps the action flowing more naturally than in most RPGs.
+Plot Overview:
+Aliens are trying to take over the US by eventually replacing the President with a clone. To do this, they begin by replacing advisors and Secret Service operatives with clones.
+One of these clones is scheduled to meet with a collaborator named Diaz in a Manhattan Subway, to get weapons for the Presidential Replacement. 
+The clone arrives at the meeting, and sees Diaz with two Men in Black. As the clone approaches, Diaz starts hearing voices, and shoots the clone. He gets taken down an elevator, where, in his struggles to escape the Men in Black, he falls off the elevator. His fall is slowed by the anti-gravity device that powers the elevator, and he begins his journey into the underground facility.
+Gameplay:
+Two styles of gameplay: Overworld and Battle.
+Overworld: 
+
+1. Control Diaz in third person perspective.
+2. Have a defuser that can only affect robotics, namely the laser-emitting sentries.
+3. Explore the world, get items, and increase your security card's rank
+
+Battle:
+
+1. Same controls.
+4. Have an energy meter that determines the power of your attack.
+5. Learn new attacks by having them done to you
+6. Level up individual body parts, as well as attacks.
