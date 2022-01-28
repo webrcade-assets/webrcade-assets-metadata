@@ -1,3 +1,9 @@
-Mischief Makers is a game for the Nintendo 64 by the legendary developers at Treasure. It is a 2D side-scrolling platform game in which the protagonist uses her hands to grab, shake, and throw objects. There are 5 "worlds" in the game, each with about 10 levels.
+Marina's main way of attacking is her grab move. She is able to take hold of enemies, objects, weapons, and even some enemy projectiles or attacks, which can be thrown or shaken, depending on the object. When certain objects are shaken, items such as crystals might appear. When Marina shakes some other objects, a secondary effect may be activated.
 
-You are Marina Liteyears, assistant to professor Theo. The professor has been kidnapped, and some of King Aster's troops have defected. It is up to Marina, with some help from the troops still loyal to the king, to save the professor and defeat the evil empire.
+Later on in the game, Teran is available to play in two levels. His moves includes a standard punch, upper punch, low kick, and a block move. He also has the ability to hang from ceilings. His signature skill is the ability to jump up to three times consecutively.
+
+Hidden within every stage is a gold gem. These gems are used in the final cutscene of the game with every gem adding one to three seconds to the ending. The extended ending adds character development to the villains, among various other things. The way the gold gem appears differs from stage to stage. For example, the gold gem will only appear on some boss stages if the boss is defeated without Marina being hit.
+
+The four types of gems in this game are Red, Blue, Green, and Gold, all providing various amounts of health for Marina, red being the lowest, and Gold being the highest. Each stage follows a Super Mario Bros pattern (Such as 1-1, 2-2, 3-3, etc.). The Worlds follow various elements (World 1 is grasslands/desert, World 2 is fire, World 3 is snow, etc). Cutscenes occur from time to time before, or after a stage is complete. A glowing green/blue star is usually the exit of a level.
+
+If Marina grabs hold of a Clancer ball, she can "throw herself" off of it, and aim towards another ball. Clancer pots can store items inside it, if you have the right items, you can create some very interesting items.

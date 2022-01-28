@@ -1,8 +1,1 @@
-In this second installment of Extreme-G, you once again will race with and against the 
-incredible capabilities of G-bikes (they closely resemble of the ones in Tron)
-through several surreal, twisting tracks. Be hell on wheels blasting your challengers
-with an arsenal of vicious weapons and even break the sound barrier!
-
-The game is expanded on its predecessor by many ways; however, while being converted
-from the original N64 version for the PC, it loses some of its features like the
-multiplayer support (and its enhanced multiplayer options).
+This iteration, as with all Extreme-G games, is about futuristic racing: pilots race plasma-powered Tron-like bikes in an intergalactic Grand Prix at speeds that are over 999 mph.  It is possible to break the sound barrier in this game, creating a sonic boom. While travelling at supersonic speeds, all game sounds are muted except the sound of the vehicle travelling.  If the bike slows down to below supersonic speeds, another sonic boom can be heard and all game sounds will resume.  The emphasis is on speed and creative racetrack design, with tracks looping through all three dimensions like roller coasters.

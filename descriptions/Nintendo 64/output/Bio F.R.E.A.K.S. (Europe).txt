@@ -1,3 +1,1 @@
-A very violent 3D one-on-one fighter.  Take control of one of many well-designed bionically-enhanced fighters, and fight in a dangerous interactive 3D environment.
-
-Most of the characters rely on distance attacks, which reduces the game to strategic fighting rather than a boxing match; interacting with the incredibly hazardous environment adds another dimension to the gameplay- while avoiding an opponent's gunfire by jetting off with your jetpack, you may just slam right into a buzzsaw coming out of the wall.
+Bio F.R.E.A.K.S. is a 3D fighting game released by Midway in 1998. It was originally planned for arcades. However, this arcade prototype was scrapped and never officially released (although it exists on MAME), and the game was later released for the PlayStation, Nintendo 64 and PC.
