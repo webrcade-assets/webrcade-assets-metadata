@@ -1,1 +1,1 @@
-KLAX - It's simple in concept and easy to play. Catch the colored tiles with the paddle and flip them into bins to make same colored stacks, diagonals and rows of three. Sounds easy? It is. The hard part is pulling yourself away from this fun and addictive game!
+An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.

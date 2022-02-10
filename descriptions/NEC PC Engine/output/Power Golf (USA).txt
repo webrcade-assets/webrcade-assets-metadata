@@ -1,1 +1,11 @@
-Swing away on 18 lush holes, enter tournaments and compete to win. Keep your head down and concentrate. Release a ton of power coming out of your backswing -- like a coiled spring! Follow through. You'll need a picture-perfect swing, flawless timing and a pro's club selection. Why, you ask? Because this is real. The traps are real, the water is real, the ball is real, and your score is real.
+Power Golf is played primarily with a top-down view of each hole, and a 3rd person perspective for hitting the ball.  There is also stroke and match play, and a competition mode for up to three players.
+
+The object of the game is simply that of golf: To complete the course with the fewest shots and lowest score. 
+
+Game modes:
+
+Stroke Play -- Regular mode where competition is based on the total strokes, lowest number of course, is the winner. 
+
+Match Play -- This mode can be against the computer or another player. Players compete for each hole, or, in Club Match, for each other's clubs.
+
+Competition -- This is the three-player mode. The game operates in the form of a contest, and is recommended for players of differing abilities. Driving and pin contests are also included in this mode.

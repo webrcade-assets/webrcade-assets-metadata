@@ -1,1 +1,5 @@
-The evil Kubota has kidnapped Dr. Tomari's fiancee, Kana, and taken the colossal nuclear reactor Ordyne. In order to reclaim them, Dr. Tomari and his assistant Felix take to their battleships and head off in pursuit. Avoid enemies and advance through seven different levels that take place on land, sea, and air. Collect crystals from defeated enemies and use them to buy items or upgrades for your ship at the Space Inn. Do you have what it takes to defeat the boss at the end of each level and ultimately reach Kubota in the final stage, Kubota World?
+Ordyne is a horizontal side-scrolling shoot 'em up (also considered a "cute 'em up" due to its lighter tone) that puts players in the role of Yûichirô Tomari, a genius scientist, and Sunday Chin, his faithful assistant.  The two heroes must rescue Tomari's fiancee Kana Aibara from the evil Dr. Kubota.
+
+During gameplay, players can obtain crystals that can be used to buy special weapons, extra lives, and other power-ups at shops located throughout the levels. There are also a bonus games that allow players to win multiple crystals or points by shooting at rotating targets.
+
+Ordyne is two-player simultaneous.
