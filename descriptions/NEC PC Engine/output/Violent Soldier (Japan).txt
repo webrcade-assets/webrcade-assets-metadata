@@ -1,0 +1,16 @@
+Sinistron, released as Violent Soldier in Japan, is a side-scrolling, ship based shooter that was released for the TurboGrafx-16 in 1991.
+
+The game is notable, among other things, for the adjustable armored jaws of the player's spacecraft. Opening the invincible jaws of the ship increases the spread of the player's shots but exposes the vulnerable cockpit. Obtaining one weapon upgrade allows the ship's jaws to be set half-way open (a 3-shot spread) or closed (with increased damage), and a second upgrade allows them to be closed, half open, or fully open (a 5 shot spread).
+
+Five power-ups exist in the game. The Vulcan flame cannon, crystal-pulse laser, and CHAOS (homing) missiles are weapon upgrades. There are also speed upgrades and plasma droids, invincible pods which will flank the ship. The plasma droids can absorb enemy pellets and will even damage enemies they come into contact with.
+
+The ship's charge-up attack releases a circular wave of force that will damage all enemies in a radius around the ship.
+
+Sinistron has six stages of quickly increasing difficulty. The last two stages take place inside the Sinistron creature itself. The stages are:
+
+Mechanical Stage
+Gas Tunnel Stage
+Biological Stage
+Deep Space Stage
+Organs Stage
+Cerebral Cortex Stage

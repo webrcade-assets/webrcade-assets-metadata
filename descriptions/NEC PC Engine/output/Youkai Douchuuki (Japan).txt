@@ -1,0 +1,11 @@
+The player controls a boy named Tarosuke, who travels through "Jigoku" (the Japanese concept of Hell) fighting off "yokai" (mythical Japanese monsters) on his way to his final fate, as determined by Buddha. He destroys his enemies by firing small Ki bullets, which can be charged to increase their power; however, if overcharged, he is left unable to move or fight for a few seconds. During boss battles, Tarosuke kneels at a shrine to Buddha and prays, summoning "Monmotaro" (not to be confused with "Momotarō"), a spirit which floats in the air and drops energy balls on the boss and any lackeys he has. Once the boss is defeated, Tarosuke goes to the next stage.
+
+Like Clovis from Dragon Buster, Taira no Kagekiyo from Genpei Tōma Den, and Momo Chan from Wonder Momo, Tarosuke has a life bar (labeled as "POWER") but only one life; if the meter is empty, the game is over (unless he has a certain item). There are no scoring systems present, but the game utilizes currency (only referred to as "MONEY") which is used to buy items, among other things.
+
+There are five stages: Jigoku Iriguchi (Gateway to Hell), Kugyou no Michi (Path of Penance), Yuukai (Ghost Sea), Sabaki no Tani (Valley of Judgment) and Rinnekai (Land of Transmigration). There are multiple paths which can be taken in many stages, which may influence which of the five endings the player gets. One of the paths leads the player to a fairly racy dance hall show, after which he is given a box. If he opens the box, he might get 10,000 in money, or might be turned into an old man until he buys a particular item in a shop (this is based on the tale of Urashima Tarō). There are five different endings depending on what Tarosuke did in the game:
+
+    He goes to Hell.
+    He goes to Hungry Ghoul World.
+    He goes to Beast World.
+    He returns to Human World.
+    He goes to Heaven.

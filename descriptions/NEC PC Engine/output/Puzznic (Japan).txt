@@ -1,0 +1,2 @@
+Puzznic is a tile-matching puzzle game developed and produced by Taito.
+Move the coloured blocks around to match them up. Blocks can only be moved left or right, and can fall down but not move up. Some levels are fiendishly designed and need some careful thought, and all this is against a strict time limit.

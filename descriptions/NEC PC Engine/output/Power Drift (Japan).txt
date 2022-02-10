@@ -1,0 +1,1 @@
+Ambitious conversion of Sega’s racing game. Instead of choosing your tracks like in the arcade, this version limits you to playing them in order, continuously. Place first, second or third in each race to go on to the next track.

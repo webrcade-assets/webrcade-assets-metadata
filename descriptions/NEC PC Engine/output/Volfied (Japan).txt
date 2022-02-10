@@ -1,0 +1,11 @@
+The third game in Taito's QIX series, Volfied loses the geometric abstraction of previous games in favor of a more sci-fi look.
+
+Overview:
+Volfied is an Arcade title released by Taito in 1989 as the sequel to QIX II. As well as ports for the PC Engine, Genesis and the home computers Atari ST, Amiga and PC, Volfied was also released on the 2005 PS2 compilation Taito Legends and as a Java mobile game in Europe in 2007.
+
+On home consoles in North America, it was marketed under the more familiar QIX brand. It was known as The Jintori ~Volfied 1500 (Japan) and Neo QIX (US) for its PlayStation port, which was part of the Simple budget series. For its North American Sega Genesis release, it was known as Ultimate QIX.
+
+Gameplay:
+As with QIX, the goal is to carve out pieces of the playing field by drawing a box that encapsulates a certain percentage of the screen. While drawing these boxes, the player's vehicle is vulnerable to the various enemy craft patrolling the playing field. Areas within the drawn squares turn inert and are inaccessible by enemies. Once the player turns enough of the playing field inert, which is a minimum of 80% for Volfied (up from the 70% needed for QIX), the level is complete and the player earns a bonus based on how far over the minimum percentage amount they managed to achieve. Each screen has one large enemy that cannot be defeated: if the player cuts the field in half with one maneuver, the "active" playing field will be whichever side holds the large enemy. Smaller enemies, however, will be destroyed if they are inside the inert area.
+
+Volfied introduces small bonus pods that, once enveloped in a box, confer bonuses and power-ups to the player. The type of power-up they earn is based on the letter on the power-up.

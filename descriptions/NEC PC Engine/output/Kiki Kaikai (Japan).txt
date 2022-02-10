@@ -1,0 +1,5 @@
+An Arcade game released by Taito about a priestess named Sayo-chan who must rescue the gods of fortune from monsters.
+
+KiKi KaiKai ("Mysterious Ghost World") is a scrolling action/shooter featuring the shrine maiden Sayo-chan as she fights a horde of youkai and oni in a quest to recover the Gods of Fortune. It is a precursor to the Pocky & Rocky games for the Super Nintendo.
+
+Sayo-chan/Pocky makes her way across various levels, changing directions occasionally, and using either a wand or scrolls to exorcise the unruly spirits she meets. She can only get hit once before dying, though some enemies will grab her instead to slow her down.

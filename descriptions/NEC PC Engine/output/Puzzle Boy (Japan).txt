@@ -1,0 +1,1 @@
+Brain bending puzzle game in which you guide your little man to the exit in each room by moving and rotating blocks until your path is clear. Features several different modes, such as single player, timed, and competitive play. It also features a talking tomato.
