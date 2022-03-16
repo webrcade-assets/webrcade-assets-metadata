@@ -1,1 +1,5 @@
-Cyber-Lip is a 1-2 player side-scrolling game where you must fight your way through several areas, and defeat a boss at the end of each one. Along the way, you can pick up a variety of weapons along the way, and use them against the invaders. By destroying certain enemies, you receive a "core bot", which is a ring that surrounds you, and when this touches the invaders, they are destroyed. Time is against you. When it expires, you lose a life.
+Cyber-Lip is a platform shoot-em-up for one or two players that borrows heavily from Konami's "Contra" series. Players must battle through sideways-scrolling levels, to defeat armies of cyborgs and androids and restore order and peace to the world.
+
+Cyber-Lip has two shooting modes, one for standard weapon use and one for rocket launchers and grenade throwing. Players can switch between the two modes at any time, but only carry a limited amount of grenades or rockets. Weapon power-ups and additional grenades and rockets can be picked up throughout the levels.
+
+At the end of certain levels, the game's heroes will enter an elevator and players can then choose whether to go 'up' or 'down', depending on which route through the game they wish to take. Each level has a large end-of-level boss that must be defeated.
