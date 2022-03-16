@@ -1,1 +1,0 @@
-Pirate 8-Bit port of the SNK game.

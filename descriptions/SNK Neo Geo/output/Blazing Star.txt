@@ -1,1 +1,0 @@
-A beautiful horizontally scrolling shoot'em up.
