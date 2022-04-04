@@ -1,0 +1,1 @@
+A two-player aerial combat game in which each player controlled a biplane and tried to shoot down his opponent. When a player's plane was hit, the pilot bailed out and he slowly descended in his parachute.

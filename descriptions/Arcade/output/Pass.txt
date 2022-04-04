@@ -1,0 +1,1 @@
+A maze game that is a bootleg of Go! Go! Mile Smile.

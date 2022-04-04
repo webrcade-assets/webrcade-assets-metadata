@@ -1,0 +1,1 @@
+World PK Soccer (c) 1995 Jaleco.  - TECHNICAL -  Irem M-107 system hardware  Main CPU : V33 (@ 14 Mhz) Sound CPU : V30 (@ 7.159 Mhz) Sound Chips : YM2151 (@ 3.579545 Mhz), GA20 (@ 3.579545 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -

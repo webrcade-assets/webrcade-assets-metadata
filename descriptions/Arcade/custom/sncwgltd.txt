@@ -1,0 +1,7 @@
+A vertical scrolling shooter for 1 or 2 players. Controls are directional and 2 buttons. Button 1 fires your main weapon and button 2 fires your special.
+
+You choose from one of four nation's aircraft: US, Japan, Russia, France, Sweden or The UN. Once chosen you embark on various missions.
+
+During the mission you shoot various baddies and at the end of the level you fight a boss. Power-ups are available during the mission and these either recharge your special weapon or upgrade your main weapon. All main weapon upgrades are lost on death and your special is restored to the default number of uses.
+
+When playing as player 2 you get a different plane type. 2 player mode is co-operative.

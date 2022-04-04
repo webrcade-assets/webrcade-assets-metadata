@@ -1,0 +1,32 @@
+Arcade Video game published 36 years ago:
+
+Cruisin (c) 1985 Jaleco.
+
+A little red car does wheelies and jumps between platforms and colours them in as it drives on them. Collect and shoot oil cans at the cops, taxis, ambulances, etc... Watch out for the cat! Neat theme music and background pictures.
+
+- TECHNICAL -
+
+Main CPU: Motorola M6809 (@ 2.048 Mhz)
+Sound CPU: Motorola M6809 (@ 640 Khz)
+Sound Chips: General Instrument AY8910 (@ 1.25 Mhz), Yamaha YM2203 (@ 1.25 Mhz)
+
+Screen orientation: Horizontal
+Video resolution: 240 x 224 pixels
+Screen refresh: 60.00 Hz
+Palette colors: 1664
+
+Players: 2
+Control: 8-way joystick
+Buttons: 2
+
+- TRIVIA -
+
+Released in December 1985.
+
+Licensed to Kitkorp (Midway later released "Cruis'n USA", which was an unrelated driving game, but had to be spelled differently due to Kitcorps prior release).
+
+Also known as "City Connection".
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=546&o=2

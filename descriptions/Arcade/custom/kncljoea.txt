@@ -1,0 +1,3 @@
+Knuckle Joe is a 15-step, side-scrolling beat'em all. Our protagonist, Joe, must beat all his enemies and the various final bosses with their corresponding abilities. At the end of each boss, there are bonus stages where you can ride a motorcycle and shoot other riders.
+
+The controls consist of an 8-way directional lever and two action buttons. You can move to the left, to the right, jump (very fast), punch, kick and block (by pressing the two buttons).

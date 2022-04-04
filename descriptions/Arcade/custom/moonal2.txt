@@ -1,0 +1,1 @@
+A modified version of Galaxian. Besides the graphics, the only main difference between this and Galaxian is the inclusion of an energy meter that drains with every second you spend clearing a wave. If you don't clear the wave before you run out of energy, your ship is destroyed.

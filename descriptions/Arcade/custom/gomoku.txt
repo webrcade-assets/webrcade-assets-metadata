@@ -1,0 +1,3 @@
+A table top game consisted of an Asian Version of Go. Released in Japan. The Object in this game is to get five chips in a row to win.
+
+This game is endless. The game will keep going until you lose.

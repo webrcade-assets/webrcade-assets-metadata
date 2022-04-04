@@ -1,0 +1,5 @@
+Widely considered as both the origin of the bullet hell sub-genre and one of its standouts, Battle Garegga's true joy lies in unravelling the game's various complex systems.
+
+Battle Garegga is both loved and hated in hardcore communities as being highly punishing to the player. This is due to Garegga's usage of the concept of "rank" - the idea being that the game adapts its own difficulty to suit the level of the player, an idea commonly used to a minor degree in most shooters. The difference here is that the rank system is very unforgiving - Powering up the ship, collecting surplus powerups and collecting options all increase the rank, often drastically if the game is played like a typical shooter.
+
+If the player does not carefully manage the constant invisible increase of rank, the last two levels may become physically impossible to complete - rank increasing bullet density and speed, as well as the behavior of enemies. The only way to decrease rank is to get shot down, meaning expert players will learn to commit suicide in key areas to manage their rank.

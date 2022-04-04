@@ -1,0 +1,11 @@
+A tennis game from Strata.
+
+- One or two can play, simultaneously, and see the action from their own points of view.
+- 32 top seeded players to choose from as opponents.
+- Racket may be swung using a hard, soft or lob shot.
+- Helpful blue dot turns red when player should swing.
+- Place serve anywhere in opponent's service box by moving joystick left or right.
+- Place ball anywhere in opponent's court by swinging either early or late.
+- Earn bonus time by accumulating skill points.
+- Buy additional time, when prompted, to complete a set or match.
+- Regulation tennis rules apply.

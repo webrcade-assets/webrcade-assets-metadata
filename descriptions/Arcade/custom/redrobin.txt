@@ -1,0 +1,1 @@
+A side-scrolling game in the style of Super Mario Bros., you clear a board by collecting jewellery and other valuables.  Watch out for obstacles and other items looking to take you out!

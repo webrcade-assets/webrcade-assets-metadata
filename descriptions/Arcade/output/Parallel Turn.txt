@@ -1,0 +1,8 @@
+A skiing game with six events. The screen scrolls from top to bottom with the player viewed directly from above. Events are:
+
+    Ski Lift - Hit Run to move and Jump to mount the empty ski chair. You have 30 seconds to pick a chair. Each chair passed puts you higher up in the rankings.
+    Slalom - Control the skier downhill past slalom flags and through the time-bonus gates. Overtake the other skiers to increase your ranking.
+    Ski Jump - Run to increase your speed and jump to takeoff.
+    Biathalon - Ski to a set of targets then aim the crosshairs and shoot. Each target gives a one second bonus.
+    Dog Sled - A 100m distance race against the computer. Hit the run button to move.
+    Downhill - Similar to the slalom event.

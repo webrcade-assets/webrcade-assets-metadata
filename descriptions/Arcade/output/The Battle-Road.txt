@@ -1,0 +1,5 @@
+A driving shooter where you play as a red jeep shooting at enemy cars and motorcycles.
+		
+		You start out on a adventure from general headquarters by driving your armored jeep with a high-powered bazooka. You have to run in the midst of deadly enemies. Shoot your bazooka and destroy all enemy armored cars, motorcycles and batteries, while avoding mines and soldiers. There are five bases on the way to your last destination, front base. Refuel your jeep and get additional tires there.
+		
+You will find an operational map beside the screen commanding a panoramic view of the battlefield. The battlefield consists of six different scenes: a forest, the sea, a farm, a valley, a city, and waste. There are 32 possible routes that you can take but whichever route you take, your path will have deadly enemies awaiting you.

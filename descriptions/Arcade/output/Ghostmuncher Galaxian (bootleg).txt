@@ -1,0 +1,1 @@
+This is a copy of Pac-Man / Puck-Man except the colors have been changed, as have the sounds and names of the ghosts. Eat all the dots while avoiding the ghosts. Eat power pellets so you can eat ghosts. Collect fruit for bonus points.

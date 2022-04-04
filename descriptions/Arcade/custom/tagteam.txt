@@ -1,0 +1,5 @@
+In this early arcade wrestling game, you control the team of Terry and Sunny who continuously challenge The Heel Team in a series of tag team matches.
+
+During each match of this game, whenever you come into contact with one of The Heel Team, you will be given a choice of which attack you want to use against your opponent. These moves include The Straight Jab, The Karate Chop, The Body Slam, The Drop Kick, The Piledriver, The Brain Buster, The Lariat and The Cobra Twist. Press the Action button to select one of those attacks whenever they appear on the screen.
+
+For each of The Heel Team, one of them is fat and wears black pants and the other wears a red mask and white tights. Moves such as The Brain Buster, The Piledriver, The Lariat and The Cobra Twist will not work when fighting the fat character.

@@ -1,0 +1,41 @@
+Arcade Video game published 32 years ago:
+
+Sky Adventure (c) 1989 Alpha Denshi Company, Limited.
+
+A vertically scrolling shoot-em-up.
+
+- TECHNICAL -
+
+Game ID: SA
+
+Main CPU: Motorola 68000 (@ 10 Mhz)
+Sound CPU: Zilog Z80 (@ 7.15909 Mhz)
+Sound Chips: YM2203 (@ 3 Mhz), YM2413 (@ 8 Mhz), DAC
+
+Players: 2
+Control: 8-way joystick
+Buttons: 2
+
+- TRIVIA -
+
+Sky Adventure was released in November 1989.
+
+- SERIES -
+
+1. Sky Adventure (1989)
+2. Ghost Pilots [Model NGM-020] (1991)
+
+- STAFF -
+
+System programmer: Eizi Fukathu
+Main programmer: Hiroyuki Ryu
+Programmer: Hideo Kamoda
+Hardware: Shinichi Tamura
+Designer: Kenichi Sakanishi
+Music: Tambourine Yuka
+Sound: Hiroaki Simizu
+Producer: Akira Usizawa
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&page=detail&id=2450&o=2

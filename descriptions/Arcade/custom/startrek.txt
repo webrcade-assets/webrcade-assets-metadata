@@ -1,0 +1,5 @@
+STAR TREK is a 1- or 2-player SEGA Color X-Y video game with computerized speech synthesis. The player finds himself the Captain of the Starship Enterprise, his mission being to rid the universe of a number of threats to the United Federation of Planets.
+
+STAR TREK has a unique method of displaying the information vital to the game play. This method involves the separation of the CRT into three completely separate screens.
+
+The Scanner is where the player sees a top down or plan view of local space, with the Enterprise always in the center of this screen. The Viewer is where the player sees actual apparent 3-D images, as if he were looking out the ships front window. The Status screen displays player score in addition to Shield strength, number of Photon Torpedoes, and amount of Warp energy remaining.
