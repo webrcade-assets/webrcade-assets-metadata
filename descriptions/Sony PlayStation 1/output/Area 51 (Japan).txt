@@ -1,0 +1,1 @@
+This is the home port of the popular arcade light gun game. This home version has special bonuses and additional secret levels not found in the arcade. Using a light gun (or a mouse, if available) you blast your way through the secret base, Area 51, which has been taken over by mutant aliens.

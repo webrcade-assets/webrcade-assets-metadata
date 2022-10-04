@@ -1,0 +1,4 @@
+Three games to choose from: Nine Ball, Eight Ball, and Rotation.
+Camera angles include top of table and regular view.
+Adjust angle of the cue for your best read on the shot.
+Practice mode included so you can perfect difficult shots.

@@ -1,0 +1,3 @@
+True Pinball is a pinball simulation that offers four tables rendered in either 2D or 3D views. The game also uses the PlayStation's Hi-Res mode for stunning detail and over 32,000 colors. Features include different music relating to the theme of each table, authentic sound effects and speech, plus up to six balls in play at once.
+
+The four tables include Law N' Justice, Babewatch, Extreme Sports and Vikings, each of which is filled with special modes you can trigger by hitting combos unique to each table. Up to eight people can alternate turns to compete for the highest score.

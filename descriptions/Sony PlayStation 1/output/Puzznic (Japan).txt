@@ -1,0 +1,6 @@
+Puzznic is an action puzzle game in which players move blocks to match symbols and colors. Blocks may be moved freely to the left or right but not lifted up, as they will fall to the bottom of the board if not supported. This family-appropriate release is similar to the C64 and NES versions of the title, based on the gameplay of Taito's 1989 Japanese arcade game of the same name.
+
+Features
+* Quickly arrange blocks to create matches
+* Choose from an assortment of anime-inspired characters
+* Save your high scores to memory card

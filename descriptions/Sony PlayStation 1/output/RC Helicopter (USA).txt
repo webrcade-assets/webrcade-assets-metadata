@@ -1,0 +1,3 @@
+RC Helicopter gives players control of a remote-controlled chopper and plenty of challenging tasks. Levels include a house, train station, and a haunted high school; successful completion of a mission gives players points useful for new batteries, parts, and different helicopters.
+
+Missions steadily increase in difficulty, and several hidden missions can be unlocked for play. RC Helicopter flight engine is based on flight dynamics for small craft, and the PlayStation's analog controller attempts to replicate the remote-controlling experience.

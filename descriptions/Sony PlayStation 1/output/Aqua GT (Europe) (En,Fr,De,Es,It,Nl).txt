@@ -1,0 +1,3 @@
+Aqua GT is powerboat racing game. It features three modes: Championship, Arcade and Two-player.
+
+Championship mode is the main single player game, where you advance through the Bronze, Silver and Gold Championships. In the Arcade gameplay mode you have to beat the clock. In two-player split screen mode you go head to head against another player.
