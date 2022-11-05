@@ -1,3 +1,9 @@
-Konami's Bottom of the 9th is the first baseball game on the PlayStation to use polygonal players. Batting and pitching relies on aiming cursors, which can be "locked-on" to make things easier for novices. The game has an MLBPA license for real players from the 1995 season, but no Major League Baseball affiliation, so teams are listed by city name only.
+This baseball game features the following game modes: exhibition, season, training, and scenario.
 
-Eight fictional stadiums are also available, and a complete season along with statistical tracking can be saved to memory card. Don't want to play a complete season? No problem, the schedule can be shortened to 13, 26 or 52 games. Training Camp mode allows you work on your pitching, hitting, fielding or running skills, and a General Manager mode lets you perform trades. An announcer will keep things lively by calling the action from the booth.
+Exhibition mode lets the player play against the computer, another player, or just watch a game between 2 computer players. Training mode lets players practice their fielding, pitching, and batting skills. Scenario mode puts the player in a tight situation in 20 different  in-progress games to see if they can succeed in those situations. Season mode lets players play a season with anywhere from 15 to 162 games. The game can keep track of the season statistics, team standings, and any trades made during the season.
+
+With only an MLBPA license, the game features the names of the real MLB players, but it doesn't include the real team's names or their logos, just the cities they play in. The game also offers 30 different stadiums to play in.
+
+During the game, pitching involves selecting a type of pitch and aiming it into the batter's box by sliding around a cursor to where they want the pitch to go. To hit the ball, batters must move their own cursor to match where the ball will end up. If the batter decides to powerhit, the cursor becomes smaller, making it harder to make contact with the ball.
+
+The game also features an announcer that calls the plays in real time.

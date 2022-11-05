@@ -1,14 +1,1 @@
-Zero Divide: An unrecoverable program error causing a potential system crash.
-
-You are the error. Set in a virtual world inside a computer system hijacked by a group called XTAL, Zero Divide puts you against mysterious mercenary "units", each with a unique fighting style and the ability to pulverize you in an instant. You must "delete" the mercenaries, crash the system and eliminate XTAL before time runs out.
-
-The first truly complete 3D, 360 degree fighting game.
-
-Superbly detailed graphics, unprecedented fighter control, high quality soundtrack, awesome depth and challenge are all combined to give you the most complete fighting game experience available.
-
-- 10 ruthless fighters (including two hidden bosses) that feature never before seen fighting styles, weapons and projectile attacks
-- Unleash an arsenal of deadly moves and killer combos - Hyper Headbutt, Blind Man Slash, Tomo Vortex Throw, and Bloody Pack. For the first time in any 3D fighter - jumping attack in combos
-- Select four completely different camera angles, including an innovative perspective from the fighters viewpoint and a rotating 360 degree view
-- Zero Divide's unique Ring Edge allows skillful fighters to grab onto the rim of the ring and pull themselves back into fight
-- With a memory card, save and relive your entire round... replays can be slowed down, paused, zoomed, rotated, or viewed from any angle
-- On-screen diagram shows progressive damage to fighter body parts and allows players to strategically plan their attacks for maximum destruction
+Zero Divide is a 3D robot fighting game. You play one of eight robotic fighters and must battle your way through multiple levels in single player, or go head to head with an opponent in two player mode. There are many unlockable mini-games and Easter eggs included, even an unlockable side scrolling shoot 'em up game.

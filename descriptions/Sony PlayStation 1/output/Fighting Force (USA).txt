@@ -1,3 +1,3 @@
-Fighting Force players control one of four characters. They move through urban and science fiction environments, battling waves of oncoming enemies with weapons ranging from fists and bottles to knives, chairs and guns. The player can make some choices as to which territory to travel through.
+Fighting Force is a fighting "beat-em-up" which takes place in an interactive city where you can pick up several objects (like trash cans and car tires) and throw them at your enemies which appear on scripted moments. 
 
-The four characters have various reasons for taking on Dr. Zeng, a criminal mastermind with an army at his command. The action starts with a police cordon around Zeng's office skyscraper, moving to such locales as a shopping mall, subway and Coast Guard base before finally ending at the top of Zeng's island headquarters.
+Though the game advertised very interactive places, they all ended up in rectangular arenas because of an invisible wall which surrounded them. There was no way to walk around freely.

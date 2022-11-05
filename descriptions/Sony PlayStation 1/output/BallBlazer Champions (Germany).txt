@@ -1,1 +1,5 @@
-Ballblazer is a futuristic version of one-on-one indoor soccer, but with the use of a variety of weapons. Much like soccer, your goal is to put the ball in the net more times than your opponent does. Each player rides around in a rotofoil, used to speed around the arena field. However, in order to win the match, you must win three, four-minute rounds. Sounds easy enough, but you have to beat eight challengers in order to be the Ballblazer champion. Ballblazer offers eight characters to choose from and four modes of gameplay, including Practice, Tournament, Single-Player Free Play, and Two-Player Free Play. Each mode offers its own variety of fun
+An updated version of the classic Ballblazer. The basic rules have stayed the same: two players in rotofoils compete to put the plasmorb into the enemy's goal. But the new version adds numerous power-ups including weapons into the game, so you can blast the enemy out of the way.
+
+Choosing one of 8 different characters, each with a unique rotofoil, you compete in the Interstellar Ballblazer Championship to attain the title of Master Blazer. After a won game, you can upgrade your rotofoil with new equipent.
+
+In addition to the tournament mode, there is also a practice option and a split-screen multiplayer mode.

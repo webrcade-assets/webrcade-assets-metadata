@@ -1,3 +1,2 @@
-A Soccer game. All of the World Cup games are represented in Goal Storm, and respond according to actual team performance. For example, Brazil is much better than, say, Canada. The game looks good, even if the players are a bit simply designed. The control is solid and relatively intuitive, the only major problem being the placement of the defensive tackle and goal shot on the same button. There's even the obligatory announcer, calling plays and adding that much heralded element of realism to the game, very popular in today's sports games.
-
-The game is known as World Soccer Winning Eleven and is the first game in the acclaimed Pro Evolution Soccer series.
+The first ISS Pro game for the Playstation, with
+32 international teams, a choice of 4 stadia, 21 formations & strategies.  With a choice of Exhibition Mode, International League, International Cup, and a Penalty Kick mode.

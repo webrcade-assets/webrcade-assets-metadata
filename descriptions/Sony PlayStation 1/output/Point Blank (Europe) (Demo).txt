@@ -1,3 +1,7 @@
-While most shooters of this type released during the mid-to-late '90s focused on shooting monsters or criminals in order to advance levels, Namco's Point Blank brought back the old school style of shooting. Originally introduced in 1994 as an arcade gallery shooter, the game focused on the player's ability to aim accurately and shoot fast.
+Point Blank is a light gun arcade game, in which players shoots targets in a wide variety of stages. The Playstation version uses the G-Con gun, for action similar to Time Crisis, also by Namco.
 
-In 1998, the idea remains the same, though Namco has made a few adjustments for this home version. Packaged with the company's own Guncon light gun, Point Blank offers the full arcade game with new gallery shooting levels, a Training Mode, and a multiplayer mode (head-to-head or tournament).
+The game has a distinct cartoon theme and is non-violent, making it suitable for all ages. Each stage has a different objective, explained at the start of each stage. This varies from simple target shooting (and avoid to shoot bomb), shooting cardboard villains (avoid shooting cardboard civilians), shooting own color targets (avoid shooting opposing players color), protecting the iconic Dr.Don and Dr. Dan, and many miscellaneous challenges such as the Galaxian stage where lightgun is used in place of spaceships to shoot aliens.
+
+The stages are presented in groups of 4 and the player or players can choose in which order to play them. You lose a life-heart when you shoot an incorrect target or bomb, or when you fail to complete a mission within the time limit.
+
+As well as converting the arcade game in its entirety, this conversion also offers a new Quest mode, a Party Play system and more.

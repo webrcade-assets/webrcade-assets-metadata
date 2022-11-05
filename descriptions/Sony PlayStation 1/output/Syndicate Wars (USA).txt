@@ -1,6 +1,3 @@
-In the not so distant future, two corporations are battling for control of the Earth: the long established Eurocorp and the mysterious Church of the New Epoch. Choose either side for a series of 15 missions (30 in total) where your goal is to complete one of the following:
-(1) Eliminate persons or buildings
-(2) Persuade people of importance with your Persuadetron
-(3) Escort and protect persons, vehicles or buildings
-(4) Acquire important items by stealing
-(5) Evacuate your agents to safety.
+In the sequel to the dark isometric action / strategy game Syndicate, you control either Eurocorp Syndicate or Church of the New Epoch. These two sinister forces are battling for world domination. You must help them dominate the world across 60 violent missions spread through 30 cities - you receive e-mails containing the mission plans. 
+
+After selecting a squad of four men from your roster, you direct them through the rotatable 3D city views, shooting foes as the situation dictates. Nuclear grenades and psycho gas are among the new weapons. Tubes, a monorail system and unimpeded Antigrav vehicles give a futuristic feel to travel. In the PC version, 8-player battles over modem and network are available.

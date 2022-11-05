@@ -1,5 +1,1 @@
-Abducted from your fighter by an alien race, you're enlisted in the ultilmate battle. 
-
-The Reptons and Ovons are locked in a deadly duel for supremacy, and you're the Repton's secret weapon. You've been genetically altered, making you one with your Repton craft. 
-
-Now you must wage war against the Ovons while trying to find a way home. When an Earth warrior takes on Heaven's best, the outcome can only be... Hellish
+A space combat game like Wing Commander; you control  space ship, as the lone man trying to save humanity from not one, but two alien races. It also has multiplayer modes like Race and Tag for IPX network users.

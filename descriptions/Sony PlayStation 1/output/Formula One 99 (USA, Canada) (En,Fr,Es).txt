@@ -1,3 +1,6 @@
-Formula One 99 is the fourth installment in Psygnosis' FIA-licensed, Formula One series. All the racing teams, drivers, cars, and technical specs have been updated to match changes in the real world of Formula One racing. Even the newly constructed (as of 1999) Sepang International Circuit in Kuala Lumpur, Malaysia has been added to the season.
+An UK developed racing game based on 1999's Formula One Season. Every team and pilot is registered, as well as all 16 courses including the new (at the time) Sepang track at Malaysia.
 
-Players may choose to participate in a Quick Race, an arcade-style game, a Grand Prix, which is a racing simulator, and various two-player racing options. In Quick Race, there is no concern for fuel, damage, pits or penalties. Select a track, set up race options such as weather, and go.
+Gameplay tends to go towards arcade action rather than simulations, as there are not many customization options and maneuvers such as drafting are useless thanks to the physics engine.
+Supports quick race and season gameplay in both simulation and arcade modes, as well as multiplayer support for up to 8 players.
+
+Graphics are entirely 3d with weather effects included and the game features commentary by BBC commentator Murray Walker.

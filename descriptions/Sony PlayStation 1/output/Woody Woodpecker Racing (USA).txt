@@ -1,3 +1,7 @@
-Straight from the classic cartoon series comes Woody Woodpecker and his friends in a kart racing adventure. Join Chilly Willy, Buzz Buzzard, and, of course, Woody himself as you race over 15 different tracks from such locales as Brazil, Italy and Japan.
+A go-kart racing game based on the popular cartoon character Woody Woodpecker.
 
-With four different types of vehicles and six different drivers (plus three hidden characters), you will not be at a loss of choices as you race in a wild and wacky manner that's to be expected from Walter Lantz's characters. With outlandish power-ups, including splatting tomatoes and homing pigeons, you are sure to be kept on your toes as you battle for first place.
+Select one of 6 starting characters from the series (including 3 different styled Woodys, Wally Walrus and others) and race in a style reminiscent of Super Mario Kart (including "jump turns" for sharper angles).
+
+Collect items from boxes and try to slow down your opponents as you drive through a 3D environment, with slopes, ramps and jumps, on tarmac or mud.
+
+Select either quest, championship, time trial or single race as you try to hone your skills and unlock new characters and tracks.

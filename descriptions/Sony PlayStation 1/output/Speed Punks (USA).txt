@@ -1,3 +1,5 @@
-Released as Speed Freaks in Europe, Speed Punks is a kart-style racer starring six miniature miscreants who compete on 12 themed courses, ranging from a moonlit cove to a neon city. Each vehicle is individually rated in top speed, weight, collision recovery, and acceleration. After selecting a character, you can choose from the following five play modes: Tournament, Single Race, Time Attack, Versus, and Multiplayer.
+Speed Punks is a fast go-cart game in a cartoony setting, featuring six different characters and twelve different tracks.
 
-Tournament is a four-event race on one of three difficulty settings, where you'll need to finish in the top three to advance. Collect power-ups and weapons found along each course to improve your chances. The 11 items include missiles, bombs, speed boosts, a machine gun, stealth mode, slime, and more. Up to four players can race against each other via split-screen display. Complete various milestones to unlock bonus features and hidden play modes.
+The game can be played in four different single-player modes or in multi-player mode with up to four people.
+
+Several different pick-ups and power-ups can be found and used to defeat the rivals on the track, including homing missiles, remote bombs and stealth mode.

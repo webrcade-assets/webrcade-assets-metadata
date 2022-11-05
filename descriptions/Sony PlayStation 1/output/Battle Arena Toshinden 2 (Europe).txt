@@ -1,10 +1,15 @@
-Choose Your Weapon...
-...and do battle against the greatest warriors of the world! Each martial arts fighter has been personally selected to represent his/ her special tecniques and tactics in a winner-take-all secret tournament that defies death.
+Battle Arena Toshinden 2 is the first sequel to Battle Arena Toshinden.
 
-Your favorite charaters are back in the arena with new moves and special attacks - Eiji, the master swoardsman, Sophia and her deadly whip, and Mondo with his powerful spear! Two mysterious new contenders also join the battle with orginal moves and abilities that give them the chance to dominate the action! Learn brand new special moves, master the fight, and prepare for you day in the Arena!
+It adds three new starting fighters; Tracy and Chaos with the original game's final boss, Gaia returning un-armoured and with a completely new move set. There are also three new bosses and hidden characters raising the total number of fighters to 15 (up from 10).
 
-- The ONLY tournament-style fighting game that features true 3-D, 360-degree rotation excitement!
-- Coose from four different camera angles: normal, long, sky and overhead.
-- Fight eleven different warriors, including never-before-seen Tracy and Chaos, plus two boss characters and a hidden character.
-- Each warrior performs special moves that include: crushing throws, inverted attacks and Ultimate Moves!
-- Brand new fighting arenas!
+Toshinden 2, on top of additional special attacks for every character, adds several running attacks to each character: the ability to strike a grounded opponent with new ground attacks and the powerful Overdrive attacks that one must fill up a bar by using other attacks to be able to use.
+
+Toshinden 2 also does away with the free-form combo system of the original Toshinden replacing it with a simple combo system (i.e. light attack, hard attack, special or light attack, light attack, hard attack, special). The 3D movement in Toshinden 2 has also been made notably slower to prevent the heavy abuse it could be used for in the original.
+
+As a result, while the core game play is similar, this sequel is more tactical than the original game. Where as in the original Toshinden, one could throw normal attacks (i.e. light slashes) around with fairly reckless abandon and sidestep repeatedly without fear of their opponent being able to counter them easily, opponents in Toshinden 2 are able to capitalize on individual missed attacks.
+
+As a result, Toshinden 2 is more balanced than its predecessor. This balance was further tweaked with a re-release called &quot;Toshinden 2 plus&quot; in Japan.
+
+Unlike the Playstation release of the original Toshinden, Toshinden 2 was not re-dubbed for releases outside of Japan.
+
+Also unlike the original Toshinden, the PC release of Toshinden 2 for Windows computers, is a straight port of the Playstation version and supports Direct3D rather than specific 3D cards.

@@ -1,3 +1,9 @@
-Jeremy McGrath Supercross '98 sets out to bring the look and feel of Supercross and Motorcross racing to your PlayStation. To ensure this, McGrath worked with the designers in creating and designing the various tracks and bikes contained within the game.
+Jeremy McGrath lends his name to this Supercross racing game. Game modes include a Racing Season, Single Race, and a Ghost Racing mode.
 
-Featuring fully 3D rendered graphics, the game has over seven different indoor and outdoor tracks to compete on. Competition comes in the way of a Championship Series, Time Trial, Split-Screen or Single Race. The Championship Series consists of season competition in your attempt to become number one. If you manage to accomplish this, you will then have to race McGrath himself to claim your prize. The Time Trial is simply a race against a "ghost" image of best performance, and the Single Race allows you to learn the course designs and practice controls.
+The Racing Season mode involves the player racing against 5 opponent racers on a number of indoor or outdoor tracks trying to get first place. The higher the position the racer finishes the race, the more points that racer will earn. (1st place = 5pts., 2nd = 4pts., etc...) Players have to earn a certain number of points in a series of races, in order to move on to tougher competition. If the player becomes really proficient, they'll then be able to challenge Jeremy McGrath himself for the championship.
+
+Getting far in this mode will also unlock more bikes. The various motorcycles available have different statistics in engine power, tire grip, and handling. Players can choose to race with either auto or manual transmission.
+
+The Single Racing mode lets the player race alone or with opponents or against another player. Players get to select from 7 different tracks and can also race on reversed versions of those tracks. Ghost Racing let's the player compete against a ghost racer who represents the player's best time on a track.
+
+The game also includes a track editor. Players can place various jumps, hairpin turns, and other types of track features and create their own track to race on.

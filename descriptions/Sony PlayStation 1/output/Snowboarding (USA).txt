@@ -1,1 +1,9 @@
-Agetec's Snowboarding consists of racing downhill and performing death-defying stunts. For speed fans, the Race Mode allows players to race against the clock or two computer-controlled opponents. For those more interested in catching big air, Snowboarding's Trick Mode requires gamers to perform numerous maneuvers to gain more time to complete courses. In both modes, gamers can choose from one of three different boarder characters as they ride through the game's 27 different courses. Additionally, each of these courses can be tackled by two players at once in a horizontally divided split-screen.
+A snowboarding game with a Race and a Trick mode.
+
+The Race mode lets the player race on 27 different courses. This mode lets the player race solo or against one or two other opponents. In the solo race, the player has to keep hitting checkpoints in a limited amount of time.
+
+Trick mode has the player try to do as many tricks as possible within a given time limit. Performing tricks gains the player more time to complete a course
+
+Players can choose from 3 different snowboarders, each with their own abilities, such as one being fast and another being good at turns.
+
+Options include 3 difficulty levels, turning a course guide on or off, whether to turn vibration on or off, and whether to turn on or off a handicap.

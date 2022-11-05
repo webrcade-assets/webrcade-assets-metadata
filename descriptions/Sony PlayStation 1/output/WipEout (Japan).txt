@@ -1,3 +1,5 @@
-Driven by instinct, WipeOut is the gut-wrenching, white knuckled ride of your life. With multiple tracks, vehicles and weaponry, it’s the next generation racing game for next generation gamers. Accept nothing less than ultra-fast 3D texture-mapped graphics scorching past at 30 frames per second. Everything else is stuck in first gear.
+Wipeout is a futuristic racing game set in the year 2052. Racing for one of four teams, the player competes in the F3600 Anti-Gravity Racing League on six tracks. Each team's hovercraft racer has different ratings in speed, acceleration and turning. In addition to high-speed racing, there is also shooting in the game, with different weapon pickups like rockets and mines available, useful for slowing one's opponents down. Shields can also be picked up and can block the weapons' effects.
 
-So strap yourself in and hit the course at light speed, blasting your opponents in the only racing game where combat comes as standard. Lighting reflexes rule in this two player race’n’ chase thriller that wipes the floor with anything else on the track.
+There are championship, single race and time trial modes. Winning the championship in the regular Venom class unlocks the Rapier class, where the craft are faster and the tracks have slightly different looks.
+
+There is also a two-player mode where two opponents can race and shoot at each other.

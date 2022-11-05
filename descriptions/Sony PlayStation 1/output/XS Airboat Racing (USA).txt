@@ -1,1 +1,1 @@
-XS Airboat Racing is a racing game that let you test your racing skills through arcade tournament and time trial modes. Play as ten different characters. Three difficulty settings and various power-ups provide hours of gameplay and challenges. Up to nine different tracks that spread to five unique worlds.
+This is a 3D arcade-style airboat racing game. The player can choose a protagonist from a roster of 10 cartoon-like characters and race on a number of waterway circuits in 5 different settings. Game modes include "arcade", "tournament" and "time trial". 

@@ -1,5 +1,3 @@
-Viewpoint is an arcade isometric shooter, released in 1992 by SNK for the Neo-Geo arcade platform. By default, 1P and 2P can only play one after another; in the Service Mode though, simultaneous gameplay can be enabled.
-
-The Sony PlayStation version, developed by Visual Concepts, featured re-done visuals and sound while the gameplay itself remains true to the original game with level layouts and boss/enemy patterns remaining the same.
-
 Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
+
+One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.

@@ -1,1 +1,9 @@
-CIRCUIT BREAKERS is new kind of racing game. Rather than racing on road courses, the tracks are more like roller coaster rides, with hairpin turns and drastic drops. And, like a roller coaster, there are no walls to keep you on the track. So, missing a turn will throw you into the abyss and cost you valuable time. Your ability to stay on course is tested in three play modes: World Series, Battle, and Time Trial. In World Series, try to beat seven opponents in 16 different races. Battle mode allows you to challenge three friends to a race. If you find the track too crowded, tackle the Time Trial mode and create new world records for each track. In all modes, the courses are littered with power ups including rocket boosters, shrinkers, and oil slicks that give the player a competitive edge. If you're tired of the same old racing games, give CIRCUIT BREAKERS a try.
+Circuit Breakers is a racing game similar to Micro Machines and Ignition, where the vehicles resemble toys viewed from above. The game lets the player control cars (of various models), boats and submarines that change according to the track.
+
+The tracks have power-ups. They can be collected and activated and have negative and positive effects. Most are standard power-ups from this type of game, like speed boosts and oil leaks. Some are more bizarre, making the vehicle bigger or smaller, or making it bounce or fly.
+
+The tracks are organized by theme and difficulty. By winning races the player receives access to increasingly more challenging tracks. The game controls are particularly sensitive, and getting out of the path often makes the vehicle explode.
+
+Instead of a fixed camera, the game usually changes angles when the vehicle reaches certain points of the track. The camera can go as low as behind the vehicle, and go high to a "bird's eye" viewpoint.
+
+Multi-player mode has its own set of tracks. It supports up to 4 players (using a multi-tap).

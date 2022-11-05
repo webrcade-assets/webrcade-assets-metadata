@@ -1,5 +1,7 @@
-All Star Racing combines four distinct racing modes: GT Racer, Stockcar Frenzy, Classic Cars, and Supercar Challenge. Pre-race options include difficulty setting (easy, medium or hard), number of laps (3-lap sprints to 15-lap endurance races), Dualshock vibration, and sound volume adjustments. This budget title from Mud Duck Productions offers single races against five computer-controlled opponents and a choice of three cars per racing style. No multiplayer or career modes are available.
+A racing game featuring four game modes. The four game modes are Supercar Challenge, Classic Cars, Stockcar Frenzy, and GT Racer.
 
-Each race style includes three courses and three types of vehicles. The classic cars (Stalwort, Belling V2, and SK MK2) race on or through mountains, hillsides, and forests. GT cars (GSX, GT2R and CRX2) run at Iona, Boulder, and Hampton speedways, while Champ Team, File Team, and SPD Team stockcars race on runway, countryside, and urban tracks. The super cars (Pina 238, Fenzo 500, and Manelli 748) compete on hills, ridges, and a forest-valley track.
+The game features 12 vehicles such as the Pina 238, Fenzo 500, and Manelli 748. There are also 12 tracks to race on which include Garrett Hills, Forest Valley, and Murran Ridge. Each game mode itself features its' own set of 3 vehicles and 3 tracks to choose from and is the main difference between all the game modes.
 
-All Star Racing includes GT, stockcar, super cars, and classics racing on a limited number of fictional tracks. Though released in 2002, All Star Racing's graphics and gameplay are reminiscent of early to mid-90s racing titles.
+Gameplay has the player racing their vehicle against 5 opposing vehicles all vying for first place. During a race the game keeps track of the players lap  time.
+
+Options include setting the difficulty level to either easy, medium or hard and setting the number of laps to either 3 or 15 total laps.

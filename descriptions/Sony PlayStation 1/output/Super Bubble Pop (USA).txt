@@ -1,5 +1,3 @@
-Dance to the beat of crazy music and play 150 levels of bubble popping action in this 3D puzzle game. Make your move and work quickly to take out the bubbles before they take you out. With rocking soundtracks and fast-pace game play, Super Bubble Pop™ will keep you grooving to the beat for hours.
+A combination of Tetris and Bust-A-Move, Super Bubble Pop has you controlling a character along the bottom of the playfield, who you use to throw bubbles of different colours towards the other side of the playfield. As you throw them down the line, they will stack up in piles of six. Linking three bubbles together will pop them (remove them from the field), and if there is a stack of six, the bubbles on the way will form a new stack in front of it.
 
-Super Bubble Pop is a bubble based action puzzler game where the idea is to quickly and efficiently clear the grid of bubbles to advance to the next stage while gaining as many points as possible.
-
-A crazy collection of DJs are waiting inside for their chance to become the ultimate popper. You are given the chance to pick from one of up to five characters each with their own unique Super Special Attack.
+The aim of the game is to remove all bubbles from the field, but there is another way of completing a game. Tokens will appear during play, and by collecting enough, you can move on to the next round regardless of what you have on the playfield.

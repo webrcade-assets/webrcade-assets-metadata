@@ -1,2 +1,7 @@
-Silent Hill is a 1999 survival horror video game for the PlayStation. The first in a series about a mysterious town of the same name, Silent Hill generated a direct sequel, three indirect sequels, a prequel and a film adaptation. The game was included in Sony's Greatest Hits and Platinum Range of budget titles as a result of strong sales. A reinterpretation of the game was developed for the Wii, PlayStation 2 and PlayStation Portable.
-The plot focuses on Harry Mason as he searches for his daughter, Cheryl, who has disappeared following a car accident which left Harry unconscious. He finds Silent Hill to be largely abandoned, shrouded in a thick fog, snowing out of season, filled with monsters and being over taken by a hellish otherworld. As Harry scours the town, he begins learning about the history of Silent Hill and stumbles upon a cult ritual undertaken to bring a god to Earth.
+Harry Mason, an average man, is driving to the town of Silent Hill with his daughter.  Upon approaching the town, a cop speeds by on a motorcycle.  When Harry gets closer to town, he sees that same motorcycle sprawled in the middle of the road.  Harry also spots a woman standing in the road, but due to the dense fog, he can't stop in time, so he swerves to avoid her, crashing into a railing, knocking him unconscious.
+
+When Harry wakes up, his daughter, Cheryl, is missing.  Sensing that she would head to the town to seek help, Harry sets out on a journey, not knowing what to expect from this eerie town, enshrouded with fog.
+
+You play Harry Mason, a normal man, with no powers or training of any kind.  You must search through the town of Silent Hill, looking for your daughter.  You will come across many people, some friendly, some not.  You must visit many different areas, such as the school, and the church.
+
+Will Harry find his daughter and safely get out, or is there more to this town than a simple fog layer?

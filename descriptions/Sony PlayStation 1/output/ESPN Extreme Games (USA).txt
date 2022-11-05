@@ -1,13 +1,12 @@
-Insane sports for an extreme generation!
+ESPN Extreme Games lets the player access three modes of play: Exhibition, New Season or a continuation of a season. Exhibition mode helps the player get to know the courses and equipment as well as get a feel for the controls. New season offers the player the chance to race against sixteen other competitors on any of the four racing machines competing for season points as well as money to upgrade equipment.
 
-Rip up courses on in-line skates, shoot for max speed on the street luge, pull serious air on the skateboard, and shred courses on the mountain bike.
+Choose between roller blades, a luge (basically a sit-down skateboard), a mountain bike, and the skateboard. The player can also determine which character they want to race with, each one having a unique skill on one of the apparatus. For example one might be top-notch at roller blading but be bad at bike-riding so there is no point choosing the bike with him/her. In a season, the player competes in the five locations - three times, twelve in all and each time the obstacles become more and more tricky to avoid as well as the other racers becoming faster and more agile. 
 
-Get ready to PUNCH and KICK your way through an entire season of Extreme competition. Battle radical opponents on the most treacherous terrain found on the face of the earth.
+The tracks are:
 
-This is ESPN's Extreme Games. No Kooks allowed!
-
-Hard Core Features:
-Charge six different banzai courses covering San Francisco, Lake Tahoe, South American, Italy, Utah and The Money Level.
-4 levels of difficulty from beginner to EXTREME.
-2 player split screen racing action.
-Catch epic air off ramps, launch over cable cars and discover hidden zones for the ultimate victory.
+ 
+Italy - Country roads leading down to a town area; 
+Lake Tahoe - Twisting roads and strategically placed haystacks;
+South America - Lots of caves and thin jungle roads; 
+San Francisco - Hundreds of obstacles and hills; 
+Utah - Falling rocks, secret routes, and some hungry looking crocodiles.

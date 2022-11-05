@@ -1,3 +1,5 @@
-Street Fighter Collection is a 1997 fighting game compilation released for the PlayStation and Sega Saturn. It collects the original Super Street Fighter II and its follow-up Super Street Fighter II Turbo, along with an enhanced version of Street Fighter Alpha 2 titled Street Fighter Alpha 2 Gold exclusive to this compilation.
+Street Fighter Collection is a bundle comprising several different games of the Street Fighter series. It includes:
 
-This compilation contains Super Street Fighter II and Super Street Fighter II Turbo (known in Japan as Super Street Fighter II X) in the first disc, with Street Fighter Alpha 2 Gold (Street Fighter Zero 2 Dash in Japan) in the second disc.
+1. Super Street Fighter II: The New Challengers
+2. Super Street Fighter II Turbo
+3. Street Fighter Alpha 2 Gold (updated Street Fighter Alpha 2 with balancing fixes: Evil Ryu and Cammy added as playable characters, timing of some characters changed)

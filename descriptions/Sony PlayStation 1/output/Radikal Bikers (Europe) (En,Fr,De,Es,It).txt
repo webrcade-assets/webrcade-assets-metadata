@@ -1,1 +1,3 @@
-Radikal Bikers is set in a Mediterranean environment, and is based on delivering pizza on a rare Italian scooter called Italjet Dragster in heavy traffic before your AI opponent does, while getting points. It has three difficulty levels, which correspond to each of the different places: Capricciosa (medium, set in Rome), Margherita (easy, set in Milan) and Diabola (hard, set in Naples). If you beat all four races in a level, you get to play the next level free.
+Radikal Bikers is a game set in a Mediterranean environment in which players show off their motorbike skills while delivering pizzas.
+
+The game places two players in direct, head-to-head competition to deliver pizzas as fast as possible.

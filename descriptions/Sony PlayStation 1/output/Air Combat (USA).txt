@@ -1,8 +1,11 @@
-Lock on and unleash the most devastating firepower in the skies!
+One of the first 3rd party games for the PlayStation.
 
-You are the team leader of an elite corps of mercenaries – fighter pilots hired to strike where nato air forces have failed. Your mission? Take out a ruthless sect of terrorists that has invaded and entrenched themselves within the confines of several global hot spots. Your hardware? Everything from F-15's to radar-invisible F-22 stealth fighters. The briefing is over, gentlemen. Win one for the free world. Good hunting. 
+You play as a freelance mercenary hired by world governments to strike against terrorists.  The missions get harder as you proceed, but the money you earn for completing each mission makes it worthwhile. You can purchase additional aircraft and arms as you go along, as well as hire wingmen to make the going easier.
 
--17 intense combat sorties. Destroy terrorists in the air, on the ground, and at sea. 
--True 360 degree environment. Fly under bridges, through canyons or into walls. It's your choice. 
--2-player dogfight mode. The cock pit becomes a pressure cooker. 
--Buy & sell up to 16 aircrafts each ranging in firepower and capability. Choose from deadly, deadlier or deadliest.
+Combat flight simulator in which you play a mercenary pilot who hires his combat skills to several corporations, governments, etc. in order to get cash for weapons & upgrades.
+
+The game progresses through a series of linear missions, and has a 2 player split-screen deathmatch mode plus a series of extras like hidden planes, mini-games, etc.
+
+An arcadish combat flight simulator for the Playstation. The game casts you as a mercenary that hires his piloting skills to a set of organizations, governments, etc. in order to receive cash to buy better weapons & upgrades.
+
+The game is played from either a first person or 3rd person perspective a la Afterburner, an has a standard single player mission-based campaign as well as a deathmatch-like 2 player mode. Also included are a series of hidden planes as well as some hidden mini-games. Plus, as in other Namco games, you can put in your own music cds to play as you fly the missions.

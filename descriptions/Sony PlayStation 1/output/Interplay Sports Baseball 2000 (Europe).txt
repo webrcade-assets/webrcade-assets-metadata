@@ -1,1 +1,11 @@
-Bottom of the 9th, two outs, and the game is tied. Bagwell steps up to the plate. He takes the first two pitches for strikes. The pitcher delivers the ball, and Bagwell knocks it out of the park. Astros win! Astros win! Live moments like these with INTERPLAY SPORTS BASEBALL 2000. Thanks to a Major League Baseball license, all of the teams, players, and stadiums are here. You can play an Exhibition game or a Home Run Derby to get some quick action, while those who have a little more time should experience the ups and downs of the Season, Tournament, or Playoff modes. For those who want to control everything, use the General Manager mode to trade players or create the perfect first baseman with the Create-a-Player option. The players look realistic thanks to motion capture technology. INTERPLAY SPORTS BASEBALL 2000 will challenge even the most die-hard baseball fans.
+A baseball game featuring an Exhibition, Season, Playoff, Tournament, and a Home Run Derby mode. There is also a General Manager mode that lets the player create and trade players, and change team lineups. The game features the real MLB players and teams of that time.
+
+In the Playstation version, batting and pitching are both done from a behind the batter's viewpoint, while in the Windows version, the camera is more dynamic and is able to switch to both viewpoints. The Windows version is able to do this because of the Messiah technology being used, which allows for high-res Direct3D accelerated polygonal graphics.
+
+When batting the player can choose to either swing for contact or for power. The player can also choose a difficulty level for their batting. Rookie has the player timing their swing with the pitch, Pro adds the challenge of controlling the level of the swing, while selecting All-Star is basically the same as Pro, except the pitches come in at a faster rate of speed.
+
+When pitching, players can select different pitch types to throw depending on the ability of their pitcher. Players also can view a pitch chart that tracks every pitch thrown to each batter in the game. 
+
+The game also features a play-by-play announcer and is able to keep track of the single season stats. 
+
+This game is an update of VR Baseball 2000.

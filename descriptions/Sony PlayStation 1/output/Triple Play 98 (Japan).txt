@@ -1,7 +1,1 @@
-Triple Play 98 features all 30 major league stadiums, but not all 30 team rosters. This game was released prior to the expansion draft of the Arizona Diamondbacks and Tampa Bay Devil Rays. Their team logos are included and the rosters can be filled from a list of free agents.
-
-Six modes of play include: exhibition, season, playoffs, home run derby, all-star, and practice. Trading players and the ability to create your own are two available options.
-
-Many stats are tracked through season play and plenty of camera angles are available during gameplay. Play by play is provided with color commentary by announcers Jim Hughson and Buck Martinez.
-
-Triple Play 98 requires one to five memory card blocks to save a game.
+This baseball simulation features official MLB 1997 statistics and names for all teams and players - these can be traded, or new fictitious players can be created. Players have distinct batting and bowling styles.  Over 50 distinct statistics are stored for each of these, with full analysis on offer. You can play in simulation or action modes. Player and team Artificial Intelligence has more complexities than in the first Triple Play game. Two-man commentary is provided, for a play-by-play summary as well as 'Color Commentary' to add detail and depth to the analysis.

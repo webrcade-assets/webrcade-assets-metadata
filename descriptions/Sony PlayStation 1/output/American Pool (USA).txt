@@ -1,3 +1,9 @@
-With American Pool, publisher Mud Duck brings a budget-priced virtual 3D billiards presentation with three modes of gameplay to the PlayStation. In Training mode, players learn the controls and various pool techniques by solving tasks and problems, while Pocket Game mode offers five types of pool including 9-Ball, 8-Ball, Basic, Rotation and 14-1 Rack. The final mode, Pool Contest, is a 9-Ball bracketed tournament in which players create their own character and level up with special shots and techniques as they advance through the pairings.
+A pool game featuring a Training mode, a Pocket Game mode, and a Pool Contest mode.
 
-Examples of special skills that can be earned include Low Tech (adds a visual line from the cue ball to facilitate aiming), Easy Shot (drops the speed of the power gauge by one-third), and Free Ball (allows the cue ball to be placed in any location). As players reach higher levels of skill, additional abilities are unlocked. Specific conventions used in American Pool include "Texas Express Rules" in 9-Ball games, the requirement to "call your shot" in 8-Ball, and the loser of banking in 14-1 Rack taking the break shot.
+In Training mode, players are presented with 18 stages in which they are shown a sample of a shot done by the computer player that they then have to try to replicate.
+
+The Pocket Game mode lets the player compete in various types of pool games such as 9-Ball, 8-Ball, Basic, Rotation, and 14-1 Ball. Players can set the number of sets to play and the difficulty level.
+
+The Pool Contest mode lets the player create a character with their own name, gender, age, and face avatar (3 different choices for each gender), and compete in a 32 player tournament of 9-Ball. The players character can level up by winning matches which unlocks 6 different powerup techs and 3 special techs. Some techs include Easy Shot which slows down the speed of the shot power meter and Free Ball which allows the cue ball to be placed anywhere on the pool table.
+
+Gameplay consists of the player lining up their shot, choosing where to hit the cue ball with the cue stick, and then determining the strength of their shot by use of a power meter.

@@ -1,9 +1,5 @@
-DEFENSIVE DRIVERS NEED NOT APPLY...
+Ray Tracers is an arcade racing game where you have crash into others cars to destroy them. It is a spiritual successor to Chase H.Q. with some differences like a nitro boost system, four cars to choose from and more variety in end bosses.
 
-The Tracer Team is looking for a few good drivers. Don't get the wrong idea, though. In Ray Tracers a "good driver" always exceeds 150 mph, crashes into everything possible and uses up nitro boosters like they're going out of style. so, have you got what it takes?
+You can choose Chase or Time Attack mode. Chase is arcade mode, where you have to go through several missions, ram into other traffic for extra points and fight end bosses. The bosses include high speed dual tanks, a helicopter and other military vehicles. In Time Attack mode you try to set the best lap time on one of four selectable courses, with or without a computer controlled rival.
 
-* A Blistering Frame Rate for 100% Pure Adrenaline Action
-* A Garage Full of the Hottest Hot-Rods to Choose From
-* Menacing Mechanized Foes Who Will Stop At Nothing to Destroy You
-
-A futuristic city is terrorised by Black Kaiser, an armed racer gang. Cindy Gibson believes the gang were responsible for her father's death and she wants revenge. Inheriting her father's awesome racing cars, Cindy creates Ray Tracers and recruits the best racers she can find. Now the real battle begins in a search for the truth! Created in the best anime traditions, Ray Tracers is instantly addictive and immensly playable. Varied scenery, tunnels, dips, sudden drops and obstuctions just begging for you to decimate! The monster-fast, explosive arcade smash from Taito - Ray Tracers.
+You can choose from 4 cars, Spanker (no joke), Buffalo, Lynx, Hawk. Each of the cars vary in attack power, top speed, acceleration and steering agility.

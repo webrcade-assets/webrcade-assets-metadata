@@ -1,1 +1,7 @@
-Comprising three titles, (Buster Bros., Super Buster Bros., and Buster Buddies), Buster Bros. Collection is a compilation of Capcom's "Buster" arcade series -- released over a period of six years from 1989 to 1995. Gameplay presents a blend of puzzle and action that sees players strafing from side-to-side, shooting vertically at the bubbles that bounce around the arena. Enclosed within the confines of a single, 2D arena, one or two players must utilize their rope-gun devices to destroy the deluge of bubbles that inundate the screen. When hit, the bubbles burst into multiple, smaller segments, and will continue to do so until the smallest bubble is destroyed. Only by clearing the screen can players proceed. However, coming into contact with a bubble will result in the immediate loss of a life.
+A collection of 3 classic Buster Bros. games:
+
+1. Buster Bros.
+2. Super Buster Bros.
+3. Buster Buddies
+
+Each game plays virtually the same- these are action-puzzle hybrids (akin to Bubble Bobble); maneuver your character along the bottom of the screen and fire your rope gun; your rope causes the bad evil bubbles to break into smaller bubbles until they finally are defeated (much like the asteroids in Asteroids).  BBros and SBB both involve your world being attacked by the Bubble King (the funny synopsis of BBros in the instructions notes "One day for no particular reason the Bubble King began a siege on Earth's cities with multi-sized breakable bubbles"- Idi Amin he ain't.), while BBuddies involves precious art being guarded by bubbles- in a rare turn of events, you play as the thief looking to steal the art!

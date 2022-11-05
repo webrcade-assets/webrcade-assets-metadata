@@ -1,1 +1,5 @@
-NBA LIVE 2003 allows players to get into the action and live their dreams of NBA superstardom. Totally enhanced gameplay brings the physical, fast-paced action of the NBA to life, while all-new animations and audio deliver the awesome drama and emotion of the NBA experience. In NBA LIVE 2003 players feel the action like never before and make their hoop dreams come true.
+The 2003 version of the NBA simulator has improved graphics in relation to the previous installments and features like detailed faces and a player design engine. It also has rosters in accordance to the 2002-2003 Season.
+
+The game features more than 30 new rebound animations worked out by motion capture sessions, different passing styles and blocks and a frame rate of 60 frames per second.
+
+As usual, a complete fantasy draft is included and multiplayer support is present.

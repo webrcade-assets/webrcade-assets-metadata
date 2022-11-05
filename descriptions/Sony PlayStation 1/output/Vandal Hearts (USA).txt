@@ -1,3 +1,5 @@
-You assume the role of Ash Lambert, a hero torn between saving his country and restoring honor to the disgraced Lambert dynasty. As he struggles with his inner demons and personal problems, he will meet various companions throughout his journey. They will help your character fight to overthrow the oppressive regime and ward off an ancient being that threatens the world.
+Vandal Hearts is a turn-based strategy RPG. It follows a fixed plot-line with set battles, focusing more on strategic elements than adventure elements. 
 
-Vandal-Hearts is a 3D turn-based strategy game. Unlike many games of the genre, the various battlefields have sloped surfaces that will either work to your advantage or against you. It will be up to you to accommodate your strategy and amount an appropriate offensive assault against your foes as well as set up defensive measures.
+The combat takes place in a series 3D grid based maps and each character in the party has a certain amount of movements they can perform each turn. As the game progresses, other characters join and leave the party and as they increase in level they can progress along different paths of development. Between each battle there is a cut scene that develops the plot using the same 3D engine as the combat (and often the same areas).
+
+In between battles you have the opportunity to talk to people in cities as well as purchase different equipment for the up coming battles.

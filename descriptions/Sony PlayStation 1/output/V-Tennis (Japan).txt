@@ -1,7 +1,1 @@
-Tennis anyone? V-Tennis features texture-mapped polygon players and nine different camera views to give you the best look of the court.
-
-Still don't like the perspective? Edit your own!
-
-Select from 16 players (eight males and eight females), four court surfaces, seven different court locations and nine different ball colors. Game modes include Doubles, Singles, and both Men's and Women's Tournaments. Matches can be adjusted from one to five sets and instant replay will let you see those aces in slow motion.
-
-A memory card is required to save Tournament progress.
+V-Tennis is a three dimensional tennis games played from a third person perspective with ten different camera angles to choose from. It plays like other games of its kind and allows the player do a number of different shots, including slices, lobs, top spins, drop shots, and smashes. It's possible to play individual matches against human or AI controlled opponents or in a tournament. Individual matches can be singles or doubles and in multiplayer it's possible for players to both compete against each other or to cooperate against the computer. There are 16 tennis players to choose from and they have different stats in five categories: service, forehand, backhand, footwork and sprint. Six different courts can be chosen from: stadium, indoor, N.Y., Fiji, Kilauea and Japan. It's also possible to chose the surface type: hard, clay or lawn. The game also has an edit mode where the abilities and look of the tennis players can be modified.
