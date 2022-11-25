@@ -1,0 +1,1 @@
+AV Tanjō is a simulation game of the type frequently encountered in Japanese games: the so-called "life sim", similar to series such as Princess Maker or Graduation. This game is particularly reminiscent of Tanjō: Debut: the player also manages the lives of three young girls, whose goal is eventually to become what the Japanese call "idol", i.e. a pop star.
