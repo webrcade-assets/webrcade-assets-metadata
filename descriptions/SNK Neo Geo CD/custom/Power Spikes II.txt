@@ -1,0 +1,1 @@
+Power Spikes II is a five-on-five volleyball game similar to its predecessor, using a side view with each team at one side of the screen and a single button used to serve and spike the ball as well as block when on the defense.
