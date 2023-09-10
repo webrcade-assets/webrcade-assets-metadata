@@ -1,0 +1,1 @@
+Lost in New York is a text adventure by Mikko Vuorinen. You are lost in New York, as no matter which direction you go in, everything looks the same.

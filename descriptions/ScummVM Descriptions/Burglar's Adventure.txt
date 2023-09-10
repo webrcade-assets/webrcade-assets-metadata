@@ -1,0 +1,1 @@
+Burglar's Adventure is a text adventure by Bruce Hansen. It is a short game about a burglar who steals four treasures from a poorly-secured museum.

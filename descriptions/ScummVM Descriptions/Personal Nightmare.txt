@@ -1,0 +1,4 @@
+Personal Nightmare is the first game in the Elvira series. This adventure-RPG follows the son of a pastor who has to find out who is behind the disappearance of his father and the possession of the townsfolk by demons.
+Personal Nightmare was the first game to make use of Horror Soft's new AGOS engine, although the engine used does not resemble any other version of AGOS. 
+According to Alan Cox, The Personal Nightmare engine was considered too complicated and was scrapped, later games would use AberMUD5 variants.
+Personal Nightmare shares common video scripting code with other AGOS games and due to this, it was included in the AGOS engine.

@@ -1,0 +1,1 @@
+The Gorreven Papers is a text adventure by Derek T. Jones. In the game, an agent searches for the Gorreven Papers, which fell into the wrong hands. However, something went wrong and the agent has become a prisoner.

@@ -1,0 +1,1 @@
+Colossal Adventure is a text adventure by Level 9 Computing. It was based on Colossal Cave Adventure. An adventurer has to rescue the elves and find fifteen pieces of treasure.

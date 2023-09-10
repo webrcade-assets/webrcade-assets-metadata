@@ -1,0 +1,1 @@
+Bargon Attack is an adventure game by Coktel Vision that used the Gob engine.  In this game, an alien race known as the Bargon conquer Earth and enslave humanity.  The game follows a young programmer as he attempts to free Earth from their Bargon conquerers.

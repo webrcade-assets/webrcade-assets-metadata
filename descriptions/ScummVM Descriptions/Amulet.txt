@@ -1,0 +1,1 @@
+Amulet is a text adventure by Daniel Hiebert. An adventurer traverses into the crypt of Lord An to find the amulet that lies within.

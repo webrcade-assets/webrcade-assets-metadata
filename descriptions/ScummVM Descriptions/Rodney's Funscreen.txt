@@ -1,0 +1,3 @@
+Rodney's Funscreen is a collection of five children's learning games aimed at teaching children to use a computer. 
+Rodney's Funscreen was created by Activision, from a concept by Rodney Alan Greenblat. 
+It was originally available on floppy disk but was later made available on CD-Rom in Japan by Interlink Planning Japan. The original game was made with Director 3.0. There was a port for MS-DOS using the MADE engine, but the MS-DOS version has lower resolution graphics and is overall a more compromised experience. A 1997 sequel, Rodney's Funscreen 2: Extreme, was released in Japan for Windows and Macintosh using Director 5. It had somewhat changed graphics but the overall experience is the same as the original 1992 Director version.

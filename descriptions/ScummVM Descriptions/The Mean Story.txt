@@ -1,0 +1,1 @@
+The Mean Story is a text adventure by Bob Reeves. It is an exercise in dark humor as each new situation escalates until the end.

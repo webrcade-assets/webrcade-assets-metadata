@@ -1,0 +1,1 @@
+Quest for Flesh is a text adventure by Daniel Hiebert. A person discovers that they've been turned into a zombie and goes off to find something to eat.

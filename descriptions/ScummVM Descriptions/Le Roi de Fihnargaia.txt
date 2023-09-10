@@ -1,0 +1,1 @@
+Le Roi de Fihnargaia is a French text adventure by Eric Forgeot. It is a sample game for the French libraries in JACL and Inform 7. The game follows Gjörfon as he is summoned to bring fine mead to Fihnargaia to celebrate the arrival of the ambassador of the Flianglii tribe.

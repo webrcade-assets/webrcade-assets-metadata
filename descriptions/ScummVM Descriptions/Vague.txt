@@ -1,0 +1,1 @@
+Vague is a text adventure by Richard Otter.

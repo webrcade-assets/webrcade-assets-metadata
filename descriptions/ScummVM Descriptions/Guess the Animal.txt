@@ -1,0 +1,1 @@
+Guess the Animal is a text adventure by Derek T. Jones. It is a demonstration game for the Archetype interactive fiction creation system. The object is to guess the correct animal.

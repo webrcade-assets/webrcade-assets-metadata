@@ -1,0 +1,1 @@
+Cruise for a Corpse (orig. Croisière pour un cadavre), is the first and only game to use Delphine Software's Cinématique Evolution 2 engine. This engine is a rewritten version of the initial Cinématique engine (Cine) used in Operation Stealth and Future Wars.

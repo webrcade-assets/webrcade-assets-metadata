@@ -1,0 +1,1 @@
+Robots was a text-based game originally created by an anonymous coder at Dartmouth College. It was converted to the Honeywell 6000 series of computers by Bill Cotter and published in Creative Computing magazine in 1976.

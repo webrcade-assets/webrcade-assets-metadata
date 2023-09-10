@@ -1,0 +1,1 @@
+Sardoria is a text adventure by Anssi Räisänen. A young villager tries to warn the king of an attack at nightfall, but the king's guards don't believe him and imprison him in the castle's wine cellar. Now he has to escape and get to the king before it is too late.

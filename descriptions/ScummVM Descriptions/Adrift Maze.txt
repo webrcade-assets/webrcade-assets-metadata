@@ -1,0 +1,1 @@
+Adrift Maze is a text adventure by Dana Crane. A short game where the goal is simply to make it through the maze.

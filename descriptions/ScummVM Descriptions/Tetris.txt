@@ -1,0 +1,1 @@
+Tetris is a puzzle game by Alexey Pajitnov. It was originally developed in a text format as it was designed on an Elektronika 60, a computer that had no graphic output.

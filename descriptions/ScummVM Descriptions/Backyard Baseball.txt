@@ -1,0 +1,1 @@
+Backyard Baseball was the first game in the Backyard Baseball series of games aimed at recreating the experience of playing baseball as children.  The Windows and Macintosh versions use the SCUMM scripting language.  The Gameboy Advance and Gamecube versions used a custom 2D engine.  The Playstation 2 version used a custom 3D engine.

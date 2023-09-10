@@ -1,0 +1,1 @@
+Loom was the fourth game to use the SCUMM scripting language.  The game follows Bobbin Threadbare as he learns how to use his magical powers through his distaff and as he eventually saves the world from the Lord of Chaos, who was unraveling the Loom (the source of power for the members of the weaver's guild).

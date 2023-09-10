@@ -1,0 +1,1 @@
+Infospace is a text adventure by Danny Miok.

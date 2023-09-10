@@ -1,0 +1,1 @@
+The Haunted House is a text adventure by Campbell Wild. An adventurer travels into a haunted house to get the treasure inside.

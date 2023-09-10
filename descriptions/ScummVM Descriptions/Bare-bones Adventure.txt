@@ -1,0 +1,1 @@
+Bare-bones Adventure is a text adventure by Derek T. Jones. It is the demonstration game for the Archetype interactive fiction creation system. In the game, a person is in a room and has to find their way out of the house.

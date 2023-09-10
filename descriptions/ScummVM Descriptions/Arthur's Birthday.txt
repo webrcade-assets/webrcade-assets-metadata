@@ -1,0 +1,1 @@
+Arthur's Birthday was an interactive storybook for children in the Living Books series, created with the Mohawk Living Books player. The book is an interactive version of Marc Brown's children's book of the same name. Arthur is coming up on Saturday, and he hands out invitations to his friends. As the story is read, the objects in the background are clickable.

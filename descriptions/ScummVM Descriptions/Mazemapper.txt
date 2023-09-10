@@ -1,0 +1,1 @@
+Mazemapper is a text adventure by Bob Reeves. The object is to get through a maze.

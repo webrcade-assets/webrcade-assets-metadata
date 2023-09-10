@@ -1,0 +1,1 @@
+Bugged is a text adventure by Anssi Räisänen. The object is to play a buggy interactive fiction game that your cousin wrote, completing it by coming up with novel solutions to get past the various glitches and bugs in the game.

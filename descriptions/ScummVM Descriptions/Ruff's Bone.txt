@@ -1,0 +1,1 @@
+Ruff's Bone was an interactive storybook for children in the Living Books series, created with the Mohawk Living Books player. The animation was created by Colossal Pictures.  The book is an interactive story that follows a dog named Ruff who is searching for his missing bone. As the story is read, the objects in the background are clickable.

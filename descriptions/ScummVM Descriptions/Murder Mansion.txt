@@ -1,0 +1,1 @@
+Murder Mansion is a text adventure by Roy Lee. It was created for the ADRIFT Intro Competition in 2005.

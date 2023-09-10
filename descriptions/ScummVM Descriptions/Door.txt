@@ -1,0 +1,1 @@
+Door is a text adventure by Richard Otter. The objective is to escape the kitchen.

@@ -1,0 +1,1 @@
+Blast is a text adventure by Richard Otter. The protagonist wakes up Monday morning to find a headless receptionist, and the day gets worse from there.

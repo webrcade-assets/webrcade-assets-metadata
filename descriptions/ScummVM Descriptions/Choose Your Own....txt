@@ -1,0 +1,1 @@
+Choose Your Own... is a text adventure by David Whyld. It was created for the ADRIFT summer competition in 2004.

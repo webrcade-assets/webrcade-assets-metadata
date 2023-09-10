@@ -1,0 +1,1 @@
+Magnetic Moon is a text adventure created by Larry Horsfield in PAW (Professional Adventure Writer) for ZX Spectrum in 1989.

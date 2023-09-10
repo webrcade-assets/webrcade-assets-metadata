@@ -1,0 +1,1 @@
+Shadowgate is a point and click adventure game where an adventurer ventures through a castle toward the Warlock Lord's chamber, dealing with magical creatures along the way, such as dragons and a cyclops.

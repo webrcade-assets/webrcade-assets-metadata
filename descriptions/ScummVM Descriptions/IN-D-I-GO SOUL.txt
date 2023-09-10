@@ -1,0 +1,1 @@
+IN-D-I-GO SOUL is a text adventure by Jon Blask. It was written for the Indigo New Language Speed IF competition in 2011.

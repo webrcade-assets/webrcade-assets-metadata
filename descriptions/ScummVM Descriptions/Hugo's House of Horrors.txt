@@ -1,0 +1,1 @@
+Hugo's House of Horrors was the first game in the Hugo series.  It is similar to Sierra's AGI games in that it is a graphic adventure game with a parser.  The Windows version had optional mouse control.  Hugo must enter a mansion, outsmart the residents inside, and save his girlfriend Penelope who was kidnapped and is being held captive in the basement.

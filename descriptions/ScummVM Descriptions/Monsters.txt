@@ -1,0 +1,1 @@
+Monsters is a text adventure by Daniel Hiebert. The goal of this small adventure is to look for the monsters under Sissy's bed.

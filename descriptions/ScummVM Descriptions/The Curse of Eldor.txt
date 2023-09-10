@@ -1,0 +1,1 @@
+The Curse of Eldor is a text adventure by Stuart Allen. An adventurer must collect items in order to lift the curse on the kingdom.

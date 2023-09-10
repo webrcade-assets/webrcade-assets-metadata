@@ -1,0 +1,1 @@
+Humbug is a text adventure by Graham Cluley for DOS in 1991. It was converted to ADRIFT by Campbell Wild in 2003.

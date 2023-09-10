@@ -1,0 +1,1 @@
+Private Eye is a text adventure by David Whyld. It was created for the InsideADRIFT Spring Competition in 2005.

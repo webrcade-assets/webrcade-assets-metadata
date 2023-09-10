@@ -1,0 +1,1 @@
+Miner's Adventure is a text adventure by Bruce Hansen. It is a short game about a miner who finds four treasures in a mine.

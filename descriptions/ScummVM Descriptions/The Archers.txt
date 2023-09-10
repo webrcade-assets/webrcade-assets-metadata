@@ -1,0 +1,1 @@
+The Archers is a text adventure by Level 9 Computing. In the game, BBC Radio 4 broadcasts the events in the rural village of Ambridge. The game is split into four parts with four protagonists, Jack Woolley, Elizabeth Archer, Eddie Grundy and Nelson Gabriel. Each person has to make choices that they believe will be most pleasing to the listeners.

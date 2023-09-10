@@ -1,0 +1,1 @@
+The Starship Solitaire Adventure is a text adventure by Derek T. Jones. A crewmember on a starship is awakened from suspended animation and has to determine what went wrong to save the slumbering crew.

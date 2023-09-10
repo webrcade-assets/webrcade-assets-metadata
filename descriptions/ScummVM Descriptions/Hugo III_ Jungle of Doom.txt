@@ -1,0 +1,1 @@
+Hugo III: Jungle of Doom was the third and final adventure game in the Hugo series.  It used the same engine as the previous game, and was a graphic adventure game with a parser and optional mouse control in the Windows version.  Hugo and Penelope's plane crash lands in the Amazon jungle.  Penelope is bitten by a poisonous spider, and Hugo must search the jungle for a cure.

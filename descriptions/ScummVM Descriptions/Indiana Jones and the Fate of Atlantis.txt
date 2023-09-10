@@ -1,0 +1,1 @@
+Indiana Jones and the Fate of Atlantis was the seventh game to use the SCUMM scripting language.  The game follows Indiana Jones and Sophia Hapgood, who is a playable character in some parts of the game, as they discover the lost city of Atlantis, and stop the Nazis from using the power source of Atlantis for world conquest.

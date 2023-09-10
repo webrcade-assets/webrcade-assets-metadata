@@ -1,0 +1,1 @@
+Hoyle Solitaire is a remake version of Hoyle's Official Book of Games: Volume 2 with the 28 solitaire games found in that old release, upgraded with new looks, sounds and mouse control. A Card Flick game has been added, the object of which is to accurately toss as many cards into a hat as possible in the time allowed.

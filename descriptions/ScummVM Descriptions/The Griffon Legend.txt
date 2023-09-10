@@ -1,0 +1,1 @@
+The Griffon Legend is a freeware zelda-like RPG created in FreeBASIC as part of a contest by Syn9 (Daniel Kennedy). 500 years after the Griffon-Dragon war, the Dragons have returned to reclaim their empire. Cities are falling, everyone is dying, and the lone Griffon Knight Fayne is caught up in the middle of it all.

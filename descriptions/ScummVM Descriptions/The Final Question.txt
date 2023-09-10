@@ -1,0 +1,1 @@
+The Final Question is a historical text adventure by David Whyld. It was created for the ADRIFT Intro Comp in 2005.

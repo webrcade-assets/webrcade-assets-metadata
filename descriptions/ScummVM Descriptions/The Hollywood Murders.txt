@@ -1,0 +1,1 @@
+The Hollywood Murders is a text adventure by Michael Zerbo. The object is to solve the Hollywood murders.

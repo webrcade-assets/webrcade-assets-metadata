@@ -1,0 +1,1 @@
+Ba'Roo! is a text adventure by Eric Anderson. It was created for the InsideADRIFT Summer Competition in 2010.

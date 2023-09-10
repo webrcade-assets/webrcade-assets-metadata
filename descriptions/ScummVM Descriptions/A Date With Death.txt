@@ -1,0 +1,1 @@
+A Date With Death is a text adventure by David Whyld. It was created for the Interactive Fiction Competition in 2008.

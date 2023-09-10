@@ -1,0 +1,1 @@
+Cave of Wonders is a text adventure by Campbell Wild. An adventurer travels underground to explore the cave of wonders.

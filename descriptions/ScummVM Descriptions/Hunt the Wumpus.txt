@@ -1,0 +1,1 @@
+Hunt the Wumpus is a text adventure game created by Gregory Yob in 1973. It was converted to BASIC by David H. Ahl in 1976 and published in the book The Best of Creative Computing.

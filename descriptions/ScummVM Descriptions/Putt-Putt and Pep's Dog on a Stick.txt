@@ -1,0 +1,1 @@
+Putt-Putt and Pep's Dog on a Stick is a game that has the player take control of Putt-Putt's dog Pep.  Pep must navigate a series of mazes on his pogo stick, collecting treats and avoiding oil slicks and other hazards along the way.

@@ -1,0 +1,1 @@
+The Manhole is a children's game created by Cyan (now Cyan Worlds). The player opens up a manhole, which reveals a giant beanstalk that can be traversed to visit strange worlds.

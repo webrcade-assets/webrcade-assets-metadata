@@ -1,0 +1,1 @@
+Champion of the Raj is a text adventure by Level 9 Computing. It takes place in 1800. The players take command of either British, French, Mogul Empire, Maruthras, Sikhs or Gurkhas vying for control of India.

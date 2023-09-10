@@ -1,0 +1,1 @@
+The Reluctant Resurrectee is a text adventure by David Whyld. It was created for the Interactive Fiction Spring Thing in 2007.

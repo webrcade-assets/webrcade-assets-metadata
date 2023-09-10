@@ -1,0 +1,1 @@
+The Magician's Niece is a text adventure by Eric Anderson. It was created for the EctoComp competition in 2009.

@@ -1,0 +1,1 @@
+Briefcase is a text adventure by Woodfish.

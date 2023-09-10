@@ -1,0 +1,1 @@
+Icebreaker: The Text Adventure is a text adventure by Andrew Plotkin. It is a text version of Andy Looney's Ice Breaker puzzle game.

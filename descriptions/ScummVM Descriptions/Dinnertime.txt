@@ -1,0 +1,1 @@
+Dinnertime is a text adventure by Bob Reeves. The object is to eat dinner without dying.

@@ -1,0 +1,1 @@
+Mis/Guided is a text adventure by Jari Sarajärvi, Patrik Dekhla, Tara Fkri and Rasmus Gunnarsson. It was created as a school project at The Game Assembly.

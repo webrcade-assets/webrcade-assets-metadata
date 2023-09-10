@@ -1,0 +1,1 @@
+Wonderland is a text adventure by Magnetic Scrolls. It was based on the children's book, Alice in Wonderland.

@@ -1,0 +1,1 @@
+Ice Cream is a text adventure by Roy Lee. It was created for the ADRIFT One Hour Competition in 2004.

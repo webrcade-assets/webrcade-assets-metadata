@@ -1,0 +1,1 @@
+The Chasing is a text adventure by Anssi Räisänen. The game follows a gentleman in Edwardian times who has to chase seven escaped horses.

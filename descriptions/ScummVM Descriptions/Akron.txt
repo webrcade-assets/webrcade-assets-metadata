@@ -1,0 +1,1 @@
+Akron is a humorous text adventure by Markus Kolic. It follows an amnesiac person who lives in Akron, Ohio.

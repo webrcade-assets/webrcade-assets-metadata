@@ -1,0 +1,1 @@
+James Bond Adventure is a text adventure. It is believed to be authored by Bruce Hansen. It is a short game following the famous British secret agent, James Bond.

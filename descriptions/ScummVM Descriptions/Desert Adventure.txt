@@ -1,0 +1,1 @@
+Desert Adventure is a text adventure by Sam Trenholme. The goal is to collect treasures in the desert and then to place them in certain locations.
