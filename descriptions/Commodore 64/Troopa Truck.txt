@@ -1,0 +1,1 @@
+Troopa Truck is a version of the classic game Moon Patrol. Here the player is driving a patrol wagon across the surface of Zon. There are obstacles and mines to lead over, ground based enemies in LasaSlamma tanks and aerial enemies in the form of missile firing HeliChargers. The aim of the game is to survive as long as possible to achieve a high score.

@@ -1,0 +1,1 @@
+Mario's Brewery is a 1-player clone of Donkey Kong for the Commodore 64. Instead of trying to defeat Donkey Kong and rescue their girlfriend, the player instead must evade a rampaging drink machine. The player controls Mario, who can move laterally, climb ladders, and jump over dangers. The player has 3 lives, and loses a life when colliding with any danger.

@@ -1,0 +1,1 @@
+Sześciany is a puzzle game based on the correct arrangement of cubes. The player's task is to arrange the cube in such a way that the three visible faces have the same color. The cube moves in the same way as the Rubik's cube - the whole column or row moves at the same time.

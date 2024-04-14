@@ -1,0 +1,1 @@
+Game #23 is a simple duel space shooter game. The game is designed for two players who stand opposite each other and start a stellar duel. Fighters are equipped with an anti-gravity engine and rocket launchers. The engine is used to stop the descent caused by gravity. The first hit of an opponent or a collision with the ground ends the duel.

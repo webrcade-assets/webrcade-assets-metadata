@@ -1,0 +1,1 @@
+It's a modern conversion of Amaurote, released back in 1987. The game features enhanced graphics, audio and uses the 2MHz mode of the processor (off-screen), which provides a 30% increase in-game speed.

@@ -1,0 +1,1 @@
+Podmianka is a puzzle game. The computer gives 7 numbers in random order, which should be arranged from the smallest to the largest. The player indicates the number to be replaced with the number in the first position. The goal is to line up the numbers in as few moves as possible.

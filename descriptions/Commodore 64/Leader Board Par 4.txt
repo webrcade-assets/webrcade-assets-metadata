@@ -1,0 +1,1 @@
+Golfing simulation compilation pack containing:1. Leader Board : the original game containing four 18-hole courses2. Leader Board Tournament : four new courses with a higher difficulty level than the originals3. Leader Board Executive : adds trees and bunkers4. World Class Leader Board : more new courses and features

@@ -1,0 +1,1 @@
+Saper is a text based Minesweeper, a conversion of ZX Spectrun game of the same title. The gameplay rules remain unchanged. Selected dot shows the number of bombs in the neighborhood. The detected mine may be marked with green color.

@@ -1,0 +1,1 @@
+Learn the Alphabet is a 1-player educational game for multiple systems. The player controls Perry the Penguin, who is responsible for loading letters onto trucks to build Alphabet City. The player must pick up the correct letter, and drop it into the correct truck. The player loads 4 trucks at a time, and when all are loaded, they drive off, and 4 more trucks arrive.

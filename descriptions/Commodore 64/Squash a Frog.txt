@@ -1,0 +1,1 @@
+Squash a Frog is a clone of Frogger for the C64. As in the original, it is the player's goal to guide a frog to his home across a busy street avoiding cars, followed by a river, hopping on turtles and tree logs to cross, taking care not to drown while also avoiding alligators. Five homes must be reached to complete a level. The game then restarts at a higher difficulty level.

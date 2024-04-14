@@ -1,0 +1,1 @@
+Kolor is a simple game where the player must remember the color shown in the very short moment. Before quessing the color the player must place a bet. Correct answer doubles the bet amount, the negative answer means losing raised money. The loss of all funds ends the game.

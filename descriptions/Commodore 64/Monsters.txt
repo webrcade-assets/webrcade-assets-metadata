@@ -1,0 +1,1 @@
+Monsters is a Pac-Man variant. The player must eat all the objects on the board while avoiding constantly moving hostile creatures. Contact with any of them takes some amount of energy. There is no special dot, allowing to defeat enemies, threafore the game is all about a quick maneuvering of the character in order outwit the opponent. The game features 40 levels.

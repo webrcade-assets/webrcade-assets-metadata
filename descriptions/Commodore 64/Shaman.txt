@@ -1,0 +1,1 @@
+Shaman is a side-scrolling arcade game, where the player must collect the designated number of bottles scattered around before the time runs out in order to reach the next level. Each level is inhabited by numerous animals, which may be killed with rocks. Contact with them means a certain death and necessity to start the level from the beginning. .

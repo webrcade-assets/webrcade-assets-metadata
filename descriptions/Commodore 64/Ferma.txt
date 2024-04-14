@@ -1,0 +1,1 @@
+Ferma is a text-based game. The player manages a farm and owns chickens, pigs, rabbits and eggs. Each turn must decide whether to sell some animals, buy food and sell eggs. With the money earned, the player can buy more animals or food. The game contains random events.

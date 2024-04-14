@@ -1,0 +1,1 @@
+Rachunek Prawdopodobieństwa is an educational program teaching principles of the probability theory. It consists of a practical part explaining the basic principles and a test that requires answers to specific questions. After the correct answer to a question, a practical experience is carried out.

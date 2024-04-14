@@ -1,0 +1,1 @@
+Seria Edukacyjna: Historia is an educational program for learning history. The program is divided into parts containing theory and tests. The tests have a different number of questions, their solution requires choosing one of several answers or entering the answers manually. After completing the test, a grade is issued.

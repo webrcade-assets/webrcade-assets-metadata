@@ -1,0 +1,1 @@
+Życie simulates the emergence and disappearance of population organisms. Any organism surrounded by two or three other organisms will survive. Four or more organisms nearby, or the absence of them, degrades the organism. In an empty cell surrounded by three organisms, a new life arises.

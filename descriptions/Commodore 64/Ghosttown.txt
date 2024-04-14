@@ -1,0 +1,1 @@
+Ghosttown is a side-scrolling 3rd perspective shooter. The player's task is to quickly kill bandits that appear suddenly in various places and avoid hitting civilians. If you won't sgot the bad guys fast enought, they will shot you and reduce the amount of ammo  you have.  To kill the walking guys, aim your shots around their belts.

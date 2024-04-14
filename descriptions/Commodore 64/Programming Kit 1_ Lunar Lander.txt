@@ -1,0 +1,1 @@
+Programming Kit 1: Lunar Lander is an educational arcade program for the Commodore 64. This program allows young programmers to create their own Lunar Lander game. With this, the player tries to land a lander on a flat surface of the moon below. The player has limited fuel, and must control their vertical and horizontal velocity prior to landing, while contending with gravity.

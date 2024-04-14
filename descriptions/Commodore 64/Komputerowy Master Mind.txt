@@ -1,0 +1,1 @@
+Komputerowy Master Mind is a computer adaptation of the eponymous board game for up to six players. The objective of the game is to guess a combination of four digits. After each trial, it is indicated how many digits were indicated right and how many appear in combination, but in a different position.

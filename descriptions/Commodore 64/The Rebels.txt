@@ -1,0 +1,1 @@
+The Rebels is an arcade game where the player must defeat a designated number of enemies to acquire a key necessary to close the gate. Defeating enemy requires performing a kick from a specified distance. Each gate needs a separate key to close it. After closing all gates and defeating all remaining enemies, the player is moved to the next level.

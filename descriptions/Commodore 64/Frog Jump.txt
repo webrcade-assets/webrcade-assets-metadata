@@ -1,0 +1,1 @@
+Frog Jump is an educational game for one or two players. Players jump their frogs around a series of lily pads. Players are given addition and subtraction questions and receive 1, 2, or 3 points depending on how quickly they answer the question. They receive 0 points for an incorrect answer. The first player to reach 20 points and circumnavigate the lily pads is the victor.

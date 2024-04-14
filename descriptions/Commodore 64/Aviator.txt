@@ -1,0 +1,1 @@
+Aviator is a side-scrolling shooter. The player flies a fighter in an open area and must shoot at all enemies that appear. Outside of planes, the pilot should be careful of bunkers on land. At the end of each level, a mothership awaits.

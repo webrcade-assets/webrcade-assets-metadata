@@ -1,0 +1,1 @@
+Vin Tim is a words guessing game. Player have five attempts to guess a five-letter word. The first letter is revealed, the guessed letter remains on the board. Each attempt lasts 10 seconds.

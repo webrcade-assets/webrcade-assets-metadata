@@ -1,0 +1,1 @@
+Road Race is a 1-player 3-D racing game for the VIC-20. Played from a 1st person perspective, the player steers left and right as the road and turns rapidly approach the player. The vehicle has 4 gears, and hitting the sides slows the player down. The goal is to travel as far as possible in 99 time units.

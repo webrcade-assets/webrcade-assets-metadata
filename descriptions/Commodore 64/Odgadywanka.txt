@@ -1,0 +1,1 @@
+Odgadywanka is a simple game where the player's task is to guess the number drawn by the computer. At the beginning, the player indicates the upper numerical range, and the computer, after indicating the number, informs whether it is too high or too low.

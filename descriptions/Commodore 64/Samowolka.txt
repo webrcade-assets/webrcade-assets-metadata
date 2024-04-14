@@ -1,0 +1,1 @@
+Samowolka is a text adventure game set in the Polish army, with the plot based on the movie of the same title. Due to the acute vocabulary the game is intended only for adult players. The player can choose one of three soldiers of different military rank and from his perspective, learn the pathology of the army in a specially matched adventure.

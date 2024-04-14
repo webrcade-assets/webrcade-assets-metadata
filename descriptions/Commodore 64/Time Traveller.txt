@@ -1,0 +1,1 @@
+Time Traveler is a single screen 3rd person perspective shooter. The player's task is to shoot down as many enemy objects as possible before they reach the target and weaken the shield level.

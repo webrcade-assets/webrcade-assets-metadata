@@ -1,0 +1,1 @@
+Biznesmen is a simple trade game, which consists of buying and selling all kinds of goods in 20 cities around Poland. Players can buy and sell goods (car market, goods market, noble metal market), invest the money in actions of companies or expand warehouses. The game allows to compete up to 4 players.

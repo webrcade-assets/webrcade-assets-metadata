@@ -1,0 +1,1 @@
+Gem Mania is a puzzle-board game. The player has to change all the red circles to the green ones. A selected circle changes the color to the opposite, along with the four adjacent circles (top, down, left, right). A black red changes color to green, and green circle to red. There is no limit of moves allowed.

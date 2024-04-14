@@ -1,0 +1,1 @@
+Saper 3 is a clone of classic Minesweeper, a conversion of ZX Spectrun game of the same title. The gameplay rules remain unchanged. Selected spot shows the number of bombs in the neighborhood. The detected mine may be marked with green color. The game allows to define board size (max 40x24) and number of bombs (max 960).

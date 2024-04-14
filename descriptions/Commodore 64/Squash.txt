@@ -1,0 +1,1 @@
+Squash is a simplified computer adaptation of the classic sport game of the same name. It is played only as a practice mode - by one player, bouncing the ball from the wall. Each ball bounce is awarded with 10 points. Three errors mean the end of the game.

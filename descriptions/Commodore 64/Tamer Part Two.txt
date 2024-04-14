@@ -1,0 +1,1 @@
+Tamer Part Two is a slightly modified version of the first part, allowing two players to play simultaneously. The gameplay remains unchanged, except an additional fighter can support in the fight against the aliens. The levels look very similar, differing mainly in a sequence of surroundings objects (space debris, stars, asteroids) and emerging enemies (fighters, tanks, rockets).

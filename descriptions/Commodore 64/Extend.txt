@@ -1,0 +1,1 @@
+Extend is a Snake variant. The player has to guide a snake through a board. The player must feed the snake with the randomly appearing digits to score points, however feeding the snake makes it grow longer. The higher number, the more points he receives. Number decreasing with time, vanishing after reaching 0.

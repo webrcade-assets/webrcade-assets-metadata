@@ -1,0 +1,1 @@
+Crystal Downs is a 1 - 10 player horse racing betting game for multiple systems. Each horse's number, color, name, and odds are displayed.  The player can place bets ($1 - $1000) on the horses to win, place, or show.  The race is then graphically displayed, and after the final results, each players' wins and losses are displayed.

@@ -1,0 +1,1 @@
+Quizardry is a 1 or more player quiz game for the Commodore 64. The Quizard knows all, but do you? The player must answer trivia questions to escape from the Quizard's minions deep within his dungeon. The player needs to collect the 6 Keys of Knowledge to escape the dungeon.

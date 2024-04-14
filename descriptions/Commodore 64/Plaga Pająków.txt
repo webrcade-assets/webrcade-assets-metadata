@@ -1,0 +1,1 @@
+Plaga Pająków is a simple screen action game. A spider descends from the ceiling on a cobweb. The player's task is to catch it in the container before it reaches the floor. After catching a spider, another one appears in a different place, if you don't catch it, you lose some energy.

@@ -1,0 +1,1 @@
+Kubuś na Dzikim Zachodzie is a duel of gunslingers, Kubuś and Billy the Pixel. Enemies keep getting closer to each other. Each has 3 bullets in the gun. Distance affects accuracy. The element of randomness also affects the accuracy of the shot. Whoever hits the opponent first wins the duel.

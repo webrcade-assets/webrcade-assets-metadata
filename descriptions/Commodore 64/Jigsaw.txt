@@ -1,0 +1,1 @@
+Jigsaw is a puzzle game for the Commodore 64. The player puts together jigsaw puzzles by choosing square pieces and placing them on a grid.

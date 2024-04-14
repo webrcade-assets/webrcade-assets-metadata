@@ -1,0 +1,1 @@
+Negatron is a timed puzzle-board game for two players. The player has to change all the yellow squares to the blue ones. A selected square changes the color to the opposite, along with the four adjacent squares (top, down, left, right). A yellow changes color to blue, and yellow circle to blue.

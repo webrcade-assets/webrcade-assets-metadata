@@ -1,0 +1,1 @@
+A clone of Sokoban in terms of gameplay, P1x3l-pushr takes place in warehouses, where you must push boxes to their destinations. You can press Fire at any time to restart the level. P1x3l-pushr was an entry into the 1024 Bytes Game Compo 2nd Edition, where it took 2nd place.

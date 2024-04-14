@@ -1,0 +1,1 @@
+A Frogger clone. Try to get four frogs into their home before time runs out. To get one frog to home you must cross the road while avoiding cars and jump on logs to cross the river while avoiding snakes and crocodiles.

@@ -1,0 +1,1 @@
+Cheeseburger is an arcade game. The player's task is to drop the cheese on the burger insert. To do this, it is necessary to walk over the entire slice of cheese. Dropping cheese on burger inserts gives you points and extra power. Power is used to grant the character temporary invulnerability.

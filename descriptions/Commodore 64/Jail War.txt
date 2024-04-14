@@ -1,0 +1,1 @@
+Players control a criminal who has broken out of his prison and is making his way toward a helicopter. The criminal is armed with his own knife and a supply of grenades which he uses to destroy guards and other criminals that get in his way. If the criminal is killed by someone, he loses a life. If he loses all of his lives, the game is over.

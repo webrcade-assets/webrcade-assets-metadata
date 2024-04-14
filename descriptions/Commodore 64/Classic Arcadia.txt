@@ -1,0 +1,1 @@
+Classic Arcadia is a compilation of three budget release clones of coin-op arcade games. The games in this compilation are Classic Muncher, a Pac-Man clone Classic Axiens, a Galaxian clone Classic Invaders, a Space Invader clone

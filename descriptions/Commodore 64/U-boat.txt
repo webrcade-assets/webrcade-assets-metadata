@@ -1,0 +1,1 @@
+This take on Depthcharge has the player in control of a submarine in a sea mine-infested area. The object is to shoot passing destroyer ships with well-timed torpedo launches, while dodging depth charges and sea mines.

@@ -1,0 +1,1 @@
+Swoop is a clone of Galaxian. The objective is to rid the space lanes of the homing, swooping Birdmen. Enemies come in 8 phases, sending missiles on player's laser tower. When the Birdman reach laser tower line, he place an explosive egg on the ground, restricting temporary the room to manoeuvre. Game has 4 difficulty (speed) levels.

@@ -1,0 +1,1 @@
+O i X is an adaptation of tic-tac-toe, played versus the computer on a 20 by 20 board. The goal is to arrange five O's or X's in a row. The human player can choose if he wants to go first. Each completed row gives a point.

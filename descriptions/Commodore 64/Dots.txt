@@ -1,0 +1,1 @@
+Dots is a conversion of the pencil-and-paper two player strategy game. This version can only be played against the computer AI. Players take turns selecting corners (dots) on a board with six by six tiles. The goal is to enclose dots placed by the computer with continuous lines. Surrounded dots can no longer be used.

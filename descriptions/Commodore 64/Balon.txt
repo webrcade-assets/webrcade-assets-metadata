@@ -1,0 +1,1 @@
+Balon is an arcade game where the player while flying with a balloon must avoid terrestrial enemies and birds. The game is divided into 6 stages, differing in the type of enemies and tasks to be performed. Flying birds may be avoided or killed by dropping bombs from above. After completing all levels, the game starts again with additional difficulties.

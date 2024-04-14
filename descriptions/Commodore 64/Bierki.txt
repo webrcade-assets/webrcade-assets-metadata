@@ -1,0 +1,1 @@
+Bierki is a pick-a-stick game. There are 3 sets of sticks in the game - 3,4,5 in a set. The player may pick up any number of sticks, but a minimum one and only from one set at a time. The one who picks up the last stick wins the game.

@@ -1,0 +1,1 @@
+Bridge 3.0 is the first in the Bridge series being published by Artworx. You play with your computer partner against two computer opponents. The program consists of two parts: bidding for the contract and playing out the hand.

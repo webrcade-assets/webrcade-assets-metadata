@@ -1,0 +1,1 @@
+Cloux is a clone of Mine Sweeper. The player can set the number of mines - from 1 to 12 and the size of the board - from 3 to 20 fields horizontally and from 3 to 25 fields vertically. The rest of the rules remain the same. After pressing the field, a number with the number of bombs in the vicinity is displayed. Hitting the bomb ends the game.

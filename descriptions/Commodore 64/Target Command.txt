@@ -1,0 +1,1 @@
+Target Command is a 1-player arcade game for multiple systems. The whole west coast is being bombarded, and only you can save it. The player moves a crosshair, to try to shoot down incoming missiles to protect their cities. The player has limited ammo, and there are 5 levels of difficulty. Game over when all cities are destroyed or the ammo runs out.

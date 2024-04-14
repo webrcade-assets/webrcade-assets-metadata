@@ -1,0 +1,1 @@
+Bounty Hunter is a text adventure for multiple systems. You are a bounty hunter, who must track down and capture all 5 members of the notorious Oil Gang, and return their stolen gold bullion to the 1st National Bank of Dodge. All commands are via VERB NOUN entry, and there is no save or restore feature.

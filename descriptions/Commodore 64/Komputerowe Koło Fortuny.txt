@@ -1,0 +1,1 @@
+Komputerowe Koło Fortuny is a game loosely based on the TV show Wheel of Fortune. The players take turns guessing letters to form a word or a saying. The game can be played with up to three players. During their turn the players can spin the wheel, guess a consonant, buy a vowel or guess the password.

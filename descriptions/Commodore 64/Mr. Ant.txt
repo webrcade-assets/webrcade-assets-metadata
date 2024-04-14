@@ -1,0 +1,1 @@
+Mr. Ant is a clone of Pac-Man. The goal of the game requires collecting all the yellow dots on the board, while avoiding 4 hostile opponents moving around the maze. Contact with them means a loss of life. Unlike Pac-Man, there are no special dots in the game, allowing to eat the enemies, or the fruits giving extra points.

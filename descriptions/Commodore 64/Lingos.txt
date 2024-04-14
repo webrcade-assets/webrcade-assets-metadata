@@ -1,0 +1,1 @@
+Lingos is a puzzle solving game, clone of Master Mind, where the player must guess a word within just five trials. After each trial computer shows how many letters were indicated right (white color) and how many appears in word, but in a different position (glowing color). The final number of trials determines awarded points.

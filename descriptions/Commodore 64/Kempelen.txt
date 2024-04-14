@@ -1,0 +1,1 @@
+Kempelen is a 1-player versus computer chess game for the Commodore 64. Standard chess game that has 10 separate difficulty levels. Pieces are graphically displayed on the screen, and moves are inputted via text prompt. Only legitimate moves are allowed.

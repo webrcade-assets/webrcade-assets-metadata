@@ -1,0 +1,1 @@
+Doris 2 is a timed puzzle solving game. The goal of the game is to arrange an identical picture in the second window within a designated time. Arranging the pattern requires moving a full row - diagonally or horizontally. The passage of time ends the game. The player has 10 trials for each picture. The game features 3 difficulty levels.

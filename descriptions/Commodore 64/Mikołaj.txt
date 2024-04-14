@@ -1,0 +1,1 @@
+Mikołaj it's an arcade game. The player's task is to deliver as many gifts as possible to the children. Children waiting in apartments are very impatient. The color displayed in the windows determines the waiting time for gifts. When a child loses hope of receiving a gift, the yellow color lights up, which means the end of the game. Presents are thrown down the chimney.

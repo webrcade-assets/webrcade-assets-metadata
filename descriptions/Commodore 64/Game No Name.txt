@@ -1,0 +1,1 @@
+There is a small ship at the bottom of the screen. Diamonds appear at the top of the screen. The player must position the ship so that it destroys the diamonds when fired. Simultaneously with the execution of the shot, a new diamond appears on the board in a random place.

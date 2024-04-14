@@ -1,0 +1,1 @@
+Mit Jeans und Hellebarde is a text adventure in German language. The plot follows a man from today who suddenly finds himself in medieval times. The player has to solve puzzles by typing in commands with the keyboard.

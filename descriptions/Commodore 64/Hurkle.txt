@@ -1,0 +1,1 @@
+Hurkle is a simple game in which the player must find the location of a hidden Hurkle on a ten by ten grid. The player must select grid points and the game will tell in which general direction the Hurkle is located (north, east, northeast, etc). The goal of the game is to find the Hurkle in as few turns as possible.

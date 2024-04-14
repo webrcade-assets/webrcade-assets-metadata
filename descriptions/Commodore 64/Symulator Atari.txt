@@ -1,0 +1,1 @@
+This is a kind of C64 programmer's prank on Atari users. The author wanted to show what Atari games will look like in 2043. In fact, the game contains four variants of Pong : tennis, wall, hockey, football.

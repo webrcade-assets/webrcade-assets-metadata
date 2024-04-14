@@ -1,0 +1,1 @@
+Jump Ball is a timed arcade game, where the player must collect all the keys scattered around the maze before the time runs out. The player controls the bouncing ball and must avoid all obstacles. Contact with any of them means a loss of life. Sequence of key collection is the key to passing the level. Wrong choice at this point ends with a lack of time.

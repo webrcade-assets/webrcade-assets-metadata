@@ -1,0 +1,1 @@
+Snoopy is a platform game with twenty single-screen levels. The player takes on the role of Snoopy , the dog from the comic series Peanuts. In each level the player must walk from left to right with Snoopy, while avoiding various dangers. After all twenty levels have been played, the game starts again, but now with a higher playing speed.

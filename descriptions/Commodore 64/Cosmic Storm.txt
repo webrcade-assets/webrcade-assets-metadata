@@ -1,0 +1,1 @@
+Released with the Magnum "lightphaser" lightgun, Cosmic Storm made up one of the six games packaged with the peripheral. The game involves protecting your planet from alien invaders by using the gun to shoot at the on-screen enemies. Players are graded on the fly for accuracy as the aliens sweep around the screen using smooth sine-wave attack patterns.

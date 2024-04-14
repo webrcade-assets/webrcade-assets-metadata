@@ -1,0 +1,1 @@
+Dot Gobbler is a 1 - 2 player Pac Man clone for the Commodore 64. Try to gobble up the dots before the hungry ghosts catch you. Gobble one of the large power dots for added strength, and it's your turn to chase the ghouls for extra bonus points. The player starts with 3 lives, and 1 is lost if a ghost catches them. Gobble all the dots, and move on to the next level.

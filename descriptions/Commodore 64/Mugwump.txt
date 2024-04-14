@@ -1,0 +1,1 @@
+Mugwump is a textual game in which the player's spatial reasoning skills are put to the test. In a 10x10 grid four Mugwumps are hidden, it's up to the player to find them all in as few guesses as possible. Each turn the player may guess a coordinate and consequently is told if a Mugwump was hidden on the location and the distance to all the remaining Mugwumps.

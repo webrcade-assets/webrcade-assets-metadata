@@ -1,0 +1,1 @@
+Jewel Thief Adventure is a text adventure for multiple systems. The famous "Blue Wallaby" diamond is on display at the Central City Museum.  The player must break into the museum, defeat the security systems, and steal the diamond. All commands are via VERB NOUN entry.  There is a help command to assist with clues.

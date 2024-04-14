@@ -1,0 +1,1 @@
+microSubtraction is an educational game for young children for multiple systems. Contains 4 mini-games: Birds: Press a number, and watch that number of birds hatch from eggs. Numbers: Count the number of birds on mailboxes. Subtracting Balloons: Subtract the balloons on the screen. Subtracting Numbers: Subtract the numbers displayed on the screen.

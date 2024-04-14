@@ -1,0 +1,1 @@
+Life v1.0 simulates the growth of bacterial colonies. At the beginning, the player establishes a colony of bacteria, and then watches them multiply and die. While observing the simulation, the player can go to the editing stage at any time and make any changes to the bacterial colony.

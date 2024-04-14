@@ -1,0 +1,1 @@
+This is an educational program that teaches basic mathematical operations and operations with fractions. The test contains 3 levels of difficulty, and each task is evaluated according to the speed of its solution. After solving all tasks, the final grade is displayed. In the case of more advanced operations, the program shows how to calculate them using several examples.

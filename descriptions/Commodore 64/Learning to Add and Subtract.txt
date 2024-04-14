@@ -1,0 +1,1 @@
+Learning to Add and Subtract is a math game for multiple systems. Contains three educational games:* Learning to add - Practicing sums up to 9 with pictures Learning to Subtract - Practicing differences with numbers up to 9 A Different Way of Adding - Practices all sums up to 9. Each correct answer builds a rocketship, which launches when all sums are complete.

@@ -1,0 +1,1 @@
+Strażak Sam is an arcade game, where the player, as a fireman, must save people and animals from a building in flames. The fireman uses water bombs to extinguish the fire. In addition to flames, firemen must avoid falling parts of the building, spiders and hot steam from damaged pipes.

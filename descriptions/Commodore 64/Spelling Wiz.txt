@@ -1,0 +1,1 @@
+Spelling Wiz is an educational game for multiple systems. The player controls a wizard, who tries to spell words with missing letters. As the player fills in the the letters, clouds appear on the screen. Spelling words correctly causes the clouds to disappear. If too many clouds appear on the screen, it's game over.

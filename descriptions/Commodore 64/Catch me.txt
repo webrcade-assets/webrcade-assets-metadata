@@ -1,0 +1,1 @@
+Catch me is a simple game for two players. Each player controls one ball. The task of the first player is to catch the second player in the allotted time. If he does, he gets a point. If player two manages to successfully escape for the specified amount of time, he wins.

@@ -1,0 +1,1 @@
+Square Pairs is a 1 - 4 player educational tile matching puzzle for multiple systems. Players can flip tiles to find and match anagrams, city/country matches, opposites, faces, and more. Players can make custom games, and there is a computer opponent available. Boards can be played in 3 sizes.

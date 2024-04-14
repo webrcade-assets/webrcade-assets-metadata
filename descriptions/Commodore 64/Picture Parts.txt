@@ -1,0 +1,1 @@
+Picture Parts is an educational math game for multiple systems. The player answers mathematics questions, with 3 levels of difficulty available. Every correct answer allows the player to choose 1 of 3 possible body parts, and the player must complete the face, eyes, ears, nose, mouth, eyebrows, hat, and collar of the individual.

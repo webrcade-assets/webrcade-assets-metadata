@@ -1,0 +1,1 @@
+Cosmos 3000 is a single screen space shooter. As a lonely spacecraft pilot the player must face the invasion of alien fleet. The control is limited to moving left and right sight, performing shoots and turning on the shields. Enemy forces appear in waves, differing directions of movement and ways of shooting.

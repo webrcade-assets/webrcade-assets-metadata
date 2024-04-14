@@ -1,0 +1,1 @@
+The player throws the ball towards the board. The wheel should stop on the square marked with as many numbers as possible. The first two fields have a value of 1, the next three have a value of 2, the next two have a value of 4, and the last two have a value of 8. Exceeding the field with a value of 8 causes the ball to stop outside the board.

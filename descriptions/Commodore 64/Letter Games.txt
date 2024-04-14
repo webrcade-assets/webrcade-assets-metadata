@@ -1,0 +1,1 @@
+Letter Games is a 1-player educational game for the Commodore 64. Game designed to help children with letter discrimination. Children try to find the letter that is different, or match letters from a list.

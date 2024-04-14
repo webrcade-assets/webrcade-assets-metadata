@@ -1,0 +1,1 @@
+Egzamin na Prawo Jazdy is an educational game, examining traffic rules. The game features 13 sets of tests. Each set requires solving 30 questions, with 3 multiple answer possibilities. The answer to each question must be validated before time runs out. After completing the test, a final score is issued.

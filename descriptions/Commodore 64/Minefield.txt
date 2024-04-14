@@ -1,0 +1,1 @@
+Minefield is a clone of classic Minesweeper. The gameplay rules remain unchanged. Selected spot shows the number of bombs in the neighborhood. There is no possibility to select any gameplay aspects. The player has limited time to finish the board - 1000 seconds.

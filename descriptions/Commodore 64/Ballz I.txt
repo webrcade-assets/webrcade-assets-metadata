@@ -1,0 +1,1 @@
+Ballz I is a Tetris and Galaxian fusion, where the player must hit falling circles before they reach the bottom of the board. The task requires hitting a circle with a ball to push it back for a specified time. Reaching the designated time allow access the next level.

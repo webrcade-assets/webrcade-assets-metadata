@@ -1,0 +1,1 @@
+Wisielec is a word-guessing game based on Hangman. To save the life the player has to guess the password. The player may choose each of the letters (consonants and vowels), wrong answer means the loss of one point and ends up drawing a part of a hanged man. Good answer gives one point. .

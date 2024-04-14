@@ -1,0 +1,1 @@
+Krzyżówka is a computer adaptation of classic crosswords. It features 26 sets of crosswords, 600 passwords, 45 selectable music tracks. Standard rules apply, passwords are vertical and horizontal. When you select the arrow, the phrase is displayed. The password is entered using the keyboard. The game has built in password editor.

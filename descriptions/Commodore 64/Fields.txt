@@ -1,0 +1,1 @@
+Fields is a computer adaptation of puzzle-board game four-in-a-row for one up to two players. The task requires getting 10 rows of four fiches. Rows may be arranged diagonally, horizontally and obliquely. Completed row vanishes from the board.

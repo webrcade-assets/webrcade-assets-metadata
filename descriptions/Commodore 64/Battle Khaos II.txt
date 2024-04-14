@@ -1,0 +1,1 @@
+Battle Khaos II is a multiplayer strategic wargame inspired by the games like Magic: The Gathering, Dark Legions and also Julian Gollop's Chaos - The Battle of Wizards. The goal is to kill the enemy wizards. It is done mainly by casting sorceries and also by summoning various creatures and sending them off to fight.

@@ -1,0 +1,1 @@
+Tetrisack is a clone of Tetris. The rules of the game remain the same - the player's task is to arrange the blocks in the well. A full row of blocks removes them from the board. The screen is divided into two windows for two players. When playing against the computer, you can choose one of three difficulty levels.

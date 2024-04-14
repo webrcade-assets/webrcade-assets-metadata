@@ -1,0 +1,1 @@
+Shape Up! is a 1-player educational game for small children. The player controls Shapeman, who needs to sort shapes as they fall from above. The player needs to move squares to the trucks, triangles to the cats, circles to the people, and rectangles to the buildings. Players can also make their own images using these 4 shapes.

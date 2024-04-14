@@ -1,0 +1,1 @@
+Time Runner is a game in which you move your character along a pellet grid, which changes from level to level, while you collect points and avoid enemy characters. The goal is to, similar to PacMan, cover the entire board and fill-in each rectangular area, which will then become colored in. Time Runner was first developed on the Atari 800 and later converted to the Commodore-64.

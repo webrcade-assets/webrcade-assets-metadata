@@ -1,0 +1,1 @@
+Tetrad is a 3D Tic-Tac-Toe variant. Played on a 4 x 4 x 4 board, players take turns placing an X or an O on the board to try to score four in a row. Designed for 2-player competitive or 1-player versus computer, there are 3 levels of computer difficulty. The first player to play 4 in a row wins.

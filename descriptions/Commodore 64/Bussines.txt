@@ -1,0 +1,1 @@
+Bussines is a text-based strategy game where the player commands a country. Management includes trade, production, resource extraction and army building. The game contains random events. After building the appropriate army, the player must conquer 10 neighboring countries.

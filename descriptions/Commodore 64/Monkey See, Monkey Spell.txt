@@ -1,0 +1,1 @@
+Monkey see, Monkey Spell is a 1-player educational game for multiple systems. The player controls a large monkey who can climb a tree and collect letters off of the branches. Pictures appear at the base of the tree, and the player has a limited time to climb the tree and find the needed letters to spell the word. The player receives a score based upon the word spelled.

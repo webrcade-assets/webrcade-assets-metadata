@@ -1,0 +1,1 @@
+Enchanted Forest is a 1-player arcade game for the Commodore 64. The player controls a small character who moves about a forest trying to collect trees. They must avoid 3 creatures that move continuously towards the player, and occasionally disappear behind the foliage. The player loses a life if caught, 3 lives lost and it's game over.

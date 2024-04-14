@@ -1,0 +1,1 @@
+The Commodore 64 version of Robbo plays similar to the original version, however it consists of 76 original levels and also contains some additional types of objects not found in the original game.

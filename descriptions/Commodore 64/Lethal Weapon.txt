@@ -1,0 +1,1 @@
+A more simplified version of Lethal Weapon. In this version Riggs or Murtaugh can only be selected at the beginning, the game is linear instead of allowing players to select their missions, and most importantly the levels were redesigned.

@@ -1,0 +1,1 @@
+Mastermind is a puzzle game. The player must place 3 missing rectangles with missing numbers on the board. The board is divided into 24 fields. There is a time limit for providing the correct solution. The player can only make 3 adjustments to the alignment.

@@ -1,0 +1,1 @@
+Old Tower is an arcade game where you take the role of an explorer making his way through a tower. The explorer can climb walls and the only weapon is your wits. The tower is full of traps, enemies and power-ups. It was originally made for the ZX Spectrum for the ZX-DEV M.I.A - Remakes 2018 Competition. It was inspired by Tomb of the Mask.

@@ -1,0 +1,1 @@
+Colee is a simple puzzle-solving game. The goal requires finding all the covered pairs of pictures on the board. Discovered pairs disappear from the board. There is a time limit, the counter on the right panel indicates how many moves were done.

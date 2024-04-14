@@ -1,0 +1,1 @@
+Peanuts Maze Marathon is a maze game featuring the characters from the comic strip Peanuts. Each maze contains a short animated vignette featuring Peanuts characters. The player must then move a small black marker through a maze to reach the exit. Mazes can be timed or untimed.

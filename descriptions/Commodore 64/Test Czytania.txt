@@ -1,0 +1,1 @@
+Test czytania teaches the basics of reading/writing. After turning on the program, a word appears on the screen for a short time, which the player must remember and rewrite on the keyboard. Completing the task correctly means extra points.

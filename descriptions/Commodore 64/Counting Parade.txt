@@ -1,0 +1,1 @@
+Counting Parade is a 1-player educational counting game for multiple systems. The player chooses from a specified number of animals from a field of different creatures. These animals then parade across the top or bottom of the screen depending upon game type. The player must pick out the correct animal and the correct number from the counting parade.

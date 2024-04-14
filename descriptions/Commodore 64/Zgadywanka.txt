@@ -1,0 +1,1 @@
+Zgadywanka is a puzzle game where the task of the computer is to guess the number indicated by the player. The player sets the maximum number range and indicates whether the number is too high or too low.

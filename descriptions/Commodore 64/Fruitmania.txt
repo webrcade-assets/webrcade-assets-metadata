@@ -1,0 +1,1 @@
+Fuitmania is an arcade game. The player's task is to collect all the fruits from the board and reach the exit before time runs out. Monsters move only on a beaten path. You can drop heavy objects on them or shoot them. The remaining time on the counter is converted into bonus points.

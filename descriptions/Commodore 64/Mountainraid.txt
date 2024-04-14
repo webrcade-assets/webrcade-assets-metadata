@@ -1,0 +1,1 @@
+Mountainraid is a simple arcade game. The player's task is to drive the vehicle along the winding mountain roads. Going downhill causes a constant increase in speed. The best result is saved as High Score.

@@ -1,0 +1,1 @@
+Santa Claus is a 1-player arcade game for the Commodore 64. The player controls Santa and his sleigh as he flies over an unnamed Canadian city. Santa tries to avoid planes and helicopters, while dropping candy canes into houses for points. The player has limited time to maximize score.

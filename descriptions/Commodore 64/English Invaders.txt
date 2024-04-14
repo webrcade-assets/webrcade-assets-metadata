@@ -1,0 +1,1 @@
+English Invaders is an educational arcade game for the VIC-20. The player controls a small cannon at the bottom of the screen that moves laterally, and fires vertically. Letters move down from the top of the screen, and the player must shoot them while correctly identifying them as a verb, noun, or adjective.

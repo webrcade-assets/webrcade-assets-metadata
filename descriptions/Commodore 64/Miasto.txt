@@ -1,0 +1,1 @@
+Miasto is a strategic text game where the player is tasked with managing a city. Management includes building houses, workshops, parks, gas stations, shops, trading currencies, providing food to residents, and collecting rent. The game includes a graphic element in the form of city visualization.

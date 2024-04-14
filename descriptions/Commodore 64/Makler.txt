@@ -1,0 +1,1 @@
+Makler is a text based economy game. The player's task is to trade on the stock exchange, combined with the production and sale of products of various quality, in order to shape supply and demand, affecting the exchange rates.

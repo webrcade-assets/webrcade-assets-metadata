@@ -1,0 +1,1 @@
+Czar Kart is a solitaire game, including 2 variants of the picks. The first variant involves placing cards into aces by seniority. The second one requires putting a red card on black (or contrariwise), always one smaller. In addition the player may select 3 difficulty options, allowing for viewing the stack every 1, 2 or 3 cards.

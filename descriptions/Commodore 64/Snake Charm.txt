@@ -1,0 +1,1 @@
+Snake Charm is a 1-player arcade game for the Commodore 64. Guide the serpent through the maze and devour the hearts. Don't try to eat your own body or bump into walls. When the snake pit opens in the lower right, hurry through to safety and get a screen change.

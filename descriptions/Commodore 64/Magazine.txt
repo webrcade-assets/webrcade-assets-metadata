@@ -1,0 +1,1 @@
+Magazine is a logic game. As a warehouseman, the player's task is to place all the crates in the designated place. Chests can only be moved forward, so you have to be careful not to block access to them. Each level has a certain amount of time to complete the mission.

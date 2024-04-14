@@ -1,0 +1,1 @@
+Ping is another Pong conversion. Players have paddles that bounce the ball. The game ends when one of the players reaches 15 points.

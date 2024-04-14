@@ -1,0 +1,1 @@
+Nuclear Submarine Adventure is a text adventure for multiple systems. You are trapped aboard a nuclear submarine at the bottom of the ocean, and must safely escape. The player must reactivate a number of damaged computer systems, and navigate the vessel to safety. All directions are displayed. There is a save/restore feature, and all commands are via VERB NOUN entry.

@@ -1,0 +1,1 @@
+Ortografia is an educational game. The player's task is to write the correct spelling. The game shows a word with an empty space and the player needs to decide on what letter to write. The game features dictionary editor, allowing to add unlimited number of words.

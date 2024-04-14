@@ -1,0 +1,1 @@
+This is another clone of the classic Tetris. The rules remain the same. The player must place a full line of blocks to remove them from the well. The game has a built-in single player mode and two players - cooperation and competition. It is also possible to play in an inverted well, where the blocks move from bottom to top.

@@ -1,0 +1,1 @@
+Cops and Robbers: Police Subtraction is an edutainment game where the player must try to save a town from the robbers. The player must successfully answer subtractions for each square of the town to prevent the robbers from taking over.

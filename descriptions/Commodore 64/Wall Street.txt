@@ -1,0 +1,1 @@
+Wall Street is a 1 - 4 player stock trading game for the Commodore 64. Players take turns buying and selling shares to try to maximize their profits. They can also invest in real estate and money markets. Game time is divided into individual quarters.

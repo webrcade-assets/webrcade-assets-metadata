@@ -1,0 +1,1 @@
+Deadly Messengers is a simple single screen space shooter for two players. Both players' space fighters are deployed on opposite sides of the orbit. Their task is to defeat the enemy by proper use as shields constantly moving horizontally asteroids. Space ships may be moved only right and left side.

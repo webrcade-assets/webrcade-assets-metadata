@@ -1,0 +1,1 @@
+Arytmetyka is an educational program, allowing to learn basic math operations, such as addition, multiplication, subtraction or division. The game allows selecting the range of mathematical operations, displays the correct result and shows the current rating by moving the stick figure from 2 to 5.

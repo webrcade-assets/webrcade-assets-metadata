@@ -1,0 +1,1 @@
+Hobbit czyli w te i wewte... is a game introduced by the author as first Polish text adventure title. The game is played in the world known from the Hobbit book. The task requires taking a brilliant sphere from the room of Smoug and delivering it to Gandalf. The player performs activities by using text commands. The text is very complex, there are no graphic elements in the game.

@@ -1,0 +1,1 @@
+Program for learning English, divided into seven thematic modules. After completing them, the player passes the test. Learning is based on graphic images and animations displayed on the screen.

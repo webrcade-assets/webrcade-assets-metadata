@@ -1,0 +1,1 @@
+Zamczysko is a platform game set in the haunted castle. The task requires finding 5 diamonds guarded by numerous traps and hostile creatures. Contact with any of them takes some amount of energy that can't be replenished. Closed doors require finding the key. Falling from highs takes no energy.

@@ -1,0 +1,1 @@
+Ratrun is a maze game in which the player must escape from a maze in first person perspective. The player can move forward, turn left, right and all the way around. The maze itself is shown as a wireframe in the Commodore PET version of the game, or colored planes on the Commodore 64.

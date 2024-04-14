@@ -1,0 +1,1 @@
+The Revenge is a Hungarian specific text adventure game. This time you are in an Asian setting. A clan massacred your home village, and you go to seek revenge. The descriptions are supported with images depicting your surroundings, and occasional musical cues. A save-load feature is present. The Hungarian character set is supported by the parser.

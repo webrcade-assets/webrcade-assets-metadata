@@ -1,0 +1,1 @@
+The Flying Carpet is a children's educational geometry game. A genie flying on a magic carpet presents the player with an image that consists of up to 4 geometric shapes. The player must then determine how many of each shape is in the picture.

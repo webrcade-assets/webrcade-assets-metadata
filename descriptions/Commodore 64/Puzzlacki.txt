@@ -1,0 +1,1 @@
+Puzzlacki is a classic puzzle game with 8 available pictures. The player may setup difficulty level and timer or select any of the pictures. The game screen is divided into three parts: table with mixed puzzles, timer, picture frame.

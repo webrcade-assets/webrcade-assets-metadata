@@ -1,0 +1,1 @@
+Killer is a timed word-guessing game based on Hangman. To save their life the player has to guess the password. The player may choose each of the letters (consonants and vowels), a wrong answer causes the gallows to fall one level. The letter panel shows letters which are incorrect and the last chosen one. The game features three difficulty levels .

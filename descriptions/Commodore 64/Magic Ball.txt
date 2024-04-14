@@ -1,0 +1,1 @@
+Magic Ball is a simple arcade game, where the player must catch as many objects with dollar sign as possible, avoiding any other items falling to the bottom of the well. Catching dollar gives is rewarded with points, connecting with red item means a loss of life. Each set of objects consists of three elements.

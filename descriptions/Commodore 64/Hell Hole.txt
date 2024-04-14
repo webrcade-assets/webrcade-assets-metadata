@@ -1,0 +1,1 @@
+A side scrolling platformer that casts you as a soldier dropped behind enemy lines. Battle aliens and navigate platforms to make your way home. The game boasts multiple weapons, and items to power them up. Such as teflon bullets which rip through enemies, and items to increase your firepower and rate of fire.

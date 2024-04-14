@@ -1,0 +1,1 @@
+The Birds is a 2D side scrolling arcade game. The player controls the bird and is tasked with reaching the end of the board. The bird can move in any direction and shoot at incoming enemies. The game contains 3 levels.

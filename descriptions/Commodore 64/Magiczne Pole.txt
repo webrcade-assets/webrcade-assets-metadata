@@ -1,0 +1,1 @@
+Magiczne Pole is a turn-based puzzle game against the computer. Opponents take turns entering numbers in a selected place on the 3x3 board to reach a sum of 15 in a column or in a row. The player first gives the position, then the number, separated by a comma.

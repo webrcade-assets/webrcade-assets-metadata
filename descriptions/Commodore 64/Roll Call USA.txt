@@ -1,0 +1,1 @@
+Roll Call USA is a multiplayer trivia game for the Commodore 64. The player creates quizzes related to the 50 American states. Topics include: state capitals, major industries, large cities, statehood date, and other trivia.

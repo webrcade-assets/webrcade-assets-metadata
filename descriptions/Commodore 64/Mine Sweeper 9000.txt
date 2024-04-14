@@ -1,0 +1,1 @@
+Mine Sweeper 9000 is a clone of classic Minesweeper. It allows to select difficulty level, customize board size, define controls, choose a background tune and save/load state of the game. All the other rules remain unchanged, including marking cells and mistake consequences.

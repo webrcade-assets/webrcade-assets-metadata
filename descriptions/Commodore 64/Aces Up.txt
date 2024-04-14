@@ -1,0 +1,1 @@
+Aces Up is a solitaire game. A row of cards is dealt, then any of them can be moved to the waste pile if the value of the card is lower than the other cards of the same kind. This gets repeated in the next round. To win, four aces must be the top cards. The game also offers alternative playmodes.

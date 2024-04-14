@@ -1,0 +1,1 @@
+Kalambur is a quiz game. The player's task is to guess the words. The computer draws a word and mixes the letters in it. The player must arrange the letters before time runs out. The game has 5 stages, differing in the time of solving the task (120, 100, 80, 60, 30), the number of words (15, 15, 15, 10, 8) and the length of the words (from 4 to 10 letters).

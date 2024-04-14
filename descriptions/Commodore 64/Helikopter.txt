@@ -1,0 +1,1 @@
+Helikopter is a game where luck is the deciding factor. The player moves in a helicopter on a 10x10 board. At the same time, the computer shoots at a randomly selected field. For each missed shot, the player scores a point. A hit means the end of the game.

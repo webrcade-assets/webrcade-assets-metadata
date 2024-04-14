@@ -1,0 +1,1 @@
+Super-Penetrator is a side-scrolling shooter. Using missiles and bombs, the player must destroy air and ground objects on the way to the main base of the enemy. The fuel may be supplemented by hitting the ground containers. Released bombs falling on the gravity parabola, the missiles in exchange are moving along a straight line. Controlled fighter may be moved in any direction.

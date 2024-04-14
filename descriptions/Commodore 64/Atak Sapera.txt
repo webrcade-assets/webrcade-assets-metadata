@@ -1,0 +1,1 @@
+Atak Sapera is a clone of Dyna Blaster. The player's task is to make a way through obstacles in order to eliminate the opponent before time runs out. The only weapons are bombs that explode vertically and horizontally from the point of explosion, destroying everything in their path.

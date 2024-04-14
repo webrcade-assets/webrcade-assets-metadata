@@ -1,0 +1,1 @@
+Literax is a speed typing game. The rules of the game are simple. When a letter falls down, press its key before it reaches the floor. Every caught letter gives one point. The level of difficulty increases over time, speeding up the letters.

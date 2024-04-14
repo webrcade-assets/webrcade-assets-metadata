@@ -1,0 +1,1 @@
+Stickybear Shapes is a shape learning game for multiple systems. The player learns diamonds, rectangles, squares, circles, and triangles in 3 games: Find It: Find the listed shape in a picture Name It: Match the picture of a shape with its name Pick It: Choose the correct shape shown in a picture

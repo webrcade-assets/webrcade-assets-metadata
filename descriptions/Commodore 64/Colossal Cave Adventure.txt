@@ -1,0 +1,1 @@
+Colossal Cave Adventure is a faithful adaptation written in BASIC of the original Colossal Cave classic text adventure by Crowther and Woods. The objective is to explore the titular cave and gather as much treasure as possible in order to get the highest score possible.

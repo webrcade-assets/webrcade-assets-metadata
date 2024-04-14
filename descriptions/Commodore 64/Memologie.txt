@@ -1,0 +1,1 @@
+Memologie is a simple puzzle-solving game. The goal requires finding all the covered pairs of pictures on the 6x6 board. Discovered pairs stays on the board with the mark 'ok'. There is a moves limit, indicated by the counter on the bottom panel.

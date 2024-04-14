@@ -1,0 +1,1 @@
+Artris it a Tetris clone. The rules remain unchanged. Each time a line is laid, a part of the picture is revealed. With each complete unveiling, we move to the next level. The right panel shows the next brick, left one current score and number of lines to complete the task.

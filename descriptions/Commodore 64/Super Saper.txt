@@ -1,0 +1,1 @@
+Super Saper is a clone of classic Minesweeper, featuring simple grey graphics. The gameplay rules remain unchanged. Selected spot shows the number of bombs in the neighborhood. The game has basic options, allowing to select number of bombs on board.

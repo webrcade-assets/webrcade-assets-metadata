@@ -1,0 +1,1 @@
+Baffle is a puzzle game. The player's task is to recreate the arrangement of the numbers, letters or picture shown on the right. The board is 6x4 in size, with one empty window. An empty window is used to move a block one position. The time to solve the task is 3 minutes.

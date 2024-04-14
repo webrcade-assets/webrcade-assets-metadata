@@ -1,0 +1,1 @@
+Super Dogfight is a two-player-only game. Two planes are doing battle among the clouds, doing their best to be the first one to reach ten points before their opponent does. The scores for each plane are recorded at the top of the screen. The planes can go in all direction, and they can even crash into each other. The game ends when one of the planes achieve its objective.

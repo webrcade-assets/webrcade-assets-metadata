@@ -1,0 +1,1 @@
+Grave Robbers is a short graphic adventure for multiple systems The player enters a graveyard armed with dynamite, matches, a radio, and a sandwich. Their goal is to seek out a hidden diamond. On the way they must befriend a dog, and navigate the structures buried beneath the graves. All commands are via VERB NOUN text entry.

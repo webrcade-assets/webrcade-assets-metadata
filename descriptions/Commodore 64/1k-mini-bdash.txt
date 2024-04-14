@@ -1,0 +1,1 @@
+1k-mini-bdash is a clone of Boulder Dash, crammed into 1024 bytes. Like in the original, you have to collect diamonds while avoiding falling boulders and deadly fireflies; to exit a level, you have to collect at least a specific amount of diamonds. According to the author, there are 1024 different levels in the game.

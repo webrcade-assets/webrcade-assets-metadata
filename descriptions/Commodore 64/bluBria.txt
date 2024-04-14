@@ -1,0 +1,1 @@
+bluBria is a puzzle game based on the idea of the game Memory. It allows to play up to 2 players on 3 sets of picture sets. The game consists of 56 pictures that need to be paired. Each pair gives a 5 point bonus. Guessing to pairs one after another gives access to the left bonus board, allowing extra points. No action at a designated time deducts half of the points.

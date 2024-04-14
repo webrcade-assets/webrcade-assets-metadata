@@ -1,0 +1,1 @@
+Sub Duel is a one-on-one duel between two submarines. You can damage your opponent by shooting torpedoes at them or by shooting the mines to make them bounce into your opponent. After being hit five times, you or your opponent are destroyed and the other side gains a point. Then the next round begins.

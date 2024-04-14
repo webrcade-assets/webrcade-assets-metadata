@@ -1,0 +1,1 @@
+Żabie Zawody is a game in which players are the trainer of a frog that jumps on the table. The table is 1 meter long and the frog jumps from 0 to 50 centimeters. The trainer whose frog is left on the table wins. The coach decides when to stop jumping. The jumping distance of the frogs is random.

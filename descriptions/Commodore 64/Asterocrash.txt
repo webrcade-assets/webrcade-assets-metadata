@@ -1,0 +1,1 @@
+Asterocrash is a single screen simulation game, where the player controls asteroids in order to keep them on the board and avoid collisions. Controlling constantly moving asteroids requires changing the x and y coordinates, which are responsible for the direction of movement. If there are asteroids left on the board after the allotted time, money is awarded.

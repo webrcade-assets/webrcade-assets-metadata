@@ -1,0 +1,1 @@
+It is an educational program in which the player must solve tests in various fields of geography by indicating one of the 3 or 8 available answers - depending on the field of geography. After doing all the tasks, a grade is issued. In addition to tests, the program also includes a second part with theory.

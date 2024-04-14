@@ -1,0 +1,1 @@
+Basic Test allows you to check the knowledge of the BASIC language. It contains a set of 50 questions, the order of which is chosen randomly. Number of questions may be selected at the start. Each question contains 5 possible answers. The test ends with a note.

@@ -1,0 +1,1 @@
+Nocturno is a puzzle solving game, featuring 99 levels. Each level requires reaching the end spot by jumping on proper tiles before the time runs out. There are several types of tiles, differing in the way and direction of the ball's rebound. Jumping off from the tile causes immediate disappearance of it. Falling from a tile means a loss of life.

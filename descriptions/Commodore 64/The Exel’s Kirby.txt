@@ -1,0 +1,1 @@
+The Exel’s Kirby is a simple platform game consisting 3 levels. The player's task is to collect all the balls from the board, avoiding monsters that move in a predetermined way.

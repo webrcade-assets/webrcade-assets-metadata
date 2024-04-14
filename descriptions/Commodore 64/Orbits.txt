@@ -1,0 +1,1 @@
+This is another clone of the classic Tetris. The rules have been modified. The player's task is to prevent the well from filling up by combining blocks of the same color and pattern. The player must stack the blocks until the number on the information panel drops to zero. Points are deducted for the number of blocks falling and blocks removed from the well.

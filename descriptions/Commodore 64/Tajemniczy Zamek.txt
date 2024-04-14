@@ -1,0 +1,1 @@
+Tajemniczy Zamek is a simple adventure game. In each location, a description of the situation is displayed with two choices. The player's selection is displayed on the screen. Depending on the choice, the player is moved to the next location. To learn the secrets of the castle, the player will travel through the lake, dungeon, chamber, encounter the devil Boruta and Basilisk.

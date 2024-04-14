@@ -1,0 +1,1 @@
+Block Frenzy is remake of a popular flash game of the same name. You are in control of a square block starting in the center of the screen. Four other blocks of different shape are moving along the screen. The goal is to move around the play area avoiding collisions with other blocks for as long as possible. Once you collide with any of the other blocks, the game comes to an end.

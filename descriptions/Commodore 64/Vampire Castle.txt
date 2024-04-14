@@ -1,0 +1,1 @@
+Vampire Castle is a text adventure for multiple systems. The player must explore Dracula's castle, and kill the infamous vampire before midnight comes. The player is armed with a timepiece that allows tracking of time. All commands are via VERB NOUN entry, and there is no save or restore feature.

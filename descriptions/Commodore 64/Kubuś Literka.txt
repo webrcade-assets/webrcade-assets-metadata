@@ -1,0 +1,1 @@
+Kubuś Literka is a very simple game where the player has to control Kubuś to perform a dance routine. It is possible to move the legs and jump. The head and hands remain still.

@@ -1,0 +1,1 @@
+Logic Game is a single board puzzle solving, where the player must place the numbers on the board according to the digits sequence. The game is played by moving a single number to a free area. Results are determined by the time and number of transfers.

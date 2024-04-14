@@ -1,0 +1,1 @@
+Komputerowy Teleturniej Gra is a puzzle-solving game with arcade elements for two players. Victory requires gaining 9 points. Correct stoppage on the opponent's field and correct answer to a question are rewarded with one point. Opponent player receives a point and takes over the game when stoppage error is occurred. Same rules apply with incorrect answers.

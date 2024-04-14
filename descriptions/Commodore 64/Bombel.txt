@@ -1,0 +1,1 @@
+Bombel is a Frog variant. The game requires moving around the board for a specified amount of time in order to avoid shifting horizontally rock blocks . There are 8 rows of blocks, moving in different directions with different speed and acceleration . The player may move to the left and to the right site or change the row level.

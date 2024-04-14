@@ -1,0 +1,1 @@
+Just a Game 1 is a simple Saper variant. The game allows to select size of the board (up to 38x20) and number of bombs (up to 255). Depending on the choice made, the player has a certain number of bomb markers on the board. After selecting a field, the number of bombs in the vicinity is marked. One mistake ends the game.

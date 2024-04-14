@@ -1,0 +1,1 @@
+This is a Commodore 64 cartridge of the classic board game Checkers.  This game is a single player, man vs computer version of the game.  One side is filled white circles and the other are unfilled circles.

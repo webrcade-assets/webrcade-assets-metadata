@@ -1,0 +1,1 @@
+In this crosshair game you are attending the Shooting Range with City backgrounds. In first-person view you should move the aim and shoot different items (cars, dinos, targets, dogs, etc.) moving on the three stages. You have 50 bullets, and each successful hit will give you a certain number of points and speed up the current item on the stage.

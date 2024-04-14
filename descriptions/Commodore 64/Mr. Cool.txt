@@ -1,0 +1,1 @@
+You are a cube who must jump on a pyramid made of color-changing platforms to make all platforms of the same color. Flying comets will enter the screen to hinder your progress, but they will eventually turn into balls than can be collected safely.

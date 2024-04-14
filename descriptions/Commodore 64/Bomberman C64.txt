@@ -1,0 +1,1 @@
+Bomberman C64 is a clone of Bomber Man. The player's task is to kill all the hostile creatures on the board. The player may use bombs, although the bombs must be used with extra caution, as the explosion blast moves 3 fields in each direction. The game features 8 levels all together.

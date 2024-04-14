@@ -1,0 +1,1 @@
+The Game of Trivia is a 1 - 6 player trivia game for the Commodore 64. Players answer a variety of general knowledge trivia, and must correctly type the answer. Questions can be worth 3, 5, or 10 points. Players can chose 10, 15, or 20 seconds to answer questions. Games can go to 50, 100, or 150 points.

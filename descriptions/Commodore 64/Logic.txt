@@ -1,0 +1,1 @@
+This is a logic game, where the player must arrange the same cube pattern as in the second picture by moving the horizontal and vertical columns accordingly. Columns move in their entirety one space. The pattern must be completed within the allotted time.

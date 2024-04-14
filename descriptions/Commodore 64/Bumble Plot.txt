@@ -1,0 +1,1 @@
+Bumble Plot is an educational game meant to help develop geometry skills for children between the ages of 8 to 12 years old. The game has a children-oriented visual design, but the actual gameplay consists entirely of real geometrical problems. Players' performance is evaluated with praise or encouragement.

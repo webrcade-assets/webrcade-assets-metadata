@@ -1,0 +1,1 @@
+Draughts is a 1-player-versus-computer checkers game for multiple systems.  The player can choose black or red, and pieces are moved by selecting them with a cursor.  If the player can take an opponent's piece they must take it.  There are two levels of computer opponent.  The player can also modify the game to add or remove human or computer pieces.

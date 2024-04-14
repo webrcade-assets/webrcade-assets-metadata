@@ -1,0 +1,1 @@
+Tectron is a 'Light Cycle' game for two human players. Each player drives around the board leaving a solid trail behind. The collision with the trail or the board edge means a loss of the game. The gameplay is limited to 60 seconds.

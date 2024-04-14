@@ -1,0 +1,1 @@
+Break Dance is a simple game for kids. The game features 2 characters: Kubuś and Barnaba brothers. The player's task is to repeat the dance moves of the first brother. The game has several levels of difficulty, differing in the number of dance moves to repeat.

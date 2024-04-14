@@ -1,0 +1,1 @@
+Zyx is a puzzle game. The game starts with two fixed points on a board. Arrows move slowly from the top, bottom, left or right onto the board. You can turn the direction of the arrow and move it up/down or left/right. If the arrow does not stop on one of the board fields the game is over. When the arrows are placed in the correct formation they will disappear.

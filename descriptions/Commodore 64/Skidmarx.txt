@@ -1,0 +1,1 @@
+Skidmarx is a simplified clone of Skidmarks, released on Amiga back in 1993, for up to two players. The race takes place on a single screen track. The first car that complete designated number of laps win the race. A few types of cars are available, number of tracks and color of vehicles are fully adjustable.

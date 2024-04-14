@@ -1,0 +1,1 @@
+Zapy is a puzzle game designed for two players. The player who loses the coin toss starts the game. There are 16 matches on the table - 7 in the first row, 5, 3, 1 in the next rows. The task of the players is to collect matches from the table in such a way that the last one is left for the opponent.

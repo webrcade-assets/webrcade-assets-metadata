@@ -1,0 +1,1 @@
+15 Piętnastka is a simple puzzle-solving game. The game is controlled with cursor keys or a joystick. The task requires putting the number blocks in the correct order (from 1 to 15) as soon as possible by shifting blocks to the free space. The game has no time or moves limit.

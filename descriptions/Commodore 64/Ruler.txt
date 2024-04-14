@@ -1,0 +1,1 @@
+Ruler is an educational game in which the user learns to use a ruler. The player is presented with a virtual ruler on the screen and is given ten exercises where the player must draw a line of a length given as a number. The player scores points depending on how close the line is to the requested length. At the end of the ten exercises the player is rewarded a total score.

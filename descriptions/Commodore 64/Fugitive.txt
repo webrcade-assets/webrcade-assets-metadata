@@ -1,0 +1,1 @@
+Fugitive is another simplified single screen Space Invaders alike title. As a space fighter pilot player must defeat the alien fleet, occurring in the orbit of the planet. The aircraft may be moved in all directions: left, right, top and bottom. Each contact with an enemy unit takes some amount of energy level.

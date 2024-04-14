@@ -1,0 +1,1 @@
+Dreptacz is a game where the player must cover all the squares using the indicated number of moves (number) before time runs out (red indicator). Moving the character requires speed and precision, going off track means game over.

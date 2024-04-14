@@ -1,0 +1,1 @@
+microAddition is an educational game for young children. Contains 4 mini-games: Adding Balloons: Add the balloons on the screen Adding Numbers: Add the numbers displayed on the screen. Apples: Press a number, and watch that number of apples fall from a tree. Numbers: Count the number of apples on the screen.

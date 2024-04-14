@@ -1,0 +1,1 @@
+After Burner is the second port of After Burner II on Commodore 64 and Amiga. The biggest difference to the UK version is that the action fills the whole screen. The C64 version has no in-game music.

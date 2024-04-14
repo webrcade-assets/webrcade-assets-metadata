@@ -1,0 +1,1 @@
+Under the Ground is a simple single screen arcade game. As a wagon operator, the player has to catch all the pieces of coal falling from above. The wagon can only be moved to the right and to the left side. Every failed attempt ends with a loss of life.

@@ -1,0 +1,1 @@
+microDivision is an educational game for young children for multiple systems. Contains 4 mini-games: Dividing Fish: Dividing the number of fish on the screen by the number of boats. Dividing Numbers: Dividing the numbers on the screen. Fish: Press a number, and watch that number of fish swim across the screen. Numbers: Count the number of fish swimming across the screen.

@@ -1,0 +1,1 @@
+Paratroopers jump out of the plane onto the ocean. The player, as the captain of the ship, must steer the ship so that the paratroopers land on the deck and not in the water. The task is hampered by the starting position of the parachutist and the wind changing direction.

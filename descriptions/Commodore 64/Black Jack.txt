@@ -1,0 +1,1 @@
+In this game game one to twenty human players can challenge the computer in the famous card game Blackjack. Setting the bets, you may win or lose based on your fortune and strategy. In multi-player mode, players play with a computer one after another at hot-seat. The game was made in Italian.

@@ -1,0 +1,1 @@
+Agent 0013 is a german adventure game with graphics. Instead of using a parser, this game uses different multiple choice options in every location. The story is short: you made it to Dr. Yes island and got into his fortress. Now you have to search for the plans of his world sabotage machine.

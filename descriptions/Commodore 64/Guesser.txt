@@ -1,0 +1,1 @@
+Guesser is a timed puzzle-board game, based on the TV show called "5 on the 5". The player's task is to guess a five letter password in five attempts. After typing each password the game shows the result. Correctly guess a letter is highlighted with white color, the letter appearing in the password in a different position is highlighted with yellow color.

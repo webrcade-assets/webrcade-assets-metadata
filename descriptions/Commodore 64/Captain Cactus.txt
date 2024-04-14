@@ -1,0 +1,1 @@
+Captain Cactus is a side scrolling cave shooter. The player controls a helicopter and must avoid or destroy all incoming enemy vessels as well as cave top and bottom obstacles. One low range weapon is available. Enemies move in a similar wave pattern. The helicopter can move in each direction.

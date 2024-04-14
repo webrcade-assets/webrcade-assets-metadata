@@ -1,0 +1,1 @@
+Osar II is a single screen shooting game, where the player must hit the alien creature with a laser beam, while avoiding enemy attacks. Double enemy laser hit in the same ground spot damages the surface and form a hole. The hole is limiting the movement area, as contact with it means a loss of life.

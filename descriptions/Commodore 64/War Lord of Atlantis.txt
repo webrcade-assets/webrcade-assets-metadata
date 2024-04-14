@@ -1,0 +1,1 @@
+War Lord of Atlantis is a 1-player arcade game for the Commodore 64. The player controls a scuba diver who moves continuously from the left of the screen, and can fire directly forwards. Enemy scuba divers move about the screen and fire back. The player can shoot the enemies for points, but they don't disappear from the screen. It's game over when the player is hit 3 times.

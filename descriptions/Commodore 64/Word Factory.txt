@@ -1,0 +1,1 @@
+Word Factory is a 1-player educational game for the Commodore 64. The word factory can make lots of words, but it hasn't been working to well. It can make many mistakes. As words come down the chute, the player must decide whether it is spelled correctly or incorrectly, and must move the chute to put words in the correct bin.

@@ -1,0 +1,1 @@
+Powietrzny Pojedynek is a text mode game featuring a duel between Polish and German pilots. In each mission, the player has three portions of ammunition at his disposal. The first player to shoot down the enemy plane wins. At the end of the duel, the player receives points and a military rank.

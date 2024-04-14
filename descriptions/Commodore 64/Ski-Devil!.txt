@@ -1,0 +1,1 @@
+Ski-Devil! is a 1-player arcade skiing game for the Commodore 64. The player guides a downhill skier down a hill, trying to direct him through a series of flags. Dangers include trees, flag poles, rabbits, and icy patches. The player can steer left and right, and must avoid dangers. The goal is to minimize time down the hill.

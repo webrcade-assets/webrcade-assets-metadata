@@ -1,0 +1,1 @@
+Invertus is a timed puzzle board game. The player has to change all the black squares to the white ones. A selected spot consisting of 4 (2x2) squares changes the color to the opposite. A black changes color to white, and white to black. Each level contains more inverted squares in an increasingly difficult configuration.

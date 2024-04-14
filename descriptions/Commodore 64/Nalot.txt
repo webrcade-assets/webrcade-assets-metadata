@@ -1,0 +1,1 @@
+This is a game for two players. The task of each of them is to select the moment of the shot in such a way as to shoot down the passing object of the opponent - an airplane, a helicopter or a rocket. Only one projectile can be fired at a time. The first player to score 21 points wins.

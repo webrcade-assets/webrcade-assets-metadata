@@ -1,0 +1,1 @@
+Arcade Game Construction Kit (AGCK) is a game creation utility that allows creation of different types of arcade games (such as platform, maze games, etc). Everything is totally controlled by a joystick driven menu system, so no programming is required. The kit comes complete with six sample games showing off some of the various types of games that can be created with the kit.

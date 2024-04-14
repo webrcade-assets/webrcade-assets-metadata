@@ -1,0 +1,1 @@
+Test is an educational game designed to learn European capitals. The test consists of 10 to 60 questions. One point is added for each correct answer, one point is deducted for each wrong answer. After answering all the questions, the rating is displayed.

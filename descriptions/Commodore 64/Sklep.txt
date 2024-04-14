@@ -1,0 +1,1 @@
+Sklep is a very simplified text-based trading game, which consists of buying and selling 10 kinds of goods in order to earn 10.000. Buying cheap and selling expensive, while covering the rent, is the key to reaching the goal. Each turn takes a month, ending with the display of the current balance and costs.

@@ -1,0 +1,1 @@
+Starchock is a text-based managerial game, where the player's task is an oil baron and his goal is to earn the indicated amount of money in the shortest possible time. The game takes place in monthly turns, during which the player makes decisions, pays the costs of extracting the shaft, faces random events, looks for new deposits and opens or closes gas wells.

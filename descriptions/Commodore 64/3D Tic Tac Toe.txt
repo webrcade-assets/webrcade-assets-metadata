@@ -1,0 +1,1 @@
+The game contains four 4x4 plates on top of each other and the intention is to get four in a row instead of three in a row as in traditional Tic Tac Toe. You can play only play against the computer.

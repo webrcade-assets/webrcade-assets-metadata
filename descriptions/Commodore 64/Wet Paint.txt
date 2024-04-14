@@ -1,0 +1,1 @@
+Wet Paint is a Tron -like game featuring paint brushes instead of light cycles. They race each other using a top-down view on a fixed single-screen with a white background. The game supports up to four players in local multiplayer matches.

@@ -1,0 +1,1 @@
+Lemon-Man is a business game where the player's goal is to earn money by selling lemonade. Each turn, the player decides how much lemonade powder, sugar and cups to buy. After reading the current weather information in the newspaper, determine the selling price. Sale takes place in weekly cycles and depends on the weather and the price of lemonade.

@@ -1,0 +1,1 @@
+Sea Route to India is a text based game with graphic elements, where the player must sail from Lisbon to India. Task completion requires food (whale fishing) and water (rain, river) replenishment, avoiding dangerous random events (pirates, natives) and taking care about crew spirit (ship races). Proper planing and deciding will allow reach the coast of India before Vasco da Gama.

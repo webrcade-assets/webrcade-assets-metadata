@@ -1,0 +1,1 @@
+Kayles is a 2-player action/strategy game for Commodore 64. Players take turns throwing a ball at a series of bottles. This is represented by a ball that scrolls along the bottom of the screen, and the player can hit 1 or 2 adjacent bottles. The player who hits the last bottle is the winner. There are 2 levels of difficulty which influence the bottle setup.

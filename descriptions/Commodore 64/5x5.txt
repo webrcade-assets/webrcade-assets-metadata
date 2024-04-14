@@ -1,0 +1,1 @@
+5x5 is a puzzle-board game, based on the TV show called "5 on the 5". The player's task is to guess a five letter password in five attempts. After typing each password, the game shows the result. A correctly guessed letter is highlighted with a dark background, the letter appearing in the password in a different position is highlighted in a green color.

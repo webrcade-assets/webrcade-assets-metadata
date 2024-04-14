@@ -1,0 +1,1 @@
+Arthema is a single screen arcade game, where the player must collect all the items on the board, while avoiding any contact with hostile creatures. There is no weapon available, therefore performing the task requires proper using of jumping skill and facilities present on the board, temporarily affecting the character - such as a higher jump arrow.

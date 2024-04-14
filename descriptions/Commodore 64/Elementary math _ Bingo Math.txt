@@ -1,0 +1,1 @@
+Elementary math / Bingo Math is a collection of two educational math games. The game helps improve skills in addition, subtraction, multiplication and division. Points are awarded based on speed and math problems get harder the higher the current score. Difficulty adjusts automatically to player skill.

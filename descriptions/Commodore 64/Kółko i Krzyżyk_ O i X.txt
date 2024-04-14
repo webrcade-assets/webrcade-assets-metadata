@@ -1,0 +1,1 @@
+Kółko i Krzyżyk: O i X is an adaptation of tic-tac-toe, played versus the computer. The rules remain unchanged. At the beginning, the player chooses the starting side of the match. On their turn, players choose the location of their symbol using a number from 1 to 9. The winner is the one who places 3 symbols in a row.

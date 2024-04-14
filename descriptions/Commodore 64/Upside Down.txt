@@ -1,0 +1,1 @@
+Upside Down is a classic puzzle game, where the player must arrange a picture on 5x5 board before the time runs out. The game starts from showing a picture. After mixing puzzles the player has designated time to rearrange them back. The indicated puzzle can be moved only on the black spot. The game features 8 pictures.

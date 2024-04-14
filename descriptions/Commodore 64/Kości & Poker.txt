@@ -1,0 +1,1 @@
+Kości & Poker is a set of two party games: Kości zostały rzucone* is a classic 5 dice game for up to three players (human or computer), including records of the results and three roll trials. Poker gives the player possibility to play with up to three opponents simulated by computer, using the deck of 24 or 52 cards. Bet may be raised three times. Best cards take the jackpot.

@@ -1,0 +1,1 @@
+Seria Edukacyjna: Geografia is an educational game that tests knowledge in several fields of geography. Each field has a different number of questions, some are answered by selecting one of several options, some have to be answered manually. After the last question, the final grade is displayed. The program also contains a large amount of theories.

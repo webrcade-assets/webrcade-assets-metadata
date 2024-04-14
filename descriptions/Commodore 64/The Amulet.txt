@@ -1,0 +1,1 @@
+The Amulet is a traditional text adventure where each location is described by text and you use the keyboard to type in commands to interact with each location. The objective is to locate seven shard of a shattered amulet which are scattered through time.

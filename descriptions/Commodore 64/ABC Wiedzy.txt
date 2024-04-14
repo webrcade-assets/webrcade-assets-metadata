@@ -1,0 +1,1 @@
+ABC Wiedzy is an educational game that tests knowledge in several fields of science. Each field has a different number of questions, some are answered by selecting one of several options, some have to be answered manually. After the last question, the final grade is displayed.

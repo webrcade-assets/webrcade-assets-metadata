@@ -1,0 +1,1 @@
+Math Magic is an educational math game for the Commodore 64. Contains two educational math games: Peter Piper Problems: Peter Piper is working in the pickle field, and the player must help solve questions involving his daily production and earnings. There are 3 levels of difficulty. Weight Wizardry: Solve problems involving metric or standard English weights and measures.

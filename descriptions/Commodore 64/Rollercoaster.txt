@@ -1,0 +1,1 @@
+Rollercoaster is a action game in which the player controls a security guard that must protect a rollercoaster from bandits. The bandits will try to plant bombs on the track. The player can move around the fair and pick up bombs, repair tracks and fire his gun at the bandits. The player is rewarded a number of points based on how well he did defending the rollercoaster.

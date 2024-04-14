@@ -1,0 +1,1 @@
+Bravo! is a musical teaching game for the Commodore 64. Contains a musical tutor program to teach young learners musical notes and symbols. Further has a game component where the player tries to name notes that appear on the screen. Allows children to create their own songs and play along with famous compositions.

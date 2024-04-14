@@ -1,0 +1,1 @@
+Section Pi is a side scrolling sci-fi shooter. The player moves the ship to the right and has the task of shooting down or avoiding enemy units, avoiding hitting the upper and lower limits of the tunnel. At the end of each stage there is a final boss.

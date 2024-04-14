@@ -1,0 +1,1 @@
+Memory Building Blocks is a tile matching puzzle game. Designed for young children, players take turns matching shapes, colors, words, tunes, and pictures. There are a variety of board designs, and allows for one or two players. A score or each player is displayed when all tiles are flipped.

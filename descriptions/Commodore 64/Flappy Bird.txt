@@ -1,0 +1,1 @@
+Flappy Bird is a demake of Flappy Bird. You let your bird flap its wings by touching the joystick, making sure you stay in the air without colliding with the pipes entering the screen from above and below. If the bird falls or touches something, the game is over.

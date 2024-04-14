@@ -1,0 +1,1 @@
+Money Minefield is a 1-player arcade game for the VIC-20. Drive a continuously moving car in the cardinal directions around a minefield from a top down perspective. The goal is to collect all the money bags without hitting a wall. Hit a wall and it's game over. There are 10 skill levels.

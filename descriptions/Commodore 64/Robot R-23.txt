@@ -1,0 +1,1 @@
+Robot R-23 is a puzzle-arcade game. The player controls a robot that moves on a board full of various objects, such as mines, magnetic fields, a wrench, a magnet. The player's task is to reach the exit marked with the letter E.

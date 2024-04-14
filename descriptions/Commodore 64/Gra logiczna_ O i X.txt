@@ -1,0 +1,1 @@
+Gra logiczna: O i X is an adaptation of tic-tac-toe, played versus the computer on a 3 by 3 board. The goal is to arrange three O's or X's in a row. The human player starts the game. A symbol is placed by typing the number of the chosen square of the board.
