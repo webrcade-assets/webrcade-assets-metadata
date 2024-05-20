@@ -1,0 +1,1 @@
+From the developer of the C64 port of Prince of Persia and Donkey Kong Jr. comes Sonic the Hedgehog, a faithful port of the Sega Master System version of the game. This port requires RAM Expansion (256k).
