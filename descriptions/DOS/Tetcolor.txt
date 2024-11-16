@@ -1,0 +1,3 @@
+Tetcolor is a single player, keyboard controlled Tetris -style game.
+Although the game looks and plays like Tetris with the same kind of falling block shapes, it is not a Tetris game. In Tetris whole rows are removed when completed, here cells are removed when three or more cells of the same colour are aligned horizontally, vertically or diagonally.
+The game plays on a single screen. It is controlled by the numeric keypad, 4 & 6 move the blocks left and right while 5 & 8 rotate them. There seems to be no key that alters the order of the coloured cells within the falling blocks nor is there a key that hastens their descent. The game has basic sound effects and a pre-populated high score table.

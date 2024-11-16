@@ -1,0 +1,2 @@
+Much like Elite, Trade Wars 2002 is considered a space trading game, but it provides a mix between strategy and action by allowing you to play against other people and giving you options such as building citadels and ports.
+A text-based game that found its popularity by being played through dial-up BBSs, Trade Wars has evolved dramatically since its first release. It now allows multiplayer action and is easily playable over the internet through any telnet client. You can also set up your own server for people to play at and it still costs nothing to play.

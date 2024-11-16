@@ -1,0 +1,2 @@
+Operacion Cyborg is a side-scrolling run and gun game. In the game the player takes the role of a hero that must stop the evil robots that are trying to take control of the central CPU of the planet. The game has three sectors with a lot of enemies. At the end, the player has to fight against a giant cyborg.
+To destroy all the robots and save the planet, the player has 6 lives and a limited time.

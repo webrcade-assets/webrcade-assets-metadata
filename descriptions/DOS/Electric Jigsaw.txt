@@ -1,0 +1,1 @@
+The jigsaw puzzle for 6 pictures (Ferrari, Castle, Pets, Sailboat, Sunset, World Map) is proposed for a size from 6 pieces to 294 pieces. Picture is animated and a music tune is played, when the puzzle is completed. High scores based on the puzzle size and time for its solution are stored for each picture.

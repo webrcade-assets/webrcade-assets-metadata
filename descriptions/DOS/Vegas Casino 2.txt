@@ -1,0 +1,4 @@
+Vegas Casino 2 is a casino game for multiple systems.  Bids can be worth $1, $5, $10, or $25.
+
+Roulette : Player can bid on red or black for 2-to-1 odds. Players can also bet 1–9, 10–18, 19–27, or 28–36 for 3-to-1 odds. The roulette wheel is animated.
+Craps : Bid on the roll of two dice. 7 or 11 are natural winners, tripling the bet. 2, 3, or 12 are craps, and the player loses 5x their bet. On all other rolls, the player keeps rolling until they hit their original roll, unless they hit 7, which is a loss.

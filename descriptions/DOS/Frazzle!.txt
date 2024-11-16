@@ -1,0 +1,6 @@
+Frazzle! is a dice game for one, two or four players.
+In this game players take turns to roll the six dice. Points are scored for specific combinations based on how many dice of the same number have been rolled. At the end of each roll the player nominates a scoring dice and has the opportunity to re-roll.
+If they player re-rolls they must score with the remaining dice or else they are 'zonked' and no score is added to their total for that round. 
+If a player succeeds in scoring with all six dice then they can continue their turn by re-rolling all of them.
+The objective of the game is to score more than ten thousand points which seems like a lot but fifteen of the thirty-six possible combinations scores over 1000 points.
+The game is entirely keyboard controlled and has a command line function for monochrome play.

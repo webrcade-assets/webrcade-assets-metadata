@@ -1,0 +1,2 @@
+Tron is based on the light cycle battle from the movie. Two players compete to survive longer than the other, leaving behind light trails as they move around the arena. Touching a light trail or wall will cause you to lose. This distinguishes itself from other DOS-era Light Cycle games by showing the action in an isometric view.
+This game is two-player only. Light cycles can travel at three different speeds. The number of wins for each player is shown. The game was released as freeware.

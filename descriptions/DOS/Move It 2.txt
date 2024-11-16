@@ -1,0 +1,1 @@
+Move It 2 is a puzzle game where the player has to arrange blocks on a board into specific patterns. The blocks can be moved one row at a time; each block in a row gets moved one space forward when a row is moved. There is no move limit, but the game offers the optional challenge of trying to solve each puzzle within a minimum amount of moves.

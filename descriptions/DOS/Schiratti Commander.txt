@@ -1,0 +1,12 @@
+Schiratti Commander is an add-on for Microsoft Flight Simulator. It includes one airplane, the DC9-30 and airports for the cities of New Delhi and Budapest, however these are incidentals as the main purpose of this product is the utility set it provides. With this product the player can:* view all the installed scenery libraries and starting from a global perspective they can zoom right down to view individual airports.
+
+the map view can also be used to show all the VORs, NDBs, and Com/ATISs
+also available in the map view are all the navigational aids frequencies and names
+It will calculate routes between airports showing the navigation aids, distanced for each leg of the journey and headings. These routes can be saved and edited.
+All of the above can be printed
+The user can also use Schiratti Commander to edit scenery files to add mountains, buildings, trees, roads etc as well as new navigation aids. There are two ways to do this, one is through the wireframe GUI interface, the other involves programming in the Scenery Maker language
+Finally, the package allows up to five pc's to be connected so that one player can take the role of Air Traffic Control and give directions to the others
+
+In 1997, the product was updated to 'Schiratti Commander Gold', which was also compatible with MS-Flight Simulator for Windows 95, retaining most features of the earlier version 1.0, except for the multi-PC connection feature which did not work anymore.
+The 'Gold' version also included 100 new objects to use in the design tool.
+A Gold upgrade was freely available as a downsized download (lacking the 100 extra objects, and upgraded New Delhi & Budapest scenery) to registered owners of the v1.0 release, or as an orderable full CD upgrade, including the new design objects and scenery.

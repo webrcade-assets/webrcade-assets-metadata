@@ -1,0 +1,6 @@
+Beyond The Abyss is a shareware fantasy shooter game.
+The player takes the role of the lone paladin, Roman, who lives near the village of Olin. The evil ruler Medak has sent an army of magic beasts to over throw the castle of Olin. The corridor that links Medak's realm to Olin is known as 'The Abyss'.
+The game is divided into a series of mazes, or levels with each level representing an area that Roman must travel through as he storms Medak's fortress. Level 1 represents the waterways underneath the castle of Olin, level 2 part of the desert
+Roman must cross, level 3 is set in the floating city of Strato and so on.
+As Roman explores these places he will find, not only monsters but keys that will unlock doors, health potions, and red statues left by previous explorers that will give him clues. The end of each level is marked by a cross and a half-circle which Roman must find in order to progress.
+At the end of each level a password is supplied that unlocks the next. The shareware release has three levels while the full version has eighteen.

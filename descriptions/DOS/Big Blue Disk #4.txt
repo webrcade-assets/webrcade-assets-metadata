@@ -1,0 +1,1 @@
+This issue of the monthly software subscription contains two games: Cribbage Squares and The Voting Game. These programs, along with a variety of non-game applications, utilities and text articles (including a review of Fastback), can be accessed from a text-based menu system.

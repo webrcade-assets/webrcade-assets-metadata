@@ -1,0 +1,2 @@
+The Silver Seed is an add-on disk for Ultima VII: Part Two - Serpent Isle. It adds a new scenario with five quests, in which the player has to go back in time to find the silver seed which would heal the lands. In order to fit in with the original story line, these quests need to be completed before finishing the original game.
+This add-on also contains a few useful items such as a keyring for storing the many keys found in the game world, as well as a few interface improvements such as new hotkeys. These items and changes carry over to the main game.

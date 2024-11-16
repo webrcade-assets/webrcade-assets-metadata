@@ -1,0 +1,2 @@
+MX7 is an action/puzzle game, with an emphasis on the exploration of a set of connected rooms, and collection of various objects: power (health), money, diamonds (used to open some doors), keys (used to open some doors), and magic (used to open some doors). You do not have the ability to attack, and can only move and push items. Some enemies move back and forth, some enemies chase you, and turrets just shoot at you.
+MX7 was distributed as shareware. The shareware version lacks the ability to save your progress.

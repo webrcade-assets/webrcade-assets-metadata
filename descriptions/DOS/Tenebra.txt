@@ -1,0 +1,12 @@
+Tenebra is an atmospheric puzzle game with roguelike elements. Guide the hapless protagonist to the exit, but also keep in mind that he is afraid of darkness and refuses to walk in the dark areas.
+Tenebra is all about manipulating lights to get to the exit. Some gameplay elements include:* Moving torches around and pushing lights on rails to illuminate the path;
+
+Finding keys to doors;
+Cold braziers that need to be lit;
+Archways that collapse behind you;
+Oil barrels that make your torches brighter;
+Cracks in broken walls that are too narrow to pass with a torch in your hand;
+Broken rails that need to be fixed with a hammer;
+Triggering sensors to open the exits.
+
+The game contains 31 levels.

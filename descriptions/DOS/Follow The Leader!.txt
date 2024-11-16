@@ -1,0 +1,1 @@
+Follow The Leader! is a simple "Simon Says"-style game. Six different buttons are indicated in a certain sequence, and the player must click the buttons in the same order. Each time the player succeeds, the length of the sequence is increased and the game continues. The game lasts until the player makes a mistake (game over) or reaches a maximum sequence length (victory).

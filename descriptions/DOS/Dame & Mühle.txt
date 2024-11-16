@@ -1,0 +1,1 @@
+Dame & Mühle is a set of two classic board games called Checkers and Morris. Similar to Battle Chess, these games offer a 3D perspective. A log is provided for training and rethinking the strategy as well.

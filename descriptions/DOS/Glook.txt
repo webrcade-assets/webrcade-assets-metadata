@@ -1,0 +1,2 @@
+Glook is a side-scrolling shooting game similar to Defender. The player controls a small armed flying craft and must fend off invading aliens that try to abduct humans. To complete a stage, the player needs to destroy all Hunters, the aliens that that can capture humans, but there are also other types of aliens that attack the player.
+Glook can be played by one or two players on the same computer. In a two-player game, players take turns to fight the aliens until either the stage is complete or they run out of lives.

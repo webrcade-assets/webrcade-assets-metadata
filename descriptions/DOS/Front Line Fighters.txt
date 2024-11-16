@@ -1,0 +1,8 @@
+Front Line Fighters bundles three of Digital Integration's flight simulations plus the add-on for F-16 Fighting Falcon.
+
+Apache
+HIND: The Russian Combat Helicopter Simulation
+F-16 Fighting Falcon
+F-16 Fighting Falcon: The Afghanistan Campaign
+
+All titles released in this compilation are updated, they include improved terrain and textured maps with support for 3Dfx accelerator cards. The two helicopter simulations Apache and Hind have new clouds and fog effects.

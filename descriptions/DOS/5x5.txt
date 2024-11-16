@@ -1,0 +1,1 @@
+5x5 is a words guessing game for two players. Players have five attempts to guess a five-letter word. The first letter is revealed, the letter in the word is highlighted, and the guessed letter remains on the board. Each attempt lasts 10 seconds. After the fifth attempt is completed, the second player enters the game.

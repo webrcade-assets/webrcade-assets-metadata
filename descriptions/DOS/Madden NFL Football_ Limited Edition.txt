@@ -1,0 +1,2 @@
+A port of Madden '96 to DOS, using the extra space provided by a CD to provide improved graphics and animation. Features 3D rendered graphics, 640x480 resolution, and John Madden announcing.
+Over 500 players, 240 plays, and the ability to create your own playbooks. Trade your players, and sign free agents. Play single games, or entire seasons, against the computer or your friend.

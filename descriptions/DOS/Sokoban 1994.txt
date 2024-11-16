@@ -1,0 +1,3 @@
+Sokoban 1994 is a single player, shareware, keyboard controlled puzzle game where the player has to push crates onto predetermined locations. Once each crate is on a marked spot, the level is completed. Crates can only be pushed one at a time and can't be pulled so manoeuvring crates without blocking yourself in is the most difficult part of the game.
+Though Jim Radcliffe, developer of Sokoball, developed the program behind this game but all the puzzles were taken from the public domain. The shareware version is completely free and has over forty timed puzzles however it will not save player created puzzles - this feature is reserved for the registered version.
+The game does have sound but this is limited to the ticking of the countdown timer.

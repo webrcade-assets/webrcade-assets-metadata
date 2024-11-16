@@ -1,0 +1,1 @@
+States 'n Caps is a relatively simple program that attempts to teach U.S. states and their capitals. As in similar programs of this type, there are quizzes to help test your knowledge.

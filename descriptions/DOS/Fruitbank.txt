@@ -1,0 +1,3 @@
+Fruitbank is a single player, shareware slot machine game.
+This game does not emulate a specific machine, rather it is a generic machine similar to those found in UK pubs and clubs from the mid/late 70's onwards. It is a simple three reel machine with lots of features - nudge up/down; super-nudge; spin-a-win; stop-a-reel; cash pot; and gamble.
+The registered version of the game has a boss-key and a reel creator/editor.

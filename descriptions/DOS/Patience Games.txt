@@ -1,0 +1,13 @@
+Patience Games is a bundle of five patience card games, a Solitaire (peg jumping) board game, and a classic text adventure.
+All games can be run in CGA, EGA and VGA, in colour or Hercules monochrome, and the card games also support a mouse, as well as keyboard, which is the only control option for the Solitaire and Adventure games.
+The Kirsta Patience card games are:
+
+Normal Patience
+One Foundation (traditional)
+Easier One Foundation
+Missing Link
+The Demon
+
+The Solitaire game is based on the board game, with pegs placed in a cross pattern, where you are to jump over a peg to remove it, the goal is to end up with a single peg in the middle.
+The text adventure game, called 'Kirsta Computer Adventure 1', is made in the standard interactive fiction style, where you are dropped in a magic fantasy land, and interact with the environment using text commands to e.g. move in compass directions, pick up and use objects, trade with creatures you encounter, solve riddles and explore caves, to find the missing regal treasures with which you can become ruler of the 'Kingdom of Kirsta', and restore it to its former glory.
+In addition to the full games, the bundle also contains demos for three of the developers other games: Backgammon, Cribbage and Draughts.

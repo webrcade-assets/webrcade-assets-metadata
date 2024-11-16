@@ -1,0 +1,11 @@
+This is an interactive demonstration of the ACKNEX virtual game toolkit and its possible applications for gaming and promotional products, released by the developer oP Group. Some of the textures, sounds, art, as well as the interface are the same (or slightly modified) as in SKAPHANDER, a commercial title by the same developer. However, there is no other relation between these two games.
+The scenario contains several sections:
+
+an open area with the player moving around in the "scaphander", the objective is to collect several yellow balls
+a shooting gallery where the balls may be used to hit targets
+an underwater area
+several rooms with various architecture
+a showcase of possible animations and special effects
+an elaborate garden, accessible with jetpack
+
+The demo was available as a free download from the oP Group website. The in-game instructions are entirely in German, but a message shown upon exit is given in both German and English, suggesting to contact the authors to commission a promotional game.

@@ -1,0 +1,3 @@
+Space Intruders is a single player, shareware, clone of the arcade game Space Invaders where the player moves their gun, left or right on the bottom of the screen blasting a formation of aliens above. The aliens move left and right dropping bombs and as they descend. In between the player and the aliens are four structures which are gradually destroyed as they are hit, whether by alien or friendly fire.
+If the player id struck by a bomb ten they lose one of their three lives but the game continues from the point where the life was lost, i.e. it does not reset the current wave of aliens.
+The game is over if the aliens land or when the player loses all their lives. The game has sound, a high score table, and can be controlled by either the keyboard or the joystick

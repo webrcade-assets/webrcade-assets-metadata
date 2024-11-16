@@ -1,0 +1,1 @@
+Another Sokoban clone. You must solve each of the 200 puzzles by pushing the objects into their home positions. You also can grab bombs to blast through walls and clear a path. The theme of playing field differs from level to level. The game includes three different difficulties per level. You can create your own games with the level-editor.

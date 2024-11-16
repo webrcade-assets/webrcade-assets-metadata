@@ -1,0 +1,1 @@
+Tic Tac Toe is a basic implementation of original paper and pencil version. The player may compete only with computer. The game is entirely keyboard controlled by pressing 1-9 buttons, assigned to one field on the board.

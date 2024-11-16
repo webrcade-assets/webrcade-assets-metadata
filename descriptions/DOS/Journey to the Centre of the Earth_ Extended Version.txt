@@ -1,0 +1,12 @@
+Journey to the Centre of the Earth: Extended Version is based on the book Journey to the Centre of the Earth by Jules Verne. The game was originally released for Amiga, Atari ST and DOS as Viaje al centro de la tierra in 1989. It is listed separately from the 8-bit version released in the same year because it consists of five parts where for the 8-bit version two parts were removed due to time constraints. Almost 20 years after the release however new versions for Amstrad CPC (2012), MSX (2017) and ZX Spectrum (2007) were released with support from the original developers to restore the two missing parts for the 8-bit versions. These releases are listed here. In 2018 there was another 2.0 release for the ZX Spectrum celebrating the 10-year reworking of the game with further technical fixes and versions for the languages English, Spanish and Portuguese.
+This version of the game consists of five parts:
+
+In the first part you have to solve a jigsaw puzzle with a map from a first-person perspective by putting the parts in the correct order. There is a time limit.
+
+In the second part you can switch between three characters each controlled separately in a platform environment using a side view. Each character carries its own objects and attributes, while they enter the volcano on their way to the centre of the Earth. They have to pass water cascades, geysers and eventually a lake with a monster.
+
+In the third part again played from a side view you have to choose one of the three ways to get to the surface of the Earth. Each route is different and has its own dangers like tigers, carnivorous plants and quicksand.
+
+In the fourth part you control one of the three characters who has to navigate a vertically oriented beach filled with giant turtles to reach a raft. The player has to patiently wait for the turtles to move and open up a passage to then pass them quickly.
+
+In the fifth part the three characters are riding the raft on a rising mass of lava from the centre of the Earth back up to the surface. Shown from a side view and scrolling vertically the player needs to move the raft left or right to prevent it from colliding with the rock walls.

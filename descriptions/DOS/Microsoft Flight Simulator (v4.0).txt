@@ -1,0 +1,8 @@
+Version 4 of Flight Simulator was released just 15 months after version 3. The changes include:
+
+Makeshift airplane designer, which allows for wing adjustments and weight, speed, and color changes.
+New aircraft: Sailplane
+Random weather patterns
+Dynamic scenery (e.g. air traffic)
+
+Like the previous release, version 4 includes scenery for five cities (New York, Seattle, San Francisco, Los Angeles, and Chicago). It features CGA through VGA (in EGA resolution) support, and multi-user play. Version 4 also supports newer add-ons such as Microsoft Flight Simulator: Aircraft & Scenery Designer, and subLOGIC 's USA Scenery series.

@@ -1,0 +1,1 @@
+Capworld is a geography quiz for 1–4 players. Choose from 5 to 100 questions, about capitals, populations, areas, language, money, cities, or everything. Each question is multiple choice or True/False. Displayed along the question is a map of the country in question and some facts about the country. The computer will track right and wrong answers.

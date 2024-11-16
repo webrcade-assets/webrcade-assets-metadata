@@ -1,0 +1,3 @@
+Lazer Beam Wars is a single-player game that plays much like a Tron clone.
+The player and the PC start off with a different coloured light beam each, one on either side of the screen. The object is to enclose the PC opponent within an area bounded by player's light beam and, as it is not possible for one beam to make contact with any other light source, the opponent will eventually run out of space and die. Scattered around the game area are planets and dots contact with any of these is also fatal, the dots are either stars or space dust it does not matter which but what does matter is that their number increases as the game progresses.
+The game is entirely keyboard controlled and has five levels of difficulty.

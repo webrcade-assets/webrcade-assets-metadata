@@ -1,0 +1,22 @@
+The Virtual Squadron: Thunderbirds Past, Present and Future! is an unofficial add-on for
+Microsoft Flight Simulator (v5.0) and Microsoft Flight Simulator for Windows 95. It gives the player all the aircraft flown by the US Thunderbirds air demonstration squadron at the time of its release, together with their USAF equivalents, and a host of bonus aircraft. At the time this add-on was released the F-22 Lightning was not in service as congressional funding was needed before it could go into production and be deployed, hence the 'Future' element in the title.
+All the Thunderbird/USAF aircraft can be installed all at once or individually if required, while the bonus aircraft can be installed in single groups or collectively.
+The Thunderbird aircraft available in this compilation are:
+
+F-100D Super Sabre in USAF and Thunderbird livery
+F-105D Thunderchief in USAF camouflage livery and the F-105B Thunderchief in Thunderbird livery
+F-16 Fighting Falcon in USAF and Thunderbird livery
+F-22 Lightning II in YF22 and Thunderbird livery
+F-4D Phantom II in USAF camouflage and the F-4E Phantom II in Thunderbird livery
+F-84F Thunderstreak in USAF and Thunderbird livery
+F-84G Thunderjet in USAF and Thunderbird livery
+T-38 Talon in both USAF chase plane and Thunderbird livery
+
+In addition to the Thunderbird aircraft the package includes fifty additional aircraft. These are grouped as follows:* Airliners : Boeing 747-200 in Virgin Atlantic livery, the 800 seat Boeing 747-500, Boeing 767-300 in Air Canada livery, Boeing 747-400 in American Airlines livery, Boeing 707-320B in TWA livery, Boeing 737-500 in both Lufthansa and Air 2000 liveries, Airbus Industries A300-600 in American Airlines livery, Airbus Industries A319-100, and the Beechcraft 1900 in TradeWinds Caribbean livery.
+
+General Aviation: Anderson Greenwood Model 14, Aeronica C3 32Hp, Berkut Kit Plane, Cessna 170B Floatplane, Cessna 17RG Cardinal, Cessna 208 Grand Canyon in Noble Air's livery, Cessna Stationair AIR 911, Pilatus B-4, and the Flying Brick.
+Military (Modern): 9c Orion, A-10 Thunderbolt II, A40-C raptor Gunship, A5A Vigilante, AJ 37 Saab-Scania, B-58 Hustler, Bell X1
+Transport: Air Force One - 747, C-119 Flying Boxcar, C-46 Curtiss Commando in Saturn Airlines livery, Douglas DC3 in Capital Airlines livery, Antonov AN-124, ONAC C-110 Polaris
+Vintage and Classics: A26B Douglas Invader, A6m3 Zeke version 5, Aeronica C3 32Hp, Boeing P-12C, Boeing P-26A, Bristol Beaufighter(Nightfighter), Bristol Beaufighter TFX, Bristol F2B Fighter Mk 1, C-46 Curtiss Commando in Saturn Airlines livery, Douglas DC3 in Capitol Airlines livery, Messerschmitt Me 262, Northrop BT-1, Royal Aircraft Factory SE5a, Ryan NYP 'Spirit of St. Louis'
+
+The package requires that Microsoft's Flight Converter software is installed. If it is not present the Windows installation process will install it before loading the aircraft.

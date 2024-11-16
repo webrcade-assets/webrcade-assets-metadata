@@ -1,0 +1,1 @@
+Backgammon is an adaptation of the classic board game. Players begin by entering their name and then face off against the computer. During their turn, players input their moves using the keyboard (e.g., “01” or “10”). The game follows the standard ruleset.

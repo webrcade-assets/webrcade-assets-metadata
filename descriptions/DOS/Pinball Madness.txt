@@ -1,0 +1,7 @@
+Pinball Madness bundles together four Pinball classics in one package:* Full Tilt! Pinball (For Windows 3.1 & 95)
+
+Hyper 3-D Pinball (DOS version)
+Loony Labyrinth (for Windows 95)
+Crystal Caliburn (for Windows 95)
+
+Both Loony Labyrinth and Crystal Caliburn can also be installed and played on Windows 3.1 systems by using the included Win32s compatibility files.

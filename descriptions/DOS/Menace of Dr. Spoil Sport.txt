@@ -1,0 +1,2 @@
+Menace of Dr. Spoil Sport is an early 3D puzzle adventure.
+This is a single player game that can be played with either the mouse, keyboard or joystick. The player is some kind of secret agent on a mission to stop Dr. Spoil Sport, the typical mad scientist, from destroying the world with his super laser beams. This involves puzzle solving, finding keys to locked doors and, of course, shooting things. The game has a save/load function which is necessary because the player dies if they take one hundred points worth of damage.

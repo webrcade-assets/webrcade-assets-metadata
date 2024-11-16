@@ -1,0 +1,1 @@
+Multilevel Three Dimensional Tic-Tac-Toe is a text-mode implementation of three-dimensional Tic-Tac-Toe, played on a 4×4×4 grid. The game offers a single-player mode against a computer opponent with one difficulty level. The playing field is rendered in an oblique perspective, and the pieces of each player are drawn in different colours to improve clarity.

@@ -1,0 +1,10 @@
+MicroWINGS Dallas/Ft. Worth (DFW) Scenery is an add-on pack for Microsoft Flight Simulator that was supplied free to all MicroWINGS members, they only had to pay for shipping and handling.
+It covers the entire Dallas-Ft. Worth area as defined by the VFR Terminal Area Chart of the time, giving a claimed area of 6,958 square miles. When installed it creates a new scenery library and provides over sixty runways, some airports have several runways while others have none, and other Texas landmarks.
+The main features, as described in the product documentation, are:* Access to current weather information for the Dallas/Fort Worth (DFW) area
+
+Automatic terminal information service (ATIS) and Common Traffic Advisory Fequency (CTAF) frequencies for all airports
+It includes Cowboy VOR/DME - a navigation aid that was set up in 1995 and is therefore not included in Microsoft Flight Simulator
+Buildings: In addition to generic buildings that line the freeways the developers have included many notable landmarks, over forty are listed in the documentation
+New roads lakes and rivers have been added
+City boundaries have been defined
+There are also sixteen features described as 'easter eggs'

@@ -1,0 +1,1 @@
+Another Reality-on-the-Norm text adventure game made with the Computer Novel Construction Set. The dog has done a poop in the middle of the Town Square. The player's task is to clean it up.

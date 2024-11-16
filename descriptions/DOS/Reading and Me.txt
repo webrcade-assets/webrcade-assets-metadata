@@ -1,0 +1,6 @@
+Reading and Me is a series of reading comprehension game for multiple systems.
+There are 4 categories of games, each containing 3 mini-games:* Readiness - Players find matching pictures, select the picture which is different, or choose the one that doesn't belong in a group.
+
+Alphabet - Matching letters, matching uppercase to lowercase, and providing the next letter in a sequence
+Phonics - Provide the first or last letter of a word, or locate rhymes
+Words - Match words to pictures, or place the correct word in a sentence

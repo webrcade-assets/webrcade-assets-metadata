@@ -1,0 +1,5 @@
+Oklib's Revenge is a single player text adventure which is a remake of the 1991 Spectrum/C64 game Staff of Power. The developer's in-game notes state that this new game uses all of the two hundred nouns and all of the seven hundred meta-commands permitted by the Big Adventure Game Toolkit.
+The game was released in two parts, part one being released into the public domain while part two was released as shareware.
+As with the original game the king's Staff of Power has been stolen and the player, a member of the Palace Guard, have been volunteered by Sergeant Oklib to recover it. (Oklib doesn't like you very much hence the game's title).
+As with the original game the game starts at a crossroads in the middle of nowhere and there is much exploration to be done. Unlike the original game Oklib's Revenge is not limited to four hundred turns and while there is no combat in this game it is still possible to die so use of the manual save feature is advised.
+The game has one hundred and twenty-one rooms/locations and a perfect score of one hundred points.

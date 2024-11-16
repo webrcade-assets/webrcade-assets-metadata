@@ -1,0 +1,7 @@
+Creating Adventure Games on Your Computer is a book containing a series of type-in adventure games for multiple systems designed to teach the programmer how to make adventure games in BASIC.
+Contains the following games:
+
+Aftermath of the Asimovian Disaster
+Chateau Gaillard
+The Citadel of Pershu
+Werewolves and Wanderer

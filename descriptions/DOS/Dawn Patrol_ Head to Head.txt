@@ -1,0 +1,2 @@
+Head to Head is an updated re-release of Empire's Dawn Patrol.
+Features and enhancements include real SVGA graphics, Head-to-Head mode via modem or serial modem-connection (also added in patch to original Dawn Patrol), computer opponent steered by an improved AI, several cam-view-options, choice of 13 planes for mastering over 150 levels, 3D sound effects, digitized sound effects.

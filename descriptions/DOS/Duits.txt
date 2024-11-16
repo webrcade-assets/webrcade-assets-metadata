@@ -1,0 +1,1 @@
+Duits (Dutch for German) is an educational game for learning German words. The game shows 50 German words, one after the other, and the player must enter the Dutch translation of each word. The first and the last letter of each answer is already entered and it's shown how many letters there are in each word. The player has 45 seconds to enter each answer.

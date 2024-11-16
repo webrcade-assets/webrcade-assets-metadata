@@ -1,0 +1,9 @@
+Lomax Boulders is a game akin to the basic game-play of Boulder Dash.
+The story behind the game is that Logan Maxwell, (hero, explorer and of course fearless), heard about a thousand year old puzzle deep in the South of Africa. After studying long and hard, he found the secret, and went mining for jewels.
+The game features a mixture of rocks, jewels and earth. Lomax must dig through the earth and collect the jewels without being crushed by falling rocks. The game features * sound effects - but no music,
+
+256 color graphics,
+5 levels of difficulty, and
+smooth parallax scrolling.
+
+The full game has fifty deadly caverns of which the first thirteen were released as shareware.

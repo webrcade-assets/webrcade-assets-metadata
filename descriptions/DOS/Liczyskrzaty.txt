@@ -1,0 +1,1 @@
+Liczyskrzaty is a simple digitalized educational game designed to teach basic counting. It allows to choose a range of numbers and add extra difficulties. The player's task is to indicate the number on the balloon that corresponds to the number of sprites on the screen.

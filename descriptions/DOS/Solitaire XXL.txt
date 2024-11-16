@@ -1,0 +1,1 @@
+Solitaire XXL features several solitaire rule sets of the popular card game. It also contains a unique card set drawn by German artist Uli Stein. The shareware version has several restrictions: it can only be played ten times, there is just one rule set and the special card set is not available.

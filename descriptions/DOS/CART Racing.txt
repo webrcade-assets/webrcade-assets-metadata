@@ -1,0 +1,1 @@
+CART Racing (short for Championship Auto Racing Teams) is a re-release of IndyCar Racing II, with Windows 95 Rendition 3D acceleration support, and slipstreamed with some patches. The game simulates open-wheel races with realistic physics, an official license, and extensive garage and setup options. There is multiplayer support for two players in total.

@@ -1,0 +1,4 @@
+The Bogeyman is a single-player, shareware, fruit machine game.
+This game was developed in the United Kingdom. It is based on the kind of three reel slot machine found in pubs and clubs at the time complete with features such as nudges, gamble a board game style bonus which is called 'The Bogeyman' from which the game takes its name.
+The game installs with a typical fruit machine set of reels, grapes, oranges, cherries and so-on but there are alternate reels available. A companion program called 'The Gallery' installs with the game, this can be used to both view alternate reels and create new ones.
+The shareware version of the game was made available on the UK BatCave BBS for download, it allowed five, time-limited spins before registration. It is mouse controlled and has basic sound effects.

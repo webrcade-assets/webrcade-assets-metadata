@@ -1,0 +1,5 @@
+Aro II is a shareware one or two player platform game in the same vein as Aro.
+The player(s) control the titular small red character and must guide him as he explores his world. There are sixty levels in the game, eighteen in the shareware release with an additional forty-two in the registered version, and there are four degrees of difficulty. The objective being to progress as far, and collect as many points along the way, as possible with Aro's single life. Naturally there are nasties to be avoided, levers to be pulled, keys and other items to be collected.
+The game has no sound and no music. It supports keyboard controls, which can be redefined, and a joystick.
+The two player game is played on a split screen.
+The game was written in C++.

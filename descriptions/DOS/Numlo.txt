@@ -1,0 +1,2 @@
+Numlo is an Othello/Reversi style game where the objective is to capture more spaces than your opponent. However, here some spaces have point values; a space with a value of 6 is seven times as valuable as an unlabeled space. As an additional twist, the game has three players, not just two. A player can only capture spaces when there's a single color between the pieces in question.
+The game was distributed as Shareware; the unregistered version is restricted to one human player. There are three difficulty levels for computer players, which just affect their intelligence.

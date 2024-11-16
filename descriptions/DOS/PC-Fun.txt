@@ -1,0 +1,7 @@
+This shareware pack includes a trio of arcade-style games:
+
+Catch a Falling Star : those darned astral bodies are just dropping out of the sky, and right onto your back yard no less; if stars weren't enough, the comets are out on a rampage too. You therefore grab your trusty wooden basket and try your best to catch them all; miss three of them, and the game is over.
+
+Killer Bees : you're menaced by swarms of... really, you can probably guess. In each wave, you must get five of the buzzing enemies within your crosshairs and fry them with your pair of lasers. Despite the title, the bees themselves are perfectly harmless - it's running out of energy that can finish you off: it drains away faster with each successive wave, and shooting consumes energy, too. You may pick a difficulty from 1 to 10, which determines the wave you start on.
+
+Cosmic Crisis : another shooter, which charges you with repelling a never-ending succession of alien invaders, though they do little more than flying harmlessly across the starry sky. Nailing an ordinary fighter nets you 50 points, and the faster starships are worth 500. Here too, your time is limited by your fuel reserves, but if you do well enough you'll have your tank refilled once you run out.

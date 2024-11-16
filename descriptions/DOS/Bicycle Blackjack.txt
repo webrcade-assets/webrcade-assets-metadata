@@ -1,0 +1,1 @@
+Bicycle Blackjack is a single-player blackjack game. It supports doubling down, splitting, and surrender. It also has good tutorial and strategy options. These include recommended actions, automatic card counting, and odds.

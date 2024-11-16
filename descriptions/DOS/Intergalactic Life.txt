@@ -1,0 +1,1 @@
+Another text adventure game made with the Computer Novel Construction Set. The player takes a role of alien #28493 (later named Knoffel in Toxically Earth), whose starship has crashed in Reality-on-the-Norm. His task is to find a fuel to leave this town quite surrealistic for the aliens. The game is divided in two parts accessed with 'universe' and 'earthfly' passwords.

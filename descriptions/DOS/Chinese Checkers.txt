@@ -1,0 +1,2 @@
+A translation of traditional Chinese Checkers.
+If you ever played "Argo Checkers" or "Hexxagon", do not dare to enter into this confusing realm of checkers. First of all, you have twice as many checkers, and there can be up to six players, which is more than enough to mess up your life.

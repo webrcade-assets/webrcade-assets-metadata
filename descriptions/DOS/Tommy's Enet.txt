@@ -1,0 +1,6 @@
+Tommy's Enet is a single player DOS game.
+The player takes the role of an energy guardian who must prevent the enemy breaching their inner globe energizions.
+The game takes place on a grid, fifteen nodes wide by eight nodes high. The player controls a character that moves vertically along the lines of this grid, when they reach the top they move one row right or left depending on the direction of travel.
+The enemy move across the screen right to left and the player must intercept them. This can only happen when the enemy cross one of the vertical lines on the grid. Running over the enemy wipes them out and scores one point, bonus points are scored by running over the super bad black enemies.
+The player's character is controlled via the numeric keypad, 8 & 2 increase / decrease the speed and 4 & 6 move the character left / right.
+The game has nine levels of difficulty and maintains a record of the ten highest scores for each difficulty level.

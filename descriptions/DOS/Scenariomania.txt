@@ -1,0 +1,8 @@
+Scenariomania is an unofficial Add On CD containing about 650 maps for 5 different games. Furthermore, it also includes Level-, Savegame-Editors, and Trainers. But none of these were particularly designed for this CD, just collected from different sources and bundled together.
+The 5 games in detail:
+
+Command & Conquer (89 maps)
+Descent (62 maps)
+SimCity 2000 (34 cities)
+Star Wars: Dark Forces (5 maps)
+WarCraft II: Tides of Darkness (354 maps)

@@ -1,0 +1,3 @@
+Tommy's Floppy Discus is a single player DOS game in which the player plays against the computer.
+A discus bounces back and forth across the screen. The player controls a paddle that moves vertically. When the discus hits a target the player scores a point. When the target is a gorilla the player either scores ten points if the gorilla s white, or loses ten points if the gorilla is black.
+Play continues until the player loses their only life.

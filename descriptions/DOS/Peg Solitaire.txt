@@ -1,0 +1,7 @@
+Peg Solitaire is a single player, shareware implementation of the board game.
+It comes with two 'classic' board layouts:
+
+PEG: The traditional cruciform board which has thirty three holes of which thirty two are occupied. The object is to remove all but one pegs from the board, by jumping over them with neighbouring pegs.
+COLOUR PEG: which uses the same board but here there are only twenty-four pegs, six pegs in each arm of the cross with each group being a different colour. Here the object is swap the groups around so that the top and bottom groups swap places as do the left and the right groups.
+
+The game is keyboard or mouse-controlled, has basic sound effects and a high score table.

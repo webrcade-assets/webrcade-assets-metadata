@@ -1,0 +1,1 @@
+Ortografia dla najmłodszych is a simple educational game for younglings. The game teaches basic orthography, introduced in the form of picture matching or a standard typing system. Each game takes 3 rounds.The game features a scoreboard and color drawing play mode.

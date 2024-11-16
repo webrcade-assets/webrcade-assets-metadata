@@ -1,0 +1,2 @@
+A simple crawl where you have to explore a strange old, mostly abandoned and rumouredly haunted prison to find some presumably fabulous treasure.
+As with the other Temple Software games, this is a simple text adventure, with most puzzles simply consisting of giving the right item to the right person. You can enter simple commands to navigate through the world, and you can save and restore the current game.

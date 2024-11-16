@@ -1,0 +1,1 @@
+Cube is a single-player, freeware, Rubik's cube simulation. The game starts with the cube in the 'solved' position and the player uses keyboard commands to scramble then unscramble. The game saves automatically on exit, unless the player exits with Ctrl+C. There is no sound, no high score, and it is played entirely with the keyboard.

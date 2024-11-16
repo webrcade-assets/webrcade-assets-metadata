@@ -1,0 +1,1 @@
+This is an add-on pack for Privateer which adds speech to all the in-flight taunts and communications.

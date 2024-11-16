@@ -1,0 +1,5 @@
+War-8}! is a two player, shareware game similar to Scorched Earth and Worms.
+Both players have five tanks which are dropped onto a computer generated 2D landscape. The object of the game is to score points by destroying all the opponents tanks and optionally the buildings that populate the landscape.
+When it's their turn each player selects one of their tanks and a weapon. Aiming the weapon is an exercise in hand/eye co-ordination. The game provides two circles at the top of the screen. The first has a rotating arm that sets the direction of the shot while the second has coloured segments that indicate the power of the shot. While these are being selected they are mirrored in the game area which makes things just a tad easier. Once the player has chosen each of these the weapon is fired and hopefully does some damage.
+The weapons available are a rocket propelled grenade, an amplified light pulse, and two forms of missile.
+Unlike some other games of this type, Worms for example, there's no wind or weather to alter the trajectory.

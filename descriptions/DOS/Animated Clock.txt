@@ -1,0 +1,10 @@
+Animated Clock is an educational game for learning how to tell time. It has five modes:
+
+Practice lets you set an analog and digital clock to the time you want, in order to see what a time looks like on both.
+Multiple Choice displays an analog clock and asks you to select the matching digital time from several options.
+Analog to Digital displays an analog clock and asks you to type in the correct time.
+Digital to Analog displays a digital clock and asks you to move the hands on an analog clock to match.
+Cuckoo Clock displays the current time on both an analog and digital clock.
+
+All modes except Practice and Cuckoo Clock let you select a difficulty of 1 hour, 30 minutes, 15 minutes, 5 minutes, or 1 minute. For example, at 15 minutes, all times given will end in :00, :15, :30, or :45. Every time you correctly answer a question, a small animation plays on the clock. If you complete a section by answering 10 questions, a longer, more complex animation will play, then return you to the main menu.
+The game was distributed as Shareware. The registered version had more animations, and could be personalized with your child's name.

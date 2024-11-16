@@ -1,0 +1,8 @@
+Tommy's Calabresella is a shareware, single player, trick-taking card game, in real life this is a game for three players but in this implementation the player takes one seat, north and the computer pays the other two. The game is also known as Terziglio, it is Italian in origin and it is said to have been popular among the priesthood.
+Detailed rules of the game are contained within the game and are freely available on the internet. In summary the game is played with a standard fifty-two card deck from which all the eights, nines and tens have been removed. Players bid to be the soloist and then play the hand, there are no trumps in this game. The soloist must make at least eighteen points, if they do then they score one point and additional points for any points they score over the eighteen mark. If they fail then the opponents both score the deficit.
+The game ends when one player exceeds a predefined total, in this implementation that can be any number between fifty and nine thousand, nine hundred and ninety nine points, or pips as they are called in this game.
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display. In addition it has the following options:* a demo mode where the game plays all by itself
+
+an Open Hand option where all player's cards are visible
+a hand replay option
+in-game help

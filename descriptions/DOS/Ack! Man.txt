@@ -1,0 +1,2 @@
+Ack! Man is a single player, keyboard-controlled Pac Man game.
+In this game Ack! Man replaces Pac-Man and the four ghosts are Finky, Stinky, Dinky and Clyde. The gameplay is just the same, race around a maze eating pills and, and when a power pill has been eaten, chasing and eating the ghosts. The game has fourteen levels and randomly occurring bonus items.

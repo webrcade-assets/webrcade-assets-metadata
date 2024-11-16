@@ -1,0 +1,1 @@
+Overkill is a Mortal Kombat-esque fighting game featuring human, alien, and robot characters in a futuristic/space setting.  The characters and backgrounds (which are animated) are 3D-rendered in high resolution SVGA.  In addition to the standard single and two-player modes there is also a practice mode.

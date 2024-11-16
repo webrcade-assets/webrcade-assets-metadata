@@ -1,0 +1,3 @@
+Ground War is a two-player tank game based on the Gulf War. Both sides are given multiple tanks, as well as bunkers, ammo dumps, fuel tanks, hidden minefields, and communication towers. Players act at the same time, controlling one tank at a time, and attempting to destroy enemy targets. Note that victory is based on points, not simply destroying all enemy tanks.
+Play can be local (both players on the keyboard) or via modem.
+This describes version 2.0. A 1.0 Shareware version was also distributed, lacking modem play and communication towers. The 2.0 Shareware version does not have any locked content.

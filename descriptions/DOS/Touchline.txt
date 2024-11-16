@@ -1,0 +1,5 @@
+Touchline is a single player, shareware, football management game based on the English leagues as they were prior to 1992 when the Premier League began. It claims to be the first management game with 'LUCK programmed into it.'
+The player takes control of a club in Division 4 and must manage it to top of the First Division. The player can control most aspects of the game, this is a list of the main features taken from the documentation:"You select the team, decide on player coaching, choose team tactics, Manage team finance, organise incoming and outgoing transfers and supervise the club employees.".
+Teams can consist of up to twenty players each of which can be customised.
+Whatever team the player picks they start in the lowest division. All the player names are fictitious but the team names are genuine and the leagues are based on real positions around 1990 when Millwall, Norwich, Charlton and Coventry were all in the top division.
+Games can be saved and later re-loaded as required, however to prevent any cheating there is a limit to 5 saves per season.

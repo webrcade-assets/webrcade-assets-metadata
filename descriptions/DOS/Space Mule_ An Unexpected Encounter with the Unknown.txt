@@ -1,0 +1,4 @@
+Space Mule is a single player, keyboard controlled text adventure.
+A Space Mule is the type of ship owned by the player's character, an asteroid miner, who is doing quite well for themselves - well at least they are not in debt. They have just set out on their next foray into deep space when something odd happens. They wake up to find the ship stopped in space which should not have happened because the skip-drive was engaged and nothing stops a ship when it is in skip-space.
+Whatever, the player awakes, on the floor and with an arm that hurts. What has happened and what state is the ship in?
+This adventure has eighty-one locations and a perfect score of two hundred points.

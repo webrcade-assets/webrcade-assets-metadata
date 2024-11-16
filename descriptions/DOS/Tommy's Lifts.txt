@@ -1,0 +1,5 @@
+Tommy's Lifts is a single player DOS game which involves shooting and strategy.
+The player is a spy in the enemies building. The building is represented on-screen as a series of six towers, each containing a lift. Enemies chasing the players character are on all lifts and the player must shoot them before they themselves are shot. When lifts are aligned both the player and the enemies can both shoot and cross between them.
+Points are scored for each enemy killed. The game has nine levels of difficulty. In the lower levels of difficulty the enemies don't shoot as far or as often.
+ The game records the top ten scores for each difficulty level.
+The game is entirely controlled by the keyboard. The numeric keypad is used to move left / right and to leap between lifts, the function keys are used to change the difficulty level, toggle sound, fire left / right and to quit the game.

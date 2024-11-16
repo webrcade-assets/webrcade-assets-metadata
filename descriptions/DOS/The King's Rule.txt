@@ -1,0 +1,2 @@
+The King's Rule is an educational logic game.
+The player progresses through 6 levels of increasing difficult logic challenges in an attempt to meet the king of the castle. At each level the player encounter a room guard, and the player is given 3 numbers, from which a mathematical relationship can be derived. The player has an unlimited number of attempts to submit 3 numbers, and are told if the sequence fits the mathematical relationship. If the player solves 3 problems correctly. they move through to a new room and a more difficult challenge.

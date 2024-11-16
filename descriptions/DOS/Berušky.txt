@@ -1,0 +1,1 @@
+The Berušky game is based on an ancient puzzle called Sokoban. An old idea of moving boxes in a maze has been expanded with new logic items such as explosives, stones, special gates and so on. In addition, up to five bugs can cooperate and be controlled by the player.

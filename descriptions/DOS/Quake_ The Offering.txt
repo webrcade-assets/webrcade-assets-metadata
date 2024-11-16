@@ -1,0 +1,1 @@
+Quake: The Offering is a compilation of the original Quake and its add-ons, Scourge of Armagon and Dissolution of Eternity. The Linux version of the compilation is the first commercial release of Quake for that operating system. It had been available previously only as a binary download, requiring the data files from another version to function.

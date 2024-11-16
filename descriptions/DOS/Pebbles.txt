@@ -1,0 +1,2 @@
+Pebbles is a Boulder Dash clone. The player controls a human-looking character in a side-view perspective on a fixed screen, and the objective of the game is to collect all fruit in the allotted time to open the level exit. To this end, the player digs tunnels through soft earth, but must be aware of "pebbles" that will fall down once free from any support, and of various hostile creatures that will instantly destroy the player character on contact.
+Pebbles was developed as freeware and originally released along with its source code. The game contains eight levels.

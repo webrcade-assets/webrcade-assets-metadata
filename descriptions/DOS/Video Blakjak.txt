@@ -1,0 +1,3 @@
+Video Blakjak is a single player, shareware, blackjack game.
+This game plays blackjack based on a point count strategy. As well as playing the blackjack the documentation claims it"will teach you the game and help you play it better". It has help functions, customisable rules, in-game statistics. This game also has a feature that allows the player to devise a playing strategy which the computer will then play for up to two hundred hands so that the effectiveness of the strategy can be evaluated.
+It is entirely keyboard controlled

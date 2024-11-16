@@ -1,0 +1,1 @@
+A direct translation of the Avalon Hill board game of the same name, Circus Maximus. Race your chariot around the track and try to be the winner. Strategic use of your whip on your horses, another driver, or another driver's horses, lead to crashes and other fun events as you maneuver for first place.

@@ -1,0 +1,1 @@
+In this title only the "Jacks or better" variant of Stanford Wong Video Poker is included. The game represents the gambling 5-card draw poker with integrated Tutor and Stanford Wong as a Video Poker Analyzer. Thus, it is possible to set a bet, deal the hand, ask the tutor about most successful action, analyze the hand, hold certain cards, and win as much money as possible.

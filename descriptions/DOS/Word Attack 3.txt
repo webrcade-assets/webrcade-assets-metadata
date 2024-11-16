@@ -1,0 +1,1 @@
+Vocabulary game with 5 subgames of four difficulty levels, ranging from age 10 to adult. Different games like platformers, crosswords, word searches, scrambles, and sentence completion help the player learn words, suffixes, and prefixes. Pronunciation plays when a word is clicked. Supports English, Spanish, French, and German vocabulary.

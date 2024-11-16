@@ -1,0 +1,2 @@
+FX racer is a true 3D car racing game where the objective is to complete either three or five laps on a single circuit. There are no AI controlled racers, so the player is only ranked by the time it took to finish the race. Three cars are available for driving, with different appearance and characteristics.
+The game includes a 3D editor tool that can load and edit the game's objects, including the geometry of the race track itself.

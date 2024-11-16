@@ -1,0 +1,177 @@
+Best of Mega Games is a collection of shareware games for DOS.
+When the player runs the install process it loads a DOS menu system, Magic Desk, onto their root directory. Once loaded the menu system gives access to some games directly and many others via folders. Most of the games run from the CD directly but others require installation. The games in this compilation are;
+
+Games on the main menu:
+Descent,
+3 Point Basketball,
+Lamborghini: American Challenge called Crazy Cars 3 here,
+Stalker 1: Path of Fire here it's just called Stalker,
+ShadowForce
+
+Group Arcade Games 1:
+Sky Bombers,
+Redhook's Revenge,
+The Adventures of Captain Comic here it's shortened to Captain Comic 1,
+The Adventures of Melvin Freebush called Melvin Freebush here,
+Billy the Kid Returns!,
+Shooting Gallery,
+Wibbling Wilf here it's called Wilf II,
+Skunny: Back to the Forest there are five Skunny games in this compilation and none use the name Skunny
+The Pack Rat,
+Psionics,
+Rockford called Rockford here,
+Moraff's Pinball,
+1994Pool+
+
+Group Arcade Games 2:
+Nitemare-3D,
+Jill of the Jungle,
+FBI Fred,
+Dodgem,
+Fire Power
+Superfly,
+Sandstorm,
+Megapede by Cheesy Software,
+The Adventures of Maddog Williams in the Dungeons of Duridian unsurprisingly abbreviated to Dungeons of Duridian,
+Lamers by Cocktail,
+Bananoid,
+Gobman,
+Rotakitx,
+Denarius Avaricius Sextus shortened to just Avaricius in the menu
+
+Group Arcade Games 3:
+YAB! Baseball,
+Killer Bees,
+Pickle Wars,
+Ballistix,
+Orion Odyssey: The Search for the Magic Ankh unsurprisingly abbreviated to Orion Odyssey,
+Gateworld: The Home Planet shortened to just Gateworld in the menu,
+Galactix,
+Scorched Earth,
+L. Runner 2,
+Epic Pinball containing the eight tables of packs 1 & 2
+
+Group Arcade Games 4:
+Jazz Jackrabbit,
+Night Raid,
+CD-Man,
+Alien Worlds by Shannon Larratt,
+Best Of ZZT,
+Earth Invasion,
+Aldo's Adventure,
+Phylox,
+SkyRoads,
+Boomerang,
+BipBop II,
+SDI2040
+
+Group Arcade Games 5:
+Runaway,
+Ken's Labyrinth,
+Space Bats,
+Construction Bob,
+Clyde's Adventure,
+Jurassic Spelling,
+Stellar Conquest 3: Hostile Takeover shortened to Stellar Conquest 3 in the menu,
+Hugo's House of Horrors here called Hugo House Horror 1 in the menu,
+Hugo 2: Whodunit?,
+Hugo 3: Jungle of Doom,
+Blockout
+
+Group Arcade Games 6:
+Skunny: Lost in Space,
+Skunny: Save Our Pizzas!,
+Skunny: In The Wild West,
+Tank Wars by Kenneth Morse,
+Moraff's Dungeons of the Unforgiven renamed Dungeons / Unforgiven.
+Capture the Flag,
+Skunny's Desert Raid,
+AstroFire,
+Computer Wars by Scott Litvinoff and Wei Zhong
+The Catacomb Abyss,
+Ancients 1: Death Watch shortened to just Ancients here.
+
+Group Arcade Games 7:
+Jetpack Christmas Special!,
+Galleons,
+Star Hammer,
+Clone Invader called Space Invaders on the menu,
+The Jelly Bean Factory,
+Scubaman's Quest,
+Sharkey's 3D Pool called PC Pool 2.0 in the menu,
+Hurdles,
+Time After Time called New Age Warrior on the menu,
+Rescue Rover,
+Jetpack,
+Megatron
+
+Group Casino/Card Games:
+Video Poker Slot called Poker Slots in the menu,
+Video Poker Slot called Video Blackjack here,
+J & J's Vegas Pack: Black-Jack called Vegas Blackjack in the menu,
+Klondike by Eduardo Martins,
+1995Card+,
+Blackjack Plus,
+Moraff's Monster Bridge,
+Double-X Slots
+
+Group Logic/Board Games 1:
+Cyber Chess,
+Alchemyst,
+Acquire by developer Bill Humphrey,
+Cube by Doug Cox,
+Acrostix,
+Double Links by Paul R. Tupaczewski,
+Floatris,
+SITris by Paul Tupaczewski,
+BlueBalls,
+Aggression by Thomas B. Hardy,
+Exploding Atoms,
+Pinocle Games by Michael G. Bruckner,
+Dots
+
+Group Logic/Board Games 2:
+Hexxagon,
+KrisKros,
+Aquanoid,
+Mah Jongg Solitaire by Nels Anderson,
+Antic,
+Battle Charge,
+Block-Man 1,
+Berlin Wall,
+1993tris,
+Crusher Castle II,
+Bones: The Game of the Haunted Mansion called just Bones in the menu,
+Cubulus named Kubulux in the menu,
+Balloon Challenge,
+Hong Kong Mahjong,
+Quatris II+
+
+The 'Read Me First' file that pops up during the installation process says, in the 'Updates and Changes' section, "We update, change, add and delete programs on this CD from time to time to make it more user-friendly, entertaining, and functional. So don't be surprised if one or a few programs listed in the printed documentation are not found on this CD."
+So it is surprising that there are so many games on the CD that are not referenced by the menu system, these are listed below:* On the Seventh Day! a Windows god game
+
+The Game of ACluSl
+Alpha Man
+The Bards Quest I: The Legend of Isil Thania
+Battle Beyond
+Bunny Blast
+Battles In A Distant Desert A Windows game
+Bolo Ball
+Clock Solitaire
+Crusher
+Defender a clone by Sarwan Narine
+The Adventures of Dianalee In The Lost Temple Of The Aztecs
+Maniac Mansion: Day of the Tentacle a non-interactive rolling demo
+Dotso
+Fatal Challenge another non-interactive rolling demo
+Gamblers And Money Grubbers
+Goferpop
+The Last Half of Darkness
+Laser Chess
+Onesimus: A Quest for Freedom
+Oxyd
+Racer
+Rampcube
+Night Maze
+Caddiehack
+Vicky a rolling demo from 'The Space Pigs'

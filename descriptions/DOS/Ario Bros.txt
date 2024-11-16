@@ -1,0 +1,5 @@
+Ario Bros is a single player, platform game that uses character graphics.
+In this game the player has to keep the plumbing free of pests while collecting points. To collect the pest the player jumps up and bangs the platform beneath the pest, this temporarily stuns them so that they can be collected. Collected pests leave behind coins which score points. Some pests can be stunned with just one jump, others take two or more.
+The game also has a POW box. When hit this stuns all pests but its effect is reduced with repeated use.
+There's a fireball bouncing around the screen, if the player catches it they will score highly on the other hand if the fireball hits the player it's game over.
+The game can be played in colour or in monochrome, has a high score table, and is controlled via joystick or keyboard

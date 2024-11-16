@@ -1,0 +1,1 @@
+Rebound is a basic Breakout clone in 1.8 KB of machine code. As would be expected, the goal is to tear down a wall brick-by-brick by bouncing a ball off a paddle that can slide left or right along the bottom of the screen. Pull it off without losing your seven balls, and you win.

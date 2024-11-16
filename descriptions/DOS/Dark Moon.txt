@@ -1,0 +1,4 @@
+Dark Moon is a typical space shooter, based on a rules common in arcades.
+Just like in other side-scrollers, the player controls a space ship, moving from left to right side. The ship is armed, though initially the fire power is rather low. Fortunately, for every alien spacecraft destroyed, we are being rewarded with hard cash. This can later be used in the shop, to buy more powerful weapons, bombs or protective shields.
+The battle is being fought in 3 environments: outer space, enemy planet, and the base. Each of these is divided into 4 sections.
+The game features full motion video sequences for intro and outro.

@@ -1,0 +1,1 @@
+Classic style plane shooter. Move up a vertical scrolling environment and shoot anything that moves.

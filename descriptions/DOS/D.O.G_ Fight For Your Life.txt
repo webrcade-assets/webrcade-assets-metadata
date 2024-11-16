@@ -1,0 +1,2 @@
+D.O.G. is a third-person shooter with vehicles and turrets to use. The game doesn't have a story, you just select a mission that you can afford (you get money from completing missions), kill everyone/everything in it and continue to the next mission.
+The engine uses voxels, so you can blast the ground with few different weapons, like flamethrower, chaingun, grenade launcher and rocker launcher. Picking up powerups for yourself and your vehicle ease your way on the devastation.

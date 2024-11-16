@@ -1,0 +1,36 @@
+33 Adult Computer Games in BASIC is a series of type-in games designed for an older audience.
+Contains:
+
+Amount on Board: Allows up to 10 players to place money bets on squares.
+Be Prepared: Guess the correct code to propel the space ship into a tube.
+Dangerous Affair: Practice passing along coded and uncoded messages.
+Date Service: The computer tries to see which people are most compatible.
+Driver's Test: Move a car horizontally to avoid oncoming traffic on a busy road.
+Elevator: Try to determine what floor people want to disembark from an elevator.
+Farewell: Played on a 6 x 5 grid, the player must guess each letter location.
+General Store: The player must quickly add together the prices of different items in a store.
+Hold Time: Try to hold a moving alien vessel in place to destroy it with the surrounding lasers.
+Injection: Try to destroy a colony of bacteria using an injector machine.
+Insomnia: The computer helps the player sleep through the power of suggestion.
+Intercept: Guard a city for 10 days by destroying the enemy aliens and not the friendly ones.
+Key a Date: Password protects data causing it to be protected if the incorrect password is entered.
+Knights: Shoot the knights in a castle without hitting the hostages.
+Lap-The-Track: Up to 15 players can bet on 4 spots that will dash across the screen in 10 laps.
+Love One Another: The computer tries to solve conflicts with your spouse.
+Master Code: The computer selects 3 digits from 1 - 9 and encodes each as a sound, with the goal to guess the digits.
+Math-a-Code: Decode a math problem where the numbers have been encoded as letters.
+Mind Invasion: Move up and down to try to avoid the blocks that try to squish you.
+Partners: Up to 5 partners can try to guess words that are displayed on the screen by giving clues.
+Pennies or Dollars: The player tries to make money by making loans and investments.
+Point A to Point B: The player enters movement commands to try to exit a maze.
+Rain of Terror: Use the left and right arrows to move out of the way of bomb.
+Rainy Daze: Try to spot the incorrect number in a rapidly moving number sequence.
+Respect Your Computer: A program to test your computer's honesty.
+Squares: A variant of checkers in which the player can move pieces in both directions.
+The Course: Move a vehicle horizontally to avoid hitting the walls of an ever changing track.
+Trapped: Try to trap the computer's piece with a horizontal moving trap.
+Triangle: A game of chance to avoid landing on the spot chosen by the computer.
+Troubles: The computer tries to provided a solution to a person's problems.
+What is it?: The computer gives 5 progressively more specific clues to try to guess a word.
+Where's the Necessary Room?: Try to navigate through a large bar to reach the bathroom.
+Words-Zit: Decode 20 messages by interchanging letters of the alphabet.

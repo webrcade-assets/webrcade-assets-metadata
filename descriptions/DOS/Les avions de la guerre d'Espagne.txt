@@ -1,0 +1,25 @@
+This historical combat flight simulation, created with Domark/Simis' Flight Sim Toolkit, is set during the Spanish Civil War and allows to fly various airplanes of the period:
+Republican forces:
+
+Polikarpov I-15 'Chato'
+Polikarpov I-16 'Mosca'
+Polikarpov RZ 'Natacha'
+Grumman CCF 'Delfin'
+Tupolev SB-2 'Katiuska'
+De Havilland DH-89 'Dragon Rapide'
+Douglas DC-2
+Potez-540
+Gil y Pazo GP-2
+Focke-Wulf 'Stösser'
+Autogiro 'La Cierva'
+
+Nationalist forces:
+
+Messerschmitt BF-109B
+Dornier 17 'Bacalao'
+Junkers Ju-87 'Stuka'
+Junkers Ju-52 'Pedro'
+Fiat CR-32 'Chirri'
+
+Each plane has its own mission, detailed out in the optional Windows-based user interface that acts as the game launcher. There are two theatres of operation: Ebro delta and Valencia region, and the scenarios are split between these two separate game maps, with ten missions per theatre. Scenarios take advantage of enhanced features of the Flight Sim Toolkit, so often the player is accompanied by friendly AI pilots to simulate large-scale military operations.
+The game is free to distribute, but since the author retains all the rights and prohibits commercial distribution, it is classified as shareware by the author.

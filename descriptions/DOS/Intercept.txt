@@ -1,0 +1,1 @@
+Intercept is an interactive fiction adventure where you guide Agent 68 on a quest to recover the stolen pages of a top secret rocket formula and return them to Mission Headquarters.

@@ -1,0 +1,1 @@
+The Paddle is a simple horizontal adaptation of the classic Pong. The game allows to compete with a computer or against a human player. Players control a paddle represented by a red or blue line. Paddles are on the opposite side of the screen, at the top and at the bottom. The game ends when one of the players cannot reflect the ball.

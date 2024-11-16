@@ -1,0 +1,1 @@
+Hank's Quest is a graphic adventure about a teenage loner named Hank, who decides to throw a party. But organizing it is not going to be easy. The game's visuals resemble early Sierra games and it also uses the company's point system to reward actions. In this game a maximum of 200 points can be scored. All input is done through text commands.

@@ -1,0 +1,1 @@
+A beat'em up game where two heroes, a boy named Ki and his sister Tia, fight villains screen-by-screen in the side-scrolling fashion, with their martial arts. There are one and two player modes, the latter allowing two local players to fight simultaneously.

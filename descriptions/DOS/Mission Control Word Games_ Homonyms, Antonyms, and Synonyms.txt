@@ -1,0 +1,5 @@
+Mission Control Word Games: Homonyms, Antonyms, and Synonyms is a space-themed series of English learning games for multiple systems.
+Contains three games:* Black Hole Homonyms - A sentence is displayed, and the player must select the correct homonyms as two rapidly blink on the screen.
+
+Asteroid Antonyms - The player must properly align a list of scrolling antonyms.
+Star Ship Synonyms - The player must properly align a list of scrolling synonyms.

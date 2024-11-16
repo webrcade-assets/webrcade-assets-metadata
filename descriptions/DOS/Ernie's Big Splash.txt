@@ -1,0 +1,2 @@
+Ernie's Big Splash is an educational game for young children aged 4–6.
+The player helps navigate Ernie's rubber duck to his bathtub. To do this, the player must place a number of blocks on the screen which redirect the duck's movement so that it reaches the square with the bathtub.  The total play area is 5 x 5 squares.  The player can use as many tiles as they wish to make this happen.  Pieces are placed based upon the duck's movement, and then the duck's trip is animated.

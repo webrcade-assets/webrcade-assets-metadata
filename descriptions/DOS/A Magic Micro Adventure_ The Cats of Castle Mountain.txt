@@ -1,0 +1,3 @@
+A Magic Micro Adventure: The Cats of Castle Mountain is a novel and series of type-in BASIC adventures for multiple systems.
+Using their Magic Micro, the player travels to an enchanted land, and meets the amazing cats of Castle Mountain.  A wicked queen is plotting to capture them and make them her slaves, and the player must save them. The player must sneak past her vicious dogs, escape her man-eating alligators, and then battle the terrible queen herself.
+Though the story, there are numerous interactive type-in programs that offer numerous outcomes. An appendix is included describing how to modify the BASIC program listings for greatest compatibility with many of the most popular home microcomputer BASICs, as well as describing what each program does and how it works.

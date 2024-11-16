@@ -1,0 +1,1 @@
+Banzai is a simplistic shooter game. The player controls a dug-in tank and must shoot at the attacking soldiers/tanks. Enemies moves in from the right and once the enemy soldiers reaches your tank or it is hit buy an enemy tank it is game over. The player can only adjust the angle of the tanks barrel, not the velocity of the projectile.

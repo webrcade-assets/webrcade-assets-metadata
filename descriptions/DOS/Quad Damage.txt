@@ -1,0 +1,2 @@
+Quad Damage is an unofficial add-on that features content for both Quake and Quake II.
+It compiles various fan-created content from the internet and includes more than 700 new levels, recorded demos, various add-ons, new sounds and more.

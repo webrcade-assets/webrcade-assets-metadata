@@ -1,0 +1,3 @@
+A greatly updated version of the classic Ford Simulator with the newest Ford models.
+Along with a standard driving mode, tech specifications for each model are available in a separate menu.
+The objective of the driving mode is to arrive at the Lake Wakatonka. Each car performance is simulated accurately and the game aims at as much a real driving experience of the available cars as possible.

@@ -1,0 +1,1 @@
+Liquidator is a first-person shooter in Russian made and using the Build engine without an official license to it. There are three campaigns with a total of six maps.

@@ -1,0 +1,4 @@
+Cadillac Impressions is a piece of advertisement software that contains within it The Cadillac Doral Challenge, a nine-hole golfing game featuring golf legend Lee Trevino.
+The game is controlled entirely with the keyboard during the actual gameplay, with the left/right arrows used to aim, the up/down arrows used to select a club, and the spacebar used to select both the power and the pattern of the swing.
+An overview of each hole is available at any time. The player can also benefit from advice from Lee Trevino about the current hole, as well as his thoughts regarding golfing and life in general.
+The game can be played by up to four players.

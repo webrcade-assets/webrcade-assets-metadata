@@ -1,0 +1,5 @@
+.386 Spys is an action game with a spy theme. It consists of three mini-games. They are played in the order which is freely set in the option menu.
+
+River Raiders / Auto Aces: Those two games are identical except for the vehicle (motorboat respectively car). The course is viewed from top-down and the player can freely move in all directions. The scrolling speed is set separately and includes a backwards option. Crashing into objects or being shot by enemy vehicles reduces the health bar and will eventually cause a game over when it runs out. The same happens when fuel runs out. After picking up weapons on the way, they can be used to kill enemies.
+
+Jet Jockeys: The mechanics match the other two games, but it is viewed from sideways and the player controls a jetpack. The available weapons are different.

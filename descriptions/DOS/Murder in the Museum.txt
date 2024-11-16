@@ -1,0 +1,6 @@
+Murder in the Museum is a classic text adventure on a crime solving theme.
+August 17, 1963: The curator of the Calhoon Museum, P. U. Plum , has been murdered. 
+You take on the role of crime solver, as Inspector Claude LaMort of the French Surete,
+and is sent to the crime scene, a former castle, now a Museum holding one of 
+Rodin's (fictional) sculptures, 'The Eunuch', also named the 9th wonder of the world.
+Can you figure out who did it?

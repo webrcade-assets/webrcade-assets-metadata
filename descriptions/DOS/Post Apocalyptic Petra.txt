@@ -1,0 +1,2 @@
+Post Apocalyptic Petra is a Tomb Raider clone without combat. The player assumes the role of Petra who wakes up in a strange facility and has to find a way out. The game controls very similarly to the original Tomb Raider, with keyboard-only "tank controls". Gameplay consists of environmental puzzles and platforming. Available moves include running, jumping, grabbing ledges and either pulling yourself up or shimmying along them.
+The game has many different versions. It was designed to run on DOS but has also been ported to Windows, Linux, MacOS and Android.

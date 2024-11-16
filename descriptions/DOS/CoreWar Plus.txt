@@ -1,0 +1,2 @@
+Core Wars is a programming game in which two or more programs run in a simulated environment with each program trying to eliminate all the others by expanding into 'core space' and overwriting them. A special assembly level language known as Redcode is used to develop these programs.
+CoreWar Plus is a manager for such programs and comes complete with a number of these battle programs CHANG1, DWARFP, GEMINI, IMPGUN, JUGNAUTZ, MOLE, ONCOR4, TIMER and TWIN4.

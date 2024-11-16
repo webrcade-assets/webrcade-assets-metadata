@@ -1,0 +1,5 @@
+PC Disk Magazine is a collection of games and utilities on disk, available by subscription. The fourth issue contains two games:
+
+Air Traffic Controller, a DOS port of the classic game by David Mannering
+
+Economic Pie - a business simulation where you run a bakery and must make sound decisions in order to grow the business

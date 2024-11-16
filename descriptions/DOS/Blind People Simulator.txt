@@ -1,0 +1,1 @@
+This game, as with the later Shades of Doom allows the player to navigate and fight a path through an enemy-filled maze as one might in a FPS... except solely through the use of directional audio cues to determine the relative location of obstacles and hazards.

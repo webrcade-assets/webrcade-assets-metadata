@@ -1,0 +1,8 @@
+The first scenario add-on for the first Universal Military Simulator game makes three new historical battles available, based on the American Civil War:
+
+Shilo. Starting on April 6, 1862. The battle between the Union forces commanded by Ulysses S.Grant, and the Confederate forces under Albert Sidney Johnston and Pierre G.T. Beauregard.
+
+Antietam. The battle between the Confederate army of Robert E. Lee and the Union Army under George B. 
+McClellan, September 17, 1862.
+
+Chattanooga. The battle between the Union forces of Ulyssey S. Grant and the Confederate forces of Braxton Bragg. There are two simulation files to choose from, the first recreating the tactical situation on November 25, 1863. The second one recreates the situation of November 24, before the attack on Missionary Ridge.

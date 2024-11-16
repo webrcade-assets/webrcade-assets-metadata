@@ -1,0 +1,4 @@
+This compilation contains:
+
+Lemmings
+Sim City

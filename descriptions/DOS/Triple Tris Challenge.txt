@@ -1,0 +1,5 @@
+This single-CD compilation contains the first three Tetris games:
+
+Tetris
+Welltris
+Faces

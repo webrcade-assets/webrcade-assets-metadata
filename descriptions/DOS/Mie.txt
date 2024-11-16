@@ -1,0 +1,1 @@
+Mie is a one-on-one fighting game. The protagonist attempts to break into a castle to rescue a heroine. The game consists of five levels (fights) and some small games are interspersed between them, such as a sliding puzzle. There is no save function. The character can fight using a range of attacks. The health meters for both characters are shown in the bottom left corner.

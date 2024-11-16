@@ -1,0 +1,1 @@
+Electronic Aggravation is a board game conversion for 2-6 players. As with the board game each player moves their pieces around a board from their home cell to safety. Landing on a cell occupied by another player forces that player to reposition their token back in their home cell and start again. The rules are much like the games Ludo but the board is different.

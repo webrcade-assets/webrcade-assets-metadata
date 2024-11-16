@@ -1,0 +1,1 @@
+Side-scrolling shooter. You are Rodge Rock and must collect power-ups and shoot everything in sight.

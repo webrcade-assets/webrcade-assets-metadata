@@ -1,0 +1,1 @@
+The Twilight Zone is a text/graphic adventure adaption of Rod Serling's television show, built like an episode in the series with its own mystery. The player interacts with the environment by typing verb and object commands. Four directional keys (N, S, W and E) are used to navigate the protagonist between first-person areas.

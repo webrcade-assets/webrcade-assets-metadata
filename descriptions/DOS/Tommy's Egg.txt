@@ -1,0 +1,4 @@
+Tommy's Egg is a single player game in which the player takes the roll of a falling egg.
+The story behind the game is that a bird drops an egg. The egg falls down a chasm and the player, taking the role of the egg, must try and survive for as long as possible by moving left / right and up / down.
+On the way down the chasm narrows to very small gaps before expanding again. Bits of rock break off from the wall and these must be avoided and there are bad guys who try to zap the egg as it passes.
+The game has nine levels of difficulty and a hi-score table, points are scored for the length of time the egg survives.

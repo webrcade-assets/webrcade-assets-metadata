@@ -1,0 +1,15 @@
+Math Shop is a shopping related math game.
+Contains a number of math related shopping games, which the player walks through a mall to interact with:
+
+Manny's Bargain Boutique - Customers purchase items in the store, and the player must provide change using the minimum number of coins.
+Eggland Dairy - Eggs are sold in cartons of unusual sizes. Customers ask for a specific number of eggs, and the player must provide this using the fewest cartons.
+Karen's Groceries - The player must places items in 3 grocery bags to ensure their weight balances.
+Crunchee Health Foods - The player must use premixed boxes of oats and bran to fill the customer's specific health food order.
+Heart of Gold Jewelers - The player must make gold jewelry of a specific weight by melting different sized gold bars.
+Alice's Palace of Donuts - The player must fill donut orders by determining number of donuts needed and the fraction that are glazed or filled.
+World of Lumber- The player must cut pieces of lumber to specific length requirements of customers
+Numbers Unlimited - The player is given clues to the identity of a number and must identify it.
+All the Fixin's Repair Shop - The player repairs computers by determining multiplication and addition from inputs and outputs
+Physical Pharmacy - The player must create medical formulas by using specific ounces of base product.
+
+After 5 correct answers, the difficulty for each section increases.

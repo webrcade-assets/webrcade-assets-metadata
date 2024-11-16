@@ -1,0 +1,1 @@
+The CD contains 1500 levels for Duke Nukem 3D. In case you can't keep track of what level you're on, ISV has included a streamlined level loader. One hundred multiplayer levels.

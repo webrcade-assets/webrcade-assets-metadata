@@ -1,0 +1,4 @@
+Tommy's Air Raid is a single-player, shareware, arcade style game with text graphics.
+In this game enemy bombers fly across the screen from left to right. The player controls a series of forty, yes forty, gun turrets spaced out across the bottom of the screen. They select a turret by scrolling left/right with the arrow keys, press the up arrow to make the turret pop up from it's underground bunker, fire, and then retreat back underground to safety if necessary. There are also keys to pop up/down all guns simultaneously and to adjust the height at which the player's missiles explode.
+The game is over when either all turrets are destroyed or when the player's active turret is destroyed, whichever occurs sooner.
+The game is entirely keyboard controlled. It has nine levels of difficulty, basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

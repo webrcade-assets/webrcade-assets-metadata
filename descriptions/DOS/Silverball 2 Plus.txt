@@ -1,0 +1,1 @@
+Silverball 2 Plus is a re-release of the original Silverball game, enhanced with two extra tables: Duel and Warbot. Basically it is a commercial version of Epic Pinball, using a slightly modified game engine with different art and music. The player may select one of six available tables, each with its own high score card.

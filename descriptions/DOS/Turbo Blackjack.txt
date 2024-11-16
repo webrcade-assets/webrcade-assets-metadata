@@ -1,0 +1,5 @@
+Turbo Blackjack is a shareware, keyboard controlled, card game for up to seven players.
+In this implementation of the game there is the option to play against computer opponents, such seats are occupied by an 'auto player'. The game's AI players follow guidelines laid down in the 1975 book "Green Felt Money: How to win at blackjack -- from beginning to end"
+All players start with $5000 and can bet any amount up to a table limit of $10000. The game plays like most standard blackjack games, players make their bets, get dealt two cards, the dealer turns one of their cards over and players can Hit, Stand, Split if appropriate etc.
+The game has several configuration options. The table rules, number of decks, dealer hits soft seventeen and others can be changed during the game. Other options such as adding / removing players, enabling/disabling sound and others can be changed during the game.
+The game has options to play with a colour or monochrome screen, in game statistics and advice

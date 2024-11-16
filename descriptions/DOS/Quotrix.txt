@@ -1,0 +1,1 @@
+Quotrix is a puzzle game where you need to guess a famous quotation. To earn clues, you need to do things like unscramble words and answer trivia questions.

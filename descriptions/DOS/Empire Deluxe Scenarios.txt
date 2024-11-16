@@ -1,0 +1,1 @@
+This is simply a disk containing dozens of scenarios and maps for Empire Deluxe and Empire Deluxe for Windows. It also contains some DOS and Windows 3.x utilities to get statistics on map files and select a random map from the ones you have installed. There's also an upgrade patch for the original version of Empire Deluxe.

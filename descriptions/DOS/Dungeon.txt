@@ -1,0 +1,1 @@
+Dungeon is an unofficial port of the original Zork written in VAX FORTRAN. The gameplay remains the same with the player navigating the dungeon in search of treasure. Each room is described in text only and the player types their commands in VERB NOUN statements.

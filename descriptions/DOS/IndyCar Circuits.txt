@@ -1,0 +1,11 @@
+IndyCar Circuits Expansion Pack is an track pack for Papyrus' IndyCar Racing (required) adding the following 7 circuits, each a replica of the actual circuit, to the game:
+
+Burke Lakefront Airport (Cleveland, Ohio)
+Phoenix International Raceway (Phoenix, Arizona)
+Surfers Paradise (Queensland, Australia)
+The Raceway on Belle Isle Park (Detroit, Michigan)
+Road America (Elkhart Lake, Wisconsin)
+Mid-Ohio Sports Car Course (Lexington, Ohio)
+Pacific Place (Vancouver, British Columbia)
+
+It includes also the latest improvements for the original game: Quick-Motion cam / Improved Modem functions / Editor for Replays / Print options for car setups / Playable season with the new tracks.

@@ -1,0 +1,7 @@
+The Essential Selection: Flight is a compilation of three flight simulation games:
+
+Wings of Glory
+1942: The Pacific Air War
+Fleet Defender
+
+The package also contains the full documentation of the individual games.

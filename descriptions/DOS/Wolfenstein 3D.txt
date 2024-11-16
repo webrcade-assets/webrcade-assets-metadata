@@ -1,0 +1,4 @@
+This release contains:
+
+Wolfenstein 3D
+Spear of Destiny

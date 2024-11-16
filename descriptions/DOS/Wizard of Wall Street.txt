@@ -1,0 +1,1 @@
+Wizard of Wall Street is a stock market simulator. Players are given funds and can buy and sell stocks and options in 6 different industries. The objective is to increase net worth over a period of 1-2 years. There are multiple difficulty levels which control how rapidly and unpredictably the market reacts to the player's moves.

@@ -1,0 +1,1 @@
+xyWords is a free crossword anagram puzzle where you use letters stored in a circle to locate words and clear the level.  It is a tribute to the mobile title WordScapes.

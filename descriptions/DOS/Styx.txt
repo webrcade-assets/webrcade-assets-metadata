@@ -1,0 +1,2 @@
+Styx or Styx Remastered is a free remake of the classic game Styx. This remake is made by the same author of Digger Remastered, and it's also based on a Windmill Software creation from the 1980s. It's very close to the original, with new options and graphics but preserving the original gameplay.
+Styx itself is a version of QIX. You must enclose areas of the playing zone while avoiding bouncing enemies.

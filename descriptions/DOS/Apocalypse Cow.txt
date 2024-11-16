@@ -1,0 +1,12 @@
+Apocalypse Cow is a two player shareware DOS game in which players battle by catapulting cows at each other. Catapults may be angled to the right or left and may be moved forward, they cannot be moved backwards.
+The game is won when one player all of one player's catapult movers have been destroyed. A catapult mover is destroyed by either being * hit with a cow
+There are three types of cow, a standard cow which destroys one catapult mover per hit, a glass cow which destroys two, and a metal cow which destroys three.
+
+driven a catapult into cactus, fire, or rabid dogs
+burned by Mr Sun, or
+eaten by the Hungry Hungry Weasel Head
+
+The enemies, sun, weasel, rabid dogs etc do not appear until three minutes into the game. However hitting a green target will reduce that time by 15 seconds. Hitting a red target in the opposing area three times will upgrade a players cow.
+If both players catapult a cow and they collide then this triggers a game of cow boxing where the two cows fight on a cloud. The losing cow dies and the winning cow survives.
+The game has four arenas; the Volcano which features random outbreaks of flame, the junkyard which has rabid dogs, A Metropolis which is Agra in 2069 and features more frequent fires, and the Chasm which features fast growing cacti.
+The installed game comes with two batch files, COW which runs the game, and QUIETCOW which runs the game without sound.

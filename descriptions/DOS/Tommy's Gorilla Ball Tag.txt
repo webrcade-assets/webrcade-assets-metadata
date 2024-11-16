@@ -1,0 +1,4 @@
+Tommy's Gorilla Ball Tag is a single player DOS game.
+The gorilla balls are playing a game of tag. There's lots of them around the screen, one of them is 'it' and is trying to catch the rest. The player's gorilla ball must avoid being caught by either the chasing gorilla ball or any of the other gorilla balls on screen because any contact with them ends the game. The player must also avoid any contact with any wall, or obstacle on the screen and with the game's border because that too ends the game.
+The player's gorilla ball is entirely controlled by the keyboard and once they start to move in a given direction they will continue to move in that direction until steered else where. The points total builds the longer the player survives. The object is to survive until the chasing gorilla ball has caught all the other gorilla balls and thus build a high score.
+The game has nine levels of difficulty and records the top ten high scores for each difficulty level.

@@ -1,0 +1,23 @@
+Tommy's Hidden-Word is a single-player, shareware, word search game.
+The basic idea is to find words 'hidden' within a grid. The words and phrases all share a common theme and vary in length, in the phrase list they may contain numbers, spaces and/or punctuation all of which is removed when the word/phrase Is transferred into the search grid. The minimum length of a word in the grid is two characters and the maximum is eighteen. There are fifty different puzzle categories to choose from, each category contains more words than are needed for a single puzzle meaning that the same category can be selected multiple times and the player will probably get a different word list each time. There and nine variations of word search puzzle in this game, these are:
+
+words are in a straight line, they do not overlap with each other, they do not run off one edge and reappear back on the other side
+
+words are in a straight line, they do not overlap with each other, buy they do run off one edge and reappear back on the other side
+
+words can 'snake' i.e. they are not always in a straight line, they do not overlap with each other, they do not run off one edge and reappear back on the other side
+
+words can 'snake' i.e. they are not always in a straight line, they do not overlap with each other, they do run off one edge and reappear back on the other side
+
+words are in a straight line, they do overlap with each other, they do not run off one edge and reappear back on the other side
+
+words are in a straight line, they do overlap with each other, they do run off one edge and reappear back on the other side
+
+words are in a straight line, they do not overlap with each other, they do not run off one edge and reappear back on the other side. The list of target words and phrases is not supplied.
+
+words can 'snake' i.e. they are not always in a straight line, they do not overlap with each other, they do not run off one edge and reappear back on the other side. The list of target words and phrases is not supplied.
+
+words are in a straight line, they do overlap with each other, they do not run off one edge and reappear back on the other side. The list of target words and phrases is not supplied.
+
+Each game is scored. The score starts at nine thousand, nine hundred and ninety-nine and decreases by one point per second.
+The game is entirely keyboard controlled. It has basic sound effects, a save game function and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

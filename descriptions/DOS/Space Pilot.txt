@@ -1,0 +1,3 @@
+In Space Pilot, the player's ship was sucked into a wormhole, and ejected into another galaxy. All the alien races there are hostile, and will attempt to destroy the ship on sight.
+Space Pilot is a top-down shooting game with 20 levels and 10 different enemies. Enemies will attempt to shoot the ship, and will even ram it if they can. The ship has blasters, shields, and a limited number of mega bombs. The shields regenerate between levels.
+The game was distributed as shareware with 7 levels from the full game.

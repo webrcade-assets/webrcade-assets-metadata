@@ -1,0 +1,1 @@
+The Cube is a digital Rubik's Cube. You can rotate one of the six sides, scramble the cube, reset the cube to a solved state, or undo your last action. The cube is viewed from two angles to show all six sides, and has a flattened view as well. It records the time and number of moves taken.

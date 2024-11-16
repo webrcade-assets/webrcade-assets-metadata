@@ -1,0 +1,4 @@
+Tommy's Balloon is a single player, shareware game.
+The player pilots a balloon that drifts through a side scrolling cloudy sky. Beneath are mountains that must be avoided and on those mountains are nasty things that randomly shoot lightning bolts upwards.
+The objective is to survive in the sky as long as possible, the longer the player keeps the balloon in the sky the more they score. To assist them they can drop bombs and release decoy balloons but doing so costs points.
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

@@ -1,0 +1,5 @@
+This compilation contains the following games:
+
+Tetris
+Welltris
+Faces ...tris III

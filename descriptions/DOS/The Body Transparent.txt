@@ -1,0 +1,6 @@
+The Body Transparent is a medical learning game for one or two players.
+Designed to teach the major organ systems and the function and diseases thereof, there are two methods of gameplay:
+
+Body Assembly: the player must construct the skeletal system or the major organs or the male or female anatomy by placing the organs on an outline of the human body. Gameplay can occur with or without organ outlines, and the player is rewarded a score based upon how quickly they match pieces.
+
+Body Facts & Functions: the player must match the name, function, major organ system, or related diseases to the correct part of a picture of the human anatomy. The player is rewarded a score based upon how quickly they match pieces.

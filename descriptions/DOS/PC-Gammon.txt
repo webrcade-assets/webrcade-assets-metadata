@@ -1,0 +1,2 @@
+PC-Gammon is a single player, shareware, backgammon game in which the player takes on the computer.
+In PC-Gammon V, version five of the game, the computer opponent has three skill levels, and options to play a tournament, print the game, edit a game, and play via a modem, and a score table. It can be played via the keyboard or the mouse.

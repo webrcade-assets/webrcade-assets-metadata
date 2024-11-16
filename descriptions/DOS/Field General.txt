@@ -1,0 +1,3 @@
+Field General is an American Pro Football game for one or two players.
+The game is entirely keyboard controlled. The player(s) name their teams and can either direct all elements of the play themselves or they can opt to have the teams play automatically.
+This game is not a management game, there's no player's draft, no financial juggling, none of that sort of stuff. The key, and allegedly unique, feature of this game is that both teams start off equal and it is the player(s) ability in calling the plays that decides who is victorious.

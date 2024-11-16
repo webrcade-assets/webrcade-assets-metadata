@@ -1,0 +1,1 @@
+Język Angielski: UHO's English Tester for DOS is an English language educational program, consisting very simple, relaxing Tetris variant, called WinTris. The game is played in a small window, featuring all rules of classical Tetris and displaying the number of filled lines, points and current speed level.

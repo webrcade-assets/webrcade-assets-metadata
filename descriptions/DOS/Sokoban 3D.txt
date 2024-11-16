@@ -1,0 +1,1 @@
+A 3D first person version of the famous puzzle game Sokoban. To complete the level, the player must push each of the boxes into the storage area. The storage area is marked by different color of the floor. The player cannot push more than one box at a time and cannot pull boxes, only push.

@@ -1,0 +1,3 @@
+Following the restoration of the hero in The Dragon's Domain III: Death Rising, the evil wizard has run away to the underworld to raise an army of evil dragons. Find the spellbook, the orb, and the mirror in order to go there yourself and finish this.
+The Dragon's Domain IV: Spellbinder's Retreat is an action game heavily influenced by Adventure. As in that game, you explore a maze of screens to find keys, and fight dragons and other monsters. New to this game in the series is the use of bitmaps for background elements. Instead of walls being a solid color, they look like walls. Also new is the use of Adlib sound effects.
+The game was distributed as shareware, but with no locked content.

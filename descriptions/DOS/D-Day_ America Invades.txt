@@ -1,0 +1,3 @@
+Strategic wargame set in the campaign of the American VII corps on the Cotentin peninsula....well, D-Day. Spiritual successor to V for Victory: Utah Beach.
+You can play in either the allied or german side as you play on a series of pre-made scenarios or full campaign mode using the Avalon Hill's Worlds at War rules and game mechanics. Also included are a series of historical variants which can be turned on or off for each scenario.
+Graphics are 2D SVGA and the game includes modem support for two players head-to-head action.

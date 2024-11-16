@@ -1,0 +1,1 @@
+B-Wing is an add-on to the original X-Wing, which adds an additional Rebel ship (the B-Wing itself), an entire Tour of Duty and other miscellaneous improvements.

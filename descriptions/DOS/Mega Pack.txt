@@ -1,0 +1,5 @@
+This compilation includes 3 Tynesoft games:
+
+Circus Games (CGA & EGA)
+Summer Challenge (a.k.a. Summer Olympiad) (CGA)
+Winter Challenge: World Class Competition (a.k.a. Winter Olympiad) (CGA)

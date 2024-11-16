@@ -1,0 +1,9 @@
+The pen-and-paper game Battleship gets another digital translation, which pits man against machine for a round of grid-based marine warfare. Both sides get five ships each - of varying sizes - and hide them within their respective game boards, invisible to the opponent. Each side then proceeds to fire in turn, by selecting a target grid position. When all the squares occupied by a ship are hit, it is sunk; the first player to destroy the entire enemy fleet will rule the waves.
+The player gets 3 game variants to choose from:
+
+Hide & Sink - the basic game, with one shot per turn.
+Super-Hide & Sink - the number of shots is limited, but each turn adds an optional missile launch (either from the sub or the patrol boat).
+Super-Salvo Hide & Sink - as above, plus multiple shots fired per turn (depending on the number of ships the attacker has left).
+
+Each of these may optionally be played in "night" mode, which hides the type/size of the target until it's completely totalled.
+Hide & Sink is included on the premier issue of PC Disk Magazine.

@@ -1,0 +1,1 @@
+The Animated Old Testament is a freeware educational game. In this game, the books of the Bible are displayed in random order, and the player must sort them by clicking on them in the correct sequence. If the player makes three incorrect clicks, the game says what the next book is. Afterward, an animation of Noah’s ark plays.

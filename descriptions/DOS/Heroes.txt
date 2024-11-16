@@ -1,0 +1,1 @@
+Heroes is a free game released under the GNU licence. It is a 2D top-down action game, strongly inspired by Nibbles, the movie Tron and futuristic racing combat. The player controls a vehicle (or rather ball with deadly 'tail'), collects power-ups and tries to eliminate all opponents. The game has five modes: Quest, Death Match, Kill'em All, Time Cash and Color.

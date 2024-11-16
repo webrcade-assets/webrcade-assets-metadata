@@ -1,0 +1,1 @@
+King James Quest is a short Christian graphical adventure game with a text parser. Your goal is to reveal the seven scriptures and collect the three hidden objects. Areas include Egypt, the Jerusalem Temple, the walls of Jericho, and more.

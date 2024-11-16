@@ -1,0 +1,2 @@
+Classic Jumpman is an unofficial, unlicensed remake of Epyx' PC Booter game Jumpman, created as a replacement that would be compatible with more modern PCs. It updates the graphics to 256-colour VGA, and adds optional Sound Blaster music and sound effects. In all other aspects, the game tries to recreate the levels and playing mechanics of the original Jumpman as close as possible.
+Classic Jumpman was released as a free download by its authors.

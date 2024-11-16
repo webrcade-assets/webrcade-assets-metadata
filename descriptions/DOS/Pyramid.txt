@@ -1,0 +1,2 @@
+Pyramid is a Pyramid Solitaire game. From a pyramid of twenty-eight cards and a draw pile of the remaining cards, remove all kings, and all pairs of cards that total thirteen until all cards in the deck are in the waste pile. A somewhat unusual rule in this version is that a card can match with a card above it in the pyramid as long as removing the lower card would reveal the upper.
+This game lets the player optionally redeal the draw pile. It has mouse support, but no high score table. It was distributed as Shareware, without any locked features.

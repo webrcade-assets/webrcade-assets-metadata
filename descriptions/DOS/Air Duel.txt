@@ -1,0 +1,2 @@
+Air Duel is a one- or two-player air combat game. The objective is simply to shoot down your opponent. Each player can turn, change their speed, or fire. Each player has limited ammunition, but can collect more by shooting down a balloon in the middle of the playfield. Each player has four lives, and the winner is the last plane flying. The game has three computer difficulty settings.
+The game is based on the Biplanes sub-game from Triple Action on the Intellivision.

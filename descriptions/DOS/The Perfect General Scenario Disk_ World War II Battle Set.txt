@@ -1,0 +1,2 @@
+The first scenario disk for The Perfect General adds the following historical battles from World War II to the game: 1944 - Pegasus Bridge 1943 - Sicily 1942 - Guadalcanal 1943 - Kasserine Pass 1943 - Gafsa 1944 - Anzio 1944 - Utah Beach 1944 - Omaha Beach 1945 - Okinawa 1944 - Saipan 1942 - Gazala-Bir Hacheim 1945 - Iwo Jima 1944 - Arnhem 1941 - Oahu* 1942 - Kharkov
+This scenario disk requires that The Perfect General be installed in your system.

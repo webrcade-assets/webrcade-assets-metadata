@@ -1,0 +1,3 @@
+In this game the player controls Xedi who lost his five space scouts to an evil mage. Now he has to rescue them in this vertical scrolling shooter.
+The gameplay is similar to other shooters: the player kills enemy waves before they can kill him. Sometimes the enemies leave bonus items behind, e.g. extra lives, shield refresher or speed boosts. There are four weapon systems which get upgraded with bonus symbols.
+The game offers four worlds with three levels. At the end of every world waits a boss.

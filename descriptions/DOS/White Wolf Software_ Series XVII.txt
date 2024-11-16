@@ -1,0 +1,13 @@
+White Wolf Software: Series XVII is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:* A: God of Thunder
+
+B: Fintris
+C: World Quest
+D: Brainstorm
+E: Skunny Kart
+F: Operation Just Because
+G: Organize Your Comic Books: a self explanatory, non-gaming title
+H: Tribolo
+I: Women of the World Trivia
+J: Organize Your Comic Books: another self explanatory, non-gaming title
+
+The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.

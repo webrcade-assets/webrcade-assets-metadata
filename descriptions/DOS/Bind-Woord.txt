@@ -1,0 +1,1 @@
+In Bind-Woord the player is shown two words that share a common part, which is replaced by dots. The objective of this game is to fill in the dots. When the player doesn't know the answer, he can press F1 to get the right answer. The game ends after 10 rounds.

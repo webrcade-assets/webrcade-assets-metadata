@@ -1,0 +1,1 @@
+An add-on to the action-flightsim Strike Commander. It adds digitized speech to all in-flight communications and some cinematic sequences.

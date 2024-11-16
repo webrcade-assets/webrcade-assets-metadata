@@ -1,0 +1,2 @@
+Version 2.0 of The Las Vegas EGA Casino is an updated version of the original. The game now supports music (the game plays Fats Waller's "Ain't Misbehavin'" on the title screen) and sound effects if you have a Sound Blaster card installed.
+People who registered the game also got a free copy of Big Bertha in the mail. Big Bertha is a replica of a large slot machine that used to be in a gambling hall in Reno, Nevada. You can bet up to three coins at a time, and you earn different payouts depending on the combination you get.

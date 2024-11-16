@@ -1,0 +1,8 @@
+Air Commander is a compilation with 5 flight simulations and one add-on:
+
+Apache Strike
+F-14 Tomcat
+F-15 Strike Eagle
+F-16 Combat Pilot
+Fighter Bomber
+Fighter Bomber: Advanced Mission Disc

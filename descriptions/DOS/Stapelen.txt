@@ -1,0 +1,1 @@
+Stapelen is a game where you throw dice to build your column to the top first. There is support for two players and the computer can also be added to control the game (for both players).

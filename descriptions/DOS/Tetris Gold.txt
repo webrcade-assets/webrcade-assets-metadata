@@ -1,0 +1,11 @@
+Tetris Gold is a compilation released by Spectrum HoloByte in 1993 containing all of the Tetris games and spinoffs they ever made:
+
+Tetris
+Super Tetris
+Tetris Classic
+Wordtris
+Faces...Tris III
+Welltris
+prototype version of Tetris
+
+It includes versions for DOS (all 7), Windows (Tetris Classic and Super Tetris only) and Macintosh (all but Tetris Classic and the prototype version, color and B&W versions included). The CD also includes a 10-minute video interview with Alexey Pajitnov, the creator of Tetris.

@@ -1,0 +1,2 @@
+Pac PC is a single player, freeware, keyboard controlled Pac Man variant.
+Gameplay is standard for games of this type, negotiate a maze while being chased by ghosts, eat fruit and pills to score points and power pills to make the ghosts vulnerable. Extra lives at 10000 points, 30000 points, 50000 points, 80000 points then every 30000 points thereafter.

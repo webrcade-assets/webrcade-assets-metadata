@@ -1,0 +1,1 @@
+Ćwiczenia z matematyki is an educational program consisting of math theory with a simple text Wheel of Fortune game. The players take turns guessing letters to form a word or a saying. The game can be played with up to three human players. During their turn, the players can spin the wheel, guess a consonant, buy a vowel or guess the password.

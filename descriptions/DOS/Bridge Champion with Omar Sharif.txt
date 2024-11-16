@@ -1,0 +1,1 @@
+Bridge Champion with Omar Sharif is an implementation of the classic card game bridge. Play against the computer or other players via hot seat or local network. All rules are included and an extensive tutorial helps you to get into the game. Also included are commentaries and tips by bridge champion Omar Sharif.

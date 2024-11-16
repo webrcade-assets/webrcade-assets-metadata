@@ -1,0 +1,1 @@
+This is an add-on for both Heretic and Hexen. It comes with 12 new episodes for Heretic and over 250 additional levels for Heretic and HeXen as well as new textures, sounds, weapons and monsters. There's also a comfortable interface system which allows you to load your levels, change certain parameters and create multiplayer games.

@@ -1,0 +1,2 @@
+Mens Erger Je Niet is a Dutch board game for 4 players. The title translates to "man, do not get aggravated" and gameplay is similar to the board game Parcheesi.
+Each player has 4 pawns and the objective of the game is to walk with each pawn one lap around the board. The players take turns throwing a dice. When a player throws a 6 a pawn may enter the board. Then the player throws the dice again, but this time it determines how many squares a pawn must move. Pawns can knock other pawns off the board by landing on a square that's already occupied by another pawn.

@@ -1,0 +1,6 @@
+Compilation includes the following 3 obscure ascii based titles: * Bowling Champ
+
+Munchman
+Depth Charge
+
+Bowling is a bowling game which can be played by one up to four players. Gameplay is from a side view of the bowling alley. Munchman is a simple clone of Pac-Man. Object of the Depth Charge is to drop depth charges from the destroyer at the top of the screen and hit the submarines scattered below.

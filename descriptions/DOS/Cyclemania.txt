@@ -1,0 +1,2 @@
+A motorcycle racing game. The concept behind this game is that all the tracks in the game are actual videotaped and digitized roads with 2D sprites serving as your biker and opponents as well as oncoming traffic and other obstacles.
+Includes a full screen VGA mode and a windowed SVGA mode with an overhead map taking most of the screen. Gameplay modes include single race and a tournament of sorts, where you can customize your bike by changing its tires, engine, etc. Also present are a lot of FMV scenes that play upon specific actions (like crashing).

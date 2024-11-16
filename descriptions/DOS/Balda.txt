@@ -1,0 +1,1 @@
+Balda is a game roughly similar to Scrabble, except each player is only allowed to enter one letter per move. Each player may create words by using letters in multiple directions placed on the game board (vertically, horizontally or left-right).

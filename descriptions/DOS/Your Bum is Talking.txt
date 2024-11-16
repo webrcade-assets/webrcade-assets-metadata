@@ -1,0 +1,1 @@
+First Reality-on-the-Norm text adventure game made with the Computer Novel Construction Set. The player takes a role of a local alley bum. His task is to assist town inhabitants with getting the needful items.

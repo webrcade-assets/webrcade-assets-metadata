@@ -1,0 +1,1 @@
+Twisted Mini Golf is a mini golf game for 1 to 4 players. In the game there are five different courses each with its own theme. Each course has nine holes. The courses’ themes are Easy as 123, Four Winds, Imagination, War Games and Water Works. The game is played by dragging the mouse in the opposite direction of where you want the ball to go, and then release it for a shot.

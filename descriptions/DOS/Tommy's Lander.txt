@@ -1,0 +1,4 @@
+Tommy's Lander is a single player, shareware variant of Lunar Lander that uses character graphics.
+As with the original game the objective is to land a spaceship successfully balancing the need for a controlled descent and safe landing zone with limited fuel. This game adds other variations to that original concept, such as a parachute, glider wings added to which different attempts will have different gravity, air pressure, weather and fuel constraints.
+One documented, but unobserved feature, is the presence of buildings on the surface which indicates then presence of hostile enemies.
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

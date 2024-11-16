@@ -1,0 +1,1 @@
+SlipSpeed is a top-down single-player racer with a futuristic setting, collectible coins that can be spent on upgrading your vehicle between races, and a alternate routes and shortcuts on every track. There are sixteen locations, ranging from cities on Earth to exotic distant dimensional settings.

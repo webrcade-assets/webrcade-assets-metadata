@@ -1,0 +1,1 @@
+Pac is an unofficial version of Pac-Man. It is an arcade game in which the player moves a character through a maze and eats as many dots as possible to get a high score. The character is chased by four monsters. There are also four stars in the maze and when one of them is eaten, the character can eat the monsters. When all the dots are gone a new level appears.

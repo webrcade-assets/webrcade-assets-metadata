@@ -1,0 +1,2 @@
+Tangram is a puzzle game for DOS.
+Based upon the Chinese puzzle game, the player must create specific designs and pictures using the same 7 geometric shapes known as tangrams.  Each of these seven shapes are created from cutting a square into a geometric shape.

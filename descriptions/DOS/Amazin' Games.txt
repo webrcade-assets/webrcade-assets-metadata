@@ -1,0 +1,10 @@
+Amazin Games is a collection of BASIC type-in games for multiple systems.
+
+Amazin' : Navigate a maze to the exit point without touching the sides.
+Ski Trek : Slalom down a snowy slope without hitting the trees.
+Renegade Robot I : Outsmart the rebellious robot by reaching the central part of the screen.
+Renegade Robot II : Try to reach one of the exit points on the map while pursued by a rampaging robot.
+Poison Ivy : Move across the screen without hitting the ivy.
+The Monster in the Marsh : Text game where the player must cross a marsh pursued by a monster.  The player can throw a rock, move forwards, or stay each turn.
+Water Balloons : Text game where the player must drop water balloons from a building.  The player is given instructions on where it lands, and must re-evaluate their drop.
+Word Scramble : Unscramble the displayed word.

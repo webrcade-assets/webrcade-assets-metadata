@@ -1,0 +1,3 @@
+Platform Heels is a single-player shareware platform game in which the player controls a robot called 'Heels'.
+The object of the game is to guide your character Heels through the rooms/levels in this game, avoiding contact with the alien creatures, and not falling down holes. To progress to the next room/level the player must collect the three stars on screen.
+The game is entirely keyboard-controlled, uses character graphics and has sound effects.

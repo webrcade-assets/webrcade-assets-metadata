@@ -1,0 +1,8 @@
+This compilation includes the following games:
+
+Bill & Ted's Excellent Adventure
+Maniac Mansion
+Worlds of Ultima: The Savage Empire
+Zak McKracken and the Alien Mindbenders
+
+The package also contains 50 product/software demos.

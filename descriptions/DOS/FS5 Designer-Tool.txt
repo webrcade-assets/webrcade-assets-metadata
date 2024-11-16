@@ -1,0 +1,2 @@
+With this unofficial tool set you get the possibility to edit existing scenarios for Microsoft Flight Simulator (v.5.0).
+You can build streets, rivers, seas, cities with buildings, mountains, runways, forests and so on. Also you can use your own created bitmaps, textures and shades. It's also possible to create radio navigation (VOR, ILS, DME, ATIS, NDB).

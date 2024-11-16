@@ -1,0 +1,8 @@
+This compilation contains six games:
+
+Arcade Fruit Machine
+Basket Playoff
+Football Manager 3
+Genghis Khan
+International Athletics
+Super Tetris

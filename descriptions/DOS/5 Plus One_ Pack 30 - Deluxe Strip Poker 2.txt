@@ -1,0 +1,10 @@
+5 Plus One: Pack 30 is a DOS compilation CD containing the commercial game Deluxe Strip Poker 2, plus the following five shareware games:
+
+Jazz Jackrabbit
+Arcy 2
+World Empire
+Bars
+Rotaktix
+
+Entering "GO" in the CD's root directory runs Deluxe Strip Poker 2 directly from the disc.
+The other games are in a separate folder ("GAMES30") and are accessed by running Prism Leisure's menu by typing "PRISM". Some of the games, such as Arcy 2, can be run from the CD while others like Jazz Jackrabbit must be copied to the hard drive.

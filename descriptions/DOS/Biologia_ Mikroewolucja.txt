@@ -1,0 +1,1 @@
+Biologia: Mikroewolucja is a very simple game played on a single board. The player's task is to shot all predators before damaging the tissue.

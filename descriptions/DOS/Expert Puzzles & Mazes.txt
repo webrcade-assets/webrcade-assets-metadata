@@ -1,0 +1,10 @@
+Three puzzles comprise this collection, each variable in complexity:
+
+Satori : Expert Edition
+Expert Picture Puzzle
+3D-Maze: Expert Edition
+
+Satori: Expert Edition does not have any discernible differences from Satori.
+Expert Picture Puzzle allows the player to choose one of three PCX files to split into pieces and reassemble. Between 25- and 256-piece puzzles can be created, and presumably other PCX files of the correct size could be used. Pieces can be all laid out from the start and swapped by clicking on them, or taken out of the "box" and placed one at a time.
+3D-Maze: Expert Edition puts the player in the challenging position of being inside a randomly generated maze. Maze size can be varied from 4x4 (16 positions) to any dimensions allowing up to 6,400 positions (such as 80x80). There is always just one path out. A compass is offered, telling you which way is north, and at each step you are told whether you are closer or further from the exit. This proximity, however, is "as the crow flies," not necessarily as you will need to move. Most helpful are markers which can be dropped to tell you when your sense of deja vu is justified. Lest these markers make it too easy, 1-9 maze monsters wander the maze and clean up any markers they come across. When they come across you, they put you back in the center of the maze where you started. Finding the treasure hidden in the maze will make you immune to one encounter with a maze monster.
+3D-Maze offers a novice mode which allows the player to look at the map on the screen or even print it. A clock ticks away the seconds so you can log your best times, with allowances made for different rendering times on different computers. Up to nine players can compete in the same maze, hot-seat style. PC speaker sounds lend a little multimedia to this otherwise silent collection.

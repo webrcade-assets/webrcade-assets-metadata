@@ -1,0 +1,5 @@
+Netmaze is a freeware IPX network-only tank game.
+You and your friends play by controlling your tank, and trying to shoot the other tanks without being killed yourself.
+There are objects to hide behind, which are randomly generated, and multiple weapons. By default, you have a wimpy laser. But you can get a triple laser and a missle launcher by collecting powerups.
+The game keeps count of each players kills, but its up to you to decide who is the winner. Maybe whoever gets to a certain number first?
+Another feature is skins, which lets you change the look of the game. Some skins are included with the game, such as Star Wars and Star Trek skins, or you can make your own. See the links for a place to download the game.

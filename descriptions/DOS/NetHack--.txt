@@ -1,0 +1,2 @@
+NetHack-- (pronounced NetHack Minus Minus), initially released as NetHack++, is a NetHack variant. It was originally built on the NetHack 3.0 codebase and then ported to NetHack 3.1.
+While NetHack-- does not introduce fundamental changes into gameplay, it adds over a hundred new monster types, dozens of new artifacts, special dungeon rooms and various items. The original release also added new player character roles, such as Firefighter, Ninja, Geek, Musician and Drunk. However, the newer versions based on NetHack 3.1 do not include the new roles.

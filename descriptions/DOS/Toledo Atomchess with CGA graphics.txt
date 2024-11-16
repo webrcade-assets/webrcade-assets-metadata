@@ -1,0 +1,2 @@
+Toledo Atomchess with CGA graphics is a lightweight, freeware chess program for one player that pays homage to the popular TV series The Queen's Gambit. The game generally plays by the standard international chess rules, however, pawns can be only promoted to queens, and castling is allowed when the king is in check. The user is always playing white. There are no difficulty settings, undo move or similar options, or a scoreboard.
+Toledo Atomchess is distributed as freeware (free for non-commercial usage).

@@ -1,0 +1,8 @@
+Amazing is a single player, shareware, maze game.
+The player starts with a play area which contains a great number of barriers that form the maze rather than the traditional maze which has a confusing pattern of parallel walls. The object of the game is to navigate the player's marker around the screen to the exit point using the arrow keys but periodically these are redefined so that, for example, the left/right keys may become right/up.
+All levels are timed, completing eight levels advances the player through to the next level while failure to complete a level costs the player a life plus there are penalties for hitting a barrier.
+There are two ways to play the game;* 'Regular Amazing' which has two levels of difficulty Easier and Harder.
+
+'Expert Amazing' which has five levels of difficulty Practice, Reasonable, Fast, Outrageous, and Impossible.
+
+As the game gets harder the time allowed decreases, the number of barriers increases and they move around.

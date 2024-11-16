@@ -1,0 +1,2 @@
+Burger Blaster is an arcade shooter with a twist.
+Hamburger parts are flying through the sky, you must shoot them down and catch them in the correct order in order to make complete hamburgers and score points.

@@ -1,0 +1,3 @@
+Tommy's Ant Farm is a single person, shareware game which like all Tommy's games uses character graphics.
+The player takes the role of a black ant and the object is to sneak into the nest of the white ants and steal their eggs. Naturally these are guarded by both the white queen ant and her soldiers, contact with either is to be avoided. Points are scored for every 'clock tick' spent inside the nest and are deducted for every tick outside the nest. Bonus points are scored for every egg stolen.
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

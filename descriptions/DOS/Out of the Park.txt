@@ -1,0 +1,1 @@
+For any baseball fan, stats are very important. With Out of the Park, a DOS based Baseball application, you have plenty of stats, and more. Manage your own team through the season, making trades and adding players through the yearly draft, and then watch as your team turns into the World Champs.

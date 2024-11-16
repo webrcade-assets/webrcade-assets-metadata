@@ -1,0 +1,3 @@
+Jetpack Christmas Special is a freeware edition of Jetpack featuring new, Christmas themed levels from the original developers.
+In this game the player takes on the role of Santa Claus. Their task is to explore levels "full of treasures and peril" and collect all the gifts and presents they contain. As with the original game exploration involves flying about with the aid of a jetpack until the level is cleared at which time a portal will open giving access to the next.
+The game includes the level editor and support for up to eight players using keyboard and/or joysticks.

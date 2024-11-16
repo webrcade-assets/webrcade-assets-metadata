@@ -1,0 +1,1 @@
+Kostka Ciężarka is a logic game. Using the five possible moves, the player must complete the puzzle by arranging the correct password. The puzzle consists of four rows and five columns. Horizontal rows are moved with numbers 1 and 2, vertical columns with numbers 3,4,5.

@@ -1,0 +1,1 @@
+Zee Artillery puts the player in control of a stationary tank, with the objective of firing at the opponent's tank until it is destroyed. The game is played in real time, i.e. the player and the AI do not take turns when firing at each other. The player is able to adjust the power of the shot, as well as its angle.

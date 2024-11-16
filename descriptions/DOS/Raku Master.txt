@@ -1,0 +1,2 @@
+Raku Master is a puzzle game for DOS.
+The player attempts to flip all tiles on a grey and red puzzle board to grey.  The player can flip diagonally, up, or down, starting at any tile, and all tiles in that direction will change color.  There are 200 puzzles in all, and the Raku Master tells the player how many turns he has to beat the puzzle.

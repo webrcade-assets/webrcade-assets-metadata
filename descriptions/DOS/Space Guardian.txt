@@ -1,0 +1,1 @@
+Space Guardian is a clone of the old Star Trek text strategy game. As commander of the GUARDIAN, the player must find all ships of the Alien empire by locating them using the scanner, firing torpedoes while defending against enemy attacks by raising the shields.

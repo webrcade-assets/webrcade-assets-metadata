@@ -1,0 +1,2 @@
+This CD compilation contains 500 deathmatch levels for Doom and Doom II taken from the net and bundled together on one disc.  In addition, there are some of the standard doom editing utilities and the D! front end program that serves as the cornerstone to the WizardWorks series of Doom add-on discs.
+D!Match requires a full copy of Doom or Doom II and a means of connecting to a multiplayer game to use.

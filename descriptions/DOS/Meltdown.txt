@@ -1,0 +1,3 @@
+Meltdown is a first-person shooter game that was released by Pie in the Sky Software to showcase its 3D Game Creation System.
+The main objective of the game is to escape from an unspecified compound. In order to do this, the player needs to obtain the elevator key, which is protected by an energy barrier. Several weapons can be found to combat the guards, including a shotgun, a machine gun and grenades.
+The game finishes once the player reaches the elevator. There is also a slide show that demonstrates various features of the 3D Game Creation System.

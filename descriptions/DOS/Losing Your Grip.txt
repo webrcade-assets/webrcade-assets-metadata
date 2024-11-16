@@ -1,0 +1,2 @@
+In Losing Your Grip, the protagonist, Terry, is in rehab for nicotine addiction. When the game begins, Terry is standing in a muddy glade as the rain pours down. Soon, a human head, buried up in the mud, explains, mysteriously, that Terry has "pieces to recover", and he is left to his own devices.
+Losing Your Grip is an interactive fiction game. Commands, like go north, are entered into a text parser, and the game responds with text as well.

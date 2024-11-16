@@ -1,0 +1,1 @@
+Tectris is a Tetris clone with digitalised sound effects. The player can rotate the blocks in order to fit them into the pit they are being guided into. The game features levels editor and a scoreboard.

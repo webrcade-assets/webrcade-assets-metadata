@@ -1,0 +1,2 @@
+Buick Dimensions is a piece of automotive advertisement software that contains within it a nine hole golfing game based on the Buick Classic at the Westchester Country Club.
+The game is entirely keyboard controlled using left/right arrow keys to aim, up/down keys to change clubs and a two-touch power bar system to control the shot.

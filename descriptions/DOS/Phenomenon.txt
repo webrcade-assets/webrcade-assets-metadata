@@ -1,0 +1,11 @@
+Phenomenon is a Dutch shareware CD containing public domain utilities, cheats, mods and demos for Quake.
+The CD contains the following:
+
+44 user-created demos
+86 multiplayer maps + 69 single player maps
+Deathmatch, Linux network, & system test utilities
+Team Fortress v1.22 module
+Breeze Designer 2.0 for creating levels
+id Software building utilities
+Quake v1.06 patch
+Cheats

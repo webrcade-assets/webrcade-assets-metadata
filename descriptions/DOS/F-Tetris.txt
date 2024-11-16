@@ -1,0 +1,1 @@
+F-Tetris is a pretty classic Tetris clone for DOS. It includes three difficulty levels, high-scores and joypad support. The graphical interface is basic, but clean and straightforward. A monochrome mode is also available, for very old computers. One notable feature of the game is its "Bastard!" game mode, that makes the game avoid providing you with blocks that you need the most.

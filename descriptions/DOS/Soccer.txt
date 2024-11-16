@@ -1,0 +1,3 @@
+Soccer is a single player, shareware, strategy game in which the player takes on the computer.
+The game takes place on a rectangular gridded arena which has 'goals' at either end. Players take turns to make three moves horizontally, vertically or diagonally, the object being to end up in the opponents goal.
+The game has rudimentary sound and is keyboard or mouse controlled.

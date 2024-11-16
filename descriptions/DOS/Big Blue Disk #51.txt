@@ -1,0 +1,1 @@
+Big Blue Disk #51 is an issue of the monthly software subscription. It contains one game: Pachinco, a simple representation of a Japanese pachinko machine. This is available from a scrolling, text-based menu along with a variety of articles, utilities and applications including Note Cards, a note-taking utility and Goal Tender, a personal goals manager.

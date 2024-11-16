@@ -1,0 +1,1 @@
+Guess My Number is a numerical puzzle game where players aim to deduce a hidden number selected by the computer. Players adjust their guesses using arrow keys, and are told if their guess is higher or lower than the target. The game's challenge lies in minimizing the number of guesses.

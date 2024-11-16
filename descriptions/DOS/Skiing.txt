@@ -1,0 +1,1 @@
+A vertically-scrolling ASCII rendition of the chilly winter sport.  The goal is simple: ski down the track without smashing into the trees.  Each tree that passes by without a collision scores 10 points, and the occasional bonus item can be picked up for 100.  The track gets thicker with trees as it goes on, and accidentally hugging one will end the race on a painful note.

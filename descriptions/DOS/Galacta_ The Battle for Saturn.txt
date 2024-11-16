@@ -1,0 +1,4 @@
+Gamplay is similar to Galaxian and Galaga, Galacta gives you a top-down space shooter just like the arcade games.
+Move back and forth along the bottom of the screen as you avoid the attacks from the enemy ships and launch your own attacks at them. You can be destroyed by any shot from an enemy or by hitting an enemy ship as it swoops in at you.
+The enemies will come down in various pre-set patterns and do not really try to hit you... but staying out of their way can still be a challenge. Watch out as the ships fly down at you and as they return from the bottom of the screen flying up again.
+Get various power-ups such as shields to help you survive their attacks. If you make it through a wave of enemies without dying, you get a bonus to your score.

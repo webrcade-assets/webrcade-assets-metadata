@@ -1,0 +1,1 @@
+Knoxblock! is a simple Breakout clone written in PCjr Cartridge BASIC. At the bottom of the screen is a paddle, which can be moved left and right to deflect a bouncing ball. Lined up above are 32 colored bricks: knock them all down with the ball to win the game. Three balls are at your disposal, and if you lose them all (by failing to catch them with the paddle) it's game over.

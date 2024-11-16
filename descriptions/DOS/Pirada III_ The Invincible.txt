@@ -1,0 +1,4 @@
+Pirada III: The Invincible is a shareware card game. It is one of a trilogy of games, the others being Pirada I: The Fearless and Pirada II: The Powerful.
+In this game, the player selects 1-20 numbers, which are then placed into a grid. The player then picks 20 spots in the grid where they think the numbers are hidden. They are rewarded for any that they actually find.
+There is no save game feature, nor is there a high score table.
+This game was originally available only via registration of Pirada I, but was later released as Shareware as well. There are no restrictions on the Shareware version.

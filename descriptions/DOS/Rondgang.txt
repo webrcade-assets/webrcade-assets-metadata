@@ -1,0 +1,4 @@
+Rondgang is a board game for 2 to 4 players.
+The objective of the game is to walk as many laps around the board as quickly as possible.
+The players take turns throwing a dice which determines how many squares they must move. After that they can move an additional amount of squares: at least one and at most the amount they just threw with the dice. 
+When a player lands on a square that's already occupied by an opponent, the opponent must go back to start.

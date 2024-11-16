@@ -1,0 +1,4 @@
+Dark Continent is a single-player shareware recreational text adventure in which the player travels to Africa in search of a fabulous jewel.
+The game starts on day three of the expedition. The native bearers have run off taking the supplies and all the money. Alone in a strange country with no possessions the player's task is to find King Solomon's diamond and get back home to England.
+The game is entirely text based. With the exception of special commands such as U, D, N, S, E, and W which are abbreviations for GO UP, GO DOWN, GO NORTH, etc, all commands consist of two words such as GET THING or GO PLACE. The game can be saved by typing SAVE GAME.
+Running under DOS the game runs in a single window. It runs in Windows by opening a DOS window in which there are two panels. The game plays in the left hand panel while the right pane contains the copyright information.

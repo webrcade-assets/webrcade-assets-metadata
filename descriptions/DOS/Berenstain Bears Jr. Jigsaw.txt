@@ -1,0 +1,2 @@
+Berenstain Bears Jr. Jigsaw is a DOS puzzle game for young children.
+The player chooses from a number of pictures from the children's book series The Berenstain Bears.  These are then arranged into a 4 x 2 grid and the positions are randomized.  The player is scored by the time it takes to solve each puzzle.

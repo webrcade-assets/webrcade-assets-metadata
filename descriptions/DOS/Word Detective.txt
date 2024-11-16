@@ -1,0 +1,2 @@
+Word Detective is a 1 - 2 player word game for multiple systems.
+The player receives 7 letters, and tries to make as many words as possible from these. The program has a 6000 word dictionary, and only accepts words within the dictionary up to a total of 5 characters long. After the player can not think of more words, the computer will tell the player the words they have missed.

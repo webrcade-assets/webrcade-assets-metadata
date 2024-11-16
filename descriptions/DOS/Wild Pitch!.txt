@@ -1,0 +1,3 @@
+Wild Pitch! is a shareware Baseball simulation.
+The game places the player in the role of manager, or skipper, of a major league team. In this role the player gets to choose teams, position their defensive players, choose team tactics such as bunt, hit and run, and more. As is usual with team management games many kinds of statistics are available and these can be viewed before, during, or after a match.
+This is a DOS game but it can be played via the keyboard or via the mouse and it features drop down menu boxes which give it an early windows feel.

@@ -1,0 +1,3 @@
+Racer is a simple, shareware, single player racing game.
+The game is entirely keyboard controlled, the player uses the arrow keys to steer their car along a scrolling track collecting power-ups and bonus items while avoiding oil slicks, mines, and other cars.
+The registered version, which boasts a thousand roads to travel, cheats and infinite lives, was released on PC Solutions' compilation GAME-PACK-3 while the shareware version was included in other compilations.

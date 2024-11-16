@@ -1,0 +1,4 @@
+StarMines II: The Planet Of The Mines is a single player space shooter.
+A huge cloud of dangerous objects was discovered in the 25th century. These objects were given the name StarMines. There appeared to be a planet inside the cloud and after many, many attempts the first explorer made it through to the planet and survived to tell the tale.
+The planets inhabitants were long gone but they left behind an artifact guarded by strange and dangerous things together with the fabulous Bonusoid crystals.
+The player commands a small space craft with unlimited fuel and ammunition. The objective is to fly around each level, avoiding or destroying the alien objects and collecting the crystals while searching for the portal to the next level. There are twelve increasingly difficult levels in this game. They introduce new elements such as gun turrets, artifacts (which release waves of bombs in response to being shot), invulnerable items, anti-matter crates, etc.

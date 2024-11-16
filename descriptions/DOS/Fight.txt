@@ -1,0 +1,1 @@
+Fight is a simple side-scrolling beat'em up game. The player moves right, fighting incoming opponents. The character can crouch, jump, use his fists and legs. Each accurate hit results in the loss of some life energy.

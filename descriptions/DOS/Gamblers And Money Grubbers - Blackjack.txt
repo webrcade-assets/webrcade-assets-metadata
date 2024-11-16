@@ -1,0 +1,14 @@
+Gamblers And Money Grubbers - Blackjack Is a single player, shareware Blackjack game that is part of Hyperware's Gamblers And Money Grubbers series, collectively they are referred to as 'G&G Games'.
+This game is a Blackjack game which offers the following features:
+
+Play with up to 4 other players.
+Use up to six decks
+Changeable the game rules
+Game statistics
+Bats can be systematically increased as the count sweetens.
+In game card counting, plus a customised card counting option
+Customisable strategies plus the option to have the game verify their effectiveness by playing up to 30000 hands quickly
+The player can 'change their seat' at the table at any time.
+Statistics on other payers
+A replay feature for the last game
+Al AI players have their own biographies and styles

@@ -1,0 +1,10 @@
+Gamebox is a compilation of seven mini-games: Bomber*
+
+Caterpillar
+Panther
+Šaratica-run
+Space Invaders
+Tetris
+Yellow Submarine
+
+Its creators, Vladimír Chvátil and Radim Křivánek, made Gamebox while they were in university, probably in year 1994. It is a compilation of their older games with a shared high-score added.

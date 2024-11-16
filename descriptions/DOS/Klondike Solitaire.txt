@@ -1,0 +1,1 @@
+A mouse-only game for DOS, Klondike Solitaire is a simulation of its namesake.  Using the mouse to click cards, you move cards of alternate suits onto each other in an effort to move them off the tableau.  Cheating is technically allowed, but doing so will get you "yelled at" by the program.

@@ -1,0 +1,1 @@
+5-Seconden is a game that checks whether the player knows how much 5 seconds is. After a signal the player has to wait and when they think 5 seconds have passed, they must press the spacebar. The closer the player is to 5 seconds, the more points they score. The game ends after 10 rounds and can be played by one or two players.

@@ -1,0 +1,8 @@
+Tommy's Paddles is a single player, shareware, Pong variant.
+There are three modes of play in this game.
+
+Wall Play: which emulates a player batting a ball against a wall on their own
+Match Play: in which the player takes on the computer in a singles match
+Mixed Doubles: where the computer controls the other three bats
+
+As with most of Tommy's games it uses character graphics and is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

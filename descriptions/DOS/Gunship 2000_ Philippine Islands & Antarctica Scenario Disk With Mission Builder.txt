@@ -1,0 +1,2 @@
+Add-on disk for MicroProse's Gunship 2000. 
+The disk features two new scenarios: the Philippine Islands, and Antarctica both with new enemies and challenges, as well as a mission builder.

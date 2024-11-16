@@ -1,0 +1,2 @@
+Dames Simulator is a computerized version of the famous board game called Checkers. The objective, as in all checkers games, is to capture all the enemy's pieces before the opponent.
+In Dames Simulator the player has the opportunity to select the color of his or her pieces (black or white), the enemy level (between nine levels), and the strategy (defensive or offensive). The player can also save the game in any moment. During the game, the player has the possibility to use the hint option, for advice on the best move to make.

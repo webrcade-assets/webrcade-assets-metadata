@@ -1,0 +1,2 @@
+Prison Amok is a shooting gallery-type game. Convicts are attempting to escape across a field, and your job is to shoot them. The game features location-based damage, and limbs can be shot off.
+Included are multiple types of guns.

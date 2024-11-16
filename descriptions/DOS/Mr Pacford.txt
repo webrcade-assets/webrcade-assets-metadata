@@ -1,0 +1,3 @@
+Mr Pacford is a single player, keyboard controlled, Pac-Man style platform puzzle game.
+The player guides a Pac-Man style character around a screen where the object is to eat a fixed number of pills that are scattered around the level. This involves jumping around from platforms to crates, using lifts and explosives and other devices.
+All levels are timed. After certain levels the player is given a code so that they can restart without replaying the entire game.

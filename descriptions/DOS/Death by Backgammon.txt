@@ -1,0 +1,2 @@
+Death by Backgammon is a single player, shareware, backgammon game from Australia.
+The game is either keyboard or mouse controlled, and has help, replay, auto-play, double and forfeit features. In addition the player can vary the speed of play and the game keeps a win/loss record which the player has the option to reset.

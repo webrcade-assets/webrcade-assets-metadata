@@ -1,0 +1,1 @@
+South American Trek is an educational text adventure. The premise is that you have been sent by the President of the U.S. to spy on South America, but in practice he only wants to you discover readily available information such as the capital of Peru. The game was included on Big Blue Disk #8, as well as on the Adventure Games disk by Public Brand Software.

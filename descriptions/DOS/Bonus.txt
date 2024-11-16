@@ -1,0 +1,2 @@
+Bonus is an Israeli computerized version of the word game Scrabble, completely in Hebrew. The game can be played between two players or against the computer.
+The name of the game is derived from the bonus squares placed outside of the regular game table. Successfully placing a letter on one of these squares may earn the player a bonus, automatically or through the completion of a mini-game.

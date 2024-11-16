@@ -1,0 +1,5 @@
+Flash Attack is one of the very few multi-machine multiplayer games for the Commodore PET.
+In this real-time strategy game two players compete in modern warfare with the goal of destroying each other's base. Each player has two viewports. The first viewport centers on the player's base, the other on a tank. Each player may deploy five tanks, but only one tank at a time. The viewports show the terrain from a top-down perspective.
+Aside from tanks each player also has three ICBMs, and the tank can place walls, mines and fire shells. All these resources are in limited supply. Mines are invisible to the enemy and walls can be used to build fake decoy bases. Moving tanks costs gas.
+ICBMs are fired by entering an angle and range. At all times you can see your base and tank coordinates to help estimate the required input for a successful ICBM hit on the enemy base or their tank.
+It is also possible to play the game on a single machine.

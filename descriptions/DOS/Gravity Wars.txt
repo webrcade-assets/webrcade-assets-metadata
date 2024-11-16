@@ -1,0 +1,4 @@
+Gravity Wars is a two player, freeware, space shooter/strategy game.
+The play area, which has a star-field background contains two spaceships which look a bit like the old Enterprise from Star Trek and a Klingon bird of prey. The players take turns to launch missiles at each other by entering an angle and a velocity.
+However in the play area there are also a number of planets whose gravitational fields affect the trajectory of the missiles so much so that it is quite possible to launch a missile, have it disappear off-screen, and then come back to hit the ship that launched it. The game is over when one or other ship is hit.
+There are no sound effects just an optional tune that plays when a game is won, no high score table, and the game is entirely keyboard controlled.

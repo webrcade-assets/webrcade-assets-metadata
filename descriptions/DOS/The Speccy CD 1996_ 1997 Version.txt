@@ -1,0 +1,6 @@
+The Speccy CD 1996: 1997 Version is a compilation of games for the Spectrum and the Commodore.
+It claims to contain three thousand games for the Spectrum, and twelve hundred games for the Commodore with emulators that will run the games on both a pc and an Amiga.
+The freeware DOS emulators supplied for the PC are the Sinclair ZX Spectrum Emulator 'Z80' v3.03 developed by G.A. Lunter and the Commodore emulator C64S developed by Mihna Peternel.
+The C64 emulators supplied for the Amiga are A64 by Questronix, Frodo by Christian Bauer, AXF-64 by Børge Nøst, MagiC64 by Michael Krame. The Spectrum emulator for the Amiga is ZXAM by Antonio J. Pomar Rosselló. Many of these emulators are shareware / trial versions.
+The CD also contains a selection of DOS utilities such as AAPLAY an Autodesk Animator Player, FairPlay an MOD player and others. There are utilities for the Amiga too including DWEdit, DirWork, AII an Archiving Intuition Interface, TWIN a file transfer program and more. 
+Emulation utilities for other platforms including the MAC, Dragon, Oric Atmos, Amstrad, TRS-80 and others are also included.

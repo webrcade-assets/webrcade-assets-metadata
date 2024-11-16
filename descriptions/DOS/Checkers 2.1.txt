@@ -1,0 +1,2 @@
+Checkers 2.1 is a 1 or 2 player checkers game for multiple systems.
+Graphical representations of checkers, which contains 16 skill levels of computer opponents, or the player can play versus another human opponent. The computer can suggest moves on request. Allows for game replay and textual depiction of games.

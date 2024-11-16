@@ -1,0 +1,1 @@
+Crazy Eights is Moonlite Software's PC adaptation of the popular card game running in VGA 640x480 16-colour mode. The game was distributed as shareware and included a demo of another card game, Cribbage, the full version of which would be received by the user upon registration of Crazy Eights as a free bonus.

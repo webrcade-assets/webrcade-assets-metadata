@@ -1,0 +1,1 @@
+In Hoofdrekenen (Mental calculating) the player has to do some arithmetic exercises. In 45 seconds the player has to give 10 right answers. When the player has done this, he or she advanced to the next level with more difficult exercises. The game is over when the player has not solved 10 exercises right in 45 seconds.

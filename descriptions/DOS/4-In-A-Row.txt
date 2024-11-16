@@ -1,0 +1,1 @@
+4-In-A-Row is an adaptation of the tabletop game Connect Four. The two players drop disks into a 6x7 board, each disk falling into the lowest empty slot in a given column. The winner is the first player to get four disks in a row, horizontally, vertically, or diagonally.

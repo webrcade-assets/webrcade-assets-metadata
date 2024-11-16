@@ -1,0 +1,2 @@
+High Wire Logic is an educational game designed to teach logic gates.
+Played at the circus, a high-wire act separates shapes into two different categories. Shapes can be large or small, filled or empty, green, purple, orange, or blue, and triangle, hexagon, diamond, or rectangle. The player must use logic gates including AND, AND-AND, OR, OR-OR, AND-OR, and XOR to give rules that would separate shapes accordingly. Each puzzle has multiple possible answers, and the player gets points for maximizing their answers.

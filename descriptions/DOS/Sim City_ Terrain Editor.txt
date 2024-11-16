@@ -1,0 +1,2 @@
+SimCity: Terrain Editor enables the player to edit their city's environment by placing rivers, lakes, islands, trees, etc. It also allows to clean instantaneously all man-made features of an existing city. Nine to eighteen ready to use cities are also included.
+This is an add-on to the original 1989's SimCity which did not offer such a feature.

@@ -1,0 +1,4 @@
+Bomb Seeker Is a Minesweeper clone released as shareware. The game is played on a 10 x 10 grid containing 25 bombs. A cell in this grid can have up to 8 bombs surrounding it.
+Points are scored for each cell cleared.
+The shareware version is limited to three games at a time and does not retain a high score table.
+The registered version maintains high scores and allows tournaments to be played.

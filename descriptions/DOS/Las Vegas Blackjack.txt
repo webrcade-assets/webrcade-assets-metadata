@@ -1,0 +1,2 @@
+Las Vegas Blackjack is a 1-player card game for DOS.
+Play blackjack against the computer. The program provides feedback on player performance, and gives advice to improve a player's game.

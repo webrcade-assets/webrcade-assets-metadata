@@ -1,0 +1,7 @@
+Matmania is a compilation of three educational games teaching mathematical operations:
+
+Mattris is a Tetris variant. The gameplay is similar except that the player does not stack bricks but mathematical operations. The player's task is to choose the correct missing part of mathematical operation, like a digit, 'less than' sign and others. The correct answer choice is made by selecting one of the four options at the bottom of the screen. The game highlights a part of the mathematical operation the player needs to decide on. If correct, the selection is deleted, if not, it remains. On the right side of the screen the percentage of correctness of the answers is displayed.
+
+Astro teaches mathematical operations in space. In the middle of the screen is a mathematical operation that should be completed. The choice should be made by selecting from among the 10 digits or characters that are around. To do so player need to track down the right target. The wrong answer is the loss of energy, a few correct way round.
+
+Klocki relies on finding all pairs of matching cards. One card shows the equation, the other missing element.

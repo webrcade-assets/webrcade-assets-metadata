@@ -1,0 +1,7 @@
+A collection of three sport games:
+
+PGA Tour Golf 486 by Electronic Arts
+Formula One Grand Prix by MicroProse
+FIFA International Soccer by Electronic Arts
+
+The package comes with printed manuals.

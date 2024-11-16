@@ -1,0 +1,2 @@
+Math in a Nutshell is a math learning game.
+The player controls a squirrel who can move horizontally on the screen. The player sees several numbers that must in some way be manipulated to achieve the provided answer. The player can place addition, subtraction, multiplication, and division signs between numbers. There are three levels of difficult.

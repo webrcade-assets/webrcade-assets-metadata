@@ -1,0 +1,8 @@
+Sir Isaac Newton's Games is a series of games related to Newton's Laws of Motion.
+All games follow Newton's Laws of motion, where the player applies a force and a direction to an object to move it on a 2-dimensional field. Forces of gravity and friction control object motion, and the player must take care with their object's momentum. Each game can take place around the Sun, Earth, or in deep space. On Earth, terrain options include playing on sand, grass, or ice.
+
+Track - The player must direct an object around either a narrow or wide track. If the object runs off the track, the player must restart.
+Obstacle Course - The player must direct an object to a destination while avoiding pits.
+Race - A 2-player variant where players must race to a finish line, and the first person to come to a complete stop within the finish box is the winner.
+Tag - A 1-player versus computer or 2-player game, where the player can either chase or be chased.
+Write Your name - The player can move around the track with the pen up or down to make a design.

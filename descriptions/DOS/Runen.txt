@@ -1,0 +1,2 @@
+Runen is a 2D, side-scrolling cinematic platformer heavily inspired by the original Prince of Persia. It contains eight levels where the character is looking for rune tablets protected by guardians.
+The content of the shareware version is identical to the full version, except that progress cannot be saved.

@@ -1,0 +1,1 @@
+Matematyka dla najmłodszych is a simple educational game for younglings. The game features all basic mathematical operations introduced in the form of picture matching or standard digits system. Each game takes 10 rounds.The game features a scoreboard and color drawing play mode.

@@ -1,0 +1,3 @@
+Star Castle PC is a freeware remake of Star Castle. John Dondzila created this game in memory of his favourite arcade game.
+Gameplay is simple: Controlling a small space fighter you have to destroy a mighty battleship to get into the next level. Surrounded by three energy walls it fires permanently torpedo that lock onto your ship and pursue you. To destroy your enemy you have to shoot a path through the barriers and fire at the ship, but once there is a path it fires a fast and deadly plasma cannon at you that can't be destroyed contrary to the torpedo.
+You get points for destroying elements of the barriers and the ship itself. After achieving 10000 points an extra ship is added to your account (you start with three ships i.e. three lives).

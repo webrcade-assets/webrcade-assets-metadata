@@ -1,0 +1,3 @@
+APBA Major League Players Baseball is a text-based baseball game.
+A text-based baseball simulator, the player is able to pit current and historical teams against each other. Allows for 2-player and 1-player versus computer games.
+During each game, the player is able to select their team's lineup, and players' talents are based upon real historical data. The player uses a menu-based structure for all gameplay options. The player selects from a series of options to control their players actions. All action is described to player in text format.

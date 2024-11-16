@@ -1,0 +1,14 @@
+Patience Abroad is a pack of nine solitaire games, that can be controlled with either the mouse or keyboard. It has a high scores table.
+Games included are:
+
+Beleaguered Castle
+Florentine
+The Great Wall
+Four Kingdoms
+Monte Carlo
+Russian Patience
+Sir Tommy
+Tower of Hanoy
+Weddings in Paris
+
+Patience Abroad was distributed as shareware. The registered version allowed modification of colors and modification of other options.

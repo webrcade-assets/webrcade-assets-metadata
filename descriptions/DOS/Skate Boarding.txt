@@ -1,0 +1,2 @@
+Skate Boarding is a simple platform-style skateboarding game, similar to the newer OlliOlli, played only with the arrow keys. Ollie over obstacles and do impressive skateboard tricks in the air to score points.
+Crashing into an obstacle or failing to land a trick will send you back to the start of the screen and cost you five points as well as any points you have racked up in the current screen.

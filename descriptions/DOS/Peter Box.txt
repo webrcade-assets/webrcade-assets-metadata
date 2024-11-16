@@ -1,0 +1,1 @@
+Peter Box is a top-down block pushing game, similar in gameplay to Soko-Ban and released as shareware. The game consists of the player guiding Peter through a series of levels with different themes. The aim of each level is to push blocks around, so that all squares containing an X in them, are covered by boxes, which will glow once in place.

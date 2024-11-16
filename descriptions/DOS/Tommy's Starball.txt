@@ -1,0 +1,5 @@
+Tommy's Starball is a single player shooting game with a difference.
+The player takes the role of a death star. Their star automatically fires anti particles up / down, left / right. whenever these particles hit another star in the star field that star is destroyed and points are gained.
+The player can move their star using the numeric keypad. If the player elects to move, say, upwards then if there is another star directly above then the star the player controls becomes that other star. If there is no star directly above then the star the player controls moves upwards one position. By jumping around the screen in this manner the player can ensure that their star is always surrounded by stars to kill.
+Aside from stars re-forming within the star field, the curved nature of space is a further complication. In this game it means that antiparticles fired off the edge of the screen in one direction can come back on the other side. The players star is, of course, vulnerable to their own fire.
+The game has nine levels of difficulty and maintains a high score table for each level.

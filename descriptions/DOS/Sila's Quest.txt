@@ -1,0 +1,2 @@
+Sila's Quest is a simple platform game, without configuration options (there isn't a main menu).
+Taking the role of a sympathetic creature, the player must exterminate all the enemies of each level, jumping on them. When the player will has exterminated all the enemies, as a bonus, the player must catch the biggest number of stars possible in 60 seconds.

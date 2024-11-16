@@ -1,0 +1,2 @@
+The Curse of Rabenstein is a text adventure with graphics that takes place in 1862. It starts in a carriage travelling through a path deep in the Black Forest. The coachman is lost, so you decide to take a short walk until the journey can be continued. But the coachman disappears and you quickly discover a small village where strange things are happening.
+The graphics take up the top part of the screen and the text description are displayed below. Typical text commands are entered for actions. It is not possible to die in the game.

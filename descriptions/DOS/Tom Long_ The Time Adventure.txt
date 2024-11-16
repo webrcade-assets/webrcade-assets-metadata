@@ -1,0 +1,8 @@
+Tom Long: The Time Adventure is a graphical point and click adventure in the graphical style of old Lucas Arts adventures.
+The story is about how the schoolboy Tom has to travel through time to rescue his girlfriend from the evil character Don Tomato, who has managed to suck her into a computer via a projection device that was part of a new game Tom installed in the beginning of the game.
+Don Tomato wants to take over the world, and Tom has to travel back through the computer device into the wild west, medieval times and the stone age while searching for his missing girlfriend and stop Don Tomato's evil plans.
+You play using the mouse, changing the action by selecting different mouse pointer icons to talk, pick up, use/open, look and move.
+The game is using predefined sentences in dialogue trees with some self-ironic humour, if the right choices are not made, you repeat an earlier dialogue sequence until you get it right.
+There is a scrollable object inventory, and objects you can pickup are indicated by moving the mouse pointer over hot-spots.
+Sometimes you have to examine an object with the 'look' action before you can pick it up, even though it is in plain view.
+The game has German text only, and was produced as an advertising game for a German food producer (of French fries, Rösti etc.), but even so it does not contain any product placements.

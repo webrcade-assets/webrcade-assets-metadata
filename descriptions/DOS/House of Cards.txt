@@ -1,0 +1,11 @@
+House of Cards is a compilation of six casino-style single-player-versus-computer card games for DOS.  All games can be controlled via mouse, keyboard, or joystick, and all cards are graphically displayed on the screen.
+Contains:
+
+Bridge
+Cribbage
+Gin Rummy
+Hearts
+Pinochle
+Spades
+
+For each game the player can set a game limit, play demo mode, practice, and show rules or win log.

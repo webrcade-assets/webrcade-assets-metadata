@@ -1,0 +1,11 @@
+Western U.S. Scenery Set is a compilation of scenery add-ons for subLOGIC Flight Simulator II, Microsoft Flight Simulator 1.0 and 2.x. It contains the Scenery Disk 1 through 6, which allows the pilot to fly in the following aeronautical sectionals:
+
+Scenery Disk 1 : Dallas, Houston, San Antonio, Brownsville
+Scenery Disk 2 : Phoenix, Albuquerque, El Paso
+Scenery Disk 3 : San Francisco, Los Angeles, Las Vegas
+Scenery Disk 4 : Klamath Falls, Seattle, Great Falls
+Scenery Disk 5 : Salt Lake City, Cheyenne, Denver
+Scenery Disk 6 : Omaha, Wichita, Kansas City
+
+Scenery Disks such as in this set allow the pilot to experience an enhancement of the flying environment through added airports, landmarks, visual details and navaids. They are derived using National Oceanic and Atmospheric Administration Sectional Aeronautical Charts and Airport/Facility Directories. Scenery Disks can also be used with subLOGIC UFO, Jet Simulator and Stealth Mission.
+There are six other Scenery Disks that cover the Eastern U.S., and two additional Scenery Disks cover Western Europe and Japan, and one special Scenery Disk: Hawaiian Odyssey Scenery Adventure. Also there are Star Scenery Disks that cover a specific area in great detail such as San Francisco.

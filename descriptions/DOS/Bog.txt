@@ -1,0 +1,2 @@
+Bog is a single player, freeware, word game in which the player plays against the computer.
+The game is played on a 5x5 grid which is populated with random letters. The objective is to make as many words as possible using letters that are adjacent to each other. At the end of the round the computer will query any words it does not know and, if the player verifies them, they are added to the player's score.

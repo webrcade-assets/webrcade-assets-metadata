@@ -1,0 +1,1 @@
+Matemol is a simple educational game. It allows you to learn the basics of mathematical operations by playing the tetris variant. The player's task is to move a falling block to the proper digit before it reaches the bottom of the well.

@@ -1,0 +1,2 @@
+The Super Factory is an educational program designed to teach children about programming.
+The player designs and produces cubes which can be branded with up to 6 different designs for the sides. When designing cubes, the player places symbols and turns of the cube in order on a production line. The program follows the instructions, and the player can then review the cube they have produced. In challenge mode, the player is shown a cube, and must create a program with branding and turns that creates the correct cube.

@@ -1,0 +1,1 @@
+World Champion Backgammon is a backgammon game for one or two players. It features several different difficulty levels for the computer opponent. Players roll the dice using the right mouse button and the game features full mouse support. Aside from a standard backgammon game, it supports starting the game with non-standard positions.

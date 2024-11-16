@@ -1,0 +1,2 @@
+Stranded in deep space after running out of fuel, you luck upon a nearby space station. When you get there, though, the place is abandoned, and strange things seem to have been happening lately. And if you can make your way off the station and reach the planet below, that's when things get really strange.
+Deep Space Drifter is a classic, old-school text adventure, complete with tricky puzzles, death traps, and mazes.

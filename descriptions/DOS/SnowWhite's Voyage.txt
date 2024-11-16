@@ -1,0 +1,1 @@
+This platforming arcade-styled game takes Snow White in nine episodes to survive the wrath of the Evil Queen and every monster and hazard throughout, using magic rings for projectile weapons and collecting items for bonus points.

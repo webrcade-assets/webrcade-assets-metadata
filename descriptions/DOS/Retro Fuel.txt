@@ -1,0 +1,1 @@
+RetroFuel is like a classic console racer made for the DOS Games Spring Jam. It is similar in design to the Lotus series. The controls are straightforward as you can run all tracks flat-out but only use boost on a straight line. Some races require you to stop for refueling.

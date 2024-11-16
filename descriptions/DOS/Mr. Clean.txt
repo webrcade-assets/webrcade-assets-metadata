@@ -1,0 +1,4 @@
+Mr. Clean is a free managerial simulation produced by The Art Department for the IHK Essen (Chamber of Industry and Commerce of the city of Essen, Germany). The game can be controlled via mouse.
+Story
+The player begins as a window cleaner on the street with no office and little money. His goal is to become the biggest window cleaner in the city of Essen. There different types and sizes of buildings to clean;
+some are only accessible with the corresponding equipment. With more money you can rent an office, hire staff and become a bigger company.

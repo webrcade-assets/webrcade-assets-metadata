@@ -1,0 +1,13 @@
+The Pilot's Toy Box is an add on for Microsoft Flight Simulator (v5.0) and Microsoft Flight Simulator (v5.1).
+Some of the included content, like extra aircraft, and most aircraft panels, are only accessible in conjunction with a third-party addon, BAO Flight Shop.
+This package contains a lot of work that was published on flight simulation sites, in it the user will find:* several adventures
+
+airMGR, an Aircraft Fleet Management System
+Approach charts
+Patches for the Virtual Pilot Pro Yoke, F-16 Combatstick controller
+ATC chatter files in .WAv format
+Instrument panels for the Cessna 182 Skylane C-FSAP, Superfortress B29, generic 2,3, or 4 engine aircraft, Ultrababy an ultralight by PAN-AIR, and others.
+Over seven hundred aircraft in six separate folders which include the Douglas A-4 (A4D) "Skyhawk", Douglas A-4 (A-4F) Blue Angel, Northrop B-2A "Spirit" Stealth Bomber, Cessna Citation S/II executive jet, Northwest Airlines DC-7C "Seven Seas", Douglas DC-8 Jetliner, McDonnell F-4 (F4H) Phantom II, USAF McDonnell F-4D, General Dynamics Fighting Falcon (the F16, F16A and Thunderbird variants), North American F-86 Sabre (the F86E and F86F variants), Northrop YB-35 and YB-49 Flying Wings, North American P-51 Mustang, Northrop P-61 "Black Widow"
+Twenty-seven scenery files including Aspen (Colorado), Boulder Munincipal Airport in Boulder County (Colorado), Central American airports for the Lynx Airways Miami hub, Hattiesburg (Mississippi), Missouri scenery, Pacific Island Scenery, Kalamazoo( Michigan) and Raymond (Mississippi).
+Airport and scenery design software: Airport - scenery designer software, SCASM - a dynamic scenery editor, SCEGEN - a SCEnery GENerator and STAGEN - a STAtic scenery GENerator
+Ten scenery destinations including Mt. Rushmore, the Taj Mahal, Sydney Opera House and the Leaning Tower of Pisa

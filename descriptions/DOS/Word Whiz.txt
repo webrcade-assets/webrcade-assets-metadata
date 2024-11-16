@@ -1,0 +1,3 @@
+Word Whiz is a word challenge game that can measure your knowledge of the English language. You must pick the right synonym or definition of the highlighted word from four multiple choices.
+There are hundred words presented per volume, with a total of four volumes. You can continue playing until you miss twenty questions. And you will earn a Bonus Miss for every ten questions you answer correctly.
+Also, when a question is correctly answered, you might receive some addition related information.

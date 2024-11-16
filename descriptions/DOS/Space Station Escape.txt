@@ -1,0 +1,5 @@
+Space Station Escape is a first person shoot-'em-up similar to Blake Stone.
+The story behind the game is that the Earth has been destroyed. An alien society has vowed to destroy your space station after they've killed everyone on board. You, the player, must fight through all the levels of the station against aliens and the stations own security drones, release the captured crew members, and either escape or disarm the stations' self destruct system.
+along the way weapons and ammunition will need to be collected as will security keys and armour
+There are twenty levels to this game of which the first five were released as shareware.
+This game was developed using the Pie In The Sky 3D Game Creation System.

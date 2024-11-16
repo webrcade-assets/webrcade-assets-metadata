@@ -1,0 +1,6 @@
+The classic economics-themed board game gets a cartoony overhaul in this official adaptation from SuperVision for Amiga and DOS.
+The game is set in London and does not offer much room for customization: only an internal clock that adds a time limit to a game.
+Up to eight personalities, either human or CPU, can be selected at the start of a game. When controlled by the computer, a personality has its own way of playing: greedy, crafty or timid on three skill levels.
+The contestants are, viewed on-screen from left to right: Farmer Barrow (using a Wheelbarrow-piece on the board), Lord Topper (Hat), Bosun Barnacle (Steamboat), Granny Knot (Eggcup), General Hobnail (Boots), Miss Trixie (Dog), Mobile Michael (Car) and Mrs Starch (Smoothing iron).
+During gameplay the board is displayed from a top-down 3D-perspective with the contestants gathered around it. When a piece enters a property-tile, the game switches to a separate screen with the property shown in detail. A personality can quit the game anytime which triggers a cartoony violent animation to be displayed.
+The game is icon-controlled and can be saved anytime to disk.

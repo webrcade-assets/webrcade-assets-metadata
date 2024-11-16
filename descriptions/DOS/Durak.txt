@@ -1,0 +1,2 @@
+Durak is a Russian card game in which each player is served six cards from the deck after which trumps are chosen. The goal of the game is to get empty your hand of cards.
+Players then take turns to play their cards If a player can't beat the card played they must add them into their hand while the attacker replenishes their hand from the deck. The last remaining player is 'durak'.

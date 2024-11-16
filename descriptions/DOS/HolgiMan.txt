@@ -1,0 +1,1 @@
+In Pac, err, HolgiMan you control your little yellow HolgiMan, collecting all the dots from the level while avoiding being caught by the ghosts - unless you eat the red dots, then you can eat the fleeing ghosts as well. If you get caught, you loose a life.

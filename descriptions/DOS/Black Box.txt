@@ -1,0 +1,2 @@
+Black Box simulates the board game of the same name. Given an 8x8 grid, the player shoots rays from one of the outside spaces, and sees where they end up. Based on that, the player can then deduce where the balls hidden in the grid are located. Scoring is based on the number of rays used, with a penalty for any wrong guesses at the end of the game. There can be from 3 to 6 balls in the grid, and colors of most elements can be changed.
+Black Box was distributed as Shareware, but without any locked features.

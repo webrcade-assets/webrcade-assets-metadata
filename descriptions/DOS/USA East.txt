@@ -1,0 +1,4 @@
+After releasing 12 Flight Simulator scenery disks for the US, followed by some grouped sets, subLOGIC took the next step and put the entire US in two releases, East and West.  The scenery in these releases is a complete overhaul from the original disks.
+The East collection fills 5 3.5" disks, and includes airports, buildings, and landscape like the previous releases, but in a higher quantity.  An airport selector add-on for Flight Simulator is also included, as well as six large (about 3 ft x 2 ft) color maps of the entire region.
+USA East works with Microsoft Flight Simulator version 4 (and in an updated release, version 5), as well as subLOGIC's own Flight Assignment series.
+USA East & West, plus Flight Assignment: ATP, were all later packaged on one CD-ROM.

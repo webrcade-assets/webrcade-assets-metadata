@@ -1,0 +1,1 @@
+Champ Centiped-em is a variant of Atari's Centipede. One or two players must get rid of all the insects invading a mushroom patch, including Fleas, Spiders, Scorpions and the Centipede. The game includes different difficulty levels and two modes: Classic (similar to the original arcade version) or Champ (more bugs and multi shooters).

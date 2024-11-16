@@ -1,0 +1,2 @@
+Continuum is a first-person adventure game made by two high school students alongside their thesis. It was made with the Pie 3D Game Creation System, using the Pie in the Sky engine.
+The game features first person exploration of flat plane 3D levels, conversations with NPCs and choices that can lead to different endings. While most of its gameplay is very standard adventure game fare mixed with some action, the most curious aspect of its gameplay is the "body toxicity level": it rises automatically with time and to get rid of it, the player has to use a toilet.

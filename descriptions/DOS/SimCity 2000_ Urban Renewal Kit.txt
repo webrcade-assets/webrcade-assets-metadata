@@ -1,0 +1,2 @@
+SimCity 2000 Urban Renewal Kit is an add-on to SimCity 2000. It is a utility that allows the user to modify any prebuilt cities or design their own which can be loaded into SimCity 2000 by customizing the buildings, terrain and artwork.
+The DOS version of the game only works with the DOS version of SimCity 2000. The Windows version only works with the Windows SimCity 2000.

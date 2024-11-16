@@ -1,0 +1,1 @@
+This is a compilation containing both the classic Quake and The Ultimate Doom. The latter game contains two clients, one for DOS and one for Windows 95.

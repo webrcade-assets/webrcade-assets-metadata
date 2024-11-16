@@ -1,0 +1,3 @@
+Chess & Checkers is a simple, two player, shareware implementation of these classic board games.
+There is no 'intelligence' in this game, it is not possible to play against the computer, the game merely presents an electronic board on which two players can play each other.
+It is entirely keyboard controlled. The player uses the arrow keys to target a piece and presses the spacebar to select it. They then use the arrow keys to select the destination square and the ENTER key to move the piece to it. There is no save game function, no sound effects, and no game configuration options

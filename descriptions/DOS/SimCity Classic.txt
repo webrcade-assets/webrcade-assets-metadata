@@ -1,0 +1,1 @@
+SimCity Classic is a remake of the original SimCity. Compared to the original release it brings enhanced graphics, sound effects, a music track, a resized interface, and smooth scrolling across the map. Gameplay remains largely the same.

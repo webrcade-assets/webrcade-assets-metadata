@@ -1,0 +1,1 @@
+A compilation that has both the original Jane's Combat Simulations: AH-64D Longbow and the expansion disk Flash Point Korea. In addition, the executable is now Windows compatible.

@@ -1,0 +1,1 @@
+Monika's Tic Tac Toe is a simple logic game, introducing the author's wife as an opponent. All standard rules from the original paper and pencil version apply. The gameplay is enhanced by Monika's comments. The game is entirely mouse controlled.

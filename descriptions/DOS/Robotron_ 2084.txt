@@ -1,0 +1,5 @@
+Robotron: 2084 is a single player, shareware clone of the Williams arcade game.
+The story behind the game is as follows:
+Man is once again a victim of his own ingenuity. This time he has created a species of killer robots bent on obliterating the human race. And, of course, it's up to you to put things back in order.
+The player's character starts off in the centre of the game area. They are surrounded by baddies and must find a way to rescue all the humans that are on the screen. Some baddies just attack the player while others will attack the humans the player is supposed to rescue.
+The game is controlled either by the keyboard, joystick, or a combination of the two.

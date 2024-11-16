@@ -1,0 +1,1 @@
+The Adventures of Nikko is an interactive book where, in each chapter, players are given two choices (e.g., whether Nikko is a prince or an elephant), shaping the narrative accordingly. Players can interact with the screen to activate animations before proceeding to the next chapter. Completed stories can be printed out as coloring books.

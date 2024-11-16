@@ -1,0 +1,7 @@
+Regatta is a single person, keyboard controlled, yacht simulator.
+In this game the player has a choice of two missions:* Cruiser: In which the object is to rendezvous with another ship
+
+Rescue: Where the player must locate and rescue shipwrecked sailors
+
+Each mission can be played in either a tropical or a dream setting and on three difficulty settings Cadet; Sailor; and Helmsman.
+In sailing their yacht the player must take account of the wind's direction and the current as well as avoiding rocks and shallow waters. The arrow keys steer the boat while the other keys on the numeric keypad furls and unfurls the sails.

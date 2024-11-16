@@ -1,0 +1,3 @@
+The Museum is a text adventure in the Battune series.
+This adventure sees the player and Battune their friendly alien guide exploring the Jonesonian Inter-Galactic Museum where all beings are welcome. The game's objective is to collect artifacts and take them to Battune's spaceship.
+This is a text adventure, there are no graphics, and all commands must be entered in upper case.

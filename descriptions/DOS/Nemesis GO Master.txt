@@ -1,0 +1,1 @@
+Taking the traditional rules of the ancient Japanese board game GO, this game incorporates various special sequences inlcuidng Jōseki, Fuseki, Life and Death, Kō, Seki, Sente, and Gote. Handicapping is allowed for up to nine stones. Board sizes can be set to 9x9, 13x13, or 19x19, and there are three difficulty levels to choose from.

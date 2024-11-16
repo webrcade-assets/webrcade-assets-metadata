@@ -1,0 +1,3 @@
+L. Runner II is a single-player, shareware platform puzzle game.
+The player is presented with a series of screens on which there are multilevel platforms from which hang vines and so on. Scattered around the platforms are treasure chests and obstacles such as water hazards. The object of the game is to collect all the available treasure on each screen and so progress to the next. This is complicated by the platforms some of which degrade as the player walks over them so finding the optimum route across the level is essential.
+The game is entirely keyboard controlled and the registered version has over ninety such levels.

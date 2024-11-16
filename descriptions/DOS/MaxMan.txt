@@ -1,0 +1,4 @@
+MaxMan is a single player, shareware, Pac-Man clone.
+As with other Pac-Man games the player runs around a maze, eating power-ups, and generally avoiding the nasty green gremlins unless they have eaten a big power-up in which case they go monster hunting.
+This game adds a minor twist in that when the player loses a life, their ghost lives on as a 'grim reaper' and becomes one of the nasties that has to be killed. The higher the player's score when all the gremlins and ghosts have been killed, the more baddies they will face in the next round.
+The game is keyboard-controlled and has basic sound effects such as bleeps, whistles and so-on.

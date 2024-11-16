@@ -1,0 +1,14 @@
+White Wolf Software: Series XIII is one of a series of CDs published by Wiz Technology on their White Wolf label.
+This CD contains the following shareware products:* A: Wolfenstein 3D
+
+B: Taxi Run
+C: Crusher Castle II
+D: Spider Run
+E: Tommy's Tenpins
+F: Battle for Atlantis
+G: Ultris
+H: Women of the World Trivia
+I: Kosynka
+J: MinerVGA
+
+The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.

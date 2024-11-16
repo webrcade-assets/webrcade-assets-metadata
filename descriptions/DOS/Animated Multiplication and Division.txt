@@ -1,0 +1,3 @@
+Animated Multiplication and Division is a shareware educational title that aims to teach mental arithmetic to American school children in first, second and third grades
+The pupil chooses between either multiplication questions or division questions and selects the presentation style that suits them best. They then choose to answer questions either based on a specific number in the range 1-10 or a mixture of these numbers.
+Once the configuration questions have been answered the game asks a series of questions in the form 8 x ? = 16, or 16 ÷ ? = 2, leaving the player to enter the appropriate number. When all questions have been answered the player is rewarded with a mini game.

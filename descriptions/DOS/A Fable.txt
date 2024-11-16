@@ -1,0 +1,1 @@
+A Fable is a short work of interactive fiction that involves wandering through a series of vignettes from a person's life, like a maze of memories. The author noted in 1995 that the game was not complete, only "a sketch" created to help test an interactive fiction authoring system, not intended for public release.

@@ -1,0 +1,9 @@
+Tommy's Plates is a shareware word puzzle game based on the vanity plates used on cars in the USA. The example quoted in the game's documentation is PPNRTYM which represents 'Peace In Our Time' with two P's representing Peace, N - In, R - Our and TYM representing Time. Similarly DUU12C1 represents 'Do You Want To See One?' The game these puzzles come with includes a clue such as these examples, again from the documentation:
+
+JMEKGNE : Clue - A Movie Bully : Answer - Jimmy Cagne
+ILKKSND : Clue - A Big Bully : Answer - I'll Kick Sand, or I'll Kick Sandy
+hNh : Clue - A Dairy Farmer : Answer - Half And Half
+
+The game is played over a series of rounds. In the preliminary rounds, players are given a clue and are shown two vanity plates, then they must press their action key first, choose which plate matches the clue, then enter the word or phrase that the plate represents. If successful they win $100 and the chance to have an additional letter placed in the hard vanity plate displayed at the top of the screen. They then have the opportunity to guess what the hard vanity plate represents.
+The first team to win two preliminary rounds has a chance to play the bonus round. The single player game dispenses with the preliminary rounds and consists of only the bonus round.
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

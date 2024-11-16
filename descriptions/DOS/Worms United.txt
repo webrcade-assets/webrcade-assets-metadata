@@ -1,0 +1,4 @@
+This compilation includes:
+
+Worms (base game)
+Worms: Reinforcements (add-on)

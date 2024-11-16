@@ -1,0 +1,9 @@
+Strip Poker de Luxe is a single-player card game in which the player takes on one of three different AI characters. It plays entirely in Spanish.
+There are three opponents, Nadia, Paula and Katty. Each of the AI characters has a basic picture which is shown along with a short description of which there are at least three for each character, for example Nadia descriptions translate as** "Nadia is a business student, charismatic, fun and ... very attractive. As a player she is daring and completely unpredictable, .. achieving her purposes systematically and without difficulty."
+
+"Nadia is a sensual young woman, she is always in a good mood and radiates positive energy. His energy waste can exhaust the morale of the most tenacious player."
+
+"Nadia has great ability managing to deceive her opponents whenever she wants. A practically perfect poker player."*
+The game itself is a basic five card draw poker in which both the player and their opponent start out with the same amount of cash. After each hand there is a comment from the lady which is shown over the current picture. Should one of the ladies run out of cash they get some more and the player is rewarded with a new photograph eventually, if they are extremely lucky or skilled, ending up with a nude picture and a congratulatory message. Once a picture is revealed it remains the current picture until the game is over, should the lady win back most of her losses it does not revert to the earlier image.
+
+The game is played entirely with the mouse, it has a save/load function and optional music but no voice or sound effects.

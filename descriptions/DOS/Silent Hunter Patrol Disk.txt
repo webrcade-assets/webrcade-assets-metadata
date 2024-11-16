@@ -1,0 +1,2 @@
+The first Patrol Disk for the submarine simulation Silent Hunter adds two new patrol zones for the career mode to the game: Malaysia (near Singapore and the Street of Malacca) and the Sulu Sea (between the Philippines and Borneo).
+In addition, there are 15 new stand-alone scenarios which also introduce some new mission types: there now are photo reconnaissance missions (sneaking into an enemy harbor and photographing the installations) as well as "Lifeguard" missions (saving downed pilots from the seas).

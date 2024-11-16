@@ -1,0 +1,2 @@
+The Civil War covers the American Civil War from the years 1861 to 1865. You can play as the North or South, and the object is to take over a certain amount of cities of the opposing side before the war ends. It features both strategic and tactical parts in a turn-based format.
+This game has about 45 difficulty levels (9 different "strategy factors" like supply, unit types, fatigue, etc. x 5 realism levels each). However, even with all 9 set to the highest difficulty, the game can be won in a few hours.

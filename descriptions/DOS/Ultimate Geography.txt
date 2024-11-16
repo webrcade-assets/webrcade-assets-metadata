@@ -1,0 +1,7 @@
+Ultimate Geography is a single player, shareware, geography quiz that aims to teach the US states and their capitals. It also included factual data about the population, size, trivia, industries, crime, marriage, births, divorce, and death rates of each state.
+The game starts with a largely empty white screen containing a white outline map of the USA that shows state boundaries. There is a menu bar at the top of the screen from which the factual information and the quizzes can be accessed. There are two quizzes in this game:
+
+States: This uses the outline map of the USA and block fills in a random state in red and asks the player to type in the name. These are not multiple choice questions, the name has to be entered in full. The answer is not case sensitive but the spelling must be accurate.
+The quiz covers fifty states and to make it a little easier the game has an option to show a text box that is the right size for the answer.
+
+Capitals: This is pretty much identical to the Stares quiz. The differences being that the questions are "What is the capital of XXXXXX?". The state in question is not coloured in red, instead gunsight style cross-hairs pinpoint the location of the city in question.

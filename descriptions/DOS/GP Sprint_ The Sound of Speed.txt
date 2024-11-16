@@ -1,0 +1,4 @@
+A "F1" inspired arcade racing game, with elements of both arcade and simulation titles.
+Top-down graphics inspired by Capcom's famous "F1 Dream" arcade game.
+Numerous car settings are available in and they affect the car handling, and fuel, tires affect race strategy, with pit-stops being necessary to complete longer races.
+Up to four players can play simultaneously on a single computer, using a combination of keyboard and joysticks.

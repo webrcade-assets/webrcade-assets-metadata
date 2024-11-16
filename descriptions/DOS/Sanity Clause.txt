@@ -1,0 +1,1 @@
+Sanity Clause is a text adventure where you play as Santa Clause and travel the world to deliver your presents on Christmas night.

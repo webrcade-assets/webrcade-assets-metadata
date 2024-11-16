@@ -1,0 +1,7 @@
+Kerboom! is a single player, mouse or joystick controlled game similar to Kaboom!.
+Once again there is a mad bomber on the loose throwing his explosive devices from the top of a high wall. The player must catch his bombs in buckets of water to prevent them detonating.
+There are a couple of quirks that make this variant a little different.
+Firstly the mad bomber is represented by a figure with a real person's face, very pixelated but still recognisable as a photograph rather than something that's drawn.
+Secondly there are two game modes, Classic and Enhanced. Both modes look and play exactly the same but in the enhanced mode the bombs cal fall diagonally in later stages and the bomber issues random taunts. The two modes have separate high score tables
+Buckets are lost when a bomb hits the ground but new buckets are awarded after 10,000 points in the Classic game and after 5,000 points in the Enhanced game.
+This game cannot be played via the keyboard.

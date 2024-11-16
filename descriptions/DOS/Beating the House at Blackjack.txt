@@ -1,0 +1,2 @@
+Beating the House at Blackjack is an educational card game for the Apple II.
+The game is designed to teach the blackjack player card counting techniques and includes strategy tables for memorization. Also includes a simulated game, where the player can control the number of players, number of decks, and bets.

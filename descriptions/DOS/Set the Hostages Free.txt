@@ -1,0 +1,1 @@
+Set the Hostages Free is a text based action game. The goal of the hero is to rescue the hostages. To do so the player must shoot to the bandits moving around the square area within just 15 shots. The game offers 3 difficulty levels.

@@ -1,0 +1,3 @@
+Diver Dan is a graphical adventure game. Dan lives in a waterfront town, but he wants to get an island of his own. As you might expect from the title, this adventure takes place both above and below the surface of the water.
+Diver Dan uses graphical screens combined with a text parser. The player can move Dan around, and can also enter commands to speak to people, take items, and so on. The game uses the QuestMaker engine.
+This game was distributed as shareware. While there was no missing content, registered users would also get a copy of Diver Dan II.

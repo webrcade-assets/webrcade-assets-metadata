@@ -1,0 +1,3 @@
+OutFox is a single-player, shareware implementation of the board game Fox and Hounds.
+As with the board game, the player has twenty four hounds with which to trap the fox, while the fox is moved by the computer. In this version there are rocks on the playing field which the fox may randomly throw around the screen, potentially killing one of the hounds.
+The game is entirely keyboard-controlled and has basic sound effects such as bleeps and whistles.

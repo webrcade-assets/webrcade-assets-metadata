@@ -1,0 +1,3 @@
+Though it describes itself as a flight simulator, Ace is a game in which the player(s) fly around a 3D landscape firing rockets at enemy craft.
+It's keyboard controlled and makes use of regular keys, function keys, and the numeric keypad. 
+There are three modes of play, single player, player v player and a two player co-op of pilot and gunner, in the two player games players share a keyboard and the game is played on a vertically split screen.

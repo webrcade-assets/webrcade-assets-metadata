@@ -1,0 +1,6 @@
+Mat Miś is an educational set of three mini games: * Labirynt - the task of the player is to reach the object on the other side of the maze in the shortest possible time. The labyrinth size and time lapse speed is adjustable.
+
+Studnia - is a Tetris variant. The game takes place in the same manner except that the player does not stack bricks but mathematical operations. The player's task is to choose the correct missing part of mathematical operation. The correct answer choice is made by selecting one of the eleven options at the bottom of the screen.
+Zgadula - requires filling missing part of mathematical operation by selecting one of then answers. One mistake per operation is allowed, specifying whether the selected digit is too small or too large.
+
+Each game has its own setup options and score table.

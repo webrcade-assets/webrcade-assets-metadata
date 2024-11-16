@@ -1,0 +1,3 @@
+Rock Man is a single player, keyboard-controlled, Pac Man clone.
+This game plays in a very narrow letter-box type screen but aside from that the game plays as expected.
+The player controls a constantly moving yellow ball character which chomps its way around the maze. Within the maze there are four ghosts which must be avoided as any contact will cost a life. However for a short period after chomping a power-up pill the ghosts are vulnerable and can be chased.

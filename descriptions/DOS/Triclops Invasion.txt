@@ -1,0 +1,3 @@
+Triclops Invasion is an early 3D space combat game that was originally developed for the QNX operating system.
+The solar system has bee invaded by the Triclops who parachute their giant walkers down to Earth. The only way to destroy a walker is to shoot off one of its three legs but as it has a cannon turret on its top the game's documentation suggests that destroying that first could be a good strategy. Once all five walkers and their satellite the game is won, if the Triclops destroy all three of the player's ships the Earth is lost.
+The game also allows the player to record demo versions of the way they played the game and to turn off the enemy walkers so that they can just fly over the landscape

@@ -1,0 +1,4 @@
+Tommy's Palace is a single player action / strategy game in which the player attempts to storm a castle.
+The player is the leader of a raid on the palace of 'The Dragon King'. The player is a blue character and all soldiers on his side are white. The enemy are coloured.
+To complete the game the player must fight through the eight floors of the palace to the throne room. Each room contains a trap door which can end the player's turn or lead to other rooms. In addition there are stairways which lead to the next level and once a room has been cleared the player uses the stairway to progress.
+The game is controlled using function keys and the numeric keypad

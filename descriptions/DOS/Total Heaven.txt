@@ -1,0 +1,5 @@
+Three strategy games are included in this compilation:
+
+SimCity 2000
+Sid Meier's Civilization II
+The Settlers II: Veni, Vidi, Vici

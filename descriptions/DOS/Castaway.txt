@@ -1,0 +1,1 @@
+Castaway is a text adventure with a simple two word parser for DOS. It was included on the Adventure Games disk released by Public Brand Software. The premise is that you are first mate of a ship that is shipwrecked on a deserted island. You must both find 10 treasures that are hidden on the island, and signal a rescue ship to take you back to civilization.

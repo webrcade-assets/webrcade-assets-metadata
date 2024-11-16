@@ -1,0 +1,2 @@
+Text adventure based on Arthur Conan Doyle 's famous character. You play as Sherlock and must solve a mystery using interrogation and investigation in order to catch your suspect.
+The game features some real-time elements, seldom found in adventures, such as NPCs with agendas (used over a decade later in Westwood 's Blade Runner). The clock keeps on ticking and you'll lose if time runs out.

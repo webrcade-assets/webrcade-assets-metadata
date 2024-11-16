@@ -1,0 +1,10 @@
+This special edition is a re-release of the original game with additional features. It contains:
+
+Fighter Duel improved flight models
+9-player IPX network play
+Radio chat
+Expanded video card compatibility
+Extra planes
+Improved joystick calibration and support
+Force feedback flightstick support
+Keyboard controls

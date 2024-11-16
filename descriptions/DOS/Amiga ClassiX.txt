@@ -1,0 +1,262 @@
+This compilation contains various Amiga games, game demos and demoscene demos, playable both on a real Amiga and via emulator.
+The disc is split intro three sections:
+
+FULLGAME (48 entries), containing both Commercial & Public Domain / Freeware games
+GAMEDEMO (199 entries), containing demo versions of several popular games of the time, some of them presented as coverdisks of several magazines.
+MEGADEMO (98 entires), containing various demoscene demos.
+
+Using the disc on a real Amiga some of the entries of the FULLGAME section (see list below) can be started directly. All the other games - contained as ADF disk images - can be copied to a floppy disk using the included ADF2Disk application and started or installed from there.
+On Windows the disc provides a graphical menu, providing an (incomplete, see below) list of above games and demos. Games can be started directly using the included Fellow Amiga emulator, the GUI also provides a basic interface for its configuration. Alternatively it's possible to start an 1.3 Amiga Workbench using a pre-configured version of WinUAE, with the Amiga section of the disk readily available.
+Not pre-configured, but also included are Amiga emulators for DOS, MacOS, UNIX and Windows, more operating systems are supported in combination with Emulators Unlimited 2.
+Included games in the FULLGAME section: ("A": Available from the Amiga section of the disc; "W": available from the Windows GUI; "U": Unlisted, but present on disc)
+
+5K Invaders! (A)
+6K Pacman! (A)
+Amegas (A, W)
+AmTank (A)
+Army Moves (W)
+Better Dead Than Alien (A, W)
+Blaster (W)
+BlitzBombers (A)
+Boondar (W)
+Boston Bomb Club (A, W)
+BuilderLand (W)
+Charlie J. Cool (U)
+Coin Mania (W)
+Crystal Hammer (W)
+Defender Of The Carrot (W)
+DNA: The Variety of Life (A, U)
+Dragon Tiles II (A)
+Frontier: Elite II (W) (listed as Elite - this seems to be a mistake, because Frontier is also included as a demo version)
+Fruit Salad (W)
+Full House Poker (W)
+Galactic (A, W)
+GridLock (A)
+Goldrunner (W)
+Gordon Miller's Federation (A)
+Lex (W)
+Marblelous (W)
+Mega Phoenix (W)
+Mercenary (W)
+Nemeses: Inevitable Retribution (A, U)
+Norris (A, W)
+Offence (A)
+Panza Kick Boxing (U)
+Plutos (A)
+Poing 5 (A)
+PP Hammer (W)
+Project Buzz Bar (A, W)
+SEUCK (A, U)
+Sharkey's Moll (W)
+SideWinder (W)
+Starblade (W)
+Take Em Out (W)
+Targhan (A, W)
+Techno Cop (W)
+Testament (A, U)
+Turn It! (W)
+Veteran (A, W)
+Waponez (A)
+X-System 2 (A, W)
+
+Included games in the GAMEDEMO section (available from the Windows GUI):
+
+1000 Game Cheats
+The Addams Family
+Alfred Chicken
+Alien Breed II
+Aladdin
+Flight of the Amazon Queen
+Amiga Promo Demo
+Apidya
+Apocalypse
+Armalyte
+Armour-Geddon 2
+Atomino
+ATR
+Barbarian 2
+Beast Busters
+Beast Master
+Behind the Iron Gate
+Beneath a Steel Sky
+Benefactor
+Big Run
+BlitzBombers
+The Blues Brothers
+Body Blows
+Bograts
+Breathless
+Bubba 'N' Stix
+Bubble and Squeek
+Bump 'N' Burn
+Cadaver
+Caesar
+Cannon Fodder 2
+Captive
+Champion of the Raj
+The Chaos Engine
+The Chaos Engine 2
+Chase H.Q. II
+Chuck Rock II
+Cisco Heat
+Cool Spot
+The Incredible Crash Dummies
+Crazy Cars 3
+Crystal Dragon
+CyberPunks
+D/Generation
+Dan Dare III
+Dark Seed
+Deep Core
+Deluxe Paint 5
+Desert Strike
+Detroit
+Disposable Hero
+Dong
+Dragons Breath
+Dragon's Lair
+Dragon's Lair II
+Dragonstone
+DreamWeb
+Elvira
+Epic
+Exile
+F17 Challenge
+Fears
+Fiendish Freddys Big Top Of Fun
+First Samurai
+Flashback
+Flip-it & Magnose
+Football Glory
+Frontier: Elite II
+Full Contact
+Fury of the Furries
+Fuzzball
+Globdule
+Gloom
+Gloom Deluxe
+Gobliiins
+Gods
+Gulp!
+Guy Spy
+Hammerfist
+Heimdall 2
+HeroQuest (on Gamedemos disks)
+HeroQuest II
+Hillsea Lido
+Hired Guns
+Hustler
+Impossible Mission 2025
+International Sports Challenge
+Ishar 2
+Ishar 3
+Jack the Ripper
+Jaguar XJ220
+JETPilot
+Jungle Strike
+K240
+Kid Chaos
+The Killing Game Show
+Kingpin
+King's Quest VI
+Knightmare
+Knights of the Sky
+Lamborghini: American Challenge
+Leander
+Legend
+Legend Worlds 1: This time it's war: Son of The Empire
+Lemmings 2
+The Lion King
+Lords of Chaos: Escape from Zol (on Gamedemos disks)
+The Lost Vikings
+Lotus III
+Mega lo Mania
+Metal Mutant
+Minskies
+Moonshine Racers
+Mortal Tennis
+Myth
+Nebulus 2
+Nemac IV
+The New Zealand Story
+Nigel Mansell's World Championship Racing
+Nippon Safes, Inc.
+Obsession
+Odyssey
+Overdrive
+Pacific Islands
+Pang
+Parasol Stars
+Pinball Dreams
+Pinball Illusions
+Pipe Mania!!
+Player Manager 2
+Prehistorik
+Premiere
+Premier Manager 3
+Project-X
+Pro Tennis Tour 2
+Puggles
+Puggsy
+Risky Woods
+RoboCop 3
+Rod-land
+Rolling Ronny
+Ruff 'n' Tumble
+Sensible Golf
+Sensible Train-Spotting
+Simon the Sorcerer
+Sink or Swim
+Slam Tilt
+Slip Stream
+Soccer Kid
+Space Hulk
+The Speris Legacy
+Stardust
+Storm Master
+Superfrog
+Super League Manager
+Super Obliteration
+Super Skidmarks
+Super Stardust
+Super Street Fighter II
+Sword
+Sword of Honour
+Syndicate
+Tactical Manager
+Tactical Manager 2
+The Clue!
+Theme Park
+The Patrician
+The Power
+The Simpsons: Bart vs. the World
+Thunderbirds
+Thunderhawk
+Timekeepers
+Tiny Troops
+Titus the Fox
+Top Banana
+Tornado
+Total Carnage
+Trapped 3
+Troddlers
+Turrican 2
+Turrican 3
+The Ultimate Ride
+Ultimate Soccer Manager
+Universal Monsters
+Universe
+Valhalla and the Fortress of Eve
+Virocop
+Virtual Karting
+Walker
+Wonder Dog
+World Golf
+Worms
+Worms: The Director's Cut
+X-out
+Xenon 2
+Yo! Joe!
+Yolanda
+Zeewolf
+Zool (unlisted)

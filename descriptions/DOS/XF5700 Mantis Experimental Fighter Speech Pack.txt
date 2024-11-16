@@ -1,0 +1,1 @@
+The speech pack for Mantis adds two megabytes of digitized speech to the original game. This includes the inflight sequences as well as some cinematic scenes and tutorials.

@@ -1,0 +1,6 @@
+Arcade 1 is a compilation consisting of the following DOS games:
+
+Artillery
+Goob : a basic 2D shooter where your ship is on the left side of the screen, and you need to shoot "tie fighters" approaching from the right
+Pitfall
+X-Wing Fighter (here called simply X-Wing)

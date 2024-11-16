@@ -1,0 +1,2 @@
+Mortal Pong is a one or two player game that can be played either by two players on the same machine or over a modem via XBAND PC.
+The game is based on Pong. Balls are launched from the centre of the screen and the players use paddles to keep the ball in play. The longer the game goes on the more balls appear. If a player lets a ball go past them then they lose health, (the developer says this is similar to a player losing health in the Mortal Kombat games - hence the name), and once a player has lost all health the game is over

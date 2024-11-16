@@ -1,0 +1,1 @@
+Pole is a quiz game, inspired by Russian TV show Capital Show «Pole Chudes» (similar to Wheel of Fortune). The player has to guess letters in eight words for 100 turns. Depending on how successful he was, one of the three pictures of a girl will be shown.

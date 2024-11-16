@@ -1,0 +1,1 @@
+In HaMavoch ( The Maze), the player has to navigate through different mazes and reach the dragon located at the centre. The game supports up to five players. Each player's score is determined by the amount of steps taken to reach the goal.

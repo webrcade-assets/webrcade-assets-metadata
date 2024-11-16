@@ -1,0 +1,1 @@
+Lexi-Cross is a TV show simulation based on elements from Wheel of Fortune and Scrabble in a humorous futuristic setting. Competing either against other living creatures (humans, aliens) or against robots, you must flip the tiles and use the revealed letters to form the correct words. The game features more than 600 puzzles.

@@ -1,0 +1,3 @@
+Cybot is a side-scrolling platforming game. In the year 3129, a large spaceship enters the solar system in order to attack the Earth. You are a cybernetic robot, sent to infiltrate and destroy the spaceship from the inside.
+The spacecraft consists of a large number of linked screens, some with enemy robots. You need to fight your way through to the exit in each level. The game is inspired by Thexder, as you are armed with a laser and missiles and can transform between a wheeled mode and a flying mode, as well as use different power-ups.
+Cybot was distributed as shareware, but without locked features.

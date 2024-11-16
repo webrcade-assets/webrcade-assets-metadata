@@ -1,0 +1,2 @@
+In The Treasury of Zan you are an "underpaid, overworked archaeologist", and now you are lost in the desert with no water and no maps. You have to find your way back to civilization, and fast.
+It is a text parser adventure game augmented with illustrations, in the vein of The Pawn and the Spy's Adventure series. The game is very strict with some time constraints, and if you take one turn too many to figure out what to do, you might already be dead without knowing it yet. A walkthrough is basically indispensable.

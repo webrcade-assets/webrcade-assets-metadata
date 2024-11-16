@@ -1,0 +1,5 @@
+Foka Sylabinka is an educational game designed to teach basic reading. The game has 3 game modes: maze, one word, two syllables.
+In the maze mode, the player has to reach two parts of the word, located in different parts of the maze.
+In one word mode, the player has to match the word to the picture out of three available.
+In two-syllable mode, the player must match the two syllables that make up a word by choosing from the four syllables available on the screen.
+The game has a built-in word and picture editor.

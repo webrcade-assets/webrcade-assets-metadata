@@ -1,0 +1,1 @@
+This is a very early demo version of MechWarrior 2, with numerous notable differences from the final product. The demo includes one mission where the player is tasked to destroy a single enemy Mech, and only two Mech types are available in the demo. According to the mission briefing, the player belongs to the Clan Smoke Jaguar, which is not a playable faction in the final game.

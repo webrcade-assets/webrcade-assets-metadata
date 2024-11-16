@@ -1,0 +1,1 @@
+Hero Gold is a puzzle game similar to Chip's Challenge. The goal on each level is for the titular Hero to collect all of the hearts and escape through the exit to the next level. However, each level has various traps, puzzles, and challenges that need to be overcome.

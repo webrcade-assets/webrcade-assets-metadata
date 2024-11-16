@@ -1,0 +1,2 @@
+Abductor is a single player Defender clone.
+The player controls a spaceship which they must use to prevent aliens from abducting people. It is keyboard controlled by default but does support a joystick. It has a high score table and sound effects.

@@ -1,0 +1,1 @@
+A man is stranded in the coldest part of Russia and begins to look for shelter. 120 Degrees Below Zero is an adventure game that makes use of Sierra's SCI engine. It has the player trying to aid the character in the freezing cold. You must find a way to survive before body temperature drops to danger level.

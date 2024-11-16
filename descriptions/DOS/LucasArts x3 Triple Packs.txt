@@ -1,0 +1,5 @@
+This compilation contains three graphical adventure games:
+
+Indiana Jones and the Fate of Atlantis
+Maniac Mansion: Day of the Tentacle
+Sam & Max: Hit the Road

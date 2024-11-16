@@ -1,0 +1,2 @@
+The first of the Harpoon Designer's Series is a collection of scenarios for Harpoon - there are four sets (HDS1, HDS2, HDS3, HDS4) for each previous BattleSet with 12 missions each (up to 48 in total). The database has been also updated with new ships, submarines, aircraft and weapons.
+Ownership of the original Harpoon is required, the more BattleSet expansions you own the more mission sets you unlock.

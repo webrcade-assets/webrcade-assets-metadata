@@ -1,0 +1,4 @@
+Tommy's Energy Fence is a single player, shareware, puzzle game.
+The player controls an energy field ship which is steered around the screen by the / and \ keys. Each time a key is pressed the game leaves behind what is effectively a mirror which deflects the craft should it strike it at any point in the game.
+The point of the game is to navigate round the screen and intercept another energy ship which periodically jumps to another random part of the screen. The player starts with a high score which decreases as the game progresses.
+As with most of Tommy's games it uses character graphics and is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

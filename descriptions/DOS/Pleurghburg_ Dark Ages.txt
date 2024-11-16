@@ -1,0 +1,3 @@
+Created using Chris Jones' Adventure Game Studio, this detective non-linear story with multiple endings uses an interface very similiar to Sierra's old point & click adventure games.
+In the year 2012 Jake McUrk, a 30 years old detective working for the Police Detective Agency, is put on a case that seems to be just another minor false alarm. All of sudden, Jake is thrown into a nightmare where danger lurks around every corner. During perilous investigation he finds out what exactly is going on in the city of Pleurghburg.
+Very bloody, this game is not recommended for kids or even adults...

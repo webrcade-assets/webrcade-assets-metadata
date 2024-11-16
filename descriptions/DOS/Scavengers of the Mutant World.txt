@@ -1,0 +1,2 @@
+Scavengers of the Mutant World is a role-playing game that focuses on the survivors of the Earth after an apparent apocalyptic event, where player-controlled characters must gather "vehicle" components (to make a car) so they can reach an unknown haven or place of refuge.
+The game includes character generation and modification of skills and attributes (plus the character's face). It features party management, simple top-down turn-based combat style and randomly made map every time the player launches the game.

@@ -1,0 +1,3 @@
+The second mission disk for the original Comanche adds 4 more campaigns with 10 missions each. There are also new terrain types and new enemies: the 500MD Defender Helicopter, the OSA-II missile boat and the Lebed air-cushioned landing craft.
+The graphics engine has been refined and now supports reflective water and weather effects like snow and haze.
+Also new are several options to make the controls more realistic and less arcade-like.

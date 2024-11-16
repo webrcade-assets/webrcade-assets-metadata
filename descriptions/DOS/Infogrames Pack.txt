@@ -1,0 +1,5 @@
+This compilation contains several games developed by Infogrames :
+
+Solar Crusade (Windows)
+Prisoner of Ice (DOS)
+Time Gate: Knight's Chase (DOS, Windows, Windows 3.x)

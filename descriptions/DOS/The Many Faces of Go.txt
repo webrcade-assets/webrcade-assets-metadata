@@ -1,0 +1,2 @@
+Go Simulator is a computer adaptation of the classic Chinese strategic board game known worldwide as go.
+The game includes a complete tutorial to learn the basic rules of go. Using the numerous available options, the player can customize the game to adapt the difficulty: size of the board (from 9x9 to 19x19 lines), AI level (1 to 20), handicap (0 to 29 stones on the board before the game starts), etc. It is possible to play against the computer or a friend, and even watch the AI play against itself.

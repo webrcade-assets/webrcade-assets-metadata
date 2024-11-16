@@ -1,0 +1,1 @@
+Pong Worz is a clone of the classic arcade game Pong, with a science fiction background and several new features like the use of weapons to disrupt the opponent, as well as several different game modes including classic Pong, Pong with two balls, and even an asteroid-dodging minigame.

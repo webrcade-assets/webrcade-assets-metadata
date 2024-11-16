@@ -1,0 +1,2 @@
+Adventures in Melgratta is an action game in the fantasy land of Melgratta. You start out in the woods, which are viewed as an diagonal-down area filled with thieves and treasure. Collect yellow plants to heal you, and arrows to let you shoot enemies. You then go to the castle, a side-view area where you dodge arrows and barrels, then onward to the thick forest, another diagonal-down area, and beyond.
+Adventures in Melgratta was distributed as Shareware, but without missing content.

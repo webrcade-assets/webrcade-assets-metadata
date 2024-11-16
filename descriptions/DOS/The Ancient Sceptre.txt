@@ -1,0 +1,1 @@
+The Ancient Spectre is a text adventure fantasy game, including castle, dragon and dwarfs. The game is fully controlled by simple text commands, there are no sound or graphics elements implemented. Each new location is described on the new board, including exact information about the place and movement possibilities.

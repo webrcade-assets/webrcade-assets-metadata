@@ -1,0 +1,8 @@
+This educational strategy game represents the events of the Norman Conquest of England taking place in XI century. Historically, Harold the Second, last Anglo-Saxon king of England, lost the Battle of Hastings to William the Conqueror, Duke of Normandy, who became the next king.
+The game is flown on a schematic map of England. Players take the roles of William and Harold. In turns they give orders, move units and conquer areas. To win the game, the player must gain 60 points. Points are gained by controlling land and taxing peasants. Potency is important in taxing peasants and fighting: it is increased on "low" tax rates and decreased on "medium"/"hard" tax rates. Player will gain 1 point per 1 peasant at "medium" tax rate and 2 points at "hard" tax rate. To set the tax rate, the player should have tax collectors.
+If one of the player's units enters an area occupied by the enemy, the fight will be proposed. The area becomes controlled by the player if it was not occupied by anyone, or a fight was won.
+Spies may be used. They hide from the enemies and are not seen around 80% of the time no matter who occupies the land.
+Killing the opposing monarch will not necessarily win the game. 
+Harold is already the king, so William can crown himself as soon as he gains 30 points or kills Harold. He must go to London to accept the crown.
+The educational twist of the game is an in-game encyclopedia and a question before the player's turn. An incorrect answer will result in a loss of the player's movement ability.
+The Quiz, full of questions on these historical events, may be played instead of strategy simulation, where multiple options may be turned on/off as well.

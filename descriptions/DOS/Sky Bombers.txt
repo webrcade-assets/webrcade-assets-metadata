@@ -1,0 +1,1 @@
+Sky Bombers is a shareware, single player, arcade-type shooter. The player controls a soldier with a jet pack who they manoeuvre around the screen. The objective is to destroy all the enemies before fuel and ammunition expire, once this has been achieved the player advances to the next level. The soldier has three lives and he is controlled with the keyboard and the mouse.

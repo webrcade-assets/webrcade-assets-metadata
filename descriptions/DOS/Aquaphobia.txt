@@ -1,0 +1,2 @@
+Aquaphobia is a single-player, freeware, side-scrolling underwater shooter. It was given away as a magazine covermount in France and it is the sequel to a game called Blue War.
+In this game the player swims left to right avoiding and shooting fish, sharks, octopuses etc. The player has a limited air supply which can be replenished by supplied dropped from above. They have three lives with which to achieve a high score, the game can be played with either the keyboard or the joystick.

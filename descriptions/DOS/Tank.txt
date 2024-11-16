@@ -1,0 +1,1 @@
+A simple game of tank combat in ASCII graphics, requiring two human players.  The combatants start off at opposite corners of the walled arena, and can move and fire in four directions, each using a different side of the keyboard.  Ammo is unlimited, and the first player to score five hits on the opponent wins the game.

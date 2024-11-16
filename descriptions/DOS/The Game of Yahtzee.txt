@@ -1,0 +1,2 @@
+The Game of Yahtzee is an implementation of the classic dice game for between one and five players, there is no computer opponent.
+The game plays and scores like any game of Yahtzee. It is entirely keyboard controlled so if a player rolls 5-5-5-1-2 and wants to try for a Yahtzee in 5's they enter 1 2 as the dice to re-roll. Each scoring opportunity is denoted by a letter so when the player's turn is done they nominate a category such as fives, full house, three of a kind etc by selecting the appropriate letter.

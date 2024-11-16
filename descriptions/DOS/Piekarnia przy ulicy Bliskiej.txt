@@ -1,0 +1,1 @@
+Piekarnia przy ulicy Bliskiej is an arcade game taking place in a bakery. The player's task is to produce and sell rolls. Customers visit the bakery only when there are no mice inside. To get rid of the rodents, the player must use a broom. The work is not facilitated by a spider that steals rolls dropped on the floor.

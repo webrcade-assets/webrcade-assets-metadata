@@ -1,0 +1,1 @@
+Ortografia is a simple educational game, teaching orthography. The player's task is to select the proper letter missing in the word above before the time runs out. To do so, players must click the left or right mouse button, corresponding to one of two possible choices. The game features scoreboard.

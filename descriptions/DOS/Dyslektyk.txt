@@ -1,0 +1,8 @@
+Dyslektyk is a set of games that allows oppose dyslexia, through the exercise of vision, memory, hearing, concentration and orthography. The set features following mini games:
+
+Two exercises of spelling, where the child must provide the missing letters;
+Image arrangement from the cut parts;
+Two exercises of combining images in pairs;
+Two exercises of sounds repeating.
+
+Each exercise can be configured in terms of resources and level of difficulty. The game allows to create several child data profiles.

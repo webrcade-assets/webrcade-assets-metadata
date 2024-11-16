@@ -1,0 +1,3 @@
+Double Cross is a puzzle-solving game for two players. The aim is to build a solid bridge from one side of the board to the other while preventing the opponent from making the same connection.
+The board is composed of an array of dots - each one representing a valid place for playing piece. There are two sets of finish lines on the board (horizontal, vertical), each painted in the color that represents the player that must connect them.
+Each player takes a turn and places a piece with their color on one of the dots on the board. You may place your piece on any dot, except those that are on the outside of one of your opponent's finish lines. The game continues until the construction of the bridge is completed or there is insufficient space on the board.

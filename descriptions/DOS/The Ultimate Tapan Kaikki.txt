@@ -1,0 +1,2 @@
+The Ultimate Tapan Kaikki (Translates roughly to The Ultimate I'll Kill Everyone) is a simple top-down shooter. The goal of the game is, as the title suggests, to kill everyone on the map by using weapons either picked up from the map or bought from stores. That sounds simple, but it isn't as easy as one might think, as the enemies are numerous and stimpacks are scarce.
+The game comes with two episodes and ability to create more on your own with a simple level-editor.

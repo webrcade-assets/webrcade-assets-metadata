@@ -1,0 +1,6 @@
+Dogs of War is an add-on to Siege.
+It adds the following:
+
+A two-player mode via modem or null modem.
+Six new castles, with four new scenarios each, for a total of 24 new scenarios, set in the Solian Lands from The Magic Candle III.
+16 new troop types.

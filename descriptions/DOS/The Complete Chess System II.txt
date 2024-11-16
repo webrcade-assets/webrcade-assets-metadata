@@ -1,0 +1,6 @@
+The Complete Chess System II is a chess game/tutor for one or two players. Its features include;
+
+A choice of backgrounds and pieces
+A database of games that can be sorted and edited
+Games can be started from the beginning or a board can be set up to match a specific point in a match or a chess puzzle
+Options to set up the clock(s), define win conditions, analyse moves, provide hints and more.

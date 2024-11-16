@@ -1,0 +1,3 @@
+Video Poker Slot is a single player, shareware, video poker machine simulator.
+This game mimics the kind of video poker machine that is found in casinos and video arcades around the world. The default game is 'Jacks or better' but the game can be configured to play Second Chance Poker, Joker Wild Poker, Deuces Wild Poker, Deuces and Joker Wild, Double Down Poker, 10's or Better, Bonus Poker, Lowball Poker, Star Poker, and Tournament Poker.
+The game can be played by mouse, keyboard, or a combination of the two.

@@ -1,0 +1,1 @@
+Mistrz Arytmetyki is a simple educational game. The player's task is to write the correct digits on the board before the time runs out. After gaining 40 points from mathematical tasks, the player is rewarded with the possibility of playing one of a few unlocked puzzle mini-computer games. The game features a scoreboard.

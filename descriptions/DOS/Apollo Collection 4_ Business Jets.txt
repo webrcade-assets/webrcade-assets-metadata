@@ -1,0 +1,21 @@
+Apollo Collection 4: Business Jets is a set of sixteen aircrafts in an add-on package, requiring the 3rd-party application BAO FlightShop, to use with Microsoft Flight Simulator v5.x.
+The included aircrafts are:* Beechcraft 1900C
+
+Beechcraft Duchess 76
+Canadair Challenger 604
+Cessna 152
+Cessna 414 Chancellor
+Cessna Citation X
+Dassault Falcon 900
+Grumman GA-7 Cougar
+Gulfstream IV
+Gulfstream V
+Hawker 1000
+Piper PA-23-151 Cherokee Warrior
+Piper PA-23 Aztec
+Piper PA-31-310 Navajo
+Piper PA-44-180 Seminole
+Piper PA-46-350P Malibu Mirage
+
+There is also an (optional) updated IFR panel for the Beechcraft King Air included in the add-on. The Beechcraft 1900C found in this add-on was developed from the King Ar, and it has almost the same cockpit, so it would fit well.
+The documentation suggests to use this cockpit with all BAO 2-4 turbine engine aircraft, instead of the generic one. Cockpit installation is done by running a batch file, King.bat.

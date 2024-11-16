@@ -1,0 +1,5 @@
+Tommy's Airshark is a single player, shareware, vertical scrolling, helicopter game made using character graphics.
+The object is to fly over enemy territory and to destroy as many SAM missile firing tanks as possible. The SAM missiles home in on the player's 'copter but can be avoided by making continuous changes to course, speed and height. The 'copter can withstand three direct hits, after that the player has a 50/50 chance of surviving subsequent hits.
+The player's score is based on the number of tanks destroyed.
+The game is entirely keyboard controlled and as with most of Tommy's games it makes extensive use of the function keys. F9 for example fires the missiles while F3/F4 adjust the difficulty level. Other function keys change the size of the game area, adjust the sighting arrows, and so-on.
+It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

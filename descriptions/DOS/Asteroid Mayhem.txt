@@ -1,0 +1,1 @@
+Asteroid Mayhem is a single-player, keyboard controlled, space shooter in which the player blows up rocks and aliens with the objective of achieving a high score.

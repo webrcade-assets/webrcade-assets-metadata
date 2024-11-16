@@ -1,0 +1,2 @@
+Tetripz simulates what it would be like to play the classic puzzle game under the influence of various drugs and other substances. The player can choose several different drugs, including LSD, marijuana, 2CB, and coffee, and can choose how intense that drug's effects will be on an intensity scale ranging from 1 to "overdose". This affects how the playing field is rendered, including effects such as a constantly warping screen or the playing field zooming in and out. This game supports multiplayer against a friend or the computer.
+This game won the Wired'98 Game Compo.

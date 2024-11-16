@@ -1,0 +1,1 @@
+Bloodwings: Pumpkinhead's Revenge is a 3D shooter based on the movie Pumpkinhead II: Blood Wings. The player becomes the "Keeper of the Spirits" and must travel through mystical realms in search of the objects needed to appease the spirit of Pumpkinhead, occasionally peering through portals into the "real world" (i.e. clips from the film).

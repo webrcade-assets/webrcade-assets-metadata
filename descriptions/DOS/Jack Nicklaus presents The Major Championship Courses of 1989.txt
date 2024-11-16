@@ -1,0 +1,4 @@
+This is a golf course add-on for use with either Jack Nicklaus' Greatest 18 Holes of Major Championship Golf or Jack Nicklaus' Unlimited Golf & Course Design. It contains the following courses:
+1. Oak Hill Country Club (U.S. Open Championship)
+2. Royal Troon Golf Club (British Open Championship)
+3. Kemper Lakes Golf Club (PGA Championship)

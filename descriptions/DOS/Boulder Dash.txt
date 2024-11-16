@@ -1,0 +1,1 @@
+This game is a DOS remake of Boulder Dash, featuring VGA graphics.

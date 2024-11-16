@@ -1,0 +1,2 @@
+Maze Adventures is a collection of four maze games:
+- Diamond Digger - Block Five - Rogue Runner - Maze Machine

@@ -1,0 +1,1 @@
+Chess is an implementation of the classic chess board game. In addition to timed and non-timed games, it allows players to take back moves, and also analyzes various chess positions and provides commentary. The game is for 1 player (against the computer) only.

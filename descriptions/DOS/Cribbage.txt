@@ -1,0 +1,3 @@
+Cribbage is a simulation of the game of the same name. It's one-player only, with mouse support (it will fall back to keyboard if a mouse is not detected). It supports both color and monochrome monitors. It also keeps track of statistics between games, and can track statistics for up to 20 player names. Finally, the middle mouse button will provide a hint. This uses the same algorithms that the computer player uses.
+Options include changing the score limit, allowing skunking, big cards (easier to read), and changing the shape of the mouse pointer.
+The game was distributed as Shareware, but without any locked features.

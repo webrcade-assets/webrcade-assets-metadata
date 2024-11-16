@@ -1,0 +1,1 @@
+This unofficial Scenery Disk for the MS Flight Simulator (at least Version 5.0 required) adds the flight areas of Germany, Austria, Switzerland and the Netherlands to your FS. It also includes the scenic cities of Berlin, Amsterdam, Munich, Vienna and Geneva.

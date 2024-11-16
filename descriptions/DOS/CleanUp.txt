@@ -1,0 +1,4 @@
+CleanUp is a single player, keyboard controlled, shareware puzzle game. It is a reworked version of a game 1979 game by Doug Schiller that was released on the TRS-80.
+The game area consists of randomly scattered blocks among which are gold stars. The player must negotiate their way around this arena collecting the stars.
+The game is keyboard controlled, pressing a non-arrow key ends the game as does colliding with a block or crossing the player's previous pathway. The game is scored with the score calculation being based on the number of stars collected, the speed at which the game was being played, and the length of the path taken by the player.
+The game has a high score table and basic sound effects, bleeps and whistles.

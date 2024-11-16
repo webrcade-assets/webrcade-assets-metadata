@@ -1,0 +1,1 @@
+TeleCards is a set of card games that can be played against the computer or against another person via either a modem or a serial link. The three games available are Crazy Eights, Cribbage and Gin Rummy. They are played with the mouse and they can be saved and resumed at a later time.

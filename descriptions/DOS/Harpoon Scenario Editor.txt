@@ -1,0 +1,1 @@
+Harpoon Scenario Editor is the same tool that was used by game developers to create missions for Harpoon. The user may create their own scenarios by setting up groups of units, conditions, orders, goals and other variables using installed maps (i.e. BattleSets you own). Requires the original game, supports additional BattleSets.

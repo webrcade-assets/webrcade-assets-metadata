@@ -1,0 +1,1 @@
+Ball Blazing Fantasy is a retro arcade game where the player controls a ball. It features two completely different modes: The Quest and Ball Blazing Fantasy. The Quest is similar to Rock 'n Roll, but here player has to collect minerals present in various levels, while Ball Blaze is like one on one soccer where the players are balls too.

@@ -1,0 +1,1 @@
+The Fortress of Dr. Radiaki is a first-person shooter with an early example of mouselook and weapon reloading. Dr. Radiaki has created an army of genetically modified creatures, and wants to conquer the world. The player has to go to his fortress and stop him. The game features 15 levels and 15 different enemies.

@@ -1,0 +1,1 @@
+The Revenge of the Killer Robots from Hell is a turn-based QBasic puzzle game where you must reach the gate without being caught by an evil killer robot. Robots can be killed by an electric fence. But you cannot touch the electric fence. You will be killed. And don't fall into the hole ether. There are 11 rounds and you may need to use the numeric keypad to play the game.

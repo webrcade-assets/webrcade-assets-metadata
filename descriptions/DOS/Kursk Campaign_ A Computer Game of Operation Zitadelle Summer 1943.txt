@@ -1,0 +1,4 @@
+Kursk Campaign: A Computer Game of Operation Zitadelle Summer 1943 is a computer wargame for multiple systems covering the German invasion of the Soviet Union in 1943.
+Players can control the German and/or Soviet sides, or the computer can take on one or both roles. The game is text-only, and originally came with a board and physical pieces to allow the player to keep track of the location of their and the enemy's units. There are three scenarios covering May, June, or July 1943.
+Each turn, the player has access to the intelligence menu, where they can see a list of currently held territory, gains, and losses. This menu also includes weather forecast, player and enemy strength, available supply, and recent losses. The player can allocate supplies and set movement orders for individual units including: hold, move, and attack.
+Game time is divided into morning, afternoon, and evening each day of play. Games can be saved in progress, and loaded at a later date.

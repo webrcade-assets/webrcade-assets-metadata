@@ -1,0 +1,2 @@
+HexiPuzzles is a puzzle game where you place triangle-shaped pieces onto the board, matching the colors on the edge of each piece with adjacent pieces. Puzzles can be played in one of two modes: easy or hard. In easy mode, one of all possible combinations of colors is given. (Not all will be used.) In hard mode, only the pieces needed to complete the puzzle are given.
+The game also includes a level designer.

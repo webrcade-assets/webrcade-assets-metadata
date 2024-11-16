@@ -1,0 +1,21 @@
+Amongst many non-interactive introductory type-in BASIC programs intended to get young programmers started, this book includes a few simple games:
+
+Spelling (as described, TRY TO FIGURE OUT THE MISSING LETTERS IN THIS WORD);
+You Are A Detective, a very short choose-your-own-adventure mystery;
+Shell Game ("needless to say, the computer's 'hand' is definitely quicker than your eye!");
+Dice Game;
+Number Guessing Game (which of two players guesses closest to the number the computer picked?);
+Number Sequences (what should the next number in this sequence be?);
+How Warm Is Your Heart (a re-skinned number guessing game filling in temperature for proximity to the number);
+War (the card game);
+Pinball (a highly abstract representation);
+Paper, Rock, Scissors;
+Ring the Bell (simulating the carnival sideshow game);
+Lifeguard (pick a number and maybe the life preserver you throw reaches the drowning swimmer);
+Sea Battle (aka Battleship);
+Math Quiz;
+Tennis (again, highly abstracted);
+Ski Weekend (choose the right jobs to earn the money needed to go on vacation in six weeks!;
+and Backpack (attempt to win a cross-country hiking race without running out of food and water).
+
+In addition to the platforms mentioned here, the BASIC programs included were intended to run, with minimal amendment, on the BASIC versions found on the HP-2000 and Osborne lines of computers.

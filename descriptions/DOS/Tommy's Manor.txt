@@ -1,0 +1,4 @@
+Tommy's Manor is a shareware text adventure game that is a version of an earlier game called Stoneville Manor.
+The plot is that Old Mr Tommy has died. He was very wealthy and left all his money to whoever could find and open his secret safe.
+As the adventurer, the player must find their way through the rooms of the manor, and other locations, picking up useful tools and objects and using them to solve puzzles.
+The text parser has twenty three basic commands that can be combined with objects or locations, e.g. the Enter command can be combined with locations such as Enter Lake, Enter Store and Enter Vent.

@@ -1,0 +1,9 @@
+In this shareware (but fully functional) maze-solving game, players go on a treasure hunt within computer-generated labyrinths. There are five levels of play, each with 9999 possible labyrinths:
+
+Level 1 - bounded on all sides; traversed from left to right.
+Level 2 - bounded on all sides; starts on the left, treasure location hidden.
+Level 3 - the top and bottom wrap around; traversed from left to right.
+Level 4 - the top and bottom wrap around; starts on the left, treasure location hidden.
+Level 5 - all sides wrap around; starts at the center, treasure location hidden.
+
+The game keeps track of time and the number of steps taken. For extra variety, several options can be modified at any point: the map can be set to show where you've been, where you are now, or the entire maze; visibility may be line-of-sight, or 2/1/0 steps away. You can toggle a "safety rope" to leave a visible trail. Movement speed is adjustable too, and the "search pattern" option even lets the computer automate your work for you.

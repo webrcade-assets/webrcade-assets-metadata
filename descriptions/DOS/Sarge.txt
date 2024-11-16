@@ -1,0 +1,1 @@
+Sarge is a top-down shooter. The goal is to stop the invading terrorists by controlling a tank and a helicopter. All enemy forces must be destroyed in each level. Two-player mode facilitates gameplay by adding two more units on the battlefield.

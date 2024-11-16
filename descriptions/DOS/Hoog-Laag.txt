@@ -1,0 +1,1 @@
+Hoog-Laag is a game where you guess if the next card will be higher or lower.

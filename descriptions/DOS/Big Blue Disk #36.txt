@@ -1,0 +1,1 @@
+This issue of Big Blue Disk contains two games. Poker Slot Machine, as the name implies, is a fairly basic simulation of a poker slot machine. Zappa Roidz is a space shooter in the vein of Asteroids.

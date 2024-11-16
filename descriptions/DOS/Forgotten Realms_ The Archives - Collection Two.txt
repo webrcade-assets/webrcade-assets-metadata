@@ -1,0 +1,13 @@
+Forgotten Realms: The Archives - Collection Two is a compilation of seven games released for the PC based on the AD&D campaign setting of Forgotten Realms.
+The collection includes the following titles:
+
+Pool of Radiance
+Curse of the Azure Bonds
+Secret of the Silver Blades
+Pools of Darkness
+Gateway to the Savage Frontier
+Treasures of the Savage Frontier
+Hillsfar
+
+The CD includes a DOS and Windows installation program and MOSLO to run the games. Even in 1999, computers were already too fast to run these games reliably. Documentation is provided by a large hard copy manual and soft copies can be found on the CD. The soft copies are facilitated by a simplistic image viewer that displays scanned images of the original pages; the images are stored in PCX format.
+Additionally, code wheels are provided for the copy protection schemes of Pool of Radiance, Curse of the Azure Bonds, and Hillsfar.

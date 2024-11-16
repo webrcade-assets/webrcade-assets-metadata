@@ -1,0 +1,1 @@
+Dungeon Crawl: Stone Soup is an open source roguelike through dungeons filled with monsters in a quest to find the Orb of Zot. It is a continuation of Linley Henzell's Dungeon Crawl.

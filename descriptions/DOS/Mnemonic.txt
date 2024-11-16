@@ -1,0 +1,1 @@
+Mnemonic is a simple game of Concentration that was designed for use as a BBS door game. The game is played on a 4x4 grid and is entirely keyboard controlled.

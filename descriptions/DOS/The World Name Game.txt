@@ -1,0 +1,4 @@
+The World Name Game is a single player, shareware, educational game based on capitals of the world as they were in 1990.
+This is a simple keyboard driven game in which the player is presented with an outline map, which may/may not have surrounding countries and/or cities to give a clue. The target city which the player must identify is shown as a dot within a circle and the player must type in the correct spelling of that city.
+The game can be used to test the player on cities around the world or on just US cities.
+The game can be played in three modes where the player has to identify either US cities, world capitals, or their countries. There are also study modes where the target cities can be displayed on a map so that the player can study and memorize them.

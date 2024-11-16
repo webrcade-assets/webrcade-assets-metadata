@@ -1,0 +1,1 @@
+Driester (Dutch for three star) is a game in which the player must clear the playing field by catching three stars at a time. Stars appear randomly on the playing field. The player controls a square and when there are exactly three stars in the square, the player earns points and two of the stars disappear. The game ends when there are 170 stars on the playing field.

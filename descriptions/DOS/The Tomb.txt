@@ -1,0 +1,1 @@
+The Tomb is a clone of the arcade classic Tutankham, in which the player must avoid snakes and the like and collect treasure.

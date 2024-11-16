@@ -1,0 +1,2 @@
+The Legend Lives! is a text adventure game, the last installment in the Unnkulian series, developed with TADS - Text Adventure Development System.
+The action takes place on the Planet Tode, 500 years after the events from the first part of the series. As a hacker named Gavin Kelly, the player must track down and defeat a powerful virus unleashed on galaxy news network AkNet. The game features extensive descriptions of the locations. The game is fully keyboard controlled by using dozen types of commands available.

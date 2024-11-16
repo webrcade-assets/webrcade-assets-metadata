@@ -1,0 +1,1 @@
+Sudoku86 is a computer (mouse-driven) version of the well-known Sudoku games that use to be printed in magazines. Although designed in modern days, this game focuses on retro-playability. It's a 16-bit application using 320x200 graphic mode and 8086-compatible instructions.

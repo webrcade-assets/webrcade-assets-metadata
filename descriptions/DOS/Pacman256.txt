@@ -1,0 +1,1 @@
+This very compact implementation of Pac-Man weighs in at only 256 bytes, but is still fully playable. To fit the target program size, Pacman256 dispenses with energizer pellets, scoring, multiple lives and functional side-tunnels, but the bare essentials are intact - roam the maze, chomp on the dots, and avoid the four patrolling monsters.

@@ -1,0 +1,2 @@
+Slan is a text-mode action/puzzle game with 10 levels. You can move in four directions, and drop walls (if you have them) to block enemies. Levels feature various enemies, turrets, invisible walls, fake walls, teleporters, one-way gates, and doors. Some doors require keys, while others require collecting gems.
+Slan was distributed as Shareware. The full version includes a level editor.

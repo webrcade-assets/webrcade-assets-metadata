@@ -1,0 +1,2 @@
+This is an adventure game in a similar vein to Where in the World is Carmen SanDiego, although the questions deal with additional topics besides geography (science, weather, history, etc). And instead of pursuing a variety of henchmen leading-up to Carmen SanDiego, each puzzle is just another step towards stopping Dr. Data.
+The game is based on a book of the same name.

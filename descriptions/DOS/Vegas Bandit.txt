@@ -1,0 +1,1 @@
+Vegas Bandit is a slot machine simulation. You start the game with 100 coins, and can bet 1 to 3 coins. After betting, click on the handle to pull it down, and the results will show up on the screen. Should you run out of coins, a new game can be started.

@@ -1,0 +1,2 @@
+This unofficial scenery disk for Microsoft Flight Simulator 5, created entirely from satellite-generated images, brings you the US capitol, Washington D.C. Soar over bridges and along the buildings of Washington D.C.
+It includes an VFR area chart of the Washington region (scale 1:250.000). Start your flight from several airports including the Baltimore-Washington international airport, the Washington National, Dulles, and Andrews Air Force Base.

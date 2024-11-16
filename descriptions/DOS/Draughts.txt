@@ -1,0 +1,3 @@
+Draughts is a single player, shareware, implementation of the classic board game.
+This implementation is for player vs the computer, it can be played with keyboard or mouse and in either colour of monochrome. The shareware release is limited in that it only allows the player to have a single game at a time after which it displays a shareware reminder screen and closes down. The full registered version has different skill levels to play against, and two game variants Diagonal Draughts and Losing Draughts.
+The shareware release was issued in a package along with Kirsta's other shareware games Backgammon and Cribbage

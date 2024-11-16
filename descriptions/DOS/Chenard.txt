@@ -1,0 +1,3 @@
+Chenard is a freeware, open source chess program. It can be played against the computer of varying difficulty, between two human players at the same computer, or watched as two computer opponents play against each other. The computer's playing strength can be specified before a match by either setting a time limit for making a decision for the next turn, or by specifying the strength level in plies.
+The program has several advanced, quality-of-life features, including the option to save and load the current in-game position by pressing F2 and F3, respectively, and the possibility to undo the current move by pressing Backspace.
+Chenard was released as freeware by its author along with the complete source code of the game.

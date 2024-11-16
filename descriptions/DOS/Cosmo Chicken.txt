@@ -1,0 +1,1 @@
+Cosmo Chicken is a small arcade-style game where you have to land a chicken on a landing pad surrounded by mines. Floating mines, rocket launching worms and a vicious space dog make this task more difficult.

@@ -1,0 +1,1 @@
+In this game, originally written in Altair BASIC, two to four players become stock market sharks, trying to amass a huge fortune by buying stock in interstellar shipping companies and increasing the wealth of the companies they own stock in.

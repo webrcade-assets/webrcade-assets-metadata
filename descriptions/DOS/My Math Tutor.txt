@@ -1,0 +1,5 @@
+My Math Tutor is an educational game feature three programs on one disk:1. Exponents Part I : This is the first of two programs designed to teach exponents. This part covers the multiplication of exponents. The program explains various concepts and then presents a various questions on the topics that were covered. Points are earned for providing correct answers.
+
+Exponents Part II : This is the second program which teaches about exponents. It is similar to the first part except it covers division of exponents. The programs presents various concepts and then asks mathematical questions related to the concepts that are covered.
+
+Mental Math : This program is designed to help practice addition and subtraction skills. The program presents a series of numbers one at a time; the goal is to add and subtract the numbers provided and provide the result at the end. Several skill levels are available; the easier skill levels use smaller numbers and provide more time to answer the question while difficult skill levels provide less time or have higher numbers.

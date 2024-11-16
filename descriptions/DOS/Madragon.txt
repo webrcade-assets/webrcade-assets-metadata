@@ -1,0 +1,3 @@
+The only thing you have to do in this puzzle game is re-assemble a computer-garbled shape in a limited number of turns.
+The shape consists of blue squares, the rest of the play field are grey squares. You interact with the field by pressing arrows which are on the end of every row and column. In the beginning each arrow moves the field one square in the arrow direction - later it may be more or an arrow is deactivated.
+Madragon features three shapes, multiple difficulty levels and a password system. In the shareware version you have unlimited access to the features.

@@ -1,0 +1,1 @@
+Money Taipei is a digital board game similar to Monopoly. The game only uses monochrome graphics. There are many ways to make money in the game such as stocks, gold, investment companies and so on. The game is won mainly by investment strategy and luck.

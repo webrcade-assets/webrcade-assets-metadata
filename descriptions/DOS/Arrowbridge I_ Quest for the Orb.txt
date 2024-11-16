@@ -1,0 +1,1 @@
+Arrowbridge I: Quest for the Orb is an overhead view ANSI BBS door game. It allows a player to explore a huge map with dungeons, towns, countryside and more. Players can also build castles and there is support for fights between BBSs.

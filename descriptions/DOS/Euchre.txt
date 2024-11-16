@@ -1,0 +1,1 @@
+Euchre is a simulation of the card game of the same name. It is single-player only (both your partner and opponents are computer-controlled), and features bitmap graphics and animation. You can set the number of points to play to.

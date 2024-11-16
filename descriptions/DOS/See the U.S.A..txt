@@ -1,0 +1,40 @@
+This educational title aims to test your knowledge of the geography of the USA as a game. The country is shown as a map with all the states. It is possible to practice first to study the state names and the names of their capitals before playing the game
+There are three game modes: Play States*
+The player sits in the car and the computer proposes the route by giving names of start and end states. Starting in the "start state", the player has to type in the name of the next state to visit. The trip should be finished in time (optionally). Incorrect names of states exhaust the available time. The trip itself also deducts time, taking into account time zones, night stops, and the time needed to travel. If the player reaches the end state in time, the thematic picture of this state is shown.
+
+Play Capitals
+
+Completely identical in gameplay to Play States, but with capitals as start and ending points.
+
+Play Quiz Game
+
+The player selects one of the quiz themes, and chooses the appropriate state that is the answer, after receiving the question. The themes are:
+    + Abbreviations (3 kinds);
+    + Artists;
+    + Birds (4 kinds);
+    + Bridges;
+    + Cities;
+    + Colleges;
+    + Facts;
+    + Flowers (4 kinds);
+    + Folktale;
+    + Geography (2 kinds);
+    + Government;
+    + History;
+    + Indian (3 kinds);
+    + Lakes;
+    + Landmark;
+    + Mottos (4 kinds);
+    + Nicknames (9 kinds);
+    + People (3 kinds);
+    + Places;
+    + Pop;
+    + Presidents (2 kinds);
+    + Products;
+    + Signers;
+    + Species;
+    + Sports;
+    + Trivia (10 kinds);
+    + Waterway;
+    + Women.
+All actions are controlled with the keyboard.

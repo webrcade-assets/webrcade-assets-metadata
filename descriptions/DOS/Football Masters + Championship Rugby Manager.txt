@@ -1,0 +1,1 @@
+Compilation that includes two sports managing games: Football Masters 99 (although the box shot indicates the previous version) and Championship Rugby Manager. Football Masters run on DOS mode, Championship Rugby Manager on Windows.

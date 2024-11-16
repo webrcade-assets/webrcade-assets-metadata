@@ -1,0 +1,2 @@
+Egawalls is a two-player breakout clone with 48 stages. The two-paddle simultaneous gameplay allows for one player to concentrate on the ball, while the other catches the bonus blocks.
+You can collect power-ups and letters to form the word BONUS for a bonus score. Power-ups include C for an extra blocking tile at the bottom, H to teleport the ball to the upper area of the screen, E for extra life, A to immediately advance to the next stage.

@@ -1,0 +1,1 @@
+This issue of the monthly software subscription contains one game: Frigate. This program, along with a variety of articles, utilities and non-game applications (including a simple budgeting program), can be accessed from a text-based menu system.

@@ -1,0 +1,2 @@
+AllegroHack is a graphical user interface for NetHack which is built with the Allegro software library to draw large (32x32 pixels) true-colour tiles in high-resolution SVGA modes. It also enhances the game by adding various visual effects, a graphical interface with a minimap, and different graphics for male and female player characters.
+AllegroHack does not alter gameplay mechanics, its releases tailored to match the most recent version of vanilla NetHack at the time.

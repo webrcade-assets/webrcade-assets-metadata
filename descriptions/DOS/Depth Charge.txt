@@ -1,0 +1,11 @@
+Depth Charge is a one button ascii game where you must destroy as many submarines as possible by dropping depth charges.
+From the in-game instructions:
+Object of the game is to drop depth charges from the destroyer at the top of the screen, and hit the submarines scattered below.
+The destroyer is above the waterline and moves toward the left. When it passes off the left side of the screen, it reappears on the right. The '2' at the top right tells what pass your on. The other number, where the '35' is,
+is your current score.
+There are 4 subs. While you move left, they move right, except one of them, which is always stationary.
+You drop a depth charge by pressing the 'down arrow' key. You can only drop 4 depth charges at a time. That is, if 4 of them are currently floating down, you have to wait for one of them to hit a sub or reach the bottom of the screen before you will be able to drop another - so it's important to plan your drops carefully.
+Scoring - the deeper the sub, the more points you get when you hit it. You get double points if you get a direct hit on the conning tower.
+When a sub is hit, it will reappear at some random location. Sometimes subs overlap - this gives you a chance to hit two with one charge.
+You get four passes across the screen with your destroyer. On the last pass, a '[' will appear at the upper left to alert you. If you manage to accumulate at least 200 points before the destroyer reaches the '[', the '[' will disappear and you will get a bonus pass. You may earn additional bonus passes, but it gets harder and harder. Whenever you fall behind the points needed for an additional pass, the '[' will reappear.
+The game is programmed in BASICA and uses ascii text mode instead of graphics, with smooth explosion animations using just ascii characters.

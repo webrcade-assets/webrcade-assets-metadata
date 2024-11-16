@@ -1,0 +1,2 @@
+Perfect Flight Deluxe: Great Britain is an add-on for Microsoft Flight Simulator. It is compatible with Microsoft Flight Simulator v5.1, Microsoft Flight Simulator 95 and Microsoft Flight Simulator 98.
+It is a scenery enhancement that covers England, Scotland and Wales. As well as scenery it provides many small airfields and some adventure flights. The install process puts the data onto the player's machine but he scenery must be manually added to the flight simulator's scenery library.

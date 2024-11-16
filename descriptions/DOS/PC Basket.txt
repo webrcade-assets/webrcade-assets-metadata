@@ -1,0 +1,3 @@
+"PC Basket" is the first game of the "PC Basket" series, a saga of budget prized games that blend a database of the Spanish basketball teams of the era and a basketball simulator.
+Since this is the first in the series, it is the most limited in scope. The team database only includes 8 teams, their internal data (statistics, player names) corresponding to the 1993 league, and the basketball simulator is almost bare bones.
+In fact, when using the simulator the player is limited to "shouting" a couple of instructions to the players, such as "pass the ball" or "try to score", something that the game proudly calls "coach mode".

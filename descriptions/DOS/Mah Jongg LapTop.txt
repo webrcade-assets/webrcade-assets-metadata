@@ -1,0 +1,8 @@
+From the same author who released Mah Jongg -V-G-A- comes Mah Jongg LapTop.
+This too is a single player, shareware, implementation of the Chinese tile matching game from the same author who released. This game is played with the mouse and game play is much the same as it's VGA cousin, however this game plays in monochrome and comes with a single tile set and no utilities but it does have the following features:
+
+A Help function which includes a hint feature
+A What's Left function which is fairly self-explanatory
+There's also a Save/Load function and a 'Back Up' feature which is better known these days as an undo function
+
+This is an odd game to play because whenever a pair of tiles is removed, the game redraws the entire puzzle from scratch.

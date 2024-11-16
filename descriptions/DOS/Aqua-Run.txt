@@ -1,0 +1,2 @@
+Aqua-Run is a 1-player arcade game for MS-DOS.
+Armed with a speargun, the player must seek out treasures on the ocean floor. The player has limited spears, and can fire in multiple directions. The player has limited air and life, and there are 5 levels of difficulty. The player must collect treasure chests and bring them back, one at a time, to their boat waiting on the surface.

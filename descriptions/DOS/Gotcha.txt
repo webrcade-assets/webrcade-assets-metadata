@@ -1,0 +1,4 @@
+Gotcha is a single player, shareware, keyboard controlled, puzzle game based on the classic game QIX.
+The game area consists of a rectangle with a border. The object of the game is to claim over fifty percent of the rectangle by making smaller rectangles. However, within the main rectangle lurk 'the meanies' and if they make contact with the player or the line that they are drawing a life is lost.
+The player is safe from 'the meanies' while they are in the border but there's another pest, Mr Hurry, who chases the player if they take too long to clear a level.
+The shareware version of the game has just five levels and only one set of meanies. The registered version has one or two meanies, minefields and bonus rounds.

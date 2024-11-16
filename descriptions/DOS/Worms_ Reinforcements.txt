@@ -1,0 +1,1 @@
+Worms: Reinforcements is an add-on to Worms. It includes some modifications to the gameplay, such as the ability to choose the worm the player wants to use each turn, as well as additional levels and multiplayer support. It also allows the creation and the use of custom levels and speech packs.

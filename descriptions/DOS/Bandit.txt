@@ -1,0 +1,1 @@
+Bandit is a simple shooter game. Armed with only a spaceship and cannon, destroy all asteroids on each level, then move on to the next. Complicating matters is the occasional enemy ship that will fire randomly. Extra lives are earned every 3000 points. The map wraps top to bottom and left to right.

@@ -1,0 +1,1 @@
+Squares is a puzzle game with a board of numbered tiles. Move the tiles so all numbers get in the right order.

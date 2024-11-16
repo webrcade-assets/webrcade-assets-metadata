@@ -1,0 +1,2 @@
+Last Of The Free is a single player, keyboard controlled, side scrolling, shareware Defender clone. As with the original game the player flies left/right over a rocky landscape shooting alien spaceships who are trying to capture little people who walk around the bottom of the screen. When it was written it was set in 2003 which was once the far future.
+The game uses the A & Z keys to move up & down, the left shift key to move, the SPACE key to switch direction 180 degrees and the ENTER key to fire. The keys cannot be remapped. The game has sound and a high score table

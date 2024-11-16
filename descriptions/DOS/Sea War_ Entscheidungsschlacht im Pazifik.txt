@@ -1,0 +1,2 @@
+Sea War: Entscheidungsschlacht im Pazifik is based on the classic turn-based board game Battleship.
+Play against the AI or another player. Place your fleet on a 12x12 tiles board and try to hit the enemy's ships by selecting a field. You play for as long as you sink the ship or miss. If you sink the whole fleet, you win. Different ships from two tiles up to 5 tiles are available.

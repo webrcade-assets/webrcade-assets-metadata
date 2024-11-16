@@ -1,0 +1,3 @@
+Bomb Blast (styled Bomb Blast! on the title screen) is an arcade game similar to Bomberman and Super Bomberman for one to five players. Just like in the Bomberman games, the objective in the single player mode is to defeat monsters on each level by strategically placing bombs and using other weapons and pickups that are available. In the multiplayer battle mode the objective is to defeat the other player(s) using the same means.
+Blowing up destructible walls reveals bonuses which may be useful or harmful to the player. The official game page lists 19 different bonus items available in the game.
+Game development was never completed and not all planned features are implemented in the released public beta versions of Bomb Blast.

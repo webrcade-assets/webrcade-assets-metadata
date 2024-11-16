@@ -1,0 +1,3 @@
+Super Angelo is a shareware side-scrolling platform game closely resembling Super Mario Bros. in design, gameplay and story. It is based on the code of an earlier game by the same author, which is essentially an unofficial DOS version of Super Mario Bros..
+Super Angelo takes place in a fantasy land that is being terrorised by three dragons who took over all castles. As the eponymous Angelo, the player must defeat them all and ultimately rescue the princess imprisoned by the dragons.
+Progressing through the levels involves collecting coins, powerups and either avoiding or taking out enemies. Certain powerups transform Angelo into the stronger Super Angelo, while others further add the ability to shoot projectiles and move faster.

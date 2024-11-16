@@ -1,0 +1,1 @@
+Vier op een rij (Connect Four in English) is a two-player board game. In each turn a player drops a disc into a seven-column, five-row vertically-suspended grid. The first player who gets four of their own discs in a line wins. The line can be vertically, horizontally or diagonally.

@@ -1,0 +1,3 @@
+Orientation To The Van Pelt Library Is a single player, text adventure that aims to teach students how to use the Van Pelt library services at the University of Pennsylvania.
+The game was played by students who were given printed maps and other materials to aid them, the objective being to locate a book about atomic energy, Lawrence Scheinman's"The International Atomic Energy Agency and World Nuclear Order".
+The game has seventy four locations and a perfect score would net the player one hundred points.

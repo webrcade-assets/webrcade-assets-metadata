@@ -1,0 +1,2 @@
+My Own Stories is an adaptation of Storybook Weaver - the educational game/application that allows children of 8 to 14 years of age to write their own stories. Now those stories are based not on fairy tales, but on everyday contemporary situations.
+The objects present as possible illustrations for stories depict real life experiences: city, town, school, gym, sports, beach, backyard etc. Change sizes and colors of the objects put on pages is also possible, as well as adding music and sound effects and printing all the results.

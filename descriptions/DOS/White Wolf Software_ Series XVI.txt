@@ -1,0 +1,14 @@
+White Wolf Software: Series XVI is one of a series of CDs published by Wiz Technology on their White Wolf label.
+This CD contains the following shareware products:* A: Alien Carnage
+
+B: Cosmo's Cosmic Adventure
+C: Night Raid
+D: Zone 66 episode one only
+E: Moraff's Super Entrap
+F: Dork's Dreams
+G: Tommy's Backgammon
+H: Rapid Response
+I: Organize Your Photographs: a self explanatory, non-gaming title from H. C. P. Services
+J: Star Goose
+
+The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.

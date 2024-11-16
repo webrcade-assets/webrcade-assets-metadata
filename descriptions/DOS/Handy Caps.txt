@@ -1,0 +1,1 @@
+This trivia game displays a map of the United States and quizzes the player on states and/or capitals.  User-specified settings determine what kinds of questions are asked (states only, capitals only or states and capitals) and how many multiple-choice answers are provided (two, four or six).  The game adapts to the user by asking incorrectly-answered questions more frequently.

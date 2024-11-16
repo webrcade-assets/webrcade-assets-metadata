@@ -1,0 +1,42 @@
+All is a software package whose major claim to fame is having over $500 worth of games in one affordable CD. The package contains over thirty different DOS games, all of which are fully licensed. The games included are:
+
+Battle Ground
+Big Bertha (part of The Las Vegas EGA Casino (Version 2.0)
+Corncob 3-D
+Corncob 3-D (Other Worlds Campaign)
+Dome Quest
+Heavy Water Jogger
+Hoosier City: Assault of the Orcs
+Hoosier City: Liberating Freedom City
+Hoosier City: Return to Oil City
+Keno
+Klondike
+The Las Vegas EGA Casino (Version 2.0)
+Micro Bucks II
+MVP Picture Puzzle Series Volume 1: Oceans
+MVP Picture Puzzle Series Volume 2: The Taj Majal
+MVP Picture Puzzle Series Volume 3: Wildlife
+MVP Picture Puzzle Series Volume 4: Italy
+MVP Picture Puzzle Series Volume 5: Temples of the world
+MVP Picture Puzzle Series Volume 6: Glaciers
+MVP Picture Puzzle Series Volume 7: The Himalayas
+Poker Galore
+Rapid Response
+Rapid Response II
+Rapid Response III
+Robomaze II: The Lobby
+Robomaze II: The Penthouse
+Robomaze II: The Tower
+Robomaze III: The Final Journey
+Sand Storm - The Championship Version
+The Smart Set I
+Towers
+True Blood
+Wordbird
+World Empire
+World Empire II For Windows
+
+Also included are a few bonus applications:
+
+MVP Paint (used to create the graphics for two games in this package)
+Game Builder Lite (a shareware game building application)

@@ -1,0 +1,2 @@
+Grammar Gremlins is a grammar game for one or two players.
+The player stares at a haunted gremlin-infested old house. A sentence with a single word is missing, depending upon the learning objective, is displayed on the bottom of the screen. The player must select between windows, with each window revealing a possible answer. The player must select if the answer is correct or incorrect, with points awarded for successfully choosing the correct answer. Witches, bats, and other creatures of horror intermittently pop out to scare the player.

@@ -1,0 +1,2 @@
+The Right Turn is a logic game.
+A 3x3 grid is filled with up to 8 different symbols in random or user-selected order. The program performs a series of rotations or flips to the diagram, and the player's goal is to figure out what modification was performed. The player must then predict what a separate pattern will look like if the same alterations are made, by filling in the squares.

@@ -1,0 +1,5 @@
+This package is a combination of
+
+SimCity
+SimCity: Terrain Editor
+SimCity Architecture 1: Future Cities

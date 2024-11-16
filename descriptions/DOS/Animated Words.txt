@@ -1,0 +1,1 @@
+Animated Words is an educational game that teaches children about words. In this game, players are presented with a word and must click on the corresponding picture (from five choices). After providing enough correct answers, the player is rewarded with an animation.

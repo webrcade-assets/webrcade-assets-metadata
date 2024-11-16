@@ -1,0 +1,1 @@
+Cool Spot is a colorful 2D platform game featuring the 7-Up mascot as the main protagonist. The game objective is fairly simple and straightforward. The player character has to collect enough number of cool points throughout each level in order to find and rescue his captured uncool Spot buddies and complete the game.

@@ -1,0 +1,7 @@
+This compilation contains:
+
+SimCity Classic (Amiga version only)
+SimCity Classic (Windows 3.x/Windows version only)
+A-Train (DOS version only)
+SimEarth: The Living Planet
+SimFarm

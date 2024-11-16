@@ -1,0 +1,4 @@
+This compilation includes:
+
+Tornado (base game)
+Tornado: Operation Desert Storm (expansion)

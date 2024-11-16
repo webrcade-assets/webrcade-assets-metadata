@@ -1,0 +1,2 @@
+Rock Tris is a single-player Tetris clone.
+This game is keyboard-controlled and the only thing that differentiates it from most other clones is that the pieces 'fall' sideways right to left. Other than that, blocks fall from one edge of the screen and the player stacks them up at the opposite end. When the player completes a line of block parts that line disappears; when the blocks stack up from the base to the source the game ends.

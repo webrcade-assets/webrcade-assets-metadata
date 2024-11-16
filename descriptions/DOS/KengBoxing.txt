@@ -1,0 +1,2 @@
+KengBoxing is a simple, single player, keyboard controlled fighting game
+The player controls the kangaroo on the lower left of the screen while the computer controls the kangaroo on the lower right. The two advance towards each other, with the AI kangaroo moving much faster. When they meet the first kangaroo to land a punch takes a life from the other, they separate for a short distance, the process is repeated and repeated until only one kangaroo remains.

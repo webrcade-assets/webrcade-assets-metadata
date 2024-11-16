@@ -1,0 +1,1 @@
+Play the games of Cribbage and Gin against a variety of computer opponents. Features include natural language advice, computer vs. computer, Cribbage and Gin variants, duplicate mode, and scenario set-up mode.

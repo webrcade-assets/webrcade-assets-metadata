@@ -1,0 +1,10 @@
+Tommy's Trivia is a one or two player trivia game. It is entirely keyboard controlled and has the following modes of play:* Fifty Questions: A single player game where the player is asked fifty questions. They score two points for a correct answer and lose two points for an incorrect answer.
+
+Beat The Clock: Another solo game where the player scores two points for every correct answer delivered in the five minute time period
+Jeopardy Style: The player is asked ten sets of five questions each with an associated cash value. If the player answers correctly then the cash is added to their score, if incorrect then it is subtracted
+Double Dare: A two player game where a player has the option of answering or daring their opponent. The opponent has the option of answering or double-daring the first player. A player who has been double dared must answer. An incorrect answer awards the cash value to the opponent.
+Volleyball: The first player is asked a question. If they answer correctly they score a point and 'serve' passes to the opposing player. If the player answers incorrectly then they concede a point to their opponent and are asked another question.
+Tic-Tac-Toe (Hollywood Squares Style): This is a match of five games where the first player to win three games wins the match. The format is based on the TV show 'Hollywood Squares', Celebrity Squares in the UK, where if a player answers their question correctly they win the square, otherwise the square is awarded to their opponent.
+
+The game has two thousand five hundred questions and a further eleven thousand questions were available for purchase in Tommy's Trivia Pak.
+The game has command line switches to play in monochrome or colour mode and to start the game without sound.

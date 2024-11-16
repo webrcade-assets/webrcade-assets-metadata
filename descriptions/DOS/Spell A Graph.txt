@@ -1,0 +1,2 @@
+Spell A Graph is a 1 - 2 player educational game for multiple systems.
+Played on a variable sized graph, the player reveals a square by successfully filling in the missing word of a sentence. Each square revealed shows an underlying rebus. The first player to guess the rebus wins the game. There are 5 levels of difficulty.

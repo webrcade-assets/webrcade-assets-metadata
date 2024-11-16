@@ -1,0 +1,9 @@
+StratSys is a two-player strategy game based around army battles. The game is an engine which allows a large variety of scenarios. While the game supports the creation of user-made scenarios through an editor, it comes with the following pre-built scenarios: (In-Game Name / Manual Name)
+
+The Battle of Steal Bay / Naval Conquest!
+The Clash of Aluminum / CyberWar!
+Trennon's Last Stand / Civil War!
+The Crusade / The Middle Ages!
+
+The different scenarios have set starting conditions, and have different visuals, but play similarly. The goal of each game is to destroy the enemy leaders. This will instantly win the game. Commanders also exist, and will provide extra movement points for the side that has them. All other units provide no special benefit. Each turn gives a player a certain number of movement points that can be spent on movement or attacking. (Movement points are a single shared resource used for all a player's units.) Units have different stats, for attack, defense, speed (cost to move one space), and range. Attacks have a chance to instantly destroy the targeted unit, depending on attack and defense, or they will do nothing.
+StratSys was distributed as Shareware. The unregistered version is missing save/load functionality, and the ability to view the chart.

@@ -1,0 +1,3 @@
+Volcano Island Adventure is the third of Softside Magazine's Adventure of the Month published for multiple systems.
+You have been stranded on a small volcanic island in the south Pacific. You must figure out how to escape the island before it erupts. During their adventure, the player must contend with hostile natives, electric eels, killer sharks, and octopi. Ultimately, the player must create ink, paper, and a pen to write a note in a bottle. With this, the player can be rescued by a passing vessel.
+All commands are via 2-word VERB NOUN entries, and game play contains several object puzzles. There is no save and restore feature.

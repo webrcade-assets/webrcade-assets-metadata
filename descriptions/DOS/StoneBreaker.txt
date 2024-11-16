@@ -1,0 +1,1 @@
+StoneBreaker is a shareware Breakout clone with 100 levels, 8 difficulty settings and a variety of power-ups and power-downs. Higher difficulty levels throw enemies at the player and there are weapons to be used to shoot back. Only the first four levels are available in the shareware version. There's no plot or background story in the game.

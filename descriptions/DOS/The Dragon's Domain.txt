@@ -1,0 +1,3 @@
+There once was a powerful wizard. Unfortunately, the sacred chalice, the source of his power, was stolen by three dragons, and hidden in a maze. Your goal is to find the chalice and return it to its rightful place. To do so, you'll need to travel through four mazes and six castles.
+The Dragon's Domain is an action game heavily influenced by Adventure. As in that game, you explore a maze of screens to find keys, and fight dragons and other monsters.
+The game was distributed as freeware, but with a request for donations.

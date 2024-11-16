@@ -1,0 +1,13 @@
+White Wolf Software: Series I is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:* A: DOOM: Knee Deep in the Dead
+
+B: Ken's Labyrinth
+C: Overkill
+D: Kiloblaster episode one
+E: Flying Tigers
+F: Cheat: a selection of game codes and cheats
+G: Roboto
+H: World War II Trivia
+I: Heroes & Hunters: an early form of e-book about the American wild west
+J: Capture the Flag v3.1
+
+The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory

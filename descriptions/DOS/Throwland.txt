@@ -1,0 +1,2 @@
+Throwland is similar to Plotting. The objective of the player, in each level, is to make disappear all the colour blocks from the screen, throwing blocks of the same color.
+The game is structured in phases. Each phase contains five levels. There are a limited amount of time in each level to accomplish the mission.

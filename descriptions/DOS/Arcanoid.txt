@@ -1,0 +1,1 @@
+Arcanoid is a 3D variant of Breakout. In this game, the player controls a paddle to reflect a ball toward blocks. Each successful hit vaporizes a block. If the player fails to position the paddle correctly for the ball’s return, they lose a life. The game ends when all lives are depleted, and the goal of each level is to clear all the blocks.

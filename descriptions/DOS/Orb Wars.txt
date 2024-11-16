@@ -1,0 +1,4 @@
+The Voltrath have been mining planets in order to make the ultimate weapon, and you have been given the Schzion fighter armed with planet busters to stop them.
+Orb Wars is a game about destroying planets in a solar system using limited ammo. The planets, your ship, and your shots all orbit a star at the center of the map, and you need to carefully consider gravity in order to hit the planets. There are three galaxies; you move to the next level after running out of shots. The second galaxy adds comets that have odd orbits. The third galaxy has multiple planets orbiting each star.
+There is also a two-player mode. Here, the first player to shoot the other player 10 times wins. There is unlimited ammo in this mode.
+Orb Wars was distributed as shareware. The registered version has Sound Blaster support, the shareware version just has PC speaker.

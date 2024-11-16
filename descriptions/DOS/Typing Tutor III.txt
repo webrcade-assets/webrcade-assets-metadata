@@ -1,0 +1,1 @@
+Typing Tutor III is a typing training program that includes a game called "Letter Invaders". Letters zoom down from the sky and you have to type them in order to destroy them and score points.

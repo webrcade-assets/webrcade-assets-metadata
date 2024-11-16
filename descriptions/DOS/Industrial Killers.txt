@@ -1,0 +1,5 @@
+Industrial Killers is a short first-person shooter game that was created to showcase the capabilities of Pie in the Sky Software 's 3D Game Creation System. It replaced the earlier Meltdown one-level demo.
+The story takes place in an unnamed South American country where a tropical area has been secretly converted into an industrial complex, apparently for the purposes of illegal experimentation. As sending regular troops to investigate proved useless, the government hired the best mercenary it could find to do the job. Assuming the role of this operative, the player must infiltrate the complex and deal with the mastermind behind the plot.
+Unlike Meltdown, Industrial Killers features both indoor and outdoor areas with seamless transition between them, and places a much greater emphasis on combat. There are several types of enemies, and a number of weapons at the player's disposal to fight them.
+The game only has a single-player mode.
+Additionally, Industrial Killers includes a slideshow preview of the 3D Game Creation System, which is largely similar to the one found in Meltdown and 3D Xmas Adventure: Santa's Rescue.

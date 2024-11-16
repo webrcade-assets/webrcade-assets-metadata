@@ -1,0 +1,2 @@
+Crossdown is a crossword puzzle game. It is controlled by mouse, and has both pre-created puzzles and the ability to make new puzzles (11x11 to 23x23). Puzzles can be solved in the program, or printed out on paper. If solving a puzzle in the program, progress will automatically be saved. By pressing "+" while solving a clue, the correct letter will be entered automatically.
+This game was distributed as shareware. Registration included more puzzles and a printed manual.

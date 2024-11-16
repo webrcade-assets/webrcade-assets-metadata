@@ -1,0 +1,1 @@
+The chess program, in which moves are entered by text, also has a huge selection of additional commands.

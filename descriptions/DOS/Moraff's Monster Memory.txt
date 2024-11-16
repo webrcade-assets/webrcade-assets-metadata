@@ -1,0 +1,4 @@
+Moraff's Monster Memory is an updated version of Moraff's Memory. It is a one or two player game based on the card game Concentration.
+In the single player game the object is to match all pairs of cards in the fewest possible turns.
+In the two player game players take turns selecting pairs of cards, if they select a matching pair they score points and get another turn. The player with the most points wins.
+The game is played on an 8x6 grid where every cell is identified by a upper or lower case letter. All the pictures are child friendly monsters. It has no high score table or sound and is played entirely with the mouse.

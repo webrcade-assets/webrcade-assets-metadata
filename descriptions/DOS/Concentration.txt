@@ -1,0 +1,2 @@
+Concentration is a 1 - 2 player tile-matching puzzle for multiple systems based upon the classic TV show.
+Each player takes turns trying to find matches among a series of tiles. There are 3 levels of difficulty that define the board size. The game continues until all shapes are matched, with the player getting the most matches the winner.

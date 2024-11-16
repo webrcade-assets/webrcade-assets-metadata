@@ -1,0 +1,13 @@
+War Command Explosion is a collection of shareware levels for Warcraft,
+Warcraft II, and Command & Conquer.
+The contents of the CD include: Command & Conquer:
+    + Map, mission and savegame editors together with the tools needed to integrate new missions into the game.
+    + Save games including saves of the last GDI & NOD missions and dinosaur missions.
+    + Sixty-five fan based multiplayer missions, twenty-nine GDI single player missions and twenty single player NOD missions
+    + A patch to take Command & Conquer from V1.07 to V.19p
+    + The demo version of Command & Conquer v1.0. Warcraft:
+    + A demo version of the game
+    + Thirty-one fan made missions and several save games Warcraft:
+    + A demo version of the game
+    + Forty or so fan made missions and list of cheat codes Demo versions of fifty shareware 'war' games including some like Raptor, Battleground: Ardennes, and Cannon Fodder which became big sellers in their day as well as many other games which didn't.
+Though there is some user documentation on the disc there's no overall menu system or user interface and the player must explore the files and folders to find the files and how to install them.

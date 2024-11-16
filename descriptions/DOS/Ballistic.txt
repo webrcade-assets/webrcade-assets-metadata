@@ -1,0 +1,2 @@
+This is similar to Bust-A-Move or similar games, in that you shoot colored balls into the playfield; three touching balls of the same color will disappear, along with any balls that are now no longer connected to the top of the playfield. The difference is that this is level based, and always has the same starting playfield and ball color order. This makes the game much more puzzle-focused.
+The game was released as Shareware. Registration would give you 20 more levels.

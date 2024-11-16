@@ -1,0 +1,1 @@
+Blackjack is, as one might expect, a blackjack game. It features the standard blackjack ruleset, including insurance, and double and split actions. It also has a graph and autoplay options. It was distributed as freeware.

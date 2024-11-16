@@ -1,0 +1,6 @@
+Fun-Learning: United States Edition is a single player educational quiz that aims to teach the states and the state capitals of the United States of America. The game starts by showing an outline map of the USA and its state borders before starting the quiz.
+There are two modes of play and two types of quiz:
+
+Select Mode; The states of America are listed in alphabetical order, seventeen to a screen. The player can select any of the states shown or can scroll forward or back through the state lists. The F7 key toggles the question between state and capital options. If the State option is selected then once a state has been chosen the game shows the outline map of state borders and challenges the player to click on the correct state. If the Capital option is active the player is asked to enter the city's name.
+
+Random Mode: If State mode is active then the player is shown the outline state map of the USA and is asked to identify a series of states one after the other. If Capital mode is active the player is shown a series of state names and must enter the capital of each.

@@ -1,0 +1,3 @@
+Day Of Pigs is a shareware vertical scrolling shoot-'em-up game in a space setting. Steering a fighter craft, the player needs to fight continuous waves of enemy ships, dodge their fire, and pick up powerups. A typical level ends with a boss battle.
+The plot of the game concerns an artificially created race of intelligent pigs that is sent to destroy a planet called Quenzar which houses rich consumers of pork. The player character is tasked with stopping the pig fleet.
+Day Of Pigs features single player mode only. The ship is controlled entirely with the mouse. There are no sound effects or music in the original release, but these were added along with level passwords in version 2.0.

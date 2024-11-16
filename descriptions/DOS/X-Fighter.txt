@@ -1,0 +1,1 @@
+X-Fighter is a simple top down, maze based arcade shoot-em up. Pilot your spacecraft through multiple levels of increasing difficulty for the glory of holding the highest score.

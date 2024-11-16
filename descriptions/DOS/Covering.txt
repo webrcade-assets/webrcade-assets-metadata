@@ -1,0 +1,3 @@
+The objective of Covering is to cover the screen.
+The game starts with an empty playing field with some randomly placed walls. The player controls a cursor. This cursor leaves a yellow trail. It can only reach places that it hasn't already visited. More yellow means more points.
+The game ends when the player can't make any more moves.

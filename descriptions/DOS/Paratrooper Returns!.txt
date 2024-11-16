@@ -1,0 +1,2 @@
+Paratrooper Returns! is a simple arcade game. Helicopters will fly across the screen, dropping off paratroopers. The player controls a cannon at the bottom of the screen that can destroy the helicopters or paratroopers. If two helicopters collide, both will be destroyed. If a paratrooper collides with a helicopter, the paratrooper will be destroyed. Every shot costs points, which can be regained by destroying helicopters or paratroopers.
+Paratrooper Returns! was distributed as freeware.

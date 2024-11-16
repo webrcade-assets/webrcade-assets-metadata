@@ -1,0 +1,3 @@
+Lekis 2 ( Kindergarten in Swedish) is an educational game for pre-school children. It contains two mini-games:* Assemble a picture, where the player should place certain picture fragments into proper empty spaces of the picture;
+
+Make a face, where the player may create a face with a proposed set of ears, eyes, eyebrows, noses, and mouths.

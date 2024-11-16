@@ -1,0 +1,1 @@
+Planet Storm is a 3D vector game played from a first-person perspective. The player controls a ship and explores an environment to complete missions, taking out cruisers, fighters, cargo carriers, missile launchers, troop barracks and radar stations.

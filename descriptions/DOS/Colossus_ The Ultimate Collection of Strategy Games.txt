@@ -1,0 +1,6 @@
+This compilation contains the following games:
+
+Colossus Bridge 4
+Colossus Chess X
+Colossus X Backgammon
+Colossus X Draughts

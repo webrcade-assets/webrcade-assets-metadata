@@ -1,0 +1,12 @@
+SITris is a single-player, shareware, falling block game. This game is essentially a Tetris clone with virtually identical gameplay and some additional features. In this game the player can:
+
+redefine the action keys;
+choose whether the next piece is displayed;
+choose between regular, small, large, wide or skinny blocks;
+start at any of the ten levels of difficulty;
+select from five different heights at which the blocks are released;
+use three different block sets or a use a combination of all of them;
+enable the SITris amoeba, an invisible creature that eats random blocks creating holes;
+enable a block creation function that causes blocks to spontaneously appear.
+
+The game has a single high score table that serves all modes of play and is entirely keyboard-controlled.

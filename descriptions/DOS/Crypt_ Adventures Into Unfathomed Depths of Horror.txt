@@ -1,0 +1,2 @@
+Crypt: Adventures Into Unfathomed Depths of Horror is a text adventure. You have heard of an interesting church in the area, and decide to explore it; below the church is a complex labyrinth filled with treasure, traps, and creatures. Save and load commands are included.
+Crypt: Adventures Into Unfathomed Depths of Horror was distributed as shareware, but without locked features or content. Registration came with hints and historical background information.

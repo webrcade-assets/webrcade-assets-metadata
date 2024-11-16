@@ -1,0 +1,5 @@
+Mind Challenge: Games I is a compilation that contains the following programs: Concentration* is an implementation of the classic Concentration card game.
+
+Magie is the classic game Bingo, with the computer running the game.
+Hide-Away is a program that creates word search puzzles given a list of words and a grid size.
+Mindscan is a "magic" trick where the player picks a card and the computer uses "magic" to figure out what card was selected.

@@ -1,0 +1,8 @@
+The Sea Voyagers is an educational history game.
+It contains a series of three games related to early European ocean explorers and their expeditions:
+
+Explorer Match: a 1-2 player poker game using European explorers. The player is given 5 explorers, and has a single chance to discard 0 - 5 cards. They then receive a score including pair, two pairs, three of a kind, full house, etc. based upon the similarity between explorers. Typical criteria include nationality and location visited.
+
+Explorer Mix: three explorers and details of their voyage are mixed. The player must correctly match the explorer to their voyage.
+
+Who Goes There: the player receives progressively more clues about an explorer, including: their date of birth/death, the name of their ship, nationality, and their route. The player receives points for quickly naming the explorer.

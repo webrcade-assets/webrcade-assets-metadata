@@ -1,0 +1,2 @@
+"Cyber Cop" is an arcade action game set in a generic sci-fi world where we play as a robot-like galactic law enforcer. The mission is to seek out and destroy some rebels and their robots on an alien planet.
+The planet is divided into three separate spheres, each with its own lanscapes and enemies: the Air World lies in clouds, The Geosphere is on land, and The Aquatic Realm is underwater. Besides moving and shooting, the protagonist has the ability to transform itself into a special machine unique to each of the realms: Cyber Copter, Cyber Tank and Cyber Sub.

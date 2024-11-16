@@ -1,0 +1,2 @@
+Archon Ultra is a complete remake of Archon.
+The game features a completely rewritten game engine, new graphics and sound as well as digital music (a la MOD files), along with a new style of game board and an additional "special weapon" for each figure. It also adds multiplayer game (modem as well as hot seat).

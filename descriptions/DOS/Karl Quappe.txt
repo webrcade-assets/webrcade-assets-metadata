@@ -1,0 +1,2 @@
+Karl Quappe is a single player, shareware, keyboard controlled Frogger clone from Germany.
+Using the keyboard the player must take Karl across a five lane motorway, then across a river to safety. Hazards include crocodiles, otters, cars, and of course the river itself because Karl is a very young frog and will drown if he falls into the water.

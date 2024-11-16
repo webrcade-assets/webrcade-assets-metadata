@@ -1,0 +1,2 @@
+Ultimate Backgammon is a single-player, shareware, backgammon game in which the player plays against the computer or another player via a modem link. The game has much in common with PC-Gammon in that it too has a computer opponent has three playing styles - Conservative, Aggressive and Out For Blood - ,options to play a tournament, print the game, edit a game, and play via a modem, and a score table. It can be played via the keyboard or the mouse.
+This version of the game has improved graphics and an option to play in-game music but still retains the AI's sarcastic comments

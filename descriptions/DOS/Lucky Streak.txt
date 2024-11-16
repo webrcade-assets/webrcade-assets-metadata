@@ -1,0 +1,7 @@
+Lucky Streak is a single-player shareware set of gambling games comprising:
+
+Horseracing: The player is given a list of ten horses and their odds of winning. They select a horse, place a bet, and the game tells them whether they have won or lost
+Blackjack: A basic implementation of the game that does not allow the player to 'split' when they are dealt a pair
+Fruit Machine: A simple single line, three reel game where the stake is fixed at £1 per spin. The game randomly generates three symbols in a little window and the game pays out if the generated symbols contain two or three alike
+
+The game is entirely keyboard-controlled, has sound effects and uses character graphics.

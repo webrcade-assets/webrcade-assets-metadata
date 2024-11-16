@@ -1,0 +1,6 @@
+Lekis 1 (Lekis is Kindergarten in Swedish) is an educational game for pre-school children. It contains four mini-games:
+
+Assemble a picture, where the player should place certain picture fragments into proper empty spaces of the picture;
+Pick up a pair, where the player should select proper items to make three pairs;
+Count, where the player should properly answer the questions about addition or subtraction of the items;
+Draw, where the player may draw any picture with a simple geometrical figures or with a colored pen.

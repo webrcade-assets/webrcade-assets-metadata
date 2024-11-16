@@ -1,0 +1,2 @@
+Shake-em! is a dice game similar to Yahtzee for MS-DOS.
+The player rolls four dice up to four times, with the goal of matching one of 30 dice combinations shown on the screen.  Hopefully the dice roll will contains a high score, as once all 30 combinations are used it's game over.  Each combination can be selected only once.

@@ -1,0 +1,1 @@
+eTeacher is an educational program to learn English. In addition to a large amount of didactic material, the player has tests to check their knowledge. The program also includes an editor.

@@ -1,0 +1,1 @@
+Two puzzle solving games in one. In one you must play a version of Tetris which uses prizms, the other you must move your alien friend to collect all the coins.

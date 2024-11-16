@@ -1,0 +1,3 @@
+Mustang is an arcade shooter with aircrafts.
+The aircraft you control is a green plane seen from above, movable over the screen using the numeric pad keys, though always oriented nose-upward on screen. Enemy aircraft come single or in formations of different sizes and from all directions, sometimes turning, sometimes just flying straight past, shooting bullets and rockets at your plane.
+There are also power-up objects that fall from the top of the screen, like health-packs to replenish your life-meter, missiles and 3-way guns that you can pick up by passing over them, and these will change your fire-mode for a limited time. When you eventually get shot down, you may end up on a high-score list.

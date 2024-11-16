@@ -1,0 +1,2 @@
+Gnee or Not Gnee is a visual matching and differentiation game for multiple systems.
+The player is presented with a humorously named category of objects, with 4 pictures that meet the criteria and 4 that don't. The player must decide the criteria for inclusion and exclusion. The player is then presented with 4 more objects, and the must choose which objects meet inclusion and exclusion.

@@ -1,0 +1,1 @@
+XXIV! is similar to Columns, in that groups of three blocks will fall to the bottom of a grid, and "matching" blocks horizontally or vertically will clear them. The difference is that here, the blocks are numbers, and they need to multiply to 24 instead of having matching colors. (e.g. 12 x 2, or 6 x 4, or 3 x 2 x 2 x 2.) It has three skill levels.

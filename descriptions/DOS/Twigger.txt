@@ -1,0 +1,2 @@
+In Twigger you play a mole-like creature. You move around in a cart, with which you can lay eggs and collect carrots. Eggs eventually hatch and produce little helpers that will grow in power the longer they survive. The goal of the game is to destroy the cart of your opponent, by creating an army of helpers and defending them from opposing forces.
+The game is displayed in a 2D side view and borrows elements from Digger and Bomberman.

@@ -1,0 +1,1 @@
+Antagony is a 2D versus fighting game with digitized character sprites. There are seven characters, each with their own standard and special attacks, the latter activated by pressing button combinations. There is a tournament mode, single fights against the AI or a multiplayer mode for two players.

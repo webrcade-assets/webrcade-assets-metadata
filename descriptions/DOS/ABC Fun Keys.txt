@@ -1,0 +1,6 @@
+ABC Fun Keys is an educational game for young children aged between two and six.
+There are four games in the product;* The Entry Level is a simple game which shows a picture and plays a song whenever a key is pressed
+
+The Beginner's game is a variation on the first game, now the game plays a song and shows a picture and the child must press the corresponding key
+The Advanced is the same as Beginner's game with the twist that the picture is revealed gradually
+The final game is a typing tutor where letters float in mid air 'between heaven and mud'. The child must type the word correctly before the letters fall into the mud, if they are successful the letters are, and this comes straight from the game description, "hearted to heaven".

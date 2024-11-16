@@ -1,0 +1,8 @@
+Digging for Buried Treasure is a single player, mouse controlled game in which the player has to discover treasure, uncover it and then identify it.
+The game area is divided into four windows;* Top Window: This is yellow and runs the whole length of the screen and it contains a short piece of text describing the tool or function that the mouse is hovering over
+
+Bottom Window: This is blue and like the top window it runs right across the screen presenting random clues about the piece of treasure being sought
+Right Window: This contains the treasure hunting tools which range from a brush to TNT and six functions General Help; Treasure Map; Revel & Guess; Play Again; Toggle Sound On/Off and Library
+Left/Main Window: This shows a picture, sometimes a photograph sometimes a painting. These images are not searched for clues, rather the player uses the tools to remove parts of the image to reveal what is beneath rather like a scratch card.
+
+The player uses the tools to attack the main image hopefully finding the treasure beneath, the brush being the most delicate removing just the tiniest amount while the TNT removes a decent square. Once the image is wholly or partly revealed, though in practice this is not necessary, the player moves on to the 'Revel & Guess' function where they are shown the complete item and then asked to select it from a line-up of three pictures.

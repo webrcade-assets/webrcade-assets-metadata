@@ -1,0 +1,1 @@
+All-American College Football is an updated version of the 1993 game of the same name. Besides adding the team rosters of the 1992 season (and the option to download 1993 data), the main addition are the new match graphics: now the field scrolls horizontally instead of vertically. The match interface is also new.

@@ -1,0 +1,2 @@
+A very simple game for young children of 3–6 years of age that is aimed at teaching them some knowledge of the alphabet and English words.
+There is a choice of three possible word endings — _AR, _IN and _OG — and the player is supposed to find some initial letters for them. Correct guesses are awarded with corresponding pictures and animation (DOG, CAR, FIN etc.) while incorrect tries just show a blotch.

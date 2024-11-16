@@ -1,0 +1,2 @@
+AstroFire is an Asteroids variant, but with a few twists: instead of asteroids there are monsters of sorts to shoot at, there are power-ups (two kinds of weapons) and shields (which means a single blow doesn't kill the player character), and players can also set whether or not they want momentum enabled.
+Episode One: Into The Storm was released as shareware, on registration the player received two further episodes, 'Whirlpool of Death' and 'Heart of Fire' each of which has different background graphics and enemy craft.

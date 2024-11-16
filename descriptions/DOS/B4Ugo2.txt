@@ -1,0 +1,2 @@
+B4Ugo2 is a computerized version of Gomoku. Two players take turns placing pieces on a board; the winner is the first to reach five pieces in a row (including diagonally). This game can only be played against the computer, at a single difficulty level.
+This game was distributed as Shareware. Registration did not unlock any features.

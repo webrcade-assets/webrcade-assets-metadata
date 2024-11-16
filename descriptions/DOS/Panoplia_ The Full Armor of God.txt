@@ -1,0 +1,1 @@
+A Christian text adventure in which you are charged with recovering the five pieces of the Armor of God.  Obtaining each piece requires passing a test.  The game includes a copy of the new testament, and bible passages are referenced throughout the game, providing hints.

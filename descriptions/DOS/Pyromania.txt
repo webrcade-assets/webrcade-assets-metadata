@@ -1,0 +1,2 @@
+Pyromania is a same-screen multiplayer clone of Bomberman for up to four players. It features randomly generated levels with six different tilesets, various power-ups, and adjustable monster AI. The game is highly customizable, with the options allowing to set the amount of power-ups of various types, turn off monsters and specify the time limit for each round of play.
+It does not strictly have a single-player mode, but still can be played solo against the monsters. In this case, the other player remains passive, making the game much easier to win.

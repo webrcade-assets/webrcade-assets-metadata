@@ -1,0 +1,2 @@
+Living Jigsaw is a 1-player puzzle game for multiple systems.
+The player uses the mouse to complete a jigsaw by trying to fit all the pieces correctly on the board.  Each puzzle is animated, and reacts to the player's movement.  The player chooses from four difficulty levels, which determine piece size.  There are multiple piece shapes available, and many puzzle designs to choose from.

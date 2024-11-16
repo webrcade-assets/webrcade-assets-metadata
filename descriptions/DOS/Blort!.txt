@@ -1,0 +1,4 @@
+Blort! is a single-player, freeware, monochrome, keyboard-controlled shooter. Imagine Space Invaders but without the invaders which would leave just the flying saucers at the top of the screen for the player to shoot at and you have Blort!
+The story behind the game is that player works for NASA where their pal Sludge crept on board a barely functioning shuttle, launched themselves into space and shot down an alien craft. Other craft are out to get him now and, as there's no way to bring him back you take control from the ground and blow away a few more aliens to help him out.
+The ship is barely functioning so all you can do is move left/right with the Z/X keys. You can fire a cannon of some sort but only one shot can be on screen at a time. There are two levels with two aliens per level. On level two the aliens will use landmines to destroy the shuttle.
+The game does have sound, however this is limited to a blip when the gun fires.

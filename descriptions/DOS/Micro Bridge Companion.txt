@@ -1,0 +1,12 @@
+Micro Bridge Companion is a single player, suite of bridge playing software comprising;
+
+Bridge Baron V: An early entry in the long running series, in 2020 it's still going as
+Bridge Baron 29. New features in this version include;
+Mouse support
+Enhancements to the 'Replay Deal' function such as rotating the hands, rebidding the hand, playing using the same or a new contract
+Saving & loading player preferences
+Printing hands for two-player off-line play
+Bridge Match: This product allows the player to play a match of up to sixteen boards. A friend, or the computer, then plays the same hands and the results can be compared. Matches played in this product can be saved part way through and resumed.
+Bridge World Challenges: Also titled either Sheinwold On Bridge or Sheinwold Bridge Challenges, this is a set of twenty four bridge problems set by Alfred Sheinwold a noted bridge player and author, columnist and international team captain.
+Personal Play Library: This maintains a library of games saved in either Bridge Baron V or Bridge Match and resume, replay, edit and add comments to them.
+Bridge $ Competition: In this game players play against Bridge Baron V in either two rubbers of bridge or eight duplicate boards. When the match concludes the player is given a code which they had to post to Great Game Products to compete for a monthly cash prize and an annual prize.

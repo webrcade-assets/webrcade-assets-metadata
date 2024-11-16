@@ -1,0 +1,1 @@
+In Euro-stad (Dutch for Euro-city) the name of a city is shown and the player has to select in which European country this city is located. The player has 20 seconds to answer the question. The game is over after three wrong answers.

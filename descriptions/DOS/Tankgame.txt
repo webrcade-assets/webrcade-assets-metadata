@@ -1,0 +1,2 @@
+Tankgame is a freeware clone of the game Combat. It features a two-players mode and supports joysticks.
+Side notes : the game has sounds and is free but if you finish it and email the code from the 13th level to the author (Kirk Christiansen), he used to send extra codes and informations about a "deluxe version", with SoundBlaster support.

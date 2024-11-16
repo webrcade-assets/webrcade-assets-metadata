@@ -1,0 +1,3 @@
+This is a trivia game based on the first three seasons of Star Trek: The Next Generation.
+You are presented with questions from a variety of categories, like new characters, places and alien races, and you must supply the answer. To make things interesting, there is a timer on each question that allows you fifteen seconds to answer. The more time that goes by, the lower your bonus score on the question will be. You are allowed to miss only a certain number of questions before the game is over. You start out with three Free Misses. Each time you miss a question, you loose one free miss. But you get an extra free miss when you answer ten questions correctly.
+There are three volumes of Next Generation Trivia and each volume has a hundred different questions.

@@ -1,0 +1,15 @@
+This educational title combines various themes from the school classes. It proposes to study the subject in a play manner. The themes presented in the game are:
+
+Beginner's Alphabet
+Alphabet Master
+Math Master
+Algebra Challenge
+Arithmetic Challenge
+Time Challenge
+Chemistry Challenge
+World History
+U. S. History
+U. S. Geography
+
+The game is intended for two players. One of the computer opponents (Dr. Genius, Ava Ridge, or E.Z. 2Beat) becomes the second player in case of one human player, or two human players try to beat each other at hot seat. A time limit (short, medium, or long) can be used.
+Gameplay is shown in the following way. Each player receives certain number of items related to the theme. Players take turns using their items to make lists in which earlier items come before later ones. Correct decision leads to removal of the item from your own box, and new item is added otherwise. Player's goal is to be the first to get all the items out of own your box.

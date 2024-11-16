@@ -1,0 +1,1 @@
+A micro game that challenges speed, memory, concentration and dexterity.  Match as many elemental symbols with their corresponding index number before the timer expires.  Practice on EASY mode, Play for high scores on EXPERT mode.

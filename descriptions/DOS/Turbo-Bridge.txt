@@ -1,0 +1,3 @@
+Turbo-Bridge is a single-player implementation of the card game Bridge.
+It is entirely keyboard controlled with, for example, the player entering 3S to bid three spades or play the three of spades depending on the stage of the game. It has many of the expected features, the player can play in any position, they can see all hands or just their own but, unusually it has an autoplay feature and counts the points in the player's hand automatically.
+This version is undocumented and contains no help file but it appears to be playing the ACOL system.

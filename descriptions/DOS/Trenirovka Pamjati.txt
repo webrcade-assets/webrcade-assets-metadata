@@ -1,0 +1,1 @@
+Trenirovka Pamjati (Memory Training in Russian) is an educational game to enhance the memory abilities through memorizing up to four pictures of three kinds and through selecting a not needed item from a set of four items. Six difficulty levels may be adjusted for each of the three memorizing stages. Highest scores earned for ten turns of each stage are stored in top ten table.

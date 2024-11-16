@@ -1,0 +1,4 @@
+In the year 2904 the earth loses contact to some intergalactic colonies because of a terror attack on the hub distributor "Armstrong" on the planet Selena. The Player controls Major Boington who has to search Armstrong after missing quartz blocks which are needed to reactivate the main reactor.
+The majority of the gameplay consists of collecting and using items and solving puzzles. The player walks through the prerendered space station
+which rooms are navigated by using a map. When changing a room he sometimes has to shoot a robot in a action sequence.
+When making a wrong move the game mocks the player with statements like "Ha, ha, ha" or "Save the Whales".

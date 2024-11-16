@@ -1,0 +1,2 @@
+Aqua Man is a puzzle game where you push links to connect the start and end of a series of pipes. Any link you push will keep moving until it hits something, so you'll need to be careful. Also present are rocks (cannot be moved) and whirlpools (if you push a link into one whirlpool, it will continue out the other).
+The Shareware version comes with 20 puzzles (which can be played in any order) and the solutions to the first 3. The registered version has 40, and all the solutions.

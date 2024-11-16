@@ -1,0 +1,8 @@
+This game allows you to play in the Caesars Palace casino. It offers a taste of six card games:
+
+5-Card Stud
+7-Card Stud
+Baccarat
+Blackjack
+Draw Poker
+Pai Gow Power

@@ -1,0 +1,1 @@
+This 2D fighting game puts the player in the role of one of eight ancient Chinese mythological figures. Gameplay follows the traditional Street Fighter II mold, with each character having basic and special moves.

@@ -1,0 +1,5 @@
+Masque Solitaire Antics is a compilation of single player card games that was later added to and released as Solitaire Antics Deluxe.
+The collection contains the following solitaire games; Royal Family, Ant's Solitaire, Aces Out, Aces Up, Agnes, Auld Lang Syne, Calculation, Canfield, Carpet, Chamelion, Demon, Double or Quits, Easthaven, Fascination, Fortune's Favor, Golf, Klondike, Simplicity, Storehouse, Thumb and Pouch and Yukon.
+Each game has its own help screen which explains the rules, and can be played in three levels of difficulty: normal, easier or harder.
+When loaded the game will start at a random game which the player can either play or choose another game from the collections menu. All card games are played using the mouse.
+At some points during the game, notably when a game ends, an animated ant appears on-screen.

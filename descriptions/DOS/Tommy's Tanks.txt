@@ -1,0 +1,2 @@
+Tommy's Tanks is a single-player, shareware, tank shooting game in which the player tackles multiple computer opponents in a single screen arena. Within the arena there are also barriers which cannot be crossed but can be destroyed by shooting at them.
+The game is entirely keyboard controlled, has nine levels of difficulty, a high score table, basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

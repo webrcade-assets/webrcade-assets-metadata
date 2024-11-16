@@ -1,0 +1,2 @@
+Candy Land is a board game for one to four players.
+It is a computer version of the Milton Bradley board game of the same name. The King of Kandy Land and his castle have disappeared, and the players must explore Candy Land to find the lost monarch. Players take turns pulling a colored card from a deck. They then advance on the board until they encounter a location of the same color. The first player to advance across the board and meet King Kandy is the winner.

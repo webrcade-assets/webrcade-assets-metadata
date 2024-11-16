@@ -1,0 +1,2 @@
+Adventure Writer is the US version of The Quill, a program for creating text adventures. Compared to the original UK version, it features a new manual, support for graphics (only on Commodore 64 and Apple II), support for both 40-column and 80-column text (only on DOS), and—most importantly—the demo game Rescue.
+The goal is to find and rescue the princess by exploring the environment, collecting items, and using them to overcome obstacles and solve puzzles. Players interact with the game by writing commands into the parser.

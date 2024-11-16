@@ -1,0 +1,9 @@
+Adventure Game Toolkit is a tool for creating interactive fiction games. In its basics, the user creates text files in which the game parameters and text is specified with the scripting language. When using the AGT, it compiles a playable version out of those files.
+What makes this tool notable for the this database is the inclusion of a number of sample games (and their source code) created with AGT :
+
+The Adventures of Alice who Went Through the Looking-Glass and Came Back Though Not Much Changed
+Crusade (a port of Castle Adventure)
+Colossal Cave Adventure (The Original Computerized Adventure Game) : An unofficial port of the 350 points version of Colossal Cave Adventure. It was later expanded into Adventure in Humongous Cave.
+In The Year 2093 : The player controls an adventurer who explores the remains of post-apocalyptic Washington, D.C. After losing all resources to robbers, the protagonist stumbles into a dark underground complex rumored to have been the shelter for the elite during the atomic war. The game features 17 rooms and requires the player to solve puzzles in order to win.
+
+Those games were added in the first software update in 1988.

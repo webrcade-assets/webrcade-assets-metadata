@@ -1,0 +1,11 @@
+When the pirates of mad Emperor Louis the 30th capture your best friend Jean you must venture through to the 7th Island of Danger to rescue him. By using your heavily armed hovercraft you must blast through the seven islands by destroying the armed and armored missile towers.
+The ASCII graphic action shooter game is controlled via keyboard. Your movements are controlled with one section of the keyboard while your shot direction is controlled with another. The islands naturally get better defended and progressively harder to pass but can be cleared with careful strategy and quick reflexes. The missile towers are often protected by buildings which surround it and it takes multiple shots to clear a section of the building. Thankfully one shot is sufficient to destroy the missile tower itself.
+The game has different settings for hardness and can be made more of a challenge by raising the speed of enemy missiles and slowing your movement. Alternative to the keyboard controls you can use a joystick to guide your hovercraft while using the keyboard with your other hand to shoot in whichever direction.
+The game was sold as shareware. In return for registering the shareware game, and paying the fee, the player was supplied with a code which unlocked more playing options in the shareware game.
+There were also three expansion packs that could be purchased:
+
+Islands of Courage - twenty more islands some four times larger than in the base game, more missiles some taking six hits to destroy
+Islands of Darkness - ten islands shrouded in black mist, nothing can be seen until the mist is cleared/blown away
+Islands of Destiny - this allows the player to design their own islands, control the number of missile launchers and more
+
+Registered users could also get a secret code that promised unlimited hovercraft and a hint sheet that described forty islands and the tactics that worked best.

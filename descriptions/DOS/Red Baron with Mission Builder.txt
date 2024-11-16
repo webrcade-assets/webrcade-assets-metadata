@@ -1,0 +1,7 @@
+This pack includes:
+
+Red Baron (1990)
+Red Baron: Mission Builder
+an AVI video of the then-forthcoming Red Baron II.
+
+While this is a DOS game, the CD has been set up to install the game under Windows with the advice to run under DOS if there are any problems. The mission builder is not integrated into the menu of the main game, it is installed as a separate .exe file.

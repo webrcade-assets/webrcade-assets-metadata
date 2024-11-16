@@ -1,0 +1,1 @@
+World History Quiz is a CAI-style educational quiz game. It contains twenty lessons about world history. The game mostly focuses on European history, but other cultures (e.g. Islamic Age, African nations, etc.) are represented as well.

@@ -1,0 +1,2 @@
+Rhymes & Riddles is a word guessing game for multiple systems.
+Similar to Hangman, the player must guess letters to fill in the blanks representing riddles, nursery rhymes, or famous quotes. The player can make a total of 6 mistakes before they lose the game. Each game is accompanied by animation and music.

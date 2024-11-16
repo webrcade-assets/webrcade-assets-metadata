@@ -1,0 +1,1 @@
+Woordschudden is a puzzle game where the letters of a word are scrambled. Guess the word as fast as possible.

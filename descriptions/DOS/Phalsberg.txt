@@ -1,0 +1,3 @@
+Phalsberg is a top-down RPG in the style of Ultima.
+The Kavor planet was a peaceful place ruled by the good king Philoxal, until the evil Blackstar, commander of the praetorian legions, take the power by force. Blackstar then hid the 3 royal relics (the scred crown, the gold scepter and the antic cities scarab). The player's quest is to free king Philoxal and to find the 3 relics.
+The gameplay is usual for a mid-80s RPG: the player explores the map, encouters friendly or hostile characters, fights enemies and power up their gear. What makes Phalsberg unique is its question/answers dialog system, and its menu-driven 'action' system, with 38 different verbs.

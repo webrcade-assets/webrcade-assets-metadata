@@ -1,0 +1,10 @@
+Fliper is a Polish edition of Epic Pinball, that includes eight tables:
+
+Android
+Crash and Burn
+Deep Sea
+Enigma
+Excalibur
+Jungle Pinball
+Magic
+Pot of Gold

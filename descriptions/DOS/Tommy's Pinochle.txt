@@ -1,0 +1,9 @@
+Tommy's Pinochle is a shareware, single-player card game.
+There are many variations of Pinochle. This implementation plays the two handed game, player vs computer, using two twenty-four card pinochle decks - standard decks where all cards below the nine have been removed. Points are won both for taking tricks and for making melds.
+Game options include:* A standard game ends at one thousand points but this limit can be changed to any value between five hundred and thirty thousand.
+
+Tommy's Pinochle has three different ways to score the trick taking points
+A pop-up meld table display
+The speed at which the computer plays can be varied
+
+The game is entirely keyboard controlled. It has optional basic sound effects, a demo mode, and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

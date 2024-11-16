@@ -1,0 +1,1 @@
+In Hunter you move left or right to avoid objects while the game speed continues to increase. There is support for two players, taking turns.

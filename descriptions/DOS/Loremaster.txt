@@ -1,0 +1,1 @@
+Loremaster is a fantasy adventure / role-playing hybrid which uses a text parser and real-time tile-based movement. The game takes places in an empire of seven kingdoms ruled by the emperor King Yelraf and Queen Tei. The kingdom of the north has been conquered by the evil powers of Gaiasbane and they now await the arrival of the Loremaster to help bring back peace to the north.

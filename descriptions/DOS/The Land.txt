@@ -1,0 +1,13 @@
+Loosely based on The Chronicles of Thomas Covenant by Stephen R. Donaldson, The Land is a role-playing game where the player will create a character and explore towns, villages and dungeons of The Land. The actual plot of The Land is revealed to the player by playing through the game and no prologue is given.
+Creating a character is an important part of this game just like many other role-playing games. After picking the age and gender of the character, the player will then determine their class. The classes of The Land are:
+
+Bloodguard of the Haruchai race, who do not sleep and are fearless and will run into combat without armor or weapons;
+the Giants who naturally deliver really strong hits;
+Lilianrill, who are devotional to woods and cast wood spells;
+Loreslaat, who are the most powerful but hardest to advance;
+Rhadhamaerl, who are devoted to stones and cast incredible stone based spells;
+the Ramen, who are tenders of the Ranyhyn the great horses; and
+Warwards, who are the basic fighter class.
+
+All characters are given a service which is their oath to follow throughout the course of the game. If a character behaves against their service they will not advance as well and will be slow to level up.
+The action of traveling is the same for the combat system. The top-down view of the game allows the player to see explored and unexplored areas. Battles and dungeons are generated randomly. As the player explores the land, the player may suddenly find oneself on a battle field. The enemy will take as many steps as the player does so if the player chooses to run and fight another day it is possible to do so. The player uses a main melee attack and may also bring down a list of spells. Loot left behind after a battle is picked up in the same manner by walking over it. Items left behind and available for purchase or trade are; food, magic items, armor, and weapons.

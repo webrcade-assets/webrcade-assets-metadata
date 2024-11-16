@@ -1,0 +1,1 @@
+Desperabis is a first-person dungeon crawler similar in style to Ultima Underworld: The Stygian Abyss, but with lighter RPG elements. It offers free gridless movement through 3D environments, action combat and various puzzles to solve in order to progress through the game. The story is structured into two acts, with one focused more on puzzles and the other more on combat.

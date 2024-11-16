@@ -1,0 +1,1 @@
+Omnibus is an educational game, checking the knowledge of 10 different science genres. Each genre has it's own type of play - for example, selecting a date of historical events, pointing to the right planet in the solar system, jumpers game, guessing the name of the country. The best results are stated on the scoreboard.

@@ -1,0 +1,1 @@
+Dynamite Joe is a 2D single-player title. The player controls Dynamite Joe to have him escape his prison by running through multiple levels. He needs to collect keys and throw dynamite to defeat the enemies that chase him.

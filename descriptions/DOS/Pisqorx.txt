@@ -1,0 +1,2 @@
+Pisqorx is a single player, Polish, mouse controlled strategy game.
+This is an implementation of five-in-a-row played on a 20x20 grid. There is no high score function, no save game function, no sound and no difficulty setting, just a straightforward game that records how many times the computer/player win in a session.

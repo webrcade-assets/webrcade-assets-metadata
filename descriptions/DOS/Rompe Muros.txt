@@ -1,0 +1,2 @@
+Rompe Muros is a very basic breakout game, without additives. In Rompe Muros there aren't power-ups or enemies like in Arkanoid or similars. Here the player only finds a paddle, a ball, and a some bricks to break.... Nothing more.
+Also, although Rompe Muros is a pretty short game (only 9 stages), it is a game without end. The game is cyclical, so when the player defeat the ninth stage, the game begins again, time after time.

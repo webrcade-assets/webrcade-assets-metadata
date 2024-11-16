@@ -1,0 +1,4 @@
+Circlink is a shareware strategy game for up to four players, the computer can take one of the available player positions if required.
+The game is played on a 10x7 grid. In each cell is a circle with a hole in one side. The object of the game is to place a marble into a cell at the top of the grid and, by rotating either all cells in a column or all cells in a row, to move it to the bottom of the grid. 
+The game is customisable and is completed when one player moves one, two, three or four marbles to the bottom row.
+The game has basic sound effects, mainly bleeps, and is entirely keyboard controlled

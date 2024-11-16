@@ -1,0 +1,5 @@
+Dark Wolf is a single player, shareware, keyboard controlled platform game.
+The story behind the game is told in the first dozen or so screens, one phrase at a time. The opening text reads Where the twin rivers meet at the edge of the known world Terinar is at the brink of war. The Silver Moon & White Fire are in conflict. The king and his inner circle, seem to be the only ones capable of stopping the inevitable war. At the king's palace ..."
+At this point the player is summoned to meet the king who, in a similar style, sends the player to the Silver Moon at Rysada as a diplomat so, after selecting one of the three difficulty settings, off you go.
+The game is a 2D, side scrolling platform game in which the arrow keys control movement and A/S/X/Z select and use items and spells.
+It is very easy to die in this game and, unless the game has been saved, it really is Game Over!

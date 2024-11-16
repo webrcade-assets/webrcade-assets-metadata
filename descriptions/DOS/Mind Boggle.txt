@@ -1,0 +1,7 @@
+Mind Boggle is a collection of games that includes the following:
+
+Hi-Que : a variant of the classic Hi-Q board game
+Flipper
+Reflector Detector : a game where atoms are hidden in an 8x8 square, and the player has to discover their position by seeing how they interact with rays that the player projects from the sides of the box
+Master Memory : a Mastermind variant
+Dr. Frank - a variant of Hangman

@@ -1,0 +1,1 @@
+Fleet Defender is a single player F14 combat sim with many finer details represented, including the ability to switch between the pilot and rio seats.  This is the type of simulation where the player is a realistic part of a mission and not necessarily a 'rambo.'

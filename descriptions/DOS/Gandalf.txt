@@ -1,0 +1,2 @@
+Gandalf is a side-scrolling labyrinth action game. The protagonist of the game is a gnome named Gandalf. The sorcerer called Bilbo kidnapped his fiancee and placed her at the very end of the great maze. 
+The player has to go through a maze to find his chosen one. He is fitted with four weapons: bumerang, bow, bombs and grenades. The player can find additional missiles, power ups increasing firepower of weapons, keys to the locked door, and encounter numerous hostile enemies, collapsing traps, throwing rocks catapults, killing fields and walls blocking the passage.

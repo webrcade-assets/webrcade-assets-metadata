@@ -1,0 +1,1 @@
+Operation: Airlift is an action game which somewhat mimics the style of Choplifter. One or two players pilot a helicopter on a mission to rescue MIAs while avoiding enemy fire. The game uses EGA graphics and was released for free, serving as a demo for the ProGraphx Toolbox icon routines by Stanwood Associates.

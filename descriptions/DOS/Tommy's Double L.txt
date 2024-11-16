@@ -1,0 +1,3 @@
+Tommy's Double L is a shareware, single-player, puzzle / strategy game for one player vs the computer.
+This game is based on a puzzle devised by Edward De Bono in his book "The Five Day Course In Thinking". It is a puzzle / strategy game which is played on a 4x4 grid. Each player has an 'L' shaped piece that is 3 cells long and 2 cells wide and there are also two Jammers which occupy a single cell. Players take turns and in each turn they must move their piece and optionally one or both jammers. The game ends when a player cannot move when their turn comes around.
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

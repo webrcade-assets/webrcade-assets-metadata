@@ -1,0 +1,5 @@
+Animated Addition and Subtraction is an educational game designed to teach children the fundamentals of addition and subtraction. The player begins by configuring the game parameters. They can choose between addition or subtraction, select whether to work with two or three numbers, specify the number of digits for each number (e.g., single-digit, double-digit), and decide whether to include regrouping (carrying over) in calculations. Afterwards, they are presented with 10 math problems. To solve each problem, they type in the correct solution. For multi-digit answers, typing starts from the last digit. Incorrect answers prompt players to try again without penalties. After solving ten equations, players enter the game room. They can choose from three animated rewards:
+
+Animated Trains : Watching a moving train.
+Animated Rocket : Customizing the rocket’s upper, middle, and lower parts, then witness its launch.
+Animated Puzzles : Reassembling a picture by switching squares. Afterwards starts an animation.

@@ -1,0 +1,1 @@
+Bridge 8.0 is a bridge playing program. You play with a computer partner against two computer opponents. It includes an online Bridge tutorial. A hint mode is available in all situations.

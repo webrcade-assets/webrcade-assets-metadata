@@ -1,0 +1,2 @@
+A two-player aerial duel. The dogfight commences inside a wrap-around, top-down playfield, as each side tries to gun down the opponent's plane. Game parameters are highly configurable, with adjustable values for physics and player variables; on-screen indicators help keep track of lives, power, ammo and damage during battle.
+Written in tribute to Iron Maiden and their song Aces High, the game also features a cover of the song (in .MOD format) as its background music.

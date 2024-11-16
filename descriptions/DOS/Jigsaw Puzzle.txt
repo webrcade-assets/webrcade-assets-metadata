@@ -1,0 +1,1 @@
+A  Jigsaw Puzzle simulation. It includes a lot of puzzles that go by original children's artwork or new designs. All you have to do is fit the puzzle pieces in the board in the shortest time, and flipping the pieces is not necessary. It features a high score for finishing the puzzle in short time or joystick or mouse option and three levels of gameplay.

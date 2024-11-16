@@ -1,0 +1,1 @@
+Last in Amsterdam is a text adventure with some graphics made for a puzzle competition for the Dutch computer magazine Computer!Totaal. The player controls Geurt, a farmer boy from West-Friesland, who goes to Amsterdam. The game was released in three instalments.

@@ -1,0 +1,1 @@
+Boruta is a platform game. The player's task is to travel through several dozen boards in order to find the right amount of hearts, wings and halos that will allow him to get out of hell. The maze is full of enemies and obstacles, that can be dodged or killed with an axe.

@@ -1,0 +1,2 @@
+Abenteuer Atlantis is a promotional game for the food manufacturer Knorr. You are playing as Knorrli who has to rescue his folk in Mesopotamia from starvation and epidemics. This evolves into a search after the legendary Atlantis.
+It is played like many other adventure games: You search rooms after useful objects, use objects to solve puzzles and combine inventory items. There are only three commands - walk, use and speak - which can selected either with the mouse or the function keys. Knorrli automatic takes items when you click on them.

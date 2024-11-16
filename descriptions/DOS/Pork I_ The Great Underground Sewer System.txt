@@ -1,0 +1,4 @@
+Pork I: The Great Underground Sewer System is a single player, text adventure. It is a parody of the classic adventure game Zork: The Great Underground Empire.
+As with Zork the player starts the game near a house where there's a mailbox. Unlike Zork this mailbox has been vandalised. From here the player explores the game collecting treasures which are placed in the vault of the house.
+The player must find all thirteen treasures to complete the game during which they will explore sixty-four locations and can score a maximum of one hundred and sixty points.
+The game has no graphics, no sound but it does have a save/load feature and a resurrect feature. The test version of the game was released with a full solution.

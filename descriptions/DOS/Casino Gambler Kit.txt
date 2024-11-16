@@ -1,0 +1,7 @@
+Casino Gambler Kit is a compilation of gambling games for DOS.
+
+Casino Craps
+Dr. Thorp's Mini Blackjack
+Dr. Wong's Jacks+ Video Poker
+Ruckus Poker
+Ruckus Roulette

@@ -1,0 +1,1 @@
+Casino Master is a 1-player strategy and teaching game for blackjack, craps, roulette, poker, baccarat, keno, and slots. Contains animation and sound effects, and comprehensive rules for each game can be displayed. Allows the player to follow their performance over multiple games.

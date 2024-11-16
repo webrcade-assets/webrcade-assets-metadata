@@ -1,0 +1,3 @@
+This Spanish clone of Pang plays like said classic, you belong to the Ball Breaker Corp. and must destroy the balls that have invaded planet earth appearing on the screen. When you destroy them with your weapon they will get start getting divided until you reduce them to nothing.
+You will have to travel from city to city to achieve your goal.
+This game has no sound.

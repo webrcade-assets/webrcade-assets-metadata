@@ -1,0 +1,1 @@
+The demo version of The Fortress of Dr. Radiaki contains one level, simply called Radiaki, which is not shipped with the retail version. The level showcases several weapons, items and enemies from the game. The demo also includes the entire intro sequence, complete with voice-over narration.

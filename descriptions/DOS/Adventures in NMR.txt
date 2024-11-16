@@ -1,0 +1,3 @@
+Adventures In NMR is a short, single-player, freeware, keyboard-controlled text adventure.
+NMR is an acronym for Nuclear Magnetic Resonance and the game was written by Doug Burum who worked in that field for a company known then as Bruker Instruments, where it was given away to customers at the Experimental NMR Conference.
+In this game the player takes the role of an under-performing academic who is entrusted with the purchase of an NRM machine, no prizes for guessing which company wins the contract, and who then has to successfully use it. The game has eleven rooms/locations and a perfect score of four hundred points, it must be completed in one hundred turns or less.

@@ -1,0 +1,1 @@
+Barren Planet is a turn-based strategy game. Players control a number of units that move around on a map, attacking their enemies in an attempt to control strategic locations or to wipe their opponents out altogether. A series of battles is linked together to form the full campaign, with the outcome of one battle determining what battle is fought next.

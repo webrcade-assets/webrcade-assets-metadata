@@ -1,0 +1,1 @@
+Return of the Dinosaurs is an educational game designed to teach kids about dinosaurs. The premise is that your hometown is suddenly overrun by dinosaurs, thanks to a malfunctioning time machine. You must find and return each dinosaur to its proper time period by learning about the dinosaurs using a database that comes with the game.

@@ -1,0 +1,5 @@
+Tommy's Gorilla Ball Gauntlet is a single player DOS game.
+In this game the player controls a gun that traverses left / right across the bottom of the screen. To a limited extent the gun can also move up & down the screen too. The gun is continually firing.
+At the top of the screen are many gorilla balls, these move left & right across the screen as they descend. The objective is to shoot as many as possible before they reach the bottom of the screen and to avoid any contact with these balls when they are on the same level as the gun.
+One point is scored for every gorilla ball destroyed. Ten points are scored for every 'bonus guy' destroyed.
+Bumpers exist to deflect the gorilla balls up / down the screen. These grow in size as the game progresses. Additionally there are two Jammers which cannot be destroyed but which can destroy the player s gun, these must be avoided as contact brings the game to an end.

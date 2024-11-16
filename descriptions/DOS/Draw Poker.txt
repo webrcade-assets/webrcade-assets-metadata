@@ -1,0 +1,4 @@
+Draw Poker is a single player shareware version of the classic card game.
+The player starts with $500 in chips and bets in increments of $10. The computer deals five cards of which the player may discard all, some or none. New cards are then dealt and if the player has won anything then their winnings are added to their chip stack and the game continues.
+In this version the player's hand must be a pair of tens or better to win anything.
+The game has a save game feature and is mouse controlled.

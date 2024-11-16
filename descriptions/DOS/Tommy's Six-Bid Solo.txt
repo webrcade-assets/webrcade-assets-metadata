@@ -1,0 +1,14 @@
+Tommy's Six-Bid Solo is a shareware, single-player, trick-taking card game, in real life this is a game for three players but in this implementation the player takes one seat, north and the computer pays the other two. The game is also known as Slough, Sluff, it is German in origin being descended from an old game called Skat.
+Detailed rules of the game are contained within the game and are freely available on the internet. In summary the game is played with a standard fifty-two card deck from which all the twos, threes, fours, and five's have been removed leaving thirty-six cards. Players are dealt eleven cards each with three being held back so that not all cards are in play.
+Players bid to be the soloist and then play the hand. There are just six possible bids, each bid being progressively harder than the previous one, they are:* Solo - bidding to win sixty pips, trumps cannot be hearts
+
+Heart - same as Solo but hearts are trumps
+Misere - playing without trumps and bidding to get no tricks
+Guarantee - bidding to win eighty points, or just seventy-four if hearts are trumps
+Spread Misere - Misere with the bidders hand laid out on the table for all to see
+Call - bids to win all pips
+
+The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display. In addition it has the following options:* a demo mode where the game plays all by itself
+
+a hand replay option
+in-game help

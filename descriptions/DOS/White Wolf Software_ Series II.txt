@@ -1,0 +1,13 @@
+White Wolf Software: Series II is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:* A: Raptor
+
+B: Jetpack
+C: EGA Trek: The Mongol Invasion
+D: Stellar Explorer from Dynamic Learning Systems
+E: Cheat: a list of game cheat codes
+F: Address Librarian - a database for addresses
+G: Movies Trivia
+H: Basketball Stats Power: a database for basketball stats
+I: ExpressCheck: a home finance program
+J: Flying Tigers
+
+There is no 'Install All' option, the user can only install one product at a time. After installation the user is kicked out into DOS in the home directory of the installed software.

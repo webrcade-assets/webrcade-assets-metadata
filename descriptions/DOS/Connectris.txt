@@ -1,0 +1,1 @@
+Connectris is a puzzle game that is a cross between Tetris and Pipe Mania. Pieces of pipe fall from the top of the screen, and you have to stack them so that all the exits are connected.

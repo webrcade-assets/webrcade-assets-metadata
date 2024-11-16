@@ -1,0 +1,2 @@
+Race the Clock is a 1-player matching game for multiple systems.
+The player has a to clear a board by flipping and matching tiles. The player can match pictures to words, pictures to pictures, or words to words. The player can define the size of their board, which verbs to use, and whether to play a timed or untimed game.

@@ -1,0 +1,2 @@
+Math Magic is a math-themed Breakout clone for the Apple II.
+The player controls a horizontal paddle on the bottom of the screen which can move left to right, and must bounce a ball into the air to hit blocks. As the player hits blocks, they are asked math questions, and gain bonus points and extra balls if they answer correctly. The player can define the math challenge as well as the arcade challenge, including the width of paddle, ball speed, and number of balls.

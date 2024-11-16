@@ -1,0 +1,1 @@
+Stamat is an educational program designed to teach basic arithmetic tasks. Correct solutions are rewarded with points, non-correct ones - points deduction. After obtaining 200 points, the player is given the opportunity to play two simple games - Wheel of Fortune and Zgadywanka.

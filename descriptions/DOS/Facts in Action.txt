@@ -1,0 +1,4 @@
+Facts In Action is an early multimedia educational quiz game for one or two players. It can be controlled by either the keyboard or the mouse.
+After selecting the kind of game to be played, the player(s) are shown a 5x5 grid of picture tiles and a voice announces 'Look for ...'. The player whose turn it is selects a tile and if they are correct they are rewarded with a comment like 'Wow! You're sharp', a short animation within the tile and a basic fact or two. If they are incorrect the game announces 'No! That is a ...'.
+Correct answers remove a tile from the screen, revealing part of a picture underneath. When all tiles are cleared a short animation of that picture plays and the game can be played again.
+The shareware version of the game has just four categories: Prehist. Animals - which is all about dinosaurs, World History, Basic Science and Spanish. One odd feature is that the game can be played with one, more or all categories in play.

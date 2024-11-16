@@ -1,0 +1,1 @@
+A very early four-in-one game package, containing computerized versions of Checkers for Beginners, Elusion, Battleship, and Reversi.

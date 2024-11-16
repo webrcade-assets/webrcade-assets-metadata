@@ -1,0 +1,1 @@
+Lassi Quest is the first complete game made with the Adventure Game Studio (AGS). It features the playable character Lassi and a non-playable character Roger. Collecting the items, talking to Roger, interacting with objects, and avoiding a dead-end, the player needs to help Lassi to escape the place in this point-and-click icon-based adventure game.

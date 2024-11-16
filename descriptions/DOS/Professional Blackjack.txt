@@ -1,0 +1,4 @@
+Professional Blackjack is a freeware, card playing game for up to seven people.
+In this implementation of the game there is no computer opponent, except the dealer, all seats at the table are under player control.
+The game claims to use the rules in operation at Harrah's Marina, Atlantic City. The game's setup cannot be changed, there's no high score table, and player's scores are not retained from one session to the other.
+The game is entirely keyboard controlled

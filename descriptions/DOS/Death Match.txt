@@ -1,0 +1,2 @@
+Death Match is a one-on-one fighting game starring a number of space-alien and monster creatures. Two players share a keyboard to fight or a single player can fight the computer.
+The game makes use of directional controls and two attack buttons per player. Player 1 uses WASD and Y+U for attacks, while player 2 uses the numeric keypad and the square brackets for attacks. The final version of the game was released in 1994 to Fidonet as shareware.

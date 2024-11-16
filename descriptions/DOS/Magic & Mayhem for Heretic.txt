@@ -1,0 +1,2 @@
+Magic & Mayhem for Heretic is a commercial CD-ROM package containing over 1500 levels for Heretic.
+The CD-ROM includes Doom-It, a popular tool from the time that allows the user to select one or multiple wad files and patch them into the game.

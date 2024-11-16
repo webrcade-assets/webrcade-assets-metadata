@@ -1,0 +1,30 @@
+Apollo Collection 3: Great Airlines is a set of twenty-seven airliners in an add-on package, requiring the 3rd-party application BAO FlightShop, to use with Microsoft Flight Simulator v5.x.
+The included airlines & aircraft include:1. British Airways Concorde
+2. Swissair MD11
+3. TWA Lockheed L1011
+4. Alaskan MD80/82
+5. Delta McDonnell Douglas MD90
+6. American Airlines DC10-30
+7. USAir Fokker 100
+8. American Airlines B727-200
+9. Continental Airlines B727-200
+10. Delta Airlines B727-200
+11. United Airlines B727-200
+12. Iberia B727-200
+13. United Airlines B737-300
+14. Continental Airlines B737-300
+15. Southwest Airlines B737-300
+16. Lufthansa B737-300
+17. KLM B737-300
+18. Lufthansa A321-100
+19. Alitalia A321-100
+20. Air Canada A320-200
+21. Canadian Airlines A320-200
+22. United Airlines A320-200
+23. Northwest Airlines A320-200
+24. Air France A320-200
+25. Air Inter A320-200
+26. Iberia A320-200
+27. Lufthansa A320-200
+The installation process is designed to run under WIN 3.x or WIN 95 but instructions for a manual DOS installation are supplied, Additionally Concorde and the new jet panel can only be installed from DOS. The new panel requires the flight simulator to be running in SVGA mode (640x400 resolution) and once installed it will appear next time the Learjet is flown. Instructions to apply the panel to all jet aircraft with three and four engines and all multi-engined propeller aircraft are supplied.
+Also on the disc are demos of Tower, Las Vegas Scenery and Flight Simulator Flight Shop together with an upgrade for Flight Simulator Flight Shop.

@@ -1,0 +1,2 @@
+The game proposes to 1-6 players to play a Blackjack card game, betting the money and trying to beat a Dealer. All the participants play on the same table at hot seat.
+Casino's House Rules may be altered. In-game tutor may teach players the basics of blackjack strategy and card counting based on the statistically-derived tables originally created by Dr. Edward Thorp in the early 1960s.

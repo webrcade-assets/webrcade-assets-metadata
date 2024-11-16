@@ -1,0 +1,3 @@
+Match 'Em is a shareware, one or two player Concentration style game.
+It is played on an 8x8 grid and players take turns to reveal two pictures at a time. If they match the player gets another turn. The winner of the game is the player who matches the most pairs.
+The game is played entirely with the mouse, has optional sound effects, and three levels of difficulty. Each game can consist of either sixteen sets of four pictures or thirty-two sets of two pictures.

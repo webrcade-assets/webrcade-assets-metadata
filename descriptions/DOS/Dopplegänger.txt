@@ -1,0 +1,3 @@
+Dopplegänger is a single person, interactive fiction, text adventure.
+Inter-Planetary Human Simulations has finally developed an android, the "IPHS-3939/41-B" called "IP-39" for short, that is "the ultimate human match." This amazingly humanoid machine is now missing. Was it stolen? Did it escape? Most importantly, where is it now?
+The player takes the role of Michael Telan, a secret agent working for Argrath Intelligence. It is your task to investigate and recover the IP-39.

@@ -1,0 +1,1 @@
+Hextris is a falling block puzzle game just like Tetris, except with hexagons instead of squares. One point is awarded for each piece placed, and 25+ (current level) points are awarded for each line eliminated.

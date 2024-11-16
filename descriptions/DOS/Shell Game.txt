@@ -1,0 +1,2 @@
+Shell Game is a simple single player version of the old street corner gambling game.
+On screen are three half shells and under one is a ball. The shells are swapped around and when the swapping stops the player has to guess where the ball is. As the game progresses the shuffles become more and more complex. For every correct guess the player moves up a level, for every incorrect guess they move down a level.

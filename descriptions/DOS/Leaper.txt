@@ -1,0 +1,2 @@
+Leaper is a single-player Frogger -type game in which the player has to jump a frog from the bottom of the screen to the top avoiding vehicles as the do so. Rivers are crossed by hopping onto logs / turtles as the float by.
+The game is played via the keyboard but has optional joystick control and the player can alter their frog to one of sixteen different colours.

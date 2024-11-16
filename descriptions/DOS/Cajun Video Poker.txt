@@ -1,0 +1,2 @@
+Cajun Video Poker is a 1-player poker game for DOS.
+The player starts with 100 coins, and can bet 1–5 coins each turn.  The player is dealt five cards each hand, and can choose to hold 0–5 cards.  The player receives new cards, and is awarded money based upon their final hand.  There is a help screen, and the ability to change screen colors.

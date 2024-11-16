@@ -1,0 +1,2 @@
+New addition to Sierra's FPS Football series. Changes this time are mostly cosmetic with new high-res svga graphics (which consist of rotoscoped sprites for characters over polygonal stadiums) as well as the expected stats update which adds not only player names and team stats, but also expansion teams such as the Carolina Panthers, and the Jacksonville Jaguars.
+Gameplay modes available include quick matches as well as career mode, were you take the manager's seat as well as the quarterback's and two player gameplay.

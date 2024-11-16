@@ -1,0 +1,1 @@
+Portal of Worlds is a very simple adventure game programmed in QBasic. The player enters a portal that leads to different worlds, and has to find a stone that unlocks the fourth world. Gameplay is extremely simple: each screen presents the player with a list of options, and progress is made simply by picking the correct one.

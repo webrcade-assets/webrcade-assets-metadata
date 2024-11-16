@@ -1,0 +1,1 @@
+This game is based on the original Paratrooper game, but has some new features, like a 2-player-mode for example. Also the graphics and sounds are new.

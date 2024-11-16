@@ -1,0 +1,3 @@
+Animated Memory Game is a single player, shareware memory game based on the card game Concentration
+In this implementation the player can play with either a keyboard or a mouse and has a choice of playing with eight, fourteen, twenty or thirty four tiles. When a pair of tiles is matched it plays a small animation, the reward for matching all tiles in a game is also a small animation.
+The game features a 'mini movie theater' in which the end of game mini movies can be watched, players can also change the tile back and background colour.

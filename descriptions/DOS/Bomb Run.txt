@@ -1,0 +1,4 @@
+Bomb Run is a simple, single player, keyboard-controlled game.
+The player is presented with a fixed screen at the bottom of which is a randomly generated range of 'mountains'. Rising from the mountains are columns of numbers, some with coloured symbols at the bottom. An aeroplane makes repeated passes across the top of the screen at varying heights and the player must press the spacebar to release a bomb which then falls and clears some of the numbers and/or symbols. More than one bomb can be released in each pass but only one bomb can be in flight at a time.
+The object is to clear all the symbols and thus progress to the next level. At the start of a game, there are lots of symbols on the screen but as the game progresses gaps develop and it becomes progressively harder to score and easier to miss. After seven misses the game ends.
+The game has simple sound effects which are optional and plays with CGA, EGA or VGA graphics

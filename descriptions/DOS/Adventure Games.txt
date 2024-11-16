@@ -1,0 +1,10 @@
+This is a compilation of four adventure games:
+
+Adventure
+Castaway
+South American Trek
+Return to Hell
+
+Adventure is a version of Crowther and Woods's ADVENTURE , credited to Willie Crowther, Don Woods, J. R. Jaeger, and Jerry D. Pohl.
+Castaway and South American Trek are by Conrad Button of ButtonWare, Inc.
+Return to Hell is by Ed Kruse.

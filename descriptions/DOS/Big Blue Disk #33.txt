@@ -1,0 +1,1 @@
+This issue of Big Blue Disk contains two games. Hearts is a simulation of the card game of the same name, and Starship Encounter is a text adventure where you need to escape from your alien captors and destroy their spaceship before it reaches Earth.

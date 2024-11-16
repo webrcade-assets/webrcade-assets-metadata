@@ -1,0 +1,1 @@
+This is an add-on for Kron's Bundesliga Manager Hattrick. It updates the game to the latest version, includes roster updates, an editor that allows free editing of teams, players and referees, and a 200-page book featuring hints and tips as well as a more detailed description of the game than the original manual.

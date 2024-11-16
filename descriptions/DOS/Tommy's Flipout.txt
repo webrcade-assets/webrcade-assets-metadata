@@ -1,0 +1,5 @@
+Tommy's Flipout is a single player pinball type of game.
+The player has five balls in a standard game but bonus balls can be awarded during play.
+The flippers are controlled by the keypad, function keys are used to enable / mute sound etc.
+Bonus points are awarded for knocking out parts of the FLIPOUT title and there is a 'Three Amigos' multi ball bonus if, when starting with a new ball, the players score is a multiple of 80, 82, or 84.
+The game has nine levels of difficulty and maintains a high score table for each difficulty level.

@@ -1,0 +1,2 @@
+Ten Clues is a guessing game.
+The player tries to guess the identity of an object from a series of clues revealed one at a time. Each clue costs progressively more points. The player will lose points with an incorrect guess, and gain points with a correct guess. The cost of a correct or incorrect answer changes as more clues are revealed. The player is able to create their own clues to identify a custom object.

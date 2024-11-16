@@ -1,0 +1,3 @@
+TurboGo is a computer version of the two-player Chinese board game weiqi ("Go") using the Chinese scoring rules.
+In this version of the game, either player can be a computer or human. The available board sizes here are 9x9, 13x13 and 19x19, the latter being a common tournament size grid. The Go game is simple, but hard to master, and this version has an extensive manual built into it to help.
+The two players have either black or white stones, and place them in turn on the cross-points of a square line grid. The object is to encircle/border off territory and capture the opponents stones as prisoners. The game can be saved to disk, and be continued later, as the larger boards can take some time to finish.

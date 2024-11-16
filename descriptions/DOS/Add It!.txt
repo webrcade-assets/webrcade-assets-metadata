@@ -1,0 +1,3 @@
+Add It! is an educational game for children who want to learn counting.
+It presents a mathematical question to the player, and by clicking on a number in a table you suggest an answer for each exercise. When it's right, then you get the next exercise and when your answer is wrong, the program says "Oooops!" and you can try again. But don't worry, you have unlimited tries.
+There are two difficulty levels: In "easy" the sum of the addition is between one and ten, in "hard" between one and twenty.

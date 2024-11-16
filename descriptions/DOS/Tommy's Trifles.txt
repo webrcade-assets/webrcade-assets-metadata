@@ -1,0 +1,8 @@
+Tommy's Trifles is a collection of simple, single player, shareware, children's games.
+In this product we have:* Rock Paper Scissors: the first to win twenty rounds of scissors cuts paper, paper wraps rock, rock breaks scissors wins the game.
+
+23 Matches: the player who takes the last match loses
+
+Four in a Row: this is a Connect Four variant
+
+The game is entirely keyboard controlled. It has basic sound effects, a demo mode, and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

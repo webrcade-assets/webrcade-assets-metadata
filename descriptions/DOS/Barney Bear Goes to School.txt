@@ -1,0 +1,5 @@
+Barney Bear Goes to School is an educational game for children aged two to six. It consists of two parts: the first one is a story book where the player has to help Barney Bear to wake up and get ready for school. The story is told through narrated pictures and for each one the player can interact with the scene by clicking on various objects. To continue the story a specific object has to be clicked on. The second part takes place in the school which contains various activities. This include three games:
+
+Spell It! - A picture along with the right spelling will be displayed and the player has to type it in by clicking on the right letters.
+How Many? - An object is drawn a certain number of times and the player has to count them and click on the correct number.
+Coloring Book - The player can fill the areas of several colourless pictures.

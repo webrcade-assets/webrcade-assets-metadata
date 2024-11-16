@@ -1,0 +1,2 @@
+This 'Tic Tac Toe' variant is flown in 3x3x3 cubic playfield. Player should align three 'X's either horizontally, vertically, or diagonally to score a Tic Tac Toe. To win the game, player should score more Tic Tac Toes than opponent. To win a match, player should win more games than opponent. In the case of a tie game, the tie is awarded to CATS as in the regular game of Tic Tac Toe.
+The game is a single against the computer or two-player of three different variations. There are three difficulty levels defined by match lengths.

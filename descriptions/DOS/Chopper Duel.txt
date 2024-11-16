@@ -1,0 +1,3 @@
+Chopper Duel is a two player game in which players attempt to shoot each other's helicopter's down, the first with ten kills wins. Beware because crashing counts as a kill to your opponent..
+The game supports two players using a keyboard or one player with a keyboard and the other with a joystick.
+The game has music, sound effects and fifty different screens to play on.

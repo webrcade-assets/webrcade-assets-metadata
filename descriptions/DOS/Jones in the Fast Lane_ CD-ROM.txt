@@ -1,0 +1,5 @@
+Functionally identical to the original Jones in the Fast Lane, but delivered on a CD-ROM and containing the following enhancements:
+
+DOS version : Redbook CD Audio for the voice acting; additional animation and actor portraits; takes very little space on hard drive.
+
+Windows 3.1 version : All the features of the DOS version, with the addition of a native Windows executable and MIDI music.

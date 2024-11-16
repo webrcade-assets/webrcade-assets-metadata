@@ -1,0 +1,1 @@
+XTrojka is a falling block puzzle game for the X Window System. Blocks fall individually and need to be organized into a five-column wide playing field. When three blocks are aligned horizontally or diagonally (but not vertically), they are removed. The objective is to stay in play as long as possible, while earning a high score by clearing blocks and setting up chain reactions.

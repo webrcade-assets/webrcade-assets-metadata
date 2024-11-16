@@ -1,0 +1,7 @@
+This compilation contains Raven Software's fantasy shooters based on id Software 's Doom-based graphics engine:
+
+Heretic: Shadow of the Serpent Riders
+HeXen: Beyond Heretic
+HeXen: Deathkings of the Dark Citadel
+
+The compilation is the first release of those titles for the Acorn platform. The PC release comes with both Windows 95 and DOS versions of Hexen: Beyond Heretic.

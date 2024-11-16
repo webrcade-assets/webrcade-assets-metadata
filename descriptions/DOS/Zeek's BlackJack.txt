@@ -1,0 +1,2 @@
+Zeek's BlackJack is a single-player simulation of Blackjack with more attitude than usual. After each hand, the player will either be insulted (if they lost) or threatened (if they won).
+Zeek's BlackJack follows the basic rules of Blackjack, but doubles, splits, and insurance are not allowed, and the dealer wins on all ties. Money is tracked between games, and multiple users are supported.

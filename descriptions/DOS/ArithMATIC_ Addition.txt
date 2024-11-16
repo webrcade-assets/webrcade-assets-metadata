@@ -1,0 +1,1 @@
+A very simple math game for young children. Each screen shows two numbers that have to be added, both in numerical notation and in different objects. Three tries are given, and correct guesses are awarded with some animation.

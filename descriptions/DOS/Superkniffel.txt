@@ -1,0 +1,3 @@
+Superkniffel (Yahtzee) is a dice game for one to twelve players.
+Kniffel, launched in Germany in 1972 by Schmidt Spiele, hardly differs from Yahtzee.
+In Kniffel, the player get to roll five dice. Each player has three rolls. In these three rolls the objective is to score as many points as possible for one of the fields. In the first two rolls, players can set aside dice with the right number and does not have to roll them again. After the third roll, you must fill in a space on your field. Ideally the one that brings you the most points. Something always has to be entered. For example, if you didn't reach a street, you can enter 0 points in another field.

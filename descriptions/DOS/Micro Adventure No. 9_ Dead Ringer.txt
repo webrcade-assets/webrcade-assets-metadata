@@ -1,0 +1,4 @@
+Micro Adventure No. 9: Dead Ringer is a novel and series of type-in BASIC adventures for multiple systems.
+The President of the United States is BRUTE's (the Bureau of Random Unlawful Terror and Evil) first target in their sinister bid for world domination.  Secret agent Orion, computer whiz of ACT (Adventure Connection Team) is on the job, and only he can thwart a deadly game of double identity that threatens the leaders of the world.
+The player uses their computer to program a super-advanced robot to do their bidding, break into an electronic security system, and play a shooting game that means life or death for hundreds of people.
+Though the story, there are numerous interactive type-in programs that offer numerous outcomes. An appendix is included describing how to modify the BASIC program listings for greatest compatibility with many of the most popular home microcomputer BASICs, as well as describing what each program does and how it works.
