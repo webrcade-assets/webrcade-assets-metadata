@@ -1,5 +1,1 @@
-This is an update to Microsoft Flight Simulator (v4.0) which includes:
-
-Four new aircraft types: Concorde SST, P-51D, Laird Turner Meteor Racer and Spectrum Beaver RX 550 Ultralight.
-New sound and speech (for control tower and flight instructor).
-Higher resolution graphics and instrument panel detail.
+This is an update to Microsoft Flight Simulator (v4.0) which includes:Four new aircraft types: Concorde SST, P-51D, Laird Turner Meteor Racer and Spectrum Beaver RX 550 Ultralight.New sound and speech (for control tower and flight instructor).Higher resolution graphics and instrument panel detail.

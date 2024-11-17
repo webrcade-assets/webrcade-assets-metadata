@@ -1,2 +1,1 @@
-Warlords II Deluxe is an eight-player turn-based strategy game with RPG elements. It is a variant of the 1993 game Warlords II and an improved version of its Scenario Builder. It includes upgraded SVGA graphics, new tilesets, new soundtrack, new scenarios and balance changes.
-The original version can not be converted to Deluxe through any official means.
+Warlords II Deluxe is an eight-player turn-based strategy game with RPG elements. It is a variant of the 1993 game Warlords II and an improved version of its Scenario Builder. It includes upgraded SVGA graphics, new tilesets, new soundtrack, new scenarios and balance changes.The original version can not be converted to Deluxe through any official means.

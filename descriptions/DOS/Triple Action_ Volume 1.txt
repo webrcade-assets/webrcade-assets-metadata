@@ -1,5 +1,1 @@
-This compilation contains three games:
-
-F-14 Tomcat
-Hammer Boy
-Flashy Cars
+This compilation contains three games:F-14 TomcatHammer BoyFlashy Cars

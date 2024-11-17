@@ -1,5 +1,1 @@
-This compilation contains the following three games:
-
-Super Tetris
-Time Bandit
-Airball
+This compilation contains the following three games:Super TetrisTime BanditAirball

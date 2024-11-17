@@ -1,3 +1,1 @@
-Battleships is a simple, shareware, two player version of the traditional game.
-This implementation is played on a 10x10 grid where players hide an aircraft carrier, a battleship, a cruiser, a submarine and a patrol boat. All vessels are placed horizontally.
-The game is entirely keyboard-controlled, uses character graphics and has sound effects.
+Battleships is a simple, shareware, two player version of the traditional game.This implementation is played on a 10x10 grid where players hide an aircraft carrier, a battleship, a cruiser, a submarine and a patrol boat. All vessels are placed horizontally.The game is entirely keyboard-controlled, uses character graphics and has sound effects.

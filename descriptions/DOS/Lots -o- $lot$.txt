@@ -1,9 +1,1 @@
-This is an add-on game program for use with one of the following Capstone games:
-
-Trump Castle: The Ultimate Casino Gambling Simulation
-The Big Deal
-Trump Castle II
-Casinos of the World
-Casino
-
-The game comes with 9 slot machines which include 3-Wheel, 5-Wheel, and Progressives.
+This is an add-on game program for use with one of the following Capstone games:Trump Castle: The Ultimate Casino Gambling SimulationThe Big DealTrump Castle IICasinos of the WorldCasinoThe game comes with 9 slot machines which include 3-Wheel, 5-Wheel, and Progressives.

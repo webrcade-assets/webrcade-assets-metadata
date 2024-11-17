@@ -1,6 +1,1 @@
-This compilation includes:
-
-Battle Chess
-Battle Chess: Enhanced CD-ROM
-Battle Chess II: Chinese Chess
-Battle Chess 4000
+This compilation includes:Battle ChessBattle Chess: Enhanced CD-ROMBattle Chess II: Chinese ChessBattle Chess 4000

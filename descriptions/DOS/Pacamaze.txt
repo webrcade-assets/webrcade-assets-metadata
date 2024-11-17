@@ -1,2 +1,1 @@
-Packamaze is a single player, keyboard controlled, 3D Pac-Man variant.
-In a normal Pac-Man game the player negotiates a maze and eats power pills to score points, in this game the pills are ammunition which they use to shoot ghosts and eventually the big boss Dr. Hell.
+Packamaze is a single player, keyboard controlled, 3D Pac-Man variant.In a normal Pac-Man game the player negotiates a maze and eats power pills to score points, in this game the pills are ammunition which they use to shoot ghosts and eventually the big boss Dr. Hell.

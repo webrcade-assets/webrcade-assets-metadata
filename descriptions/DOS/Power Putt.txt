@@ -1,8 +1,1 @@
-Power Putt is a shareware, computerised version of crazy golf.
-The game is controlled by a combination of keyboard controls and the mouse. Taking a shot is broken down into the following tasks.* The position on the tee is selected via the number keys
-
-the arrow keys are then used to set the direction of the shot
-finally there are two power bars which control the power and accuracy of the shot, these are set by either the ENTER key or a mouse button.
-
-Shots taken on the green are identical but, obviously, omit the tee selection stage. The game keeps track of the player.
-The game was released as single player, shareware game with just five holes while the full game which has eighteen holes and caters for more players was available upon registration.
+Power Putt is a shareware, computerised version of crazy golf.The game is controlled by a combination of keyboard controls and the mouse. Taking a shot is broken down into the following tasks.* The position on the tee is selected via the number keysthe arrow keys are then used to set the direction of the shotfinally there are two power bars which control the power and accuracy of the shot, these are set by either the ENTER key or a mouse button.Shots taken on the green are identical but, obviously, omit the tee selection stage. The game keeps track of the player.The game was released as single player, shareware game with just five holes while the full game which has eighteen holes and caters for more players was available upon registration.

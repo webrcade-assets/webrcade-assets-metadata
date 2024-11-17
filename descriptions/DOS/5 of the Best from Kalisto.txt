@@ -1,6 +1,1 @@
-This compilation contains:* Breakline
-
-Cogito
-S.C.Out
-The Tinies
-Fury of the Furries
+This compilation contains:* BreaklineCogitoS.C.OutThe TiniesFury of the Furries

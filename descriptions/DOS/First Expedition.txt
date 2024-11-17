@@ -1,2 +1,1 @@
-First Expedition is a naval simulation game.
-The player navigates the seas of an alien world in search of ancient artifacts. Gameplay involves navigation, interaction with natives, and fighting. Many aspects of seafaring have been modeled, including weather effects.
+First Expedition is a naval simulation game.The player navigates the seas of an alien world in search of ancient artifacts. Gameplay involves navigation, interaction with natives, and fighting. Many aspects of seafaring have been modeled, including weather effects.

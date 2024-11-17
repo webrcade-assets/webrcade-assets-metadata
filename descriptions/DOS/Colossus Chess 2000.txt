@@ -1,2 +1,1 @@
-Colossus Chess 2000 is a bundle of two older chess games: Colossus Chess X and Chessnet 3.
-While Colossus Chess X is a DOS-only application, and Chessnet 3 is a Windows 3.x application. The installation instructions are for Windows 3.x and Windows 95 and they are to be installed on their respective platform through separate installation programs.
+Colossus Chess 2000 is a bundle of two older chess games: Colossus Chess X and Chessnet 3.While Colossus Chess X is a DOS-only application, and Chessnet 3 is a Windows 3.x application. The installation instructions are for Windows 3.x and Windows 95 and they are to be installed on their respective platform through separate installation programs.

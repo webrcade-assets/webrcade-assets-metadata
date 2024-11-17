@@ -1,2 +1,1 @@
-Pong is a one or two player, monochrome, keyboard controlled implementation of the classic paddle game from the 1970's.
-This implementation has optional sound (i.e. bleeps) , three levels of computer AI and variable speed.
+Pong is a one or two player, monochrome, keyboard controlled implementation of the classic paddle game from the 1970's.This implementation has optional sound (i.e. bleeps) , three levels of computer AI and variable speed.

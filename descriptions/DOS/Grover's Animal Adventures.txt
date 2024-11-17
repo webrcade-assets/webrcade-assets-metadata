@@ -1,2 +1,1 @@
-Grover's Animal Adventures is an educational game for multiple systems.
-Grover explores a number of areas including: grasslands, ocean, barnyard, and forest.  Grover can walk around the area and choose a different animals and plants to place on the scene and interact with.
+Grover's Animal Adventures is an educational game for multiple systems.Grover explores a number of areas including: grasslands, ocean, barnyard, and forest.  Grover can walk around the area and choose a different animals and plants to place on the scene and interact with.

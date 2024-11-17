@@ -1,10 +1,1 @@
-Talking Teacher for Numbers is a teaching tool made up eight activities that focus on counting, addition and subtracting, and caters for ages 1 to 7. The following activities are:
-
-Keyboard Banger
-123 Song
-Phone Number
-Find the Number
-Easy Counting
-Addition Game
-Subtract Game
-Easy Draw II
+Talking Teacher for Numbers is a teaching tool made up eight activities that focus on counting, addition and subtracting, and caters for ages 1 to 7. The following activities are:Keyboard Banger123 SongPhone NumberFind the NumberEasy CountingAddition GameSubtract GameEasy Draw II

@@ -1,2 +1,1 @@
-Crossword Challenge is a single-player crossword game for DOS.
-The game can be played using just keyboard controls, but it also supports a Microsoft-compatible mouse to select menu items, cells on the crossword etc. It comes with 40 puzzles and an additional puzzle pack was also available on request.
+Crossword Challenge is a single-player crossword game for DOS.The game can be played using just keyboard controls, but it also supports a Microsoft-compatible mouse to select menu items, cells on the crossword etc. It comes with 40 puzzles and an additional puzzle pack was also available on request.

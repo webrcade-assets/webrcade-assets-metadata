@@ -1,3 +1,1 @@
-The game is based on the original Eight Ball Deluxe pinball machine by Bally from 1981.
-With support to high resolutions (1024x768) it only includes one pinball game.
-As special features the player can change the voltage levels and an un-common magnet ball option that allows guiding the ball and discovering the different combos for a best score.
+The game is based on the original Eight Ball Deluxe pinball machine by Bally from 1981.With support to high resolutions (1024x768) it only includes one pinball game.As special features the player can change the voltage levels and an un-common magnet ball option that allows guiding the ball and discovering the different combos for a best score.

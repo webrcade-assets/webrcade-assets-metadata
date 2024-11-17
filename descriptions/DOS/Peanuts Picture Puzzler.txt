@@ -1,2 +1,1 @@
-Peanuts Picture Puzzler is a Peanuts comic strip themed puzzle game for the Apple II.
-The player is shown a Peanuts themed picture, which is then divided into 4 blanked out sections. The picture must choose the correct piece for each section to complete the puzzle and watch an animated vignette. The player can choose timed or untimed puzzles.
+Peanuts Picture Puzzler is a Peanuts comic strip themed puzzle game for the Apple II.The player is shown a Peanuts themed picture, which is then divided into 4 blanked out sections. The picture must choose the correct piece for each section to complete the puzzle and watch an animated vignette. The player can choose timed or untimed puzzles.

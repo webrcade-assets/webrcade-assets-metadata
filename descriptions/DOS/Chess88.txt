@@ -1,2 +1,1 @@
-Chess88 is an early chess game of human player vs. computer player with up to six difficulty levels. The game only recognizes two keys: The Del key to select a chess piece and the Ins key to place a chess piece.
-At higher levels, the computer tends to take a lot of time in its turn: it could take up to several minutes to even hours if situated in a tight spot.
+Chess88 is an early chess game of human player vs. computer player with up to six difficulty levels. The game only recognizes two keys: The Del key to select a chess piece and the Ins key to place a chess piece.At higher levels, the computer tends to take a lot of time in its turn: it could take up to several minutes to even hours if situated in a tight spot.

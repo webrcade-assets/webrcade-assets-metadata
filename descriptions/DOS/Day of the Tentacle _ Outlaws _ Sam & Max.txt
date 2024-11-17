@@ -1,5 +1,1 @@
-This LucasArts compilation includes the following games:
-
-Maniac Mansion: Day of the Tentacle
-Outlaws for Windows
-Sam & Max: Hit the Road
+This LucasArts compilation includes the following games:Maniac Mansion: Day of the TentacleOutlaws for WindowsSam & Max: Hit the Road

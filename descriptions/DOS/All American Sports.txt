@@ -1,5 +1,1 @@
-Compilation of the three following games:
-
-Ultimate Baseball
-Pro Tennis Tour
-Ultimate Football
+Compilation of the three following games:Ultimate BaseballPro Tennis TourUltimate Football

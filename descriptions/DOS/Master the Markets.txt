@@ -1,5 +1,1 @@
-Master the Markets is a compilation of 3 business games for DOS:
-
-Baron: The Real Estate Simulation
-Millionaire: The Stock Market Simulation
-Tycoon: The Commodity Market Simulation
+Master the Markets is a compilation of 3 business games for DOS:Baron: The Real Estate SimulationMillionaire: The Stock Market SimulationTycoon: The Commodity Market Simulation

@@ -1,5 +1,1 @@
-This compilation includes:
-
-Der Planer (base game)
-Der Planer: Extra (add-on)
-disk with the v1.41 update
+This compilation includes:Der Planer (base game)Der Planer: Extra (add-on)disk with the v1.41 update

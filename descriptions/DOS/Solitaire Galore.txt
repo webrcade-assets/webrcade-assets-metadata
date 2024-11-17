@@ -1,5 +1,1 @@
-Solitaire Galore is a series of card games for MS-DOS.
-
-Golf : Players pull cards from the pile and place stacks with the goal of minimal score
-Klondike : Klondike solitaire, the player can place bets on the movement of cards
-Pyramid : Play cards in numerical combinations to score points and climb the pyramid
+Solitaire Galore is a series of card games for MS-DOS.Golf : Players pull cards from the pile and place stacks with the goal of minimal scoreKlondike : Klondike solitaire, the player can place bets on the movement of cardsPyramid : Play cards in numerical combinations to score points and climb the pyramid

@@ -1,5 +1,1 @@
-This is a compilation release for DOS that contains three Wisdom Tree games:
-
-Bible Adventures
-Exodus: Journey to the Promised Land
-Spiritual Warfare
+This is a compilation release for DOS that contains three Wisdom Tree games:Bible AdventuresExodus: Journey to the Promised LandSpiritual Warfare

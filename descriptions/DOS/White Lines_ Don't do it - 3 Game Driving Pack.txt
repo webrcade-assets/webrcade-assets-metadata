@@ -1,7 +1,1 @@
-This compilation includes the following 3 racing games plus 1 add-on:
-
-IndyCar Racing
-IndyCar Circuits Expansion Pack
-
-MicroProse Formula One Grand Prix
-SuperKarts
+This compilation includes the following 3 racing games plus 1 add-on:IndyCar RacingIndyCar Circuits Expansion PackMicroProse Formula One Grand PrixSuperKarts

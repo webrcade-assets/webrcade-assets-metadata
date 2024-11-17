@@ -1,2 +1,1 @@
-A Norwegian version of the original Robots for Unix.
-The clue is intelligence, the player has to control a man (ASCII character) around a field of robots, crashing them into each other.
+A Norwegian version of the original Robots for Unix.The clue is intelligence, the player has to control a man (ASCII character) around a field of robots, crashing them into each other.

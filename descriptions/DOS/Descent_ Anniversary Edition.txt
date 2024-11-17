@@ -1,4 +1,1 @@
-This is a re-release of the game Descent for its 1 year anniversary. It contains:
-
-Descent (base game)
-Descent: Levels of the World (scenario pack)
+This is a re-release of the game Descent for its 1 year anniversary. It contains:Descent (base game)Descent: Levels of the World (scenario pack)

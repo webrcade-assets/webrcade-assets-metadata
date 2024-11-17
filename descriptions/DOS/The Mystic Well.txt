@@ -1,9 +1,1 @@
-The Mystic Well is a Dungeon Master like RPG. A powerful wizard once enchanted his life force into a golden skull and then proclaimed himself to be a God. After his ascent to Godhood, he conquered the citadel known as Mystic Mirror to show his power. The player must now foil the evil wizard's plan on world destruction. The game consists of 10 levels and the player has won once he/she destroys the golden skull on the top level.
-The player may choose to play as one of the following four characters:
-
-Fighter: His best weapon is the sword and he gains 10 hp per level
-Rogue: Her agility is high and she gains most experience from found treasures. She gains 6 hp per level
-Priest: His vigor is high and he has the ability to pray. Praying grants some healing, some protection and a map of the surroundings. He gets 8 hp per level
-Wizard: He can use spell books without destroying them. He gains 4 hp per level
-
-At the left side of the screen the player sees the inventory, on the right side is the player status displayed and at the bottom are the command buttons.
+The Mystic Well is a Dungeon Master like RPG. A powerful wizard once enchanted his life force into a golden skull and then proclaimed himself to be a God. After his ascent to Godhood, he conquered the citadel known as Mystic Mirror to show his power. The player must now foil the evil wizard's plan on world destruction. The game consists of 10 levels and the player has won once he/she destroys the golden skull on the top level.The player may choose to play as one of the following four characters:Fighter: His best weapon is the sword and he gains 10 hp per levelRogue: Her agility is high and she gains most experience from found treasures. She gains 6 hp per levelPriest: His vigor is high and he has the ability to pray. Praying grants some healing, some protection and a map of the surroundings. He gets 8 hp per levelWizard: He can use spell books without destroying them. He gains 4 hp per levelAt the left side of the screen the player sees the inventory, on the right side is the player status displayed and at the bottom are the command buttons.

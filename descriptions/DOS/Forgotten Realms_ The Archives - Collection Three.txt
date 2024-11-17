@@ -1,7 +1,1 @@
-This collection includes:
-
-Blood & Magic
-Dungeon Hack
-Menzoberranzan
-
-It also contains a demo of Baldur's Gate.
+This collection includes:Blood & MagicDungeon HackMenzoberranzanIt also contains a demo of Baldur's Gate.

@@ -1,3 +1,1 @@
-Fue is a single player adventure game.
-In this game the player explores a wire frame style '3D' maze. It seems that within this maze lies the HQ if the FIRX Underground Empire, a factory that makes magical/technical items. It's been abandoned for centuries and is now home to strange creatures and weird machines.
-The object of the game is to explore the maze, beyond that who knows? The game's documentation says"You won't know what the object of the game is until you play for a while.".
+Fue is a single player adventure game.In this game the player explores a wire frame style '3D' maze. It seems that within this maze lies the HQ if the FIRX Underground Empire, a factory that makes magical/technical items. It's been abandoned for centuries and is now home to strange creatures and weird machines.The object of the game is to explore the maze, beyond that who knows? The game's documentation says"You won't know what the object of the game is until you play for a while.".

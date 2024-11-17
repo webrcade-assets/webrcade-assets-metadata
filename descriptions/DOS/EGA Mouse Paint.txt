@@ -1,2 +1,1 @@
-EGA Mouse Paint is a coloring program. It comes with a variety of templates to fill in, and an arrow paint mode. The arrow paint mode lets you create your own template to fill in.
-The program also features a timer and a screensaver.
+EGA Mouse Paint is a coloring program. It comes with a variety of templates to fill in, and an arrow paint mode. The arrow paint mode lets you create your own template to fill in.The program also features a timer and a screensaver.

@@ -1,12 +1,1 @@
-This compilation contains:
-
-Bad Street Brawler
-Bop'N Wrestle
-Into the Eagle's Nest
-Mind Dance
-Rock 'n Roll Trivia
-Tau Ceti
-The Great Escape
-The Mist
-Uridium
-Wizball
+This compilation contains:Bad Street BrawlerBop'N WrestleInto the Eagle's NestMind DanceRock 'n Roll TriviaTau CetiThe Great EscapeThe MistUridiumWizball

@@ -1,4 +1,1 @@
-X-Fire is a simple arcade shooter with a space-aliens theme.
-You spawn in the center of a grid corridor, the avatar is a circular red/green object shooting bullets in the same direction it moves.
-There are sprites of alien spaceships at the end of each corridor, that come at you one by one, shooting and hunting your ship.
-Each time a level is cleared it gets refilled with aliens again, and this continues until you quit.
+X-Fire is a simple arcade shooter with a space-aliens theme.You spawn in the center of a grid corridor, the avatar is a circular red/green object shooting bullets in the same direction it moves.There are sprites of alien spaceships at the end of each corridor, that come at you one by one, shooting and hunting your ship.Each time a level is cleared it gets refilled with aliens again, and this continues until you quit.

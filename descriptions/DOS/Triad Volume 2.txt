@@ -1,5 +1,1 @@
-This compilation includes three games, two from Psygnosis themselves:
-
-Tetris
-Menace
-Baal
+This compilation includes three games, two from Psygnosis themselves:TetrisMenaceBaal

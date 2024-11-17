@@ -1,14 +1,1 @@
-A compilation of 11 action games, all shareware versions.
-Most of them are known from Apogee and Epic MegaGames :
-
-01.: Duke Nukem II (Apogee)
-02.: Xargon: The Mystery of the Blue Builders - Beyond Reality (Epic MegaGames)
-03.: Halloween Harry (a.k.a. Alien Carnage) (Apogee)
-04.: Monster Bash (Apogee)
-05.: Electroman (a.k.a. Electro Body)
-06.: Kiloblaster 1 (Epic MegaGames)
-07.: OverKill (Epic MegaGames)
-08.: Solar Winds: The Escape (Epic MegaGames)
-09.: Corncob Deluxe (a.k.a. Corncob 3-D)
-10.: Duke Nukum: Episode 1 - Shrapnel City (Apogee)
-11.: Secret Agent (Apogee)
+A compilation of 11 action games, all shareware versions.Most of them are known from Apogee and Epic MegaGames :01.: Duke Nukem II (Apogee)02.: Xargon: The Mystery of the Blue Builders - Beyond Reality (Epic MegaGames)03.: Halloween Harry (a.k.a. Alien Carnage) (Apogee)04.: Monster Bash (Apogee)05.: Electroman (a.k.a. Electro Body)06.: Kiloblaster 1 (Epic MegaGames)07.: OverKill (Epic MegaGames)08.: Solar Winds: The Escape (Epic MegaGames)09.: Corncob Deluxe (a.k.a. Corncob 3-D)10.: Duke Nukum: Episode 1 - Shrapnel City (Apogee)11.: Secret Agent (Apogee)

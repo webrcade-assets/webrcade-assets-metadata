@@ -1,5 +1,1 @@
-A collection of three simulations:
-
-Sea: 688 Attack Sub
-Land: Indianapolis 500: The Simulation
-Air: F/A-18 Interceptor (Amiga release) or Stormovik: SU-25 Soviet Attack Fighter (DOS)
+A collection of three simulations:Sea: 688 Attack SubLand: Indianapolis 500: The SimulationAir: F/A-18 Interceptor (Amiga release) or Stormovik: SU-25 Soviet Attack Fighter (DOS)

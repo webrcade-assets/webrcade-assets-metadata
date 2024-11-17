@@ -1,3 +1,1 @@
-Green is an eco-strategy shareware game for one player.
-The game is based on a map which represents an idyllic rural area. The planners are out in force building pavements all over the landscape and the player must build walls and clear pathways in order to prevent them. Points are awarded for planners trapped / immobilised by walls and points are lost as the planners lay more pathways.
-The game is mouse controlled with function keys being used to access the in-game help and to quit.
+Green is an eco-strategy shareware game for one player.The game is based on a map which represents an idyllic rural area. The planners are out in force building pavements all over the landscape and the player must build walls and clear pathways in order to prevent them. Points are awarded for planners trapped / immobilised by walls and points are lost as the planners lay more pathways.The game is mouse controlled with function keys being used to access the in-game help and to quit.

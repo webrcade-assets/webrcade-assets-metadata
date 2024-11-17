@@ -1,3 +1,1 @@
-Hong Kong Mahjong is a single player, shareware, mahjong game that can be played either with the keyboard or with the mouse.
-As with the later game from Nine Dragons Software, Hong Kong Mahjong Pro, this game plays similarly to the card game Gin where you must accumulate straights or runs to win. 
-There is an in-game help text which explains the game and the scoring in detail.
+Hong Kong Mahjong is a single player, shareware, mahjong game that can be played either with the keyboard or with the mouse.As with the later game from Nine Dragons Software, Hong Kong Mahjong Pro, this game plays similarly to the card game Gin where you must accumulate straights or runs to win. There is an in-game help text which explains the game and the scoring in detail.

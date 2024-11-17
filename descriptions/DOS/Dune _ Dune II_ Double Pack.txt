@@ -1,4 +1,1 @@
-This compilation contains:
-
-Dune
-Dune II: Battle for Arrakis
+This compilation contains:DuneDune II: Battle for Arrakis

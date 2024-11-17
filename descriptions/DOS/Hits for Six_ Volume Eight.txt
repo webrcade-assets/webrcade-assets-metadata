@@ -1,8 +1,1 @@
-This compilation contains six games:
-
-Big Game Fishing
-Football Manager: World Cup Edition 1990
-International Tennis
-Netherworld
-Sid Meier's Railroad Tycoon
-Targhan
+This compilation contains six games:Big Game FishingFootball Manager: World Cup Edition 1990International TennisNetherworldSid Meier's Railroad TycoonTarghan

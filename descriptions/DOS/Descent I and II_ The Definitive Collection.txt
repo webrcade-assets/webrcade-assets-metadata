@@ -1,9 +1,1 @@
-This is a compilation of the games:
-
-Descent
-Descent: Levels of the World
-Descent II
-Descent II: Vertigo Series
-Descent Mission Builder II
-
-It came on three discs, with a small reference manual covering all the games and add-ons. The Levels of the World was a contest held by Interplay, with the winners being chosen for the add-on pack. The Vertigo Series was a new mission for Descent II. Mission Builder II was the level maker for both Descent and Descent II.
+This is a compilation of the games:DescentDescent: Levels of the WorldDescent IIDescent II: Vertigo SeriesDescent Mission Builder IIIt came on three discs, with a small reference manual covering all the games and add-ons. The Levels of the World was a contest held by Interplay, with the winners being chosen for the add-on pack. The Vertigo Series was a new mission for Descent II. Mission Builder II was the level maker for both Descent and Descent II.

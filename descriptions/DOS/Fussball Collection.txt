@@ -1,4 +1,1 @@
-This compilation contains the following 3 games:* ranSoccer
-
-ranTrainer
-ranTrainer 2
+This compilation contains the following 3 games:* ranSoccerranTrainerranTrainer 2

@@ -1,6 +1,1 @@
-This package bundles two sports games published by Ocean Software:
-
-European Champions
-International Open Golf Championship
-
-The package also includes a set of three Spalding golf balls, engraved with the Ocean Software logo.
+This package bundles two sports games published by Ocean Software:European ChampionsInternational Open Golf ChampionshipThe package also includes a set of three Spalding golf balls, engraved with the Ocean Software logo.

@@ -1,5 +1,1 @@
-This is a golf course add-on for use with either Jack Nicklaus' Greatest 18 Holes of Major Championship Golf or Jack Nicklaus' Unlimited Golf & Course Design. It contains the following courses:
-
-Hazeltine National Golf Club (U.S. Open Championship)
-Birkdale Golf Club (British Open Championship)
-Crooked Stick Golf Club (PGA Championship)
+This is a golf course add-on for use with either Jack Nicklaus' Greatest 18 Holes of Major Championship Golf or Jack Nicklaus' Unlimited Golf & Course Design. It contains the following courses:Hazeltine National Golf Club (U.S. Open Championship)Birkdale Golf Club (British Open Championship)Crooked Stick Golf Club (PGA Championship)

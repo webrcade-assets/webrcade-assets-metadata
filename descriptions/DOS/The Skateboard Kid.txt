@@ -1,2 +1,1 @@
-In The Skateboard Kid, you are in control of a teen out on an adventure to save the city of Rehovot, Israel from the curse of an evil sorcerer.
-The game is a 2D side-scrolling platform game which includes some elements of collecting specific items in the level in order to be able to overcome certain obstacles and progress onto the next level.
+In The Skateboard Kid, you are in control of a teen out on an adventure to save the city of Rehovot, Israel from the curse of an evil sorcerer.The game is a 2D side-scrolling platform game which includes some elements of collecting specific items in the level in order to be able to overcome certain obstacles and progress onto the next level.

@@ -1,3 +1,1 @@
-Perfect Flight is an add-on pack for Microsoft Flight Simulator (v5.0).
-It includes 19 new aircraft, scenery for all of the United Kingdom, the Scottish Highlands and Iceland plus an "Island Hopping Campaign" with flight plans to other areas of Europe, Gibraltar, the Canaries and the Azores.
-The package also includes a book detailing 30 flights in and around the British Isles.
+Perfect Flight is an add-on pack for Microsoft Flight Simulator (v5.0).It includes 19 new aircraft, scenery for all of the United Kingdom, the Scottish Highlands and Iceland plus an "Island Hopping Campaign" with flight plans to other areas of Europe, Gibraltar, the Canaries and the Azores.The package also includes a book detailing 30 flights in and around the British Isles.

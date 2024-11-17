@@ -1,2 +1,1 @@
-Back to Baghdad is a simulation of the air war over Iraq a few years after the end of the Gulf War, with you taking the place of a F-16 pilot in a series of "one off" missions.
-The game included a fairly detailed rendering of the F-16, it's cockpit and systems. The terrain engine mapped most of southern Iraq using satellite imagery, and did all of this with a software renderer.
+Back to Baghdad is a simulation of the air war over Iraq a few years after the end of the Gulf War, with you taking the place of a F-16 pilot in a series of "one off" missions.The game included a fairly detailed rendering of the F-16, it's cockpit and systems. The terrain engine mapped most of southern Iraq using satellite imagery, and did all of this with a software renderer.

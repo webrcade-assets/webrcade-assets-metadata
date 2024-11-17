@@ -1,16 +1,1 @@
-Das neue Spielepaket is a compilation of shareware games. 
-The following games are included:
-
-Backgammon-Pro
-Beyond Columns
-Chinese Checkers
-Super Kniffel
-Mah Jongg-VGA
-Master Mind
-Mensch Ärger Dich Nicht
-Psion-Chess
-Battleship
-Shooting Gallery
-PC-Skat
-Darnit
-Wan Tang
+Das neue Spielepaket is a compilation of shareware games. The following games are included:Backgammon-ProBeyond ColumnsChinese CheckersSuper KniffelMah Jongg-VGAMaster MindMensch Ärger Dich NichtPsion-ChessBattleshipShooting GalleryPC-SkatDarnitWan Tang

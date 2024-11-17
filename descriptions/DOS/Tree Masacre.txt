@@ -1,4 +1,1 @@
-Tree Masacre is a single player, keyboard controlled, arcade skiing game written by
-Mark Botta. It was developed as a programming exercise in QuickBASIC and it is freeware.
-The player controls a character who is skiing down a long slope. Despite what the title says, points are gained for NOT hitting the trees. The game keeps a total of trees passed and retains a high score for each gaming session but which is not retained from one session to the next.
-When the player hits a tree the game is over, their current score is reset to zero and the game starts again.
+Tree Masacre is a single player, keyboard controlled, arcade skiing game written byMark Botta. It was developed as a programming exercise in QuickBASIC and it is freeware.The player controls a character who is skiing down a long slope. Despite what the title says, points are gained for NOT hitting the trees. The game keeps a total of trees passed and retains a high score for each gaming session but which is not retained from one session to the next.When the player hits a tree the game is over, their current score is reset to zero and the game starts again.

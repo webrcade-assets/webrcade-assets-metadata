@@ -1,2 +1,1 @@
-Viper is a single-player shareware Snake variant.
-You control a snake which tail grows as you feed him. Just avoid turning back on yourself and hitting "walls". The snake is controlled by the keyboard, you can also control the game speed and also toggle sound on or off. Advanced players will hit the F7 key to lengthen their Viper.
+Viper is a single-player shareware Snake variant.You control a snake which tail grows as you feed him. Just avoid turning back on yourself and hitting "walls". The snake is controlled by the keyboard, you can also control the game speed and also toggle sound on or off. Advanced players will hit the F7 key to lengthen their Viper.

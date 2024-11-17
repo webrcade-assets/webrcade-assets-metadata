@@ -1,2 +1,1 @@
-This is a collection of 2500 levels, tools, editors and cheats for the popular games Doom, Doom II, Heretic, Dark Forces, Descent and Rise of the Triad.
-Every game has its own level manager, and depending of the game the manager will be able to not only launch levels, but partial conversion, new sounds or graphics.
+This is a collection of 2500 levels, tools, editors and cheats for the popular games Doom, Doom II, Heretic, Dark Forces, Descent and Rise of the Triad.Every game has its own level manager, and depending of the game the manager will be able to not only launch levels, but partial conversion, new sounds or graphics.

@@ -1,2 +1,1 @@
-IBM PC Blackjack is a simple, single-player, keyboard-operated card game. It has no help file, keeps no history or statistics, no options to customise and has no sound effects.
-The player starts with a $500 pot and can bet any amount they like up to that limit. All input is via the keyboard, H - Hit, S - Split etc. After each hand the 'dealer' makes a funny comment.
+IBM PC Blackjack is a simple, single-player, keyboard-operated card game. It has no help file, keeps no history or statistics, no options to customise and has no sound effects.The player starts with a $500 pot and can bet any amount they like up to that limit. All input is via the keyboard, H - Hit, S - Split etc. After each hand the 'dealer' makes a funny comment.

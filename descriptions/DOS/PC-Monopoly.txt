@@ -1,2 +1,1 @@
-PC-Monopoly is a freeware implementation of the classic Parker Brothers Monopoly board game, this implementation supports up to six players.
-This game has no player vs computer option but it does have a save/load function.
+PC-Monopoly is a freeware implementation of the classic Parker Brothers Monopoly board game, this implementation supports up to six players.This game has no player vs computer option but it does have a save/load function.

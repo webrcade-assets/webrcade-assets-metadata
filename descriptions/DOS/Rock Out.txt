@@ -1,2 +1,1 @@
-Rock Out is a single player, keyboard-controlled, Breakout clone.
-This game plays in a very narrow letter-box type screen in which the paddle is on the right of the screen and the blocks are on the left, but aside the game plays as expected. The player controls the paddle with the up/down arrow keys and launches the ball by pressing ENTER.
+Rock Out is a single player, keyboard-controlled, Breakout clone.This game plays in a very narrow letter-box type screen in which the paddle is on the right of the screen and the blocks are on the left, but aside the game plays as expected. The player controls the paddle with the up/down arrow keys and launches the ball by pressing ENTER.

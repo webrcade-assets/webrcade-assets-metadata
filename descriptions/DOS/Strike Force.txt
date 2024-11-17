@@ -1,6 +1,1 @@
-Strike Force is a compilation consisting of the following games for DOS:
-
-Flightmare
-Kamikazi Alien (here called Kamikaze)
-The Red Baron
-Striker
+Strike Force is a compilation consisting of the following games for DOS:FlightmareKamikazi Alien (here called Kamikaze)The Red BaronStriker

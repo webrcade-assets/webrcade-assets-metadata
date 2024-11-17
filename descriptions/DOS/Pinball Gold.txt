@@ -1,14 +1,1 @@
-This is a shareware compilation containing pinball tables of 12 pinball games released previously. At the time, the first 10 games had been released for DOS while the last two require Windows:
-
-Epic Pinball
-Silverball
-Pinball Fantasies
-Pinball Dreams
-Pinball Magic
-Willy's Pinball
-Protect 2
-Diabolo Pinball
-Pinball Dream 2
-Extreme Pinball
-Julietta
-Ultra Pinball
+This is a shareware compilation containing pinball tables of 12 pinball games released previously. At the time, the first 10 games had been released for DOS while the last two require Windows:Epic PinballSilverballPinball FantasiesPinball DreamsPinball MagicWilly's PinballProtect 2Diabolo PinballPinball Dream 2Extreme PinballJuliettaUltra Pinball

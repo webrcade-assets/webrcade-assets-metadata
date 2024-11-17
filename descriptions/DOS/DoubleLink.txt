@@ -1,5 +1,1 @@
-DoubleLink is a single player, shareware, falling block game.
-In this game the falling blocks are bi-coloured capsules. The game area is populated with 'meanies', coloured frowning faces, and the objective is to clear these by making rows of four blocks of the same colour. This scores points and makes the blocks and any 'meanies' the row contains disappear.
-Note 1: Blocks only disappear in groups of four, if a longer string is formed then the surplus blocks will be left behind
-Note 2: diagonal rows do not count in this game.
-There are ten levels in this game, the harder the level the more 'meanies' are on screen at the start of the game. The game is entirely keyboard controlled.
+DoubleLink is a single player, shareware, falling block game.In this game the falling blocks are bi-coloured capsules. The game area is populated with 'meanies', coloured frowning faces, and the objective is to clear these by making rows of four blocks of the same colour. This scores points and makes the blocks and any 'meanies' the row contains disappear.Note 1: Blocks only disappear in groups of four, if a longer string is formed then the surplus blocks will be left behindNote 2: diagonal rows do not count in this game.There are ten levels in this game, the harder the level the more 'meanies' are on screen at the start of the game. The game is entirely keyboard controlled.

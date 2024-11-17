@@ -1,17 +1,1 @@
-This compilation contains nearly all (at the time of release) of D&D / AD&D's Forgotten Realms games released for the PC.
-The following 12 games are included in an oversized box:
-
-Curse of the Azure Bonds
-Dungeon Hack
-Eye of the Beholder
-Eye of the Beholder II: The Legend of Darkmoon
-Eye of the Beholder III: Assault on Myth Drannor
-Gateway to the Savage Frontier
-Hillsfar
-Menzoberranzan
-Pools of Darkness
-Pool of Radiance
-Secret of the Silver Blades
-Treasures of the Savage Frontier
-
-In addition, a demo of Blood & Magic is also included.
+This compilation contains nearly all (at the time of release) of D&D / AD&D's Forgotten Realms games released for the PC.The following 12 games are included in an oversized box:Curse of the Azure BondsDungeon HackEye of the BeholderEye of the Beholder II: The Legend of DarkmoonEye of the Beholder III: Assault on Myth DrannorGateway to the Savage FrontierHillsfarMenzoberranzanPools of DarknessPool of RadianceSecret of the Silver BladesTreasures of the Savage FrontierIn addition, a demo of Blood & Magic is also included.

@@ -1,2 +1,1 @@
-Mr. Muncher is a single player, keyboard controlled, Pac-Man style game.
-The game was released as a freeware beta-test version with thirty-two boards to play and a board editor. A full version with eighty levels was promised at a later date.
+Mr. Muncher is a single player, keyboard controlled, Pac-Man style game.The game was released as a freeware beta-test version with thirty-two boards to play and a board editor. A full version with eighty levels was promised at a later date.

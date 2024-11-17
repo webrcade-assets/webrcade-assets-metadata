@@ -1,4 +1,1 @@
-This compilation includes:
-
-SimCity
-Populous
+This compilation includes:SimCityPopulous

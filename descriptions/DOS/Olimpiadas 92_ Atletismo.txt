@@ -1,12 +1,1 @@
-"Olimpiadas 92: Atletismo" was one of the two games created by Topo Soft to commemorate the Olympic Games celebrated in Barcelona in the year 1992 (the other game was "Olimpiadas 92: Gimnasia Deportiva").
-In "Olimpiadas 92: Atletismo", the player, representing one of the six teams availables (Japan, Germany, United States, France, Spain and United Kingdom) must compete in a sort of "mini" decathlon competition, composed only by 6 disciplines. These disciplines are:
-
-100 meters.
-110 meters hurdles.
-Long jump.
-Triple jump.
-High jump.
-Pole vaulting.
-
-The player, before compete in the main competition, has the option to train each discipline separately.
-The control of the virtual athlete is the classical in this kind of games. So, for make run the athlete the player must hit, quickly and alternatively, two keys of the keyboard.
+"Olimpiadas 92: Atletismo" was one of the two games created by Topo Soft to commemorate the Olympic Games celebrated in Barcelona in the year 1992 (the other game was "Olimpiadas 92: Gimnasia Deportiva").In "Olimpiadas 92: Atletismo", the player, representing one of the six teams availables (Japan, Germany, United States, France, Spain and United Kingdom) must compete in a sort of "mini" decathlon competition, composed only by 6 disciplines. These disciplines are:100 meters.110 meters hurdles.Long jump.Triple jump.High jump.Pole vaulting.The player, before compete in the main competition, has the option to train each discipline separately.The control of the virtual athlete is the classical in this kind of games. So, for make run the athlete the player must hit, quickly and alternatively, two keys of the keyboard.

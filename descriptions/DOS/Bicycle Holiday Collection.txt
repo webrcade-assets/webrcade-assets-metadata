@@ -1,6 +1,1 @@
-Bicycle Holiday Collection is a collection of four previously released card games.
-
-Bicycle Bridge
-Bicycle Cribbage
-Bicycle Poker
-Bicycle Solitaire
+Bicycle Holiday Collection is a collection of four previously released card games.Bicycle BridgeBicycle CribbageBicycle PokerBicycle Solitaire

@@ -1,4 +1,1 @@
-This is a golf course add-on for use with either Jack Nicklaus' Greatest 18 Holes of Major Championship Golf or Jack Nicklaus' Unlimited Golf & Course Design. It contains the following courses:
-1. Pebble Beach Golf Links
-2. Oakmont Country Club
-3. Baltusrol Golf Club
+This is a golf course add-on for use with either Jack Nicklaus' Greatest 18 Holes of Major Championship Golf or Jack Nicklaus' Unlimited Golf & Course Design. It contains the following courses:1. Pebble Beach Golf Links2. Oakmont Country Club3. Baltusrol Golf Club

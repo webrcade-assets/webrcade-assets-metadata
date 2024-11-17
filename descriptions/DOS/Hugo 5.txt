@@ -1,7 +1,1 @@
-The evil witch Hexana kidnapped Hugo's family and he has to rescue them in simple jump´n Run similar games. This game contains four ported levels from the popular TV show:
-Level 1: Skydiving
-Level 2: Sledding
-Level 3: Climbing
-Level 4: Pole run
-Endgame: Bounce chessboard
-In every playthrough you have to beat (three levels  which you choose before) and the endgame. Because the levels were created for a TV show were you had to control Hugo with your phone buttons, the controls are simple: Depending on the level there are just two or three buttons to press at the right time.
+The evil witch Hexana kidnapped Hugo's family and he has to rescue them in simple jump´n Run similar games. This game contains four ported levels from the popular TV show:Level 1: SkydivingLevel 2: SleddingLevel 3: ClimbingLevel 4: Pole runEndgame: Bounce chessboardIn every playthrough you have to beat (three levels  which you choose before) and the endgame. Because the levels were created for a TV show were you had to control Hugo with your phone buttons, the controls are simple: Depending on the level there are just two or three buttons to press at the right time.

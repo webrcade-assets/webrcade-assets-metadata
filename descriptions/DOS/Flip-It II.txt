@@ -1,3 +1,1 @@
-Flip-It II is a 1-player versus computer version of the board game Othello.
-Each player takes a turn placing a colored piece on the board, with the goal being to capture the opponent's pieces between two of their own pieces. When the board is filled, or no further moves are available, the player with the most pieces is the winner.
-This is a rewrite of the original Flip-It.
+Flip-It II is a 1-player versus computer version of the board game Othello.Each player takes a turn placing a colored piece on the board, with the goal being to capture the opponent's pieces between two of their own pieces. When the board is filled, or no further moves are available, the player with the most pieces is the winner.This is a rewrite of the original Flip-It.

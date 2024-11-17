@@ -1,8 +1,1 @@
-British Square is a single player, strategy game that is played against the computer on a 5x5 grid.
-Players take turns placing pieces on to the grid until neither has a valid move remaining. There are only two rules:
-
-The first move of the game may not be to the centre square.
-A player cannot move to a square that faces another player's piece
-
-The winner is the player who placed the most pieces, they score the difference between the number of pieces they placed and the number placed by their opponent. The winner of a match is the first to score seven points
-The game has music and a command-line parameter to play in 'easy' mode.
+British Square is a single player, strategy game that is played against the computer on a 5x5 grid.Players take turns placing pieces on to the grid until neither has a valid move remaining. There are only two rules:The first move of the game may not be to the centre square.A player cannot move to a square that faces another player's pieceThe winner is the player who placed the most pieces, they score the difference between the number of pieces they placed and the number placed by their opponent. The winner of a match is the first to score seven pointsThe game has music and a command-line parameter to play in 'easy' mode.

@@ -1,16 +1,1 @@
-Tommy's Patience Tommy's Patience is a shareware, single-player card game. This implementation includes the following patience variants:
-
-Accordion
-Klondike
-Canfield
-Scorpion
-
-Each game is scored using it's own, game appropriate, formula.
-For example Accordion scores are calculated using the formula 10000-A-B-C-D where:
-
-A = 50 x (the number of piles remaining - not counting the first pile)
-B = 100 x the number of cards remaining on the 2nd and subsequent piles
-C = the number of moves made
-D = 200 x the cards not drawn from the deck (this part of the formula ensures that partial scores never exceed final scores)
-
-As with most of Tommy's games it uses character graphics and is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display
+Tommy's Patience Tommy's Patience is a shareware, single-player card game. This implementation includes the following patience variants:AccordionKlondikeCanfieldScorpionEach game is scored using it's own, game appropriate, formula.For example Accordion scores are calculated using the formula 10000-A-B-C-D where:A = 50 x (the number of piles remaining - not counting the first pile)B = 100 x the number of cards remaining on the 2nd and subsequent pilesC = the number of moves madeD = 200 x the cards not drawn from the deck (this part of the formula ensures that partial scores never exceed final scores)As with most of Tommy's games it uses character graphics and is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

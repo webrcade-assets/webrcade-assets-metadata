@@ -1,5 +1,1 @@
-Arcade Game Pak Vol. 2 is a compilation of 3 previously-released DOS games.
-
-AstroFire
-Electro Man
-Patriot Command
+Arcade Game Pak Vol. 2 is a compilation of 3 previously-released DOS games.AstroFireElectro ManPatriot Command

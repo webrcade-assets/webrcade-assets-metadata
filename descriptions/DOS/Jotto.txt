@@ -1,2 +1,1 @@
-Jotto is a single player, shareware, word guessing game.
-The player must guess a the letters in a word by trying different other letter combinations. The computer will then tell the player how many "jots" they have, a jot being the right letter in the right place. The goal is to guess the word, which can be three, five or seven letters long, in as few turns as possible.
+Jotto is a single player, shareware, word guessing game.The player must guess a the letters in a word by trying different other letter combinations. The computer will then tell the player how many "jots" they have, a jot being the right letter in the right place. The goal is to guess the word, which can be three, five or seven letters long, in as few turns as possible.

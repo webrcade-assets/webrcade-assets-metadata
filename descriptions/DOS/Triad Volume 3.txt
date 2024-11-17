@@ -1,5 +1,1 @@
-This compilation includes three games:
-
-Speedball
-Blood Money
-Rocket Ranger
+This compilation includes three games:SpeedballBlood MoneyRocket Ranger

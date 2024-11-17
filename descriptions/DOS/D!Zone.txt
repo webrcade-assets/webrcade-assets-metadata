@@ -1,3 +1,1 @@
-This is a large collection of over 900 levels for DOOM and DOOM II: Hell on Earth. Also included are a number of utilities, such as Windows conversions to add DOOM graphics to Windows, and a DOOM WAD Installation shell called D!.
-These levels were gathered from many level designers, they were not written by Wizardworks. Wizardworks gathered the levels and released them all on one CD.
-A full version of DOOM V. 1.666 or DOOM II is required to run these levels.
+This is a large collection of over 900 levels for DOOM and DOOM II: Hell on Earth. Also included are a number of utilities, such as Windows conversions to add DOOM graphics to Windows, and a DOOM WAD Installation shell called D!.These levels were gathered from many level designers, they were not written by Wizardworks. Wizardworks gathered the levels and released them all on one CD.A full version of DOOM V. 1.666 or DOOM II is required to run these levels.

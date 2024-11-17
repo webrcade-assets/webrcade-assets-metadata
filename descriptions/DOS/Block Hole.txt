@@ -1,2 +1,1 @@
-Block Hole is a Tetris variant. Instead of a regular playing field, the playing field is plus-shaped, and blocks fall towards the center from any of the four sides. Rows are completed normally, though in any of the four directions.
-This game was distributed as shareware. The only limitation is that the game stops at 20,000 points.
+Block Hole is a Tetris variant. Instead of a regular playing field, the playing field is plus-shaped, and blocks fall towards the center from any of the four sides. Rows are completed normally, though in any of the four directions.This game was distributed as shareware. The only limitation is that the game stops at 20,000 points.

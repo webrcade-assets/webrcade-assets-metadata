@@ -1,8 +1,1 @@
-6 CD-ROM Superspiele is a compilation of six shareware games:
-
-Blocker
-Handicap
-Quix
-Search
-Kartell
-Skat
+6 CD-ROM Superspiele is a compilation of six shareware games:BlockerHandicapQuixSearchKartellSkat

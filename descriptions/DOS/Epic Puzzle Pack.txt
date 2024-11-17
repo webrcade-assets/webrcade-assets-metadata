@@ -1,5 +1,1 @@
-This compilation contains three games, developed by xLand Games :
-
-The Adventures of Robbo
-Electroman
-Heartlight
+This compilation contains three games, developed by xLand Games :The Adventures of RobboElectromanHeartlight

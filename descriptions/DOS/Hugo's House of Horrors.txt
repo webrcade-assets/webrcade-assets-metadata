@@ -1,7 +1,1 @@
-Hugo's House of Horrors is a compilation of three Hugo games. It contains:
-
-Hugo's House of Horrors
-Hugo II: Whodunit?
-Hugo III: Jungle of Doom
-
-The three games come on a single CD-ROM. The original command line interface is used.
+Hugo's House of Horrors is a compilation of three Hugo games. It contains:Hugo's House of HorrorsHugo II: Whodunit?Hugo III: Jungle of DoomThe three games come on a single CD-ROM. The original command line interface is used.

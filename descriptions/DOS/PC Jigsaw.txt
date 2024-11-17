@@ -1,9 +1,1 @@
-PC Jigsaw is a single player, shareware jigsaw puzzle game.
-The game does not cut interlocking pieces as modern games do, instead it divides the picture into rectangles and shuffles them. The shareware version 1.1 of game comes with four pictures and four levels of difficulty:* a kids level which breaks the picture into a 3x3 grid (this was new in version 1.1)
-
-a novice level which uses a 4x4 grid
-a medium level which uses a 6x6 grid
-an expert level which uses a 7x7 grid
-
-Pieces are moved with the mouse or the keyboard, the player uses either method to select one piece then they select another and the two pieces swap their positions. At the end of a puzzle the game gives the player a rating from BAD to A+.
-Upon registration of the shareware version the purchaser was sent two discs with additional images together with the latest version of PC Jigsaw.
+PC Jigsaw is a single player, shareware jigsaw puzzle game.The game does not cut interlocking pieces as modern games do, instead it divides the picture into rectangles and shuffles them. The shareware version 1.1 of game comes with four pictures and four levels of difficulty:* a kids level which breaks the picture into a 3x3 grid (this was new in version 1.1)a novice level which uses a 4x4 grida medium level which uses a 6x6 gridan expert level which uses a 7x7 gridPieces are moved with the mouse or the keyboard, the player uses either method to select one piece then they select another and the two pieces swap their positions. At the end of a puzzle the game gives the player a rating from BAD to A+.Upon registration of the shareware version the purchaser was sent two discs with additional images together with the latest version of PC Jigsaw.

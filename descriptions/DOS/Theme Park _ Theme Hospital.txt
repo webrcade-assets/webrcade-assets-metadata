@@ -1,4 +1,1 @@
-This compilation includes:
-
-Theme Park
-Theme Hospital
+This compilation includes:Theme ParkTheme Hospital

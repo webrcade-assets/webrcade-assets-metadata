@@ -1,6 +1,1 @@
-This compilation includes the following 4 games:
-
-Lemmings 2: The Tribes
-Serf City: Life is Feudal (The Settlers)
-Star Wars: Rebel Assault
-Zeppelin! Command a Global Airship Empire (Zeppelin: Giants of the Sky)
+This compilation includes the following 4 games:Lemmings 2: The TribesSerf City: Life is Feudal (The Settlers)Star Wars: Rebel AssaultZeppelin! Command a Global Airship Empire (Zeppelin: Giants of the Sky)

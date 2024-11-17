@@ -1,3 +1,1 @@
-Jeu De Dames is a French, shareware, keyboard controlled Checkers or Draughts game.
-In this game all the black active squares on the board are numbered. The player makes a move by entering the start and destination squares in the form 36-25. The colour of the remaining squares can be changed by pressing the 'C' key.
-In this implementation of the game the player always plays as white, the player does not have to take a piece when offered.
+Jeu De Dames is a French, shareware, keyboard controlled Checkers or Draughts game.In this game all the black active squares on the board are numbered. The player makes a move by entering the start and destination squares in the form 36-25. The colour of the remaining squares can be changed by pressing the 'C' key.In this implementation of the game the player always plays as white, the player does not have to take a piece when offered.

@@ -1,14 +1,1 @@
-Advanced Math Shop is a shopping related math game for multiple systems.
-Contains a number of math related shopping games, which the player walks through a mall to interact with* Phoebe's Functional Machine - The player inputs two numbers into a random function attempting to reach the desired solution
-
-Rubic's Ice Emporium - The player tries to sum cubes to reach the desired value
-Slice of Life Pies - The player must multiple fractions to reach the desired product
-Quality Equations - The player must solve X to complete an equation
-Just Jelly Beans - The player has 4 jars of jelly beans, and the player must choose the correct bad to serve all 4, and how many bags of each
-Pat's Party Shop - The player has 2 boxes of party hats and noisemaker,. and must choose how many needed to meet an order
-Blanket Security - The player must solve an equation for several scenarios by inserting 2 numbers
-Square Deal Carpets - The player must sum squares to reach the desired solution
-Chunk E. Cheese - The player must sum fractions to reach a desired number
-Odd Lot Soda - The player must fill bottles, crates, and cases to ship a desired number of products
-
-After 5 correct answers, the difficulty for each section increases.
+Advanced Math Shop is a shopping related math game for multiple systems.Contains a number of math related shopping games, which the player walks through a mall to interact with* Phoebe's Functional Machine - The player inputs two numbers into a random function attempting to reach the desired solutionRubic's Ice Emporium - The player tries to sum cubes to reach the desired valueSlice of Life Pies - The player must multiple fractions to reach the desired productQuality Equations - The player must solve X to complete an equationJust Jelly Beans - The player has 4 jars of jelly beans, and the player must choose the correct bad to serve all 4, and how many bags of eachPat's Party Shop - The player has 2 boxes of party hats and noisemaker,. and must choose how many needed to meet an orderBlanket Security - The player must solve an equation for several scenarios by inserting 2 numbersSquare Deal Carpets - The player must sum squares to reach the desired solutionChunk E. Cheese - The player must sum fractions to reach a desired numberOdd Lot Soda - The player must fill bottles, crates, and cases to ship a desired number of productsAfter 5 correct answers, the difficulty for each section increases.

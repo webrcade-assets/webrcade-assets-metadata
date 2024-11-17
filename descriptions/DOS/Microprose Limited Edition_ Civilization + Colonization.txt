@@ -1,4 +1,1 @@
-This compilation contains:
-
-Sid Meier's Colonization
-Sid Meier's Civilization
+This compilation contains:Sid Meier's ColonizationSid Meier's Civilization

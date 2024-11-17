@@ -1,4 +1,1 @@
-This compilation contains:* Air Warrior
-
-Cyberchess
-Global Effect
+This compilation contains:* Air WarriorCyberchessGlobal Effect

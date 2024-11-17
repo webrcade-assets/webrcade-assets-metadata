@@ -1,11 +1,1 @@
-A classic game package that includes five games:
-
-Airplane Factory : build planes to be imported into Chuck Yeager's Advanced Flight Trainer.
-
-Chuck Yeager's Advanced Flight Trainer : learn how to do acrobatic flight maneuvers in fourteen different advanced airplanes.
-
-Paperboy : avoid obstacles while making sure all the papers are delivered in this simulation of the tough life of a paperboy.
-
-Superstar Indoor Sports : play ping-pong, bowling, air hockey and darts in this indoor sports simulation.
-
-Test Drive : get behind the wheel of five different sports cars as you weave through traffic going as fast as you can while avoiding cops.
+A classic game package that includes five games:Airplane Factory : build planes to be imported into Chuck Yeager's Advanced Flight Trainer.Chuck Yeager's Advanced Flight Trainer : learn how to do acrobatic flight maneuvers in fourteen different advanced airplanes.Paperboy : avoid obstacles while making sure all the papers are delivered in this simulation of the tough life of a paperboy.Superstar Indoor Sports : play ping-pong, bowling, air hockey and darts in this indoor sports simulation.Test Drive : get behind the wheel of five different sports cars as you weave through traffic going as fast as you can while avoiding cops.

@@ -1,2 +1,1 @@
-Compuzzler is a 1-player crossword puzzle game for multiple systems.
-Contains numerous difficulties of crossword puzzles. The player can have the computer autocorrect incorrect answers, and the player can request additional hints. The player can create custom puzzles and print them out.
+Compuzzler is a 1-player crossword puzzle game for multiple systems.Contains numerous difficulties of crossword puzzles. The player can have the computer autocorrect incorrect answers, and the player can request additional hints. The player can create custom puzzles and print them out.

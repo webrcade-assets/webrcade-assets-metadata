@@ -1,2 +1,1 @@
-Animated New Testament is a simple educational game for learning the books of the Christian New Testament. Given a list of the books, you click on each book in order of appearance. (There is no penalty for choosing wrong.) Once complete, an animation plays.
-This game was distributed as freeware, but a request was made to consider registering one of the author's other games.
+Animated New Testament is a simple educational game for learning the books of the Christian New Testament. Given a list of the books, you click on each book in order of appearance. (There is no penalty for choosing wrong.) Once complete, an animation plays.This game was distributed as freeware, but a request was made to consider registering one of the author's other games.

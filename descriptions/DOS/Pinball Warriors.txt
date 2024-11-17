@@ -1,3 +1,1 @@
-Pinball Warriors is a pinball simulation which features four tables: Robot, Samurai, Dragon, and Atlantis. Each table is introduced with a specific 3D-rendered animation.
-As in most pinball games, the objective is to score as many points and as possible by hitting the bumpers and targets in the correct sequence and unlocking score multipliers. A game starts with 5 balls and ends when the last ball is lost.
-The game can be played by 1 to 4 players.
+Pinball Warriors is a pinball simulation which features four tables: Robot, Samurai, Dragon, and Atlantis. Each table is introduced with a specific 3D-rendered animation.As in most pinball games, the objective is to score as many points and as possible by hitting the bumpers and targets in the correct sequence and unlocking score multipliers. A game starts with 5 balls and ends when the last ball is lost.The game can be played by 1 to 4 players.

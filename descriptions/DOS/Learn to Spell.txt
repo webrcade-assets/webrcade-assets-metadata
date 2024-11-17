@@ -1,2 +1,1 @@
-Learn to Spell is a 1-player education game for multiple systems.
-The player controls a dolphin, which collects fragments of 3-letter words, and returns them to a submarine. The submarine displays either the beginning or ending of words, and as the player makes words, points are displayed on the submarine. When all submarine points are completed, the player descends to a lower level.
+Learn to Spell is a 1-player education game for multiple systems.The player controls a dolphin, which collects fragments of 3-letter words, and returns them to a submarine. The submarine displays either the beginning or ending of words, and as the player makes words, points are displayed on the submarine. When all submarine points are completed, the player descends to a lower level.

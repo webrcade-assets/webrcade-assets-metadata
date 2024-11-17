@@ -1,11 +1,1 @@
-Journey to the Promised Land is a Bible Quiz game for 1-4 players.
-The game is presented as a table-top game where the players choose 
-figures to move on a map from Egypt to Jericho, representing the Exodus 
-journey, while answering (mostly) questions from the Bible on the way.
-If the player answer is correct, the player piece moves forward on both a 
-top-down map and in a 2D view of a landscape, which changes along the map 
-route, depicting the general area where the players piece are located.
-If the player answers wrong, the piece stays on the same position, there 
-is no slide-back punishment, only the statistics show percentage of right/wrong answers.
-Eventually the players reach the goal at Jericho, and there is an animation of the falling walls of the city.
-A highscore is shown after the end animation.
+Journey to the Promised Land is a Bible Quiz game for 1-4 players.The game is presented as a table-top game where the players choose figures to move on a map from Egypt to Jericho, representing the Exodus journey, while answering (mostly) questions from the Bible on the way.If the player answer is correct, the player piece moves forward on both a top-down map and in a 2D view of a landscape, which changes along the map route, depicting the general area where the players piece are located.If the player answers wrong, the piece stays on the same position, there is no slide-back punishment, only the statistics show percentage of right/wrong answers.Eventually the players reach the goal at Jericho, and there is an animation of the falling walls of the city.A highscore is shown after the end animation.

@@ -1,4 +1,1 @@
-This compilation includes the following two DOS games:
-
-Dominus
-Shadows of Cairn
+This compilation includes the following two DOS games:DominusShadows of Cairn

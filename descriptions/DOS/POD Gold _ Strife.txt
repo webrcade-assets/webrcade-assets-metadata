@@ -1,4 +1,1 @@
-This is a compilation of:
-
-POD Gold
-Strife
+This is a compilation of:POD GoldStrife

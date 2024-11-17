@@ -1,14 +1,1 @@
-Sleuth is a text-based game with graphics.
-In this murder mystery whodunit game you will have to figure out three things:
-
-Which of the seven guests committed the murder
-Which room was the murder scene
-What was the murder weapon
-
-You can play in two different flavors:
-
-Basic Sleuth: All characters names are generated randomly
-Personalized Sleuth: You can create personalized characters giving them a first and last name
-
-When the game starts you start wandering around the house examining all rooms and their objects. You also need to question all guests trying to figure out how to solve this crime puzzle. You must find the murder weapon and get all the guests together at the exact murder scene. Next step is to confront the murderer. 
-But beware: you need to solve this murder puzzle within a certain time because otherwise the murderer will get annoyed by your gumshoe actions and eventually sneak up upon you and eliminate you.
+Sleuth is a text-based game with graphics.In this murder mystery whodunit game you will have to figure out three things:Which of the seven guests committed the murderWhich room was the murder sceneWhat was the murder weaponYou can play in two different flavors:Basic Sleuth: All characters names are generated randomlyPersonalized Sleuth: You can create personalized characters giving them a first and last nameWhen the game starts you start wandering around the house examining all rooms and their objects. You also need to question all guests trying to figure out how to solve this crime puzzle. You must find the murder weapon and get all the guests together at the exact murder scene. Next step is to confront the murderer. But beware: you need to solve this murder puzzle within a certain time because otherwise the murderer will get annoyed by your gumshoe actions and eventually sneak up upon you and eliminate you.

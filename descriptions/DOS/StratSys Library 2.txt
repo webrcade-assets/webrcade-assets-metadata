@@ -1,12 +1,1 @@
-StratSys Library 2 is a set of scenarios for StratSys. Included are:
-
-En Passant
-Grandmaster Grid Tournament
-The Pheonix Cluster Massacre
-A day in the garden
-Of Chips and Men
-Encounter at Weird-Point
-The River of Sweat
-The River of Magic
-
-The original StratSys is required to run these scenarios.
+StratSys Library 2 is a set of scenarios for StratSys. Included are:En PassantGrandmaster Grid TournamentThe Pheonix Cluster MassacreA day in the gardenOf Chips and MenEncounter at Weird-PointThe River of SweatThe River of MagicThe original StratSys is required to run these scenarios.

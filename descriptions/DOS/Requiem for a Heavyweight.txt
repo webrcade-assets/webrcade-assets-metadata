@@ -1,6 +1,1 @@
-Requiem For A Heavyweight is a single player boxing game.
-This is an unusual boxing game in that there are no pictures of boxers, no keyboard button-mashing tactics to throw a punch, no actual violence at all.
-The player selects two boxers from a list of all-time greats and sets the number of rounds they will fight over. For each round they then select a boxing style for each boxer and the game does the rest, simulating the fight blow-by-blow. 
-At the end of each round, the boxing style of each boxer can be adjusted so, for example, a boxer who's behind on points can go for the big finish.
-At the end of the last round, the judges rule on the winner.
-The game is entirely keyboard-controlled and it keeps rankings for each boxer.
+Requiem For A Heavyweight is a single player boxing game.This is an unusual boxing game in that there are no pictures of boxers, no keyboard button-mashing tactics to throw a punch, no actual violence at all.The player selects two boxers from a list of all-time greats and sets the number of rounds they will fight over. For each round they then select a boxing style for each boxer and the game does the rest, simulating the fight blow-by-blow. At the end of each round, the boxing style of each boxer can be adjusted so, for example, a boxer who's behind on points can go for the big finish.At the end of the last round, the judges rule on the winner.The game is entirely keyboard-controlled and it keeps rankings for each boxer.

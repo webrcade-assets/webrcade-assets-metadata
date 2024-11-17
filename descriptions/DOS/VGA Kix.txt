@@ -1,2 +1,1 @@
-VGA Kix is yet another QIX-like, freeware, game. Draw/paint areas on the game board, without getting caught by sparks or the Kix.
-The game features a two players mode and supports joysticks and game pads. Edward Mueller, its programmer, provides two utilities to make your own sounds and background pictures, using standard WAV and GIF files.
+VGA Kix is yet another QIX-like, freeware, game. Draw/paint areas on the game board, without getting caught by sparks or the Kix.The game features a two players mode and supports joysticks and game pads. Edward Mueller, its programmer, provides two utilities to make your own sounds and background pictures, using standard WAV and GIF files.

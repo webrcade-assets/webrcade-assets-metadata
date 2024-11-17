@@ -1,2 +1,1 @@
-Sunday School Colors is a coloring program with Bible scenes. It is designed to teach children about the Bible while letting them have fun along the way. Coloring is "flood-fill" style, where a single click will fill in an entire region.
-Sunday School Colors was distributed as shareware. The shareware version has seven pictures; the registered version has 13.
+Sunday School Colors is a coloring program with Bible scenes. It is designed to teach children about the Bible while letting them have fun along the way. Coloring is "flood-fill" style, where a single click will fill in an entire region.Sunday School Colors was distributed as shareware. The shareware version has seven pictures; the registered version has 13.

@@ -1,7 +1,1 @@
-Spell It! is an educational game for multiple systems.
-Contains several spelling mini-games:
-
-See It - The player sees a word, and then must spell it correctly in a sentence.
-Practice It - The player briefly sees a word, and then must type it correctly after it disappears
-Unscramble It - A 1 - 2 player tic-tac-toe game, where the player must unscramble a word to gain a position. Three-in-a-row wins.
-Spell It! - The player moves a frog to eat the word that is spelled correctly.
+Spell It! is an educational game for multiple systems.Contains several spelling mini-games:See It - The player sees a word, and then must spell it correctly in a sentence.Practice It - The player briefly sees a word, and then must type it correctly after it disappearsUnscramble It - A 1 - 2 player tic-tac-toe game, where the player must unscramble a word to gain a position. Three-in-a-row wins.Spell It! - The player moves a frog to eat the word that is spelled correctly.

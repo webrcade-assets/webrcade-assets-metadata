@@ -1,9 +1,1 @@
-The Red Baron is a single player game in which the player flies a bi-plane in a fixed side-scrolling environment.
-The game is entirely keyboard controlled and has two game modes:
-
-Single player: here the player files back and forth destroying ground targets
-
-Player vs computer: In which there are both ground targets and enemy aircraft to contend with
-
-Points are scored for enemy targets destroyed and points are lost for shooting friendly targets.
-The game is very similar, nearly identical, to BMB Compuscience's other title Sopwith, however Red Baron does not have hazards such as flocks of birds or oxen in the scenery.
+The Red Baron is a single player game in which the player flies a bi-plane in a fixed side-scrolling environment.The game is entirely keyboard controlled and has two game modes:Single player: here the player files back and forth destroying ground targetsPlayer vs computer: In which there are both ground targets and enemy aircraft to contend withPoints are scored for enemy targets destroyed and points are lost for shooting friendly targets.The game is very similar, nearly identical, to BMB Compuscience's other title Sopwith, however Red Baron does not have hazards such as flocks of birds or oxen in the scenery.

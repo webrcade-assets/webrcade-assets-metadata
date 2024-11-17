@@ -1,9 +1,1 @@
-This is a solitaire card game, using the rules for Klondike Solitaire.
-The game is played with one 4-suite deck of 52 cards.
-The game layout starts with a row of seven cards, with the leftmost face-up, the others face down,
-then adds to this six cards on the previous face-down row, with the left-most face up and so on
-until there is a diagonal of face-up cards in seven columns of increasing length, left to right.
-On the diagonal layout, you build downward, alternating color suites, moving cards between columns and taking free cards from the remaining deck. Kings are the only card allowed to be placed on empty columns.
-You are building suites of cards on the four aces upward, on four stacks on top of the layout, and the object is to end up with all suites sorted in separate stacks on the top.
-This game allows cheating, and has an option to ignore the rules completely, or just allow cheating in single instances.
-Individual game layouts can be replayed by referring to the game number shown in the lower right of the screen.
+This is a solitaire card game, using the rules for Klondike Solitaire.The game is played with one 4-suite deck of 52 cards.The game layout starts with a row of seven cards, with the leftmost face-up, the others face down,then adds to this six cards on the previous face-down row, with the left-most face up and so onuntil there is a diagonal of face-up cards in seven columns of increasing length, left to right.On the diagonal layout, you build downward, alternating color suites, moving cards between columns and taking free cards from the remaining deck. Kings are the only card allowed to be placed on empty columns.You are building suites of cards on the four aces upward, on four stacks on top of the layout, and the object is to end up with all suites sorted in separate stacks on the top.This game allows cheating, and has an option to ignore the rules completely, or just allow cheating in single instances.Individual game layouts can be replayed by referring to the game number shown in the lower right of the screen.

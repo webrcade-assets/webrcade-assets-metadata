@@ -1,5 +1,1 @@
-This compilation contains:
-
-Enchanter
-Sorcerer
-Spellbreaker
+This compilation contains:EnchanterSorcererSpellbreaker

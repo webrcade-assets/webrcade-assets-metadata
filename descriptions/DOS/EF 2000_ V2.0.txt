@@ -1,7 +1,1 @@
-EF 2000; v2.0 is a US-only compilation of an updated DOS version of EF 2000 and the Windows 95 version Super EF 2000. There are two DOS products included:
-
-EF 2000 (base game)
-EF 2000: TACTCOM (add-on)
-
-The DOS versions have optional 3D hardware accelerated support for 3Dfx Vodoo or Rendition Verite cards. The DOS versions also have a slightly different network functionality and cannot connect to the European version of EF 2000 / TACTCOM releases.
-The Windows 95 version is similar to the basic DOS EF 2000 game and has DirectX support with software rendering. This US Windows 95 version is network play compatible with the European version of Super EF 2000.
+EF 2000; v2.0 is a US-only compilation of an updated DOS version of EF 2000 and the Windows 95 version Super EF 2000. There are two DOS products included:EF 2000 (base game)EF 2000: TACTCOM (add-on)The DOS versions have optional 3D hardware accelerated support for 3Dfx Vodoo or Rendition Verite cards. The DOS versions also have a slightly different network functionality and cannot connect to the European version of EF 2000 / TACTCOM releases.The Windows 95 version is similar to the basic DOS EF 2000 game and has DirectX support with software rendering. This US Windows 95 version is network play compatible with the European version of Super EF 2000.

@@ -1,9 +1,1 @@
-Lekis 5 (Lekis is Kindergarten in Swedish) is an educational game for pre-school children. It contains five mini-games: * Arithmetic, where the player should properly answer the questions about addition or subtraction of the items;
-
-Assemble a picture, where the player should drag and drop three picture fragments in proper empty places of the picture;
-
-Memory training, where the player should uncover pairs of same objects on 6x5 grid competing with a computer;
-
-Memorize, where the player should take a look at the up to six objects, memorize them, and name one of them after the place of its location is shown;
-
-Get a banana, where the player should get the banana by three or four apes forming a tower of Hanoi.
+Lekis 5 (Lekis is Kindergarten in Swedish) is an educational game for pre-school children. It contains five mini-games: * Arithmetic, where the player should properly answer the questions about addition or subtraction of the items;Assemble a picture, where the player should drag and drop three picture fragments in proper empty places of the picture;Memory training, where the player should uncover pairs of same objects on 6x5 grid competing with a computer;Memorize, where the player should take a look at the up to six objects, memorize them, and name one of them after the place of its location is shown;Get a banana, where the player should get the banana by three or four apes forming a tower of Hanoi.

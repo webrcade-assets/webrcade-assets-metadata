@@ -1,2 +1,1 @@
-Early Games: Matchmaker is an educational program for young children.
-Players are shown two or three shapes on the bottom of the screen. A shape that corresponds to one of the figures on the bottom is displayed, and will slowly flash atop the bottom shapes from left to right. The player must match the correct shapes.
+Early Games: Matchmaker is an educational program for young children.Players are shown two or three shapes on the bottom of the screen. A shape that corresponds to one of the figures on the bottom is displayed, and will slowly flash atop the bottom shapes from left to right. The player must match the correct shapes.

@@ -1,2 +1,1 @@
-Bunny Blast is a single player, freeware, shooter.
-The game is very simple which is understandable as it was written as a learning exercise. Basically the game is Whac-A-Mole. Pink rabbits appear from the bottom of the screen and the player uses the mouse to shoot them. There are seven levels all with different names and identical game play.
+Bunny Blast is a single player, freeware, shooter.The game is very simple which is understandable as it was written as a learning exercise. Basically the game is Whac-A-Mole. Pink rabbits appear from the bottom of the screen and the player uses the mouse to shoot them. There are seven levels all with different names and identical game play.

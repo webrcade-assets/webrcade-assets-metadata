@@ -1,2 +1,1 @@
-Tommy's Jammer is a single player racing game in which the objective is to cover more ground than the computer opponent.
-The race takes place on a racetrack in the sky. The opponent is the Jammer who is computer controlled and his objective is to crash into you. Your objective is to survive until all the race markers have been cleared.
+Tommy's Jammer is a single player racing game in which the objective is to cover more ground than the computer opponent.The race takes place on a racetrack in the sky. The opponent is the Jammer who is computer controlled and his objective is to crash into you. Your objective is to survive until all the race markers have been cleared.

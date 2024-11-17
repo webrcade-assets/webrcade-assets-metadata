@@ -1,5 +1,1 @@
-This compilation includes:
-
-WarCraft II: Tides of Darkness
-Diablo
-StarCraft
+This compilation includes:WarCraft II: Tides of DarknessDiabloStarCraft

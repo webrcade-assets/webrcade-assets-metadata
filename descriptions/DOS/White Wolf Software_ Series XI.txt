@@ -1,14 +1,1 @@
-White Wolf Software: Series XI is one of a series of CDs published by Wiz Technology on their White Wolf label.
-This CD contains the following shareware products:* A: Hocus Pocus
-
-B: Major Stryker
-C: Facetrex
-D: Bolo Ball
-E: Hoosier City
-F: Moraff's Pinball
-G: Isle Wars
-H: Organize Books & Mags: a self explanatory, non-gaming title from H. C. P. Services
-I: Gamebuilder Lite
-J: In Search of Dr. Riptide
-
-The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.
+White Wolf Software: Series XI is one of a series of CDs published by Wiz Technology on their White Wolf label.This CD contains the following shareware products:* A: Hocus PocusB: Major StrykerC: FacetrexD: Bolo BallE: Hoosier CityF: Moraff's PinballG: Isle WarsH: Organize Books & Mags: a self explanatory, non-gaming title from H. C. P. ServicesI: Gamebuilder LiteJ: In Search of Dr. RiptideThe software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.

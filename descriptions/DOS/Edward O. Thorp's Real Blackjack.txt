@@ -1,3 +1,1 @@
-A simple but entertaining casino game of 'Blackjack'.
-The game bears the name of Dr. Edward O. Thorp, who is famous for his work on 'winning strategy' and statistics tables for the game of Twenty One, and those are the tables used and displayed in the game itself.
-Up to six players can compete against the dealer - the options section provide flexible 'house rules', and extensive in-game help alongside the optional Tutor could make Blackjack experience enjoyable even for the beginners.
+A simple but entertaining casino game of 'Blackjack'.The game bears the name of Dr. Edward O. Thorp, who is famous for his work on 'winning strategy' and statistics tables for the game of Twenty One, and those are the tables used and displayed in the game itself.Up to six players can compete against the dealer - the options section provide flexible 'house rules', and extensive in-game help alongside the optional Tutor could make Blackjack experience enjoyable even for the beginners.

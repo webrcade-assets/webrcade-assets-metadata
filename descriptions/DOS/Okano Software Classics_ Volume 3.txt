@@ -1,11 +1,1 @@
-This compilation includes the following 10 games:* Sid Meier's Railroad Tycoon
-
-TV Sports: Football
-The Three Stooges
-Millemiglia
-Supremacy: Your Will Be Done
-The King of Chicago
-3D World Tennis
-3D World Boxing
-Defender of the Crown
-Blade Warrior
+This compilation includes the following 10 games:* Sid Meier's Railroad TycoonTV Sports: FootballThe Three StoogesMillemigliaSupremacy: Your Will Be DoneThe King of Chicago3D World Tennis3D World BoxingDefender of the CrownBlade Warrior

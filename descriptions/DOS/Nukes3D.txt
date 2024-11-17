@@ -1,2 +1,1 @@
-Nukes3D is a shareware, turn based, multiplayer game with the option for the computer to play as one or more of the players.
-In this game players take turns to stalk each other in their tanks, and the last one standing wins. The shareware version allows four participants while the registered version caters for up to ten as well as having a greater range of weapons.
+Nukes3D is a shareware, turn based, multiplayer game with the option for the computer to play as one or more of the players.In this game players take turns to stalk each other in their tanks, and the last one standing wins. The shareware version allows four participants while the registered version caters for up to ten as well as having a greater range of weapons.

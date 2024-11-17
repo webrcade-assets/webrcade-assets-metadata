@@ -1,2 +1,1 @@
-Although you have been told 1 Ton is Martin Magnusson 's very first game, his first game to be released is a "lousy" nibbles clone.
-Coded in C++ and Assembler. Again a little freeware game.
+Although you have been told 1 Ton is Martin Magnusson 's very first game, his first game to be released is a "lousy" nibbles clone.Coded in C++ and Assembler. Again a little freeware game.

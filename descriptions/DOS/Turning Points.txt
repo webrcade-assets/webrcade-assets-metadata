@@ -1,5 +1,1 @@
-Turning Points is a compilation of Dr. Turcan's strategy games:
-
-Waterloo
-Armada
-Gettysburg
+Turning Points is a compilation of Dr. Turcan's strategy games:WaterlooArmadaGettysburg

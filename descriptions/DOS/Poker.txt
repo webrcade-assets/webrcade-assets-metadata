@@ -1,7 +1,1 @@
-Poker is an add-on that adds 5 Card Draw, 5 Card Stud, 7 Card Stud, and Texas Hold 'Em to numerous gambling games released by Capstone.
-Requires one of the following:
-
-The Big Deal
-Trump Castle: The Ultimate Casino Gambling Simulation
-Trump Castle II
-Casinos of the World
+Poker is an add-on that adds 5 Card Draw, 5 Card Stud, 7 Card Stud, and Texas Hold 'Em to numerous gambling games released by Capstone.Requires one of the following:The Big DealTrump Castle: The Ultimate Casino Gambling SimulationTrump Castle IICasinos of the World

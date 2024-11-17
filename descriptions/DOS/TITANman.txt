@@ -1,2 +1,1 @@
-TITANman is a simple Pac-Man clone with 640x480 16-color graphics, optional PC speaker sound and a high score table. The level layout and basic game mechanics copy those from Pac-Man, but here, the ghosts appear to mostly randomly move around the maze, without overtly chasing the player.
-The game was originally created as a promotion for Danish computer store TITAN.
+TITANman is a simple Pac-Man clone with 640x480 16-color graphics, optional PC speaker sound and a high score table. The level layout and basic game mechanics copy those from Pac-Man, but here, the ghosts appear to mostly randomly move around the maze, without overtly chasing the player.The game was originally created as a promotion for Danish computer store TITAN.

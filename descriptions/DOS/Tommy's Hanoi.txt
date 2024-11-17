@@ -1,5 +1,1 @@
-Tommy's Hanoi is a shareware puzzle game based on the classic 'Tower Of Hanoi'. The object is to move all the discs from one tower to another with just two restrictions:* that only one disc can be moved at a time,
-
-a larger disc cannot be placed on a smaller disc.
-
-The game is entirely keyboard controlled and the player can select the number of discs they want to play with, between three and nine (inclusive). It has basic sound effects, a demo mode, and command line switches to start the game with sound turned off and to force either a colour or monochrome display.
+Tommy's Hanoi is a shareware puzzle game based on the classic 'Tower Of Hanoi'. The object is to move all the discs from one tower to another with just two restrictions:* that only one disc can be moved at a time,a larger disc cannot be placed on a smaller disc.The game is entirely keyboard controlled and the player can select the number of discs they want to play with, between three and nine (inclusive). It has basic sound effects, a demo mode, and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

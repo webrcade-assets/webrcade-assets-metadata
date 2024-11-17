@@ -1,6 +1,1 @@
-This BattleTech compilation includes:
-
-BattleTech: Crescent Hawk's Inception
-BattleTech: Crescent Hawk's Revenge
-MechWarrior
-an abbreviated manual
+This BattleTech compilation includes:BattleTech: Crescent Hawk's InceptionBattleTech: Crescent Hawk's RevengeMechWarrioran abbreviated manual

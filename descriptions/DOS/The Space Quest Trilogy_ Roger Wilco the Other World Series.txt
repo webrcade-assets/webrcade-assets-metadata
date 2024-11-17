@@ -1,7 +1,1 @@
-The Space Quest Trilogy contains:
-
-Space Quest I: The Sarien Encouter (updated VGA version)
-Space Quest II: Vohaul's Revenge
-Space Quest III: the Pirates of Pestulon
-
-The package includes the original game disks (720k 3.5" or 1.2mb 5.25") and all the original documentation and copy protection.
+The Space Quest Trilogy contains:Space Quest I: The Sarien Encouter (updated VGA version)Space Quest II: Vohaul's RevengeSpace Quest III: the Pirates of PestulonThe package includes the original game disks (720k 3.5" or 1.2mb 5.25") and all the original documentation and copy protection.

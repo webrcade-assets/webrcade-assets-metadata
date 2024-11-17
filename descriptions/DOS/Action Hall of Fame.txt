@@ -1,6 +1,1 @@
-This compilation includes:
-
-Carmageddon
-Interstate '76
-MDK
-MechWarrior 2: Mercenaries
+This compilation includes:CarmageddonInterstate '76MDKMechWarrior 2: Mercenaries

@@ -1,6 +1,1 @@
-Five Star Collection includes:
-
-Allied General
-Fantasy General
-Panzer General
-Star General
+Five Star Collection includes:Allied GeneralFantasy GeneralPanzer GeneralStar General

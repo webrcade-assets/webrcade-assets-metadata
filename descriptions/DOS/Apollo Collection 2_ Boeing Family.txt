@@ -1,18 +1,1 @@
-Apollo Collection 2 is a set of sixteen aircraft in an add-on package, requiring the 3rd-party application BAO FlightShop, to use with Microsoft Flight Simulator (v5.0). While the original game is DOS only, this add-on includes Windows 3.x and Windows 9x installers next to a manual DOS operation to copy the content. The included aircraft are:
-
-Avro Lancaster Mk.X
-Beechcraft T-34 C
-Boeing 727-200
-Boeing 737-300
-Boeing 747-400 (improved flight model)
-Boeing 757-200
-Boeing 767-300
-Boeing 777-200
-De Havilland Mosquito Mk.IV
-Douglas C-47 Skytrain DC-3
-Gee Bee R-1
-Laird Super Solution
-Miles & Atwood Special
-Snowbird Canadair CL-41 Tutor
-Travel Air Mystery
-Wedell Williams #44
+Apollo Collection 2 is a set of sixteen aircraft in an add-on package, requiring the 3rd-party application BAO FlightShop, to use with Microsoft Flight Simulator (v5.0). While the original game is DOS only, this add-on includes Windows 3.x and Windows 9x installers next to a manual DOS operation to copy the content. The included aircraft are:Avro Lancaster Mk.XBeechcraft T-34 CBoeing 727-200Boeing 737-300Boeing 747-400 (improved flight model)Boeing 757-200Boeing 767-300Boeing 777-200De Havilland Mosquito Mk.IVDouglas C-47 Skytrain DC-3Gee Bee R-1Laird Super SolutionMiles & Atwood SpecialSnowbird Canadair CL-41 TutorTravel Air MysteryWedell Williams #44

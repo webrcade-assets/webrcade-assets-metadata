@@ -1,12 +1,1 @@
-This OEM bundled software compilation release, came only with Creative Labs soundcards contains the 10 following full versions
-
-Worlds of Ultima: The Savage Empire
-Hong Kong Mahjong Pro
-Populous II: Trials of the Olympian Gods
-Chuck Yeager's Air Combat
-The Seven Cities of Gold
-Ultima VII: The Black Gate
-Shadowcaster
-Space Hulk
-Ultima Underworld: The Stygian Abyss
-Wing Commander Academy
+This OEM bundled software compilation release, came only with Creative Labs soundcards contains the 10 following full versionsWorlds of Ultima: The Savage EmpireHong Kong Mahjong ProPopulous II: Trials of the Olympian GodsChuck Yeager's Air CombatThe Seven Cities of GoldUltima VII: The Black GateShadowcasterSpace HulkUltima Underworld: The Stygian AbyssWing Commander Academy

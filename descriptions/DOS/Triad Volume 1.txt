@@ -1,5 +1,1 @@
-This compilation includes three games:
-
-Barbarian
-Defender of the Crown
-Starglider
+This compilation includes three games:BarbarianDefender of the CrownStarglider

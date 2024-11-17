@@ -1,3 +1,1 @@
-The goal of this another Tetris -clone is to clear as many lines as possible, and do not allow blocks stack up to the top.
-New feature is a 'NOT' activated by player during the game. When four lines are cleared simultaneously the player receives a 'NOT'. For each 'NOT', a notch is cut out of the border on each side, starting from the bottom.
-There are 9 levels of difficulty accompanied by different background pictures.
+The goal of this another Tetris -clone is to clear as many lines as possible, and do not allow blocks stack up to the top.New feature is a 'NOT' activated by player during the game. When four lines are cleared simultaneously the player receives a 'NOT'. For each 'NOT', a notch is cut out of the border on each side, starting from the bottom.There are 9 levels of difficulty accompanied by different background pictures.

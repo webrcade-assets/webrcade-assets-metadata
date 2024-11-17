@@ -1,17 +1,1 @@
-This compilation includes the following full games: * Balltris
-
-Body Slam Wrestling
-Command Adventures: Starship
-Frankenstein
-International Tenis
-Isle of the Dream
-Kosmos
-Split Screen Soccer Manager
-Spy Master
-Tyrian
-
-and demos of:* A.D. 2044
-
-Noc
-Skaut Kwatermaster
-Sołtys
+This compilation includes the following full games: * BalltrisBody Slam WrestlingCommand Adventures: StarshipFrankensteinInternational TenisIsle of the DreamKosmosSplit Screen Soccer ManagerSpy MasterTyrianand demos of:* A.D. 2044NocSkaut KwatermasterSołtys

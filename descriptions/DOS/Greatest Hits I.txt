@@ -1,6 +1,1 @@
-Greatest Hits I is a compilation consisting of the following games: Chess*: an implementation of the classic game of Chess.
-
-Cribbage : an implementation of the card game Cribbage.
-Squirm : a variety of the classic Snake game, where you need to avoid crashing into obstacles, including other players and your own tail.
-
-Note: This is not the same compilation as the one with the same name that was released by Keypunch for Commodore 64 and Atari 8-bit computers.
+Greatest Hits I is a compilation consisting of the following games: Chess*: an implementation of the classic game of Chess.Cribbage : an implementation of the card game Cribbage.Squirm : a variety of the classic Snake game, where you need to avoid crashing into obstacles, including other players and your own tail.Note: This is not the same compilation as the one with the same name that was released by Keypunch for Commodore 64 and Atari 8-bit computers.

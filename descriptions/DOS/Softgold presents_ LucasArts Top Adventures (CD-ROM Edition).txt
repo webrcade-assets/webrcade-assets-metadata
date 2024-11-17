@@ -1,5 +1,1 @@
-This compilation includes the following 3 LucasArts adventure classics:
-
-Indiana Jones and the Fate of Atlantis
-Maniac Mansion: Day of the Tentacle
-Monkey Island 2: LeChuck's Revenge
+This compilation includes the following 3 LucasArts adventure classics:Indiana Jones and the Fate of AtlantisManiac Mansion: Day of the TentacleMonkey Island 2: LeChuck's Revenge

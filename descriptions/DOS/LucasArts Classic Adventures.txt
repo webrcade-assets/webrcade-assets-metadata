@@ -1,7 +1,1 @@
-A bundle containing five classic adventure games from LucasArts (hence the name). This package includes:
-
-Maniac Mansion
-Zak McKracken and the Alien Mindbenders
-Loom
-The Secret of Monkey Island
-Indiana Jones and the Last Crusade
+A bundle containing five classic adventure games from LucasArts (hence the name). This package includes:Maniac MansionZak McKracken and the Alien MindbendersLoomThe Secret of Monkey IslandIndiana Jones and the Last Crusade

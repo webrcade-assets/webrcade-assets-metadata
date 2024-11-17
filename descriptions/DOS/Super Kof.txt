@@ -1,2 +1,1 @@
-Super Kof is a side-scrolling platform game that puts the player in control of a super monkey on an adventure.
-The player has to complete each level while collecting various weapons/power-ups (such as the ability to spit green balls) and bags of money and avoiding different hostile animals, monsters, pitfalls and other obstacles.
+Super Kof is a side-scrolling platform game that puts the player in control of a super monkey on an adventure.The player has to complete each level while collecting various weapons/power-ups (such as the ability to spit green balls) and bags of money and avoiding different hostile animals, monsters, pitfalls and other obstacles.

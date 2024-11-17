@@ -1,6 +1,1 @@
-This compilation contains:
-
-Red Baron
-Silent Service II
-Sid Meier's Railroad Tycoon
-The Perfect General
+This compilation contains:Red BaronSilent Service IISid Meier's Railroad TycoonThe Perfect General

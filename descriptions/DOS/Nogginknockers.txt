@@ -1,2 +1,1 @@
-Nogginknockers is a bloody take on Pong, where two combatants bat a severed head back and forth, trying to get it past the opponent to score a point.
-Six different Nogginknockers are available to choose from, each with their own stats and special ability. The game can be played with either two players or against the computer.
+Nogginknockers is a bloody take on Pong, where two combatants bat a severed head back and forth, trying to get it past the opponent to score a point.Six different Nogginknockers are available to choose from, each with their own stats and special ability. The game can be played with either two players or against the computer.

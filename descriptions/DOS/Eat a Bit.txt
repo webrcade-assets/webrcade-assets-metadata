@@ -1,3 +1,1 @@
-Eat It is a freeware, Pac-Man type game, it supports up to four players per game but only one player can play at a time.
-The player wanders around a maze eating pills and being chased by ghosts and, when a power pill has been eaten, chasing and eating the ghosts.
-The game has a high score table and optional sound effects, it is keyboard controlled.
+Eat It is a freeware, Pac-Man type game, it supports up to four players per game but only one player can play at a time.The player wanders around a maze eating pills and being chased by ghosts and, when a power pill has been eaten, chasing and eating the ghosts.The game has a high score table and optional sound effects, it is keyboard controlled.

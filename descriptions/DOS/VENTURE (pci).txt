@@ -1,2 +1,1 @@
-Awakening at the bottom of a wet pit, a player must ascend a rope to the surface and negotiate with a troll in order to obtain access to a key unlocking the very brief game's conclusion.
-(As the game was originally written as an MS-DOS batch file, the text parser is necessarily quite limited, as is the overall scope of the game.)
+Awakening at the bottom of a wet pit, a player must ascend a rope to the surface and negotiate with a troll in order to obtain access to a key unlocking the very brief game's conclusion.(As the game was originally written as an MS-DOS batch file, the text parser is necessarily quite limited, as is the overall scope of the game.)

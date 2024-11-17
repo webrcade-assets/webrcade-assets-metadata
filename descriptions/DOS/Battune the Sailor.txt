@@ -1,3 +1,1 @@
-Battune the Sailor is a text adventure in the Battune series.
-This adventure sees the player and Battune their friendly alien guide in Bagdad Where they must collect a crew and sail to a wizard's island to rescue the imprisoned sultan's daughter.
-This is a text adventure, there are no graphics, and all commands must be entered in upper case.
+Battune the Sailor is a text adventure in the Battune series.This adventure sees the player and Battune their friendly alien guide in Bagdad Where they must collect a crew and sail to a wizard's island to rescue the imprisoned sultan's daughter.This is a text adventure, there are no graphics, and all commands must be entered in upper case.

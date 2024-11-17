@@ -1,7 +1,1 @@
-Zork Trilogy is a compilation of all three of Infocom 's original Zork games:
-
-Zork: The Great Underground Empire
-Zork II: The Wizard of Frobozz
-Zork III: The Dungeon Master
-
-The package also includes an item that was featured as an in-game object in Zork games: the Zorkmid Coin.
+Zork Trilogy is a compilation of all three of Infocom 's original Zork games:Zork: The Great Underground EmpireZork II: The Wizard of FrobozzZork III: The Dungeon MasterThe package also includes an item that was featured as an in-game object in Zork games: the Zorkmid Coin.

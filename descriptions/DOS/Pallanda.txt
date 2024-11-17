@@ -1,4 +1,1 @@
-Pallanda is a shareware, family game that resembles an old school board game.
-Players start with their tokens at the corners of the board, the object of the game is to move their token to the centre of the board.
-All the cells on the board are coloured and players take turns spinning a spinner which tells them what colour square they must move to, the catch being that they must move to the nearest square of that colour and the nearest square may be in the wrong direction.
-Some cells contain surprise drawings and instructions such as 'miss a turn' or 'have an extra go'.
+Pallanda is a shareware, family game that resembles an old school board game.Players start with their tokens at the corners of the board, the object of the game is to move their token to the centre of the board.All the cells on the board are coloured and players take turns spinning a spinner which tells them what colour square they must move to, the catch being that they must move to the nearest square of that colour and the nearest square may be in the wrong direction.Some cells contain surprise drawings and instructions such as 'miss a turn' or 'have an extra go'.

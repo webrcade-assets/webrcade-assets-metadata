@@ -1,3 +1,1 @@
-Battune Goes on Safari is another text adventure in the Battune series.
-This story is set in Africa and sees the player equip themselves for an expedition into the interior where they encounter wild animals, friendly and unfriendly tribes before returning to civilisation.
-The game is entirely text based and must be played in upper case at all times.
+Battune Goes on Safari is another text adventure in the Battune series.This story is set in Africa and sees the player equip themselves for an expedition into the interior where they encounter wild animals, friendly and unfriendly tribes before returning to civilisation.The game is entirely text based and must be played in upper case at all times.

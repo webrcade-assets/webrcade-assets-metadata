@@ -1,8 +1,1 @@
-Pinocle Games is a single-player shareware card game.
-This game offers three variations of the game:
-
-The basic game - in which the player plays with the cards that are dealt to you.
-Kitty - the highest bidder exchanges four cards in a kitty into their hand before discarding four cards into the pile.
-Pass - here the highest bidder calls a trump suit and swaps four cards with their partner.
-
-The game can be customised.
+Pinocle Games is a single-player shareware card game.This game offers three variations of the game:The basic game - in which the player plays with the cards that are dealt to you.Kitty - the highest bidder exchanges four cards in a kitty into their hand before discarding four cards into the pile.Pass - here the highest bidder calls a trump suit and swaps four cards with their partner.The game can be customised.

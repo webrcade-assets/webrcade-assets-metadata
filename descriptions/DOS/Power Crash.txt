@@ -1,7 +1,1 @@
-This compilation includes:
-
-Forgotten Worlds
-Last Duel: Inter Planet War 2012
-OutRun
-Strider
-ThunderBlade
+This compilation includes:Forgotten WorldsLast Duel: Inter Planet War 2012OutRunStriderThunderBlade

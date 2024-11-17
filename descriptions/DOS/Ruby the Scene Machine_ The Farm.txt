@@ -1,3 +1,1 @@
-A very simple drawing game for little children that is supposed to teach them some vocabulary and spelling skills.
-A player is in control of Ruby the robot who can draw and move objects on screen - but to make her to that the name of the object has to be typed. 
-"The Farm" was the first of the three game in the series, the objects here relate to the farm animals.
+A very simple drawing game for little children that is supposed to teach them some vocabulary and spelling skills.A player is in control of Ruby the robot who can draw and move objects on screen - but to make her to that the name of the object has to be typed. "The Farm" was the first of the three game in the series, the objects here relate to the farm animals.

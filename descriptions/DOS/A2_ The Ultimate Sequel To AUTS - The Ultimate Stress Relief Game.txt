@@ -1,8 +1,1 @@
-A2 is sequel to AUTS - The Ultimate Stress Relief Game. The idea is to fly in caves and shoot other players. You can choose between team mode or pure deathmatch. Players can select from multitude of diverse weapons and use them to destroy each other.
-A2 is a side scrolling, split screen shooting game where you control space ships and try to kill opponents with bullets and a secondary equipped gun You can choose the secondary gun from a big collection of different ones. Game supports up to 6 players.
-Improvements includes:* Complete rewrite of code
-
-High color graphics with alpha blending
-Computer AI
-Random level generator
-New weapons
+A2 is sequel to AUTS - The Ultimate Stress Relief Game. The idea is to fly in caves and shoot other players. You can choose between team mode or pure deathmatch. Players can select from multitude of diverse weapons and use them to destroy each other.A2 is a side scrolling, split screen shooting game where you control space ships and try to kill opponents with bullets and a secondary equipped gun You can choose the secondary gun from a big collection of different ones. Game supports up to 6 players.Improvements includes:* Complete rewrite of codeHigh color graphics with alpha blendingComputer AIRandom level generatorNew weapons

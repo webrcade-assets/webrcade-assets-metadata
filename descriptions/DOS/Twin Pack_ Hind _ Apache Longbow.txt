@@ -1,8 +1,1 @@
-This compilation includes two of Digital Integration's helicopter-simulators:
-
-Apache Longbow
-Hind: The Russian Combat Helicopter Simulation
-
-There is a certain amount of cross-game features available through the two titles. Players can fly with/against each other using either helicopter in the Virtual Battlefield, in two-player head-to-head, leader/wingman, or pilot/gunner configurations, 
-or with up to 16 players in Apache vs Hind deathmatch battles.
-The package also includes the multimedia disc MIG Russian Aircraft.
+This compilation includes two of Digital Integration's helicopter-simulators:Apache LongbowHind: The Russian Combat Helicopter SimulationThere is a certain amount of cross-game features available through the two titles. Players can fly with/against each other using either helicopter in the Virtual Battlefield, in two-player head-to-head, leader/wingman, or pilot/gunner configurations, or with up to 16 players in Apache vs Hind deathmatch battles.The package also includes the multimedia disc MIG Russian Aircraft.

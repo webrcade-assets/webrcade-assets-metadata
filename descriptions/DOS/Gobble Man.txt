@@ -1,3 +1,1 @@
-Gobble Man is a single player, shareware, Pac-Man type game.
-The player wanders around a maze eating pills and being chased by ghosts and, when a power pill has been eaten, chasing and eating the ghosts.
-The game can be played in single mode or player vs player (hot seat) mode, has sound effects, and is keyboard controlled.
+Gobble Man is a single player, shareware, Pac-Man type game.The player wanders around a maze eating pills and being chased by ghosts and, when a power pill has been eaten, chasing and eating the ghosts.The game can be played in single mode or player vs player (hot seat) mode, has sound effects, and is keyboard controlled.

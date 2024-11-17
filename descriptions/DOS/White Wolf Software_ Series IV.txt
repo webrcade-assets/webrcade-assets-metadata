@@ -1,14 +1,1 @@
-White Wolf Software: Series IV is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:
-
-A: Rise of the Triad: The HUNT Begins
-B: Bio Menace
-C: Race The Nags
-D: The Adventures of Captain Comic
-E: 3-Point Basketball
-F: Cheat: a selection of game codes and cheats
-G: Movie Trivia
-H: Active Life: A personal planner
-I: Drum Blaster: music making software from Epic Megagames
-J: Alpha Man
-
-The software is installed individually, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.
+White Wolf Software: Series IV is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:A: Rise of the Triad: The HUNT BeginsB: Bio MenaceC: Race The NagsD: The Adventures of Captain ComicE: 3-Point BasketballF: Cheat: a selection of game codes and cheatsG: Movie TriviaH: Active Life: A personal plannerI: Drum Blaster: music making software from Epic MegagamesJ: Alpha ManThe software is installed individually, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.

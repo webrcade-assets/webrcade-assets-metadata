@@ -1,11 +1,1 @@
-'Ghini Run is a sprite-based behind-view arcade street racing game that pays homage to SEGA's OutRun. The player takes part in various driving challenges, steering the car with a simple combination of accelerate, brake and left/right turn keys.
-There are four game modes:
-
-Arcade - single race against AI players on any available track
-Shotgun Run - racing tournament spanning over four to six tracks
-Time Attack - racing against time on any track
-Pursuit - play as the police and hunt down illegal racers
-
-Each mode can be played on one of three difficulty settings, which are determined by the number of AI opponents and the amount of time given to reach track checkpoints.
-The game includes nine playable cars (including the police car exclusive to the Pursuit mode) and six tracks of increasing difficulty. Some tracks and car models are not available at the start and must be unlocked by winning races in various game modes.
-'Ghini Run was coded in QuickBasic and released as freeware.
+'Ghini Run is a sprite-based behind-view arcade street racing game that pays homage to SEGA's OutRun. The player takes part in various driving challenges, steering the car with a simple combination of accelerate, brake and left/right turn keys.There are four game modes:Arcade - single race against AI players on any available trackShotgun Run - racing tournament spanning over four to six tracksTime Attack - racing against time on any trackPursuit - play as the police and hunt down illegal racersEach mode can be played on one of three difficulty settings, which are determined by the number of AI opponents and the amount of time given to reach track checkpoints.The game includes nine playable cars (including the police car exclusive to the Pursuit mode) and six tracks of increasing difficulty. Some tracks and car models are not available at the start and must be unlocked by winning races in various game modes.'Ghini Run was coded in QuickBasic and released as freeware.

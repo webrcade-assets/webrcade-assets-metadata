@@ -1,2 +1,1 @@
-Marble Madness meets pinball. Ball rolling game with a simple goal: move the ball to hit moving targets within the time limit to win the level.
-The higher levels feature hazards and bonus items, and you can score some big points if you hit them in the right sequence. Most targets are cutesy-looking aliens, and a big yellow arrow shows which one you must bounce at next.
+Marble Madness meets pinball. Ball rolling game with a simple goal: move the ball to hit moving targets within the time limit to win the level.The higher levels feature hazards and bonus items, and you can score some big points if you hit them in the right sequence. Most targets are cutesy-looking aliens, and a big yellow arrow shows which one you must bounce at next.

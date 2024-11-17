@@ -1,16 +1,1 @@
-Tommy's Pitch is a shareware card game.
-It is played with a standard fifty-two card deck. After the deal there is an auction in which players bid on who can win the most points, that's points not tricks, in the trick playing phase.
-Briefly, the player who names the highest bid names trumps and plays the first card. in this game it is not the number of tricks that counts but the cards contained in the tricks that count, points are scored for winning tricks with the highest and lowest trumps, the jack of trumps and the highest total of cards where Ace counts four, King counts three, Queen counts two, Jack counts one and Ten counts ten. Game configuration options include:* Playing without an auction
-
-The game point can be varied
-Dealer's Right: when the dealers bid comes around the dealer can take ownership of the current highest bid
-Elder's Right: Same as dealer's right but bidding starts on the elder's right
-Bunch: Applies in a two player game
-Sell Out: A variety of Elder's Right
-Joker: A joker is added to the deck where it ranks below a two and the player winning it scores one point
-Pedro Sancho: Used in a game with at least four players this changes the number of points per deal to eighteen
-Dom Sancho: Also used in a game with at least four players, this is played with a joker and changes the maximum number of points per deal to thirty-six
-Open Hand; where all cards are displayed
-Replay a hand option
-
-The game is entirely keyboard controlled. It has a demo mode, basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display
+Tommy's Pitch is a shareware card game.It is played with a standard fifty-two card deck. After the deal there is an auction in which players bid on who can win the most points, that's points not tricks, in the trick playing phase.Briefly, the player who names the highest bid names trumps and plays the first card. in this game it is not the number of tricks that counts but the cards contained in the tricks that count, points are scored for winning tricks with the highest and lowest trumps, the jack of trumps and the highest total of cards where Ace counts four, King counts three, Queen counts two, Jack counts one and Ten counts ten. Game configuration options include:* Playing without an auctionThe game point can be variedDealer's Right: when the dealers bid comes around the dealer can take ownership of the current highest bidElder's Right: Same as dealer's right but bidding starts on the elder's rightBunch: Applies in a two player gameSell Out: A variety of Elder's RightJoker: A joker is added to the deck where it ranks below a two and the player winning it scores one pointPedro Sancho: Used in a game with at least four players this changes the number of points per deal to eighteenDom Sancho: Also used in a game with at least four players, this is played with a joker and changes the maximum number of points per deal to thirty-sixOpen Hand; where all cards are displayedReplay a hand optionThe game is entirely keyboard controlled. It has a demo mode, basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display

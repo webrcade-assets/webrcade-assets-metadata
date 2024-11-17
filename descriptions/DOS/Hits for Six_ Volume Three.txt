@@ -1,8 +1,1 @@
-This compilation contains six games:
-
-Airball
-Archipelagos
-Lamborghini: American Challenge
-Gunship
-Mega Phoenix
-Revenge of Defender
+This compilation contains six games:AirballArchipelagosLamborghini: American ChallengeGunshipMega PhoenixRevenge of Defender

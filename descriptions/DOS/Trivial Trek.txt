@@ -1,3 +1,1 @@
-Trivial Trek is a single player quiz based on Star Trek.
-It contains sections with questions on the original TV series, the Movies, Star Trek Literature as well as a general section. It has sound, a high score table, and an option to change the colour if the screen and text.
-The game was distributed as freeware but players were invited to send a donation to the developers if they liked the game, players were also invited to send additional questions too.
+Trivial Trek is a single player quiz based on Star Trek.It contains sections with questions on the original TV series, the Movies, Star Trek Literature as well as a general section. It has sound, a high score table, and an option to change the colour if the screen and text.The game was distributed as freeware but players were invited to send a donation to the developers if they liked the game, players were also invited to send additional questions too.

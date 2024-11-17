@@ -1,11 +1,1 @@
-The Soviet Block is a single player, freeware, Tetris clone.
-While gameplay is virtually identical to other games of this genre this implementation does have some game configuration features worthy of note:
-
-The player can start at any level, there are ten in all
-The game speed can be adjusted to cater for processors ranging from 4.77 to 33 MHz
-The 'Next' or 'Look Ahead' feature that shows the next shape is optional.
-There are two sets of shapes, Standard and Extended
-The action keys can be redefined
-The falling pieces can be set to rotate either clockwise or counter clockwise
-
-The game has a 'Boss key', high score table and optional sound effects.
+The Soviet Block is a single player, freeware, Tetris clone.While gameplay is virtually identical to other games of this genre this implementation does have some game configuration features worthy of note:The player can start at any level, there are ten in allThe game speed can be adjusted to cater for processors ranging from 4.77 to 33 MHzThe 'Next' or 'Look Ahead' feature that shows the next shape is optional.There are two sets of shapes, Standard and ExtendedThe action keys can be redefinedThe falling pieces can be set to rotate either clockwise or counter clockwiseThe game has a 'Boss key', high score table and optional sound effects.

@@ -1,2 +1,1 @@
-SerpentHead Deluxe is a remake of the original SerpentHead with all scenes redrawn in full-screen VGA and a slightly altered interface. The plot, gameplay, and the introductory sequence remain unchanged.
-Unlike the original SerpentHead, the Deluxe version requires user registration to unlock the complete game.
+SerpentHead Deluxe is a remake of the original SerpentHead with all scenes redrawn in full-screen VGA and a slightly altered interface. The plot, gameplay, and the introductory sequence remain unchanged.Unlike the original SerpentHead, the Deluxe version requires user registration to unlock the complete game.

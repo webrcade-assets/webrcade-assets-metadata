@@ -1,7 +1,1 @@
-Ships Ahoy is a series of educational mini-games for multiple systems.
-Each math game allows addition, subtraction, multiplication, division, or a variety of equations. Each game has 10 questions, and the player can make up to 3 mistakes. Animated characters cross the screen regularly:
-
-Mine Sweeper: Correctly answer math questions by choosing the mine representing the correct answer.
-Sailing Sketch: Draw a picture using a sailboat for a cursor.
-Ships Ahoy: Answer 10 math questions to safely sail a ship across the screen..
-Treasure Hunt: Sail your ship through a sea maze, trying to collect as many treasures as possible in 60 seconds. If the player runs out of time, they get 0 points.
+Ships Ahoy is a series of educational mini-games for multiple systems.Each math game allows addition, subtraction, multiplication, division, or a variety of equations. Each game has 10 questions, and the player can make up to 3 mistakes. Animated characters cross the screen regularly:Mine Sweeper: Correctly answer math questions by choosing the mine representing the correct answer.Sailing Sketch: Draw a picture using a sailboat for a cursor.Ships Ahoy: Answer 10 math questions to safely sail a ship across the screen..Treasure Hunt: Sail your ship through a sea maze, trying to collect as many treasures as possible in 60 seconds. If the player runs out of time, they get 0 points.

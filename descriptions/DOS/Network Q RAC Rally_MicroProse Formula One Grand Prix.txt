@@ -1,4 +1,1 @@
-This compilation contains two DOS games:
-
-Network Q RAC Rally
-MicroProse Formula One Grand Prix
+This compilation contains two DOS games:Network Q RAC RallyMicroProse Formula One Grand Prix

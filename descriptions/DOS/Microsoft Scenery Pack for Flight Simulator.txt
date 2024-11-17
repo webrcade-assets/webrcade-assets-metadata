@@ -1,7 +1,1 @@
-Microsoft Scenery Pack for Flight Simulator is a compilation of three previously released add-ons for Microsoft Flight Simulator v5.1. It consists of
-
-Microsoft's Caribbean Scenery
-Microsoft's Hawaii Scenery
-Microsoft's Japan Scenery
-
-The add-ons all come on the same CD but are installed by running separate DOS batch files. The product also contains details on how the player could configure Microsoft Flight Simulator, and hence these add-ons, to run under Windows 95.
+Microsoft Scenery Pack for Flight Simulator is a compilation of three previously released add-ons for Microsoft Flight Simulator v5.1. It consists ofMicrosoft's Caribbean SceneryMicrosoft's Hawaii SceneryMicrosoft's Japan SceneryThe add-ons all come on the same CD but are installed by running separate DOS batch files. The product also contains details on how the player could configure Microsoft Flight Simulator, and hence these add-ons, to run under Windows 95.

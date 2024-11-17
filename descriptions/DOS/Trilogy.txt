@@ -1,8 +1,1 @@
-Trilogy is a series of three games set in Tolkien's Middle Earth and loosely based on the novel The Hobbit :
-
-Cave : this is a maze exploration game where you need to collect objects that you can use to escape from the cave and the dragon that lives within it.
-Dragon : this an an arcade-based game where the dragon flies across the screen, and you need to shoot him with your weapon (ideally a magical arrow).
-Battle : this appears to be a simulation of the Battle of the Five Armies. You control an army of dwarves, and must defeat an army of orcs.
-
-The games are meant to be played in order, and if you do so and obtain enough points, you are awarded the title of "Wizard".
-According to the game's instructions, it was originally written on a mainframe at Emory University in 1977.
+Trilogy is a series of three games set in Tolkien's Middle Earth and loosely based on the novel The Hobbit :Cave : this is a maze exploration game where you need to collect objects that you can use to escape from the cave and the dragon that lives within it.Dragon : this an an arcade-based game where the dragon flies across the screen, and you need to shoot him with your weapon (ideally a magical arrow).Battle : this appears to be a simulation of the Battle of the Five Armies. You control an army of dwarves, and must defeat an army of orcs.The games are meant to be played in order, and if you do so and obtain enough points, you are awarded the title of "Wizard".According to the game's instructions, it was originally written on a mainframe at Emory University in 1977.

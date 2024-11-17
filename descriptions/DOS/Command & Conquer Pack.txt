@@ -1,5 +1,1 @@
-This compilation includes:
-
-Command & Conquer: Red Alert
-Command & Conquer: Red Alert - The Aftermath
-Command & Conquer: Tiberian Sun
+This compilation includes:Command & Conquer: Red AlertCommand & Conquer: Red Alert - The AftermathCommand & Conquer: Tiberian Sun

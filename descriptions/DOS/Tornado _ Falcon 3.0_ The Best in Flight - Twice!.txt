@@ -1,3 +1,1 @@
-This retail compilation contains:* Tornado
-
-Falcon 3.0
+This retail compilation contains:* TornadoFalcon 3.0

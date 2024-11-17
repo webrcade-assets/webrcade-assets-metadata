@@ -1,12 +1,1 @@
-This compilation includes the following ten games:
-
-Claim to Power
-Doppelpass
-Earthworm Jim 2
-Jewels of the Oracle
-Motocross
-Majestic
-ProPool 3D
-Super Spy
-Raveshuttle
-Total Distortion
+This compilation includes the following ten games:Claim to PowerDoppelpassEarthworm Jim 2Jewels of the OracleMotocrossMajesticProPool 3DSuper SpyRaveshuttleTotal Distortion

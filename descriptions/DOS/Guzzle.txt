@@ -1,18 +1,1 @@
-Guzzle is an American, shareware, trivia quiz/drinking game for up to four players/teams.
-The screen is divided horizontally into two areas. The lower three quarters is the game area and the top banner shows whose turn it is as well as the actions, questions and messages. The game is mouse controlled and the cursor is trapped in small input boxes.
-This is a computerised board game in which players/teams roll a virtual dice and take actions depending on the square they land on, if the player lands on:
-
-a DRINK square then they must take the specified number of drinks
-a GIVE square then they make another player take the specified number of drinks from them
-DETOX MANSION takes the player out of the game until they roll a six or a three which is a nasty piece of game design because a three means the escapee takes one drink and a six lands them on the GUZZLE square. While in DETOX MANSION a player cannot be given drinks by other players
-GUZZLE if any player lands on this square then all players not in DETOX MANSION must take one drink
-ROLL AGAIN
-GO no action is required here, play progresses to the next player ? - This is where the player must answer a trivia question. If they answer correctly they can give one drink to another player otherwise they must take one drink themselves
-
-GIVE a drink and TAKE a drink do refer to physically drinking alcohol and the instructions do warn that knocking back a full shot or two when instructed to do so is NOT recommended.
-The game ends when one of the players has had enough and EXITs the game at which point the winner is either* the player with the lowest score
-
-the person still in control of their faculties
-any person waking up covered in vomit, not necessarily their own, is considered a loser
-
-The game consists of five hundred questions with further question packs being made available to registered users at $1 each.
+Guzzle is an American, shareware, trivia quiz/drinking game for up to four players/teams.The screen is divided horizontally into two areas. The lower three quarters is the game area and the top banner shows whose turn it is as well as the actions, questions and messages. The game is mouse controlled and the cursor is trapped in small input boxes.This is a computerised board game in which players/teams roll a virtual dice and take actions depending on the square they land on, if the player lands on:a DRINK square then they must take the specified number of drinksa GIVE square then they make another player take the specified number of drinks from themDETOX MANSION takes the player out of the game until they roll a six or a three which is a nasty piece of game design because a three means the escapee takes one drink and a six lands them on the GUZZLE square. While in DETOX MANSION a player cannot be given drinks by other playersGUZZLE if any player lands on this square then all players not in DETOX MANSION must take one drinkROLL AGAINGO no action is required here, play progresses to the next player ? - This is where the player must answer a trivia question. If they answer correctly they can give one drink to another player otherwise they must take one drink themselvesGIVE a drink and TAKE a drink do refer to physically drinking alcohol and the instructions do warn that knocking back a full shot or two when instructed to do so is NOT recommended.The game ends when one of the players has had enough and EXITs the game at which point the winner is either* the player with the lowest scorethe person still in control of their facultiesany person waking up covered in vomit, not necessarily their own, is considered a loserThe game consists of five hundred questions with further question packs being made available to registered users at $1 each.

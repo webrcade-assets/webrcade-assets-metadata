@@ -1,7 +1,1 @@
-Aviator Simulator is a compilation of five previously-released DOS flight games.
-
-AV-8B Harrier Assault
-Blue Angels
-Blue Max
-MiG-29
-Red Baron
+Aviator Simulator is a compilation of five previously-released DOS flight games.AV-8B Harrier AssaultBlue AngelsBlue MaxMiG-29Red Baron

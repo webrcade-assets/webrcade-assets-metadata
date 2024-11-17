@@ -1,13 +1,1 @@
-White Wolf Software: Series IX is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:* A: Epic Pinball : Just the Android Table from Epic Pinball Pack 1
-
-B: TeleCards
-C: Pyramid a solitaire game from Eduardo Martins
-D: Pirada 1
-E: Cheat: a selection of game codes and cheats
-F: Gemstones III
-G: Adventure Math
-H: Breakfree
-I: Trugg
-J: Micropede v1.40
-
-The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.
+White Wolf Software: Series IX is one of a series of CDs published by Wiz Technology on their White Wolf label. This CD contains the following shareware products:* A: Epic Pinball : Just the Android Table from Epic Pinball Pack 1B: TeleCardsC: Pyramid a solitaire game from Eduardo MartinsD: Pirada 1E: Cheat: a selection of game codes and cheatsF: Gemstones IIIG: Adventure MathH: BreakfreeI: TruggJ: Micropede v1.40The software is installed singly, there is no 'Install All' option. Once installed the user is left at the DOS prompt in the newly created directory.

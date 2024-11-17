@@ -1,6 +1,1 @@
-Rock Games is a compilation of four single player, keyboard controlled variants of popular arcade-style games. All the games in this compilation are played in a letter-box type screen, they are:
-
-Rock Out : A Breakout-style game
-Rock Man : A Pac-Man-style game
-Rock Invaders : A Space Invaders-style game
-Rock Tris : A Tetris-style game
+Rock Games is a compilation of four single player, keyboard controlled variants of popular arcade-style games. All the games in this compilation are played in a letter-box type screen, they are:Rock Out : A Breakout-style gameRock Man : A Pac-Man-style gameRock Invaders : A Space Invaders-style gameRock Tris : A Tetris-style game

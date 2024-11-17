@@ -1,4 +1,1 @@
-Vardit is a promotional game, which was handed to anyone who purchased three packets of Vered Hagalil chocolate bar.
-The player controls Vardit the cow, who has to get back to the farm before the time runs out. On the way, Vardit has to avoid obstacles and other animals, while collecting various items.
-The game includes three difficulty levels and a training mode.
-Each level requires the players to collect a different amount of chocolate bars and avoid a different set of obstacles.
+Vardit is a promotional game, which was handed to anyone who purchased three packets of Vered Hagalil chocolate bar.The player controls Vardit the cow, who has to get back to the farm before the time runs out. On the way, Vardit has to avoid obstacles and other animals, while collecting various items.The game includes three difficulty levels and a training mode.Each level requires the players to collect a different amount of chocolate bars and avoid a different set of obstacles.

@@ -1,16 +1,1 @@
-More 10 Solid Gold Hits - Volume II is a compilation of 10 games. Some have been previously published, while others were created specifically for this package:
-The previously-published games:
-
-The President is Missing
-Super Huey II
-Chomp!
-Fokker!
-
-The games created specifically for this package:
-
-Totally Rad-Lib Publisher : a madlibs-style game. This lets you generate a wacky newspaper story, complete with headline. The resulting story can even be printed.
-Mug Shot : A randomly-generated face will display for a few seconds, then the player will need to reconstruct the face from memory, using a library of features. A high-score is kept for the fastest completion, or you can generate faces for fun.
-Flipin : A pinball game with multiball.
-Bangalore! : A minesweeper-style game. Starting at one corner, make it to the other corner without stepping on a mine.
-Lokup : A Qix variant. Fill in the playing field while avoiding getting hit by enemies.
-Bango! : A Pengo variant. Kick ice blocks at bees to squish them.
+More 10 Solid Gold Hits - Volume II is a compilation of 10 games. Some have been previously published, while others were created specifically for this package:The previously-published games:The President is MissingSuper Huey IIChomp!Fokker!The games created specifically for this package:Totally Rad-Lib Publisher : a madlibs-style game. This lets you generate a wacky newspaper story, complete with headline. The resulting story can even be printed.Mug Shot : A randomly-generated face will display for a few seconds, then the player will need to reconstruct the face from memory, using a library of features. A high-score is kept for the fastest completion, or you can generate faces for fun.Flipin : A pinball game with multiball.Bangalore! : A minesweeper-style game. Starting at one corner, make it to the other corner without stepping on a mine.Lokup : A Qix variant. Fill in the playing field while avoiding getting hit by enemies.Bango! : A Pengo variant. Kick ice blocks at bees to squish them.

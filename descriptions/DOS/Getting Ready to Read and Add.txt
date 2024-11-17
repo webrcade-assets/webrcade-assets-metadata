@@ -1,9 +1,1 @@
-Getting Ready to Read and Add is an early level educational game for multiple systems.
-It contains 6 mini-games involving matching:
-
-ABC->: match similar letters
-Alphasaurus: match similar letters
-Beam Up: match similar shapes
-Letter Getter: match capital and lower case letters
-Moon Math: match similar letters
-Number Chick: match numbers to pictures
+Getting Ready to Read and Add is an early level educational game for multiple systems.It contains 6 mini-games involving matching:ABC->: match similar lettersAlphasaurus: match similar lettersBeam Up: match similar shapesLetter Getter: match capital and lower case lettersMoon Math: match similar lettersNumber Chick: match numbers to pictures

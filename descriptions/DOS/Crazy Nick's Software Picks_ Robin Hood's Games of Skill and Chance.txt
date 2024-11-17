@@ -1,5 +1,1 @@
-This part of Crazy Nick's Software Picks line of budget games introduces Robin Hood of Conquests of the Longbow. The player tries to help him in three mini-games:
-
-Archery, where the player needs to shoot from a longbow at the targets taking into account the wind;
-Nine Men's Morris, where the player needs to defeat a tavern's visitor in Nine Men's Morris board game;
-Sticks, where the player needs to defeat a black cloaked stranger fighting with sticks.
+This part of Crazy Nick's Software Picks line of budget games introduces Robin Hood of Conquests of the Longbow. The player tries to help him in three mini-games:Archery, where the player needs to shoot from a longbow at the targets taking into account the wind;Nine Men's Morris, where the player needs to defeat a tavern's visitor in Nine Men's Morris board game;Sticks, where the player needs to defeat a black cloaked stranger fighting with sticks.

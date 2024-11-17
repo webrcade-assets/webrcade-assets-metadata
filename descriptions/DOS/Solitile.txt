@@ -1,15 +1,1 @@
-Solitile is a single player, shareware, implementation of the Chinese tile matching game. This game is played with the mouse and game play is the same as most other games of this genre.
-The game was initially released around since 1989. In September 1991 version 3.1 was released, by that time the game included the following features:
-
-Pairs - this searches for matching pairs and tells the player how many are available
-An Undo function which steps back one move at a time, and a retry function which restarts the current game
-Multiple layouts and tile sets
-There's also a Save/Load function, and a help function
-A Back Up feature which is better known these days as an undo function
-Separate profiles for each player including the option to set a personal .gif file as a background
-Editing functions that allow the player to modify or create new layouts, tiles, frame patterns and backgrounds
-
-The shareware release comes with the following layouts, beginner, Bridge, Encircle, Forum, Pyramid, Spider, Starship, Sun, Temple, Valley and Wedges and two tile sets. Additional add-on packages were available:* Disk 1 contained 3 tile sets: (Mahjong, Bath, & Tools), 5 layouts, 9 music files:, and 13 GIF files
-
-Disk 2 contained 5 tile sets: (Stamps, Baseball, Candy, Wintile1, Body), 5 layouts, 9 music files:, and 21 GIF files
-Disk 3 was being developed as version 3.1 was released, it promised 10 tile sets: (Alpha, Flower, Cars, Comics, Cards, Cards2, Traffic, Toons, and Collage), and utilities
+Solitile is a single player, shareware, implementation of the Chinese tile matching game. This game is played with the mouse and game play is the same as most other games of this genre.The game was initially released around since 1989. In September 1991 version 3.1 was released, by that time the game included the following features:Pairs - this searches for matching pairs and tells the player how many are availableAn Undo function which steps back one move at a time, and a retry function which restarts the current gameMultiple layouts and tile setsThere's also a Save/Load function, and a help functionA Back Up feature which is better known these days as an undo functionSeparate profiles for each player including the option to set a personal .gif file as a backgroundEditing functions that allow the player to modify or create new layouts, tiles, frame patterns and backgroundsThe shareware release comes with the following layouts, beginner, Bridge, Encircle, Forum, Pyramid, Spider, Starship, Sun, Temple, Valley and Wedges and two tile sets. Additional add-on packages were available:* Disk 1 contained 3 tile sets: (Mahjong, Bath, & Tools), 5 layouts, 9 music files:, and 13 GIF filesDisk 2 contained 5 tile sets: (Stamps, Baseball, Candy, Wintile1, Body), 5 layouts, 9 music files:, and 21 GIF filesDisk 3 was being developed as version 3.1 was released, it promised 10 tile sets: (Alpha, Flower, Cars, Comics, Cards, Cards2, Traffic, Toons, and Collage), and utilities

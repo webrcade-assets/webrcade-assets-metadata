@@ -1,4 +1,1 @@
-Slicks 'n' Slide is an overhead racing game where you try to drive your vehicle
-as fast as possible in available tracks. You can also use weapons to slow down your
-opponents. The idea of the game can look simple but Slicks 'n' Slide has very
-detailed options giving you the opportunity to change it in your own style.
+Slicks 'n' Slide is an overhead racing game where you try to drive your vehicleas fast as possible in available tracks. You can also use weapons to slow down youropponents. The idea of the game can look simple but Slicks 'n' Slide has verydetailed options giving you the opportunity to change it in your own style.

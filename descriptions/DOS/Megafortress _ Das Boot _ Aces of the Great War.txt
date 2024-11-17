@@ -1,5 +1,1 @@
-This compilation contains:
-
-Blue Max: Aces of the Great War
-Das Boot: German U-Boat Simulation
-Megafortress
+This compilation contains:Blue Max: Aces of the Great WarDas Boot: German U-Boat SimulationMegafortress

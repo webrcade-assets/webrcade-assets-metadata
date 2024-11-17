@@ -1,7 +1,1 @@
-This DOS compilation includes five flight simulators. The featured titles are:
-
-Flight Unlimited
-Apache
-Su-27 Flanker
-Fighter Duel
-Air Warrior
+This DOS compilation includes five flight simulators. The featured titles are:Flight UnlimitedApacheSu-27 FlankerFighter DuelAir Warrior

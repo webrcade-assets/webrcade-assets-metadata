@@ -1,5 +1,1 @@
-This compilation includes:
-
-Ghosts 'N Goblins
-Pocket Rockets
-Sarge
+This compilation includes:Ghosts 'N GoblinsPocket RocketsSarge

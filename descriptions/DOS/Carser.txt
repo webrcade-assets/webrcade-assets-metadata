@@ -1,5 +1,1 @@
-Carser is a top-down view single player retro racing game.
-The goal is to go through all checkpoints and get the fastest time possible rewarded by silver, gold and diamond badges. 
-Nitro boosts, jump ramps, ferry boats, rail level crossings, road blocks, cows, oil spills, gates and traffic will make this challenging.
-There are 20 levels to complete to get to the final prize and animation which will unlock new cars.
-A map editor is included to make your own levels!
+Carser is a top-down view single player retro racing game.The goal is to go through all checkpoints and get the fastest time possible rewarded by silver, gold and diamond badges. Nitro boosts, jump ramps, ferry boats, rail level crossings, road blocks, cows, oil spills, gates and traffic will make this challenging.There are 20 levels to complete to get to the final prize and animation which will unlock new cars.A map editor is included to make your own levels!

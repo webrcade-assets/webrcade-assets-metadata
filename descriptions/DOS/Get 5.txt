@@ -1,2 +1,1 @@
-Get 5 is a single player, mouse controlled implementation of Five in a Row aka Gomoku Narabe.
-Gameplay is straightforward, the player must create a line, horizontal, vertical or diagonal, of five tokens before the computer does. There are three levels of computer AI, a high score table and in-game help
+Get 5 is a single player, mouse controlled implementation of Five in a Row aka Gomoku Narabe.Gameplay is straightforward, the player must create a line, horizontal, vertical or diagonal, of five tokens before the computer does. There are three levels of computer AI, a high score table and in-game help

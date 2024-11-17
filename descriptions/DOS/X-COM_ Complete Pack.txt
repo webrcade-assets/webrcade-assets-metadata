@@ -1,7 +1,1 @@
-X-COM Complete Pack is a compilation of five X-COM games. The games within this bundle are:
-
-X-COM: UFO Defense
-X-COM: Terror From the Deep
-X-COM: Apocalypse
-X-COM: Interceptor
-X-COM: Enforcer
+X-COM Complete Pack is a compilation of five X-COM games. The games within this bundle are:X-COM: UFO DefenseX-COM: Terror From the DeepX-COM: ApocalypseX-COM: InterceptorX-COM: Enforcer

@@ -1,2 +1,1 @@
-Players' Checkers is a 1–2 player checkers game for DOS.
-Board and pieces graphically displayed.  Multiple levels of computer opponents. Save and restore feature available.
+Players' Checkers is a 1–2 player checkers game for DOS.Board and pieces graphically displayed.  Multiple levels of computer opponents. Save and restore feature available.

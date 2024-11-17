@@ -1,12 +1,1 @@
-This compilation includes the following 10 games:
-
-Chess Player 2150
-First Samurai
-Gunship
-Kick Off 2
-Mega lo Mania
-MIG-29 Fulcrum
-The Perfect General
-Red Storm Rising
-Sid Meier's Railroad Tycoon
-Silent Service II
+This compilation includes the following 10 games:Chess Player 2150First SamuraiGunshipKick Off 2Mega lo ManiaMIG-29 FulcrumThe Perfect GeneralRed Storm RisingSid Meier's Railroad TycoonSilent Service II

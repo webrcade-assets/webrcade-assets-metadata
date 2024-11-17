@@ -1,18 +1,1 @@
-All About Ohio is a single person, keyboard controlled, educational, shareware game that is intended to teach the player about Ohio, USA.
-The state of Ohio is divided into four quarters which are coloured red while the surrounding states are coloured green. Only one quarter is shown on screen at a time. The player uses the arrow keys to move their character around the state looking for hotspots, these can be cities - usually indicated by a black spot, special places - indicated by a symbol or a coloured spot, or rivers/lakes which are blue.
-When a location is found the screen changes from a map view to a question screen. These vary in colour and form but usually have a picture and one or two questions. The question style is unusual. At a location the player may be asked two questions, for example;* This is a memorial to a famous civil war general. What is his name?
-
-a.) U. S. Grant
-b.) Sherman
-c.) George Custer
-d.) R. E. Lee
-
-The general was later famous as a
-
-e.) govenor
-f.) president
-g.) businessman
-h.) criminal
-
-The player answers by pressing one of the a-d keys, which brings up a text-capture box, followed by ENTER. That answers the first question, they then press one of the e-h keys followed by ENTER to answer the second. Every non-map screen is closed by typing GO so to complete the question they must type GO and press ENTER to move on with the game. If the player enters an incorrect answer they are prompted to try again and again until they get it right.
-The more questions answered correctly the greater the score, the highest possible score a player can achieve is one thousand and four hundred points but to achieve this the player must not only answer questions they must also find three hidden items.
+All About Ohio is a single person, keyboard controlled, educational, shareware game that is intended to teach the player about Ohio, USA.The state of Ohio is divided into four quarters which are coloured red while the surrounding states are coloured green. Only one quarter is shown on screen at a time. The player uses the arrow keys to move their character around the state looking for hotspots, these can be cities - usually indicated by a black spot, special places - indicated by a symbol or a coloured spot, or rivers/lakes which are blue.When a location is found the screen changes from a map view to a question screen. These vary in colour and form but usually have a picture and one or two questions. The question style is unusual. At a location the player may be asked two questions, for example;* This is a memorial to a famous civil war general. What is his name?a.) U. S. Grantb.) Shermanc.) George Custerd.) R. E. LeeThe general was later famous as ae.) govenorf.) presidentg.) businessmanh.) criminalThe player answers by pressing one of the a-d keys, which brings up a text-capture box, followed by ENTER. That answers the first question, they then press one of the e-h keys followed by ENTER to answer the second. Every non-map screen is closed by typing GO so to complete the question they must type GO and press ENTER to move on with the game. If the player enters an incorrect answer they are prompted to try again and again until they get it right.The more questions answered correctly the greater the score, the highest possible score a player can achieve is one thousand and four hundred points but to achieve this the player must not only answer questions they must also find three hidden items.

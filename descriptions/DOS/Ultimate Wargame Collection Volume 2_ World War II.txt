@@ -1,6 +1,1 @@
-This compilation includes:
-
-Fighting Steel: World War II Surface Combat 1939-1942
-Luftwaffe Commander: WWII Combat Flight Simulator
-Panzer Commander
-Silent Hunter: Commander's Edition
+This compilation includes:Fighting Steel: World War II Surface Combat 1939-1942Luftwaffe Commander: WWII Combat Flight SimulatorPanzer CommanderSilent Hunter: Commander's Edition

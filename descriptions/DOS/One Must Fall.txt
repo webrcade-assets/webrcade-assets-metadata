@@ -1,2 +1,1 @@
-One Must Fall is a simple one- or two-player fighting game. There is no career mode, no tournament mode, no story, and only one move set.
-This is a freeware proof-of-concept for what would eventually become One Must Fall 2097, a much more complete game released the following year.
+One Must Fall is a simple one- or two-player fighting game. There is no career mode, no tournament mode, no story, and only one move set.This is a freeware proof-of-concept for what would eventually become One Must Fall 2097, a much more complete game released the following year.

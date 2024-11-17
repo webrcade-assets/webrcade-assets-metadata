@@ -1,5 +1,1 @@
-GATO•Orbiter•PT-109 is a collection of simulations for DOS.
-
-GATO
-Orbiter
-PT-109
+GATO•Orbiter•PT-109 is a collection of simulations for DOS.GATOOrbiterPT-109

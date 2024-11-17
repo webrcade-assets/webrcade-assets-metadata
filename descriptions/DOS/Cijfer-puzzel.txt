@@ -1,5 +1,1 @@
-Cijfer-puzzel is a puzzle game with digits.
-It has eight difficulty levels.
-On the lowest difficulty the game shows a 2 by 2 square and on the highest difficulty the game shows a 9 by 9 square.
-At the end of each row and each column there's a number. There's also a number at the lower right hand side corner.
-The objective of the game is to fill these squares with digits, such that the sum of the digits are equal to the number at the end of each row, column and diagonally.
+Cijfer-puzzel is a puzzle game with digits.It has eight difficulty levels.On the lowest difficulty the game shows a 2 by 2 square and on the highest difficulty the game shows a 9 by 9 square.At the end of each row and each column there's a number. There's also a number at the lower right hand side corner.The objective of the game is to fill these squares with digits, such that the sum of the digits are equal to the number at the end of each row, column and diagonally.

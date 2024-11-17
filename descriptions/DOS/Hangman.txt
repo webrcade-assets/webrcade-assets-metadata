@@ -1,3 +1,1 @@
-Hangman is a word-guessing game based on the original paper and pencil version played by at least two players.
-The game shows you a series of blank spaces. You have a certain number of guesses; every time you guess wrong, a drawing of a hanged man will keep being drawn until a certain amount of mistakes are made. Once you lose, the drawing will be finished and the hanged man will literally be a hangman.
-This version of the game comes with nine different theme word lists.
+Hangman is a word-guessing game based on the original paper and pencil version played by at least two players.The game shows you a series of blank spaces. You have a certain number of guesses; every time you guess wrong, a drawing of a hanged man will keep being drawn until a certain amount of mistakes are made. Once you lose, the drawing will be finished and the hanged man will literally be a hangman.This version of the game comes with nine different theme word lists.

@@ -1,5 +1,1 @@
-3x Logic Games is a set of three games:
-
-Fast Brain - Puzzle with cartoon graphics.
-Słówka (Words) - Players have to guess the four-letter word. The player gives the word and then receives information about the number of matched characters.
-UHO Puzzle Club - A set of several different types of puzzle games, with the possibility of playing with custom imported images.
+3x Logic Games is a set of three games:Fast Brain - Puzzle with cartoon graphics.Słówka (Words) - Players have to guess the four-letter word. The player gives the word and then receives information about the number of matched characters.UHO Puzzle Club - A set of several different types of puzzle games, with the possibility of playing with custom imported images.

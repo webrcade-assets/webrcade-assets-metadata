@@ -1,9 +1,1 @@
-Quatris II+ is a single player, Tetris -like game. A three level version of the game was distributed as freeware but the registered version has over fifteen levels.
-The game play is the same as Tetris and it's many clones. Blocks fall down the screen and the player must complete horizontal rows to clear fallen blocks and the game ends when the screen is full. When the player clears enough rows to advance to a higher level they are offered the opportunity to play a mini-game for bonus points. In addition to this the game has many other features which the documentation lists as follows:* Over 50 challenging shapes
-
-Three bombs (Wipe, Match, and Super Bomb)
-Dynamic Well
-AutoRotate to rotate large objects near walls
-Tournament Style levels
-Redefinable key configuration
-and a 3D Interface
+Quatris II+ is a single player, Tetris -like game. A three level version of the game was distributed as freeware but the registered version has over fifteen levels.The game play is the same as Tetris and it's many clones. Blocks fall down the screen and the player must complete horizontal rows to clear fallen blocks and the game ends when the screen is full. When the player clears enough rows to advance to a higher level they are offered the opportunity to play a mini-game for bonus points. In addition to this the game has many other features which the documentation lists as follows:* Over 50 challenging shapesThree bombs (Wipe, Match, and Super Bomb)Dynamic WellAutoRotate to rotate large objects near wallsTournament Style levelsRedefinable key configurationand a 3D Interface

@@ -1,5 +1,1 @@
-Air Combat Aces contains the following three flight simulations:
-
-Falcon
-Gunship
-Strike Aces (as Fighter Bomber)
+Air Combat Aces contains the following three flight simulations:FalconGunshipStrike Aces (as Fighter Bomber)

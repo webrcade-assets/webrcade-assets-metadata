@@ -1,6 +1,1 @@
-Compilation of four sport games by Zigurat. The games included are:
-
-Carlos Sainz
-Emilio Sánchez Vicario Grand Slam
-Paris-Dakar
-Sito Pons 500cc Grand Prix
+Compilation of four sport games by Zigurat. The games included are:Carlos SainzEmilio Sánchez Vicario Grand SlamParis-DakarSito Pons 500cc Grand Prix

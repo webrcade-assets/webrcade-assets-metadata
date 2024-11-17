@@ -1,5 +1,1 @@
-Compilation that includes the following 3 games:
-
-Campaign
-Gunship 2000
-Historyline: 1914-1918
+Compilation that includes the following 3 games:CampaignGunship 2000Historyline: 1914-1918

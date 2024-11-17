@@ -1,16 +1,1 @@
-Tommy's Toy Pak III is a compilation of fifteen shareware games from Tommy's Toys. The games in this package are:* Tommy's Air Traffic Control
-
-Tommy's Cribbage
-Tommy's Energy Fence
-Tommy's Hyperdrive
-Tommy's Icicles
-Tommy's Jammer
-Tommy's Meteors
-Tommy's Old Maid
-Tommy's One-Armed Bandit
-Tommy's Othello
-Tommy's Packrat
-Tommy's Roulette
-Tommy's Show And Tell
-Tommy's Twenty-One
-Tommy's Yahtzee
+Tommy's Toy Pak III is a compilation of fifteen shareware games from Tommy's Toys. The games in this package are:* Tommy's Air Traffic ControlTommy's CribbageTommy's Energy FenceTommy's HyperdriveTommy's IciclesTommy's JammerTommy's MeteorsTommy's Old MaidTommy's One-Armed BanditTommy's OthelloTommy's PackratTommy's RouletteTommy's Show And TellTommy's Twenty-OneTommy's Yahtzee

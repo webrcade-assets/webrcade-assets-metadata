@@ -1,2 +1,1 @@
-Skoczki is a board game for two players. The goal requires blocking opponent's pawn. The pawns move in a way that resembles a chess horse on 8x8 board. The individual field can be occupied only once. The game also includes a tooltip that shows all possible moves. The game ends when one of the players has no free place to move on.
-Control is done with the mouse or keyboard.
+Skoczki is a board game for two players. The goal requires blocking opponent's pawn. The pawns move in a way that resembles a chess horse on 8x8 board. The individual field can be occupied only once. The game also includes a tooltip that shows all possible moves. The game ends when one of the players has no free place to move on.Control is done with the mouse or keyboard.

@@ -1,10 +1,1 @@
-This compilation includes:* Contraption Zack
-
-D/Generation
-Epic
-F-29 Retaliator
-Might and Magic II
-Paperboy 2
-Pushover
-RoboCop 3
-The Fidelity Chessmaster 2100
+This compilation includes:* Contraption ZackD/GenerationEpicF-29 RetaliatorMight and Magic IIPaperboy 2PushoverRoboCop 3The Fidelity Chessmaster 2100

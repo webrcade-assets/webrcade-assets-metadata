@@ -1,13 +1,1 @@
-Milo: the Fuel Run is a side scrolling platform game with you being a skater trying to save the world's supply of the chocolate malted beverage Milo. You must skate/jump/grind through various levels collecting tins of Milo, stomping bad guys and finding new tricks in order to reach the end of each stage, many of which have a boss. Can you stop the evil doctor and his dastardly evil plan to steal all the Milo in the world?
-Powerups you can find:
-- Skateboard - collecting this earns you a extra life.
-
-Milo tin - collect these to increase your health.
-
-1st ollie - allows you to jump high on your skateboard.
-
-2nd ollie - allows for a even bigger groovy ollie then before
-
-tricks+grinds - allows grinding on certain objects to avoid damage.
-
-Flips - allows you to flip your board and (possibly?) deal more damage to bad guys
+Milo: the Fuel Run is a side scrolling platform game with you being a skater trying to save the world's supply of the chocolate malted beverage Milo. You must skate/jump/grind through various levels collecting tins of Milo, stomping bad guys and finding new tricks in order to reach the end of each stage, many of which have a boss. Can you stop the evil doctor and his dastardly evil plan to steal all the Milo in the world?Powerups you can find:- Skateboard - collecting this earns you a extra life.Milo tin - collect these to increase your health.1st ollie - allows you to jump high on your skateboard.2nd ollie - allows for a even bigger groovy ollie then beforetricks+grinds - allows grinding on certain objects to avoid damage.Flips - allows you to flip your board and (possibly?) deal more damage to bad guys

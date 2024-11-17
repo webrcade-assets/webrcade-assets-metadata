@@ -1,2 +1,1 @@
-Tashbetzey HaMahshev ( Computer Crosswords) is a digital collection of 60 crossword puzzles in Hebrew.
-The crosswords can be solved on the computer with the keyboard and/or the mouse, or printed to be solved on paper.
+Tashbetzey HaMahshev ( Computer Crosswords) is a digital collection of 60 crossword puzzles in Hebrew.The crosswords can be solved on the computer with the keyboard and/or the mouse, or printed to be solved on paper.

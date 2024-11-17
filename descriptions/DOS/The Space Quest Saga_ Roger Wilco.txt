@@ -1,6 +1,1 @@
-A compilation featuring floppy diskette versions of Sierra's first four Space Quest games. The games included are:
-
-Space Quest I: The Sarien Encouter (updated VGA Version)
-Space Quest II: Vohaul's Revenge
-Space Quest III: the Pirates of Pestulon
-Space Quest IV: Roger Wilco and the Time Rippers
+A compilation featuring floppy diskette versions of Sierra's first four Space Quest games. The games included are:Space Quest I: The Sarien Encouter (updated VGA Version)Space Quest II: Vohaul's RevengeSpace Quest III: the Pirates of PestulonSpace Quest IV: Roger Wilco and the Time Rippers

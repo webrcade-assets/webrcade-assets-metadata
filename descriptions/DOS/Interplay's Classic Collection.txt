@@ -1,4 +1,1 @@
-A collection of games designed for Dos and Windows 3.1  The games are as listed:
-Crete, Fastring, Flying Pictures, Lineman, Master of Bombs, Shadows and Solitaire for Windows.
-Crete is a sliding puzzle game.  Fastring requires capturing pieces by building a series of completed rectanges.  Master of bombs is a tricky variation of Tetris.  Flying Pictures is similar to concentration.  Shadows plays like Breakout except the targets move as well.  And of course there's Klondike Solitaire.
-The games were developed by Russian programers and published by Interplay
+A collection of games designed for Dos and Windows 3.1  The games are as listed:Crete, Fastring, Flying Pictures, Lineman, Master of Bombs, Shadows and Solitaire for Windows.Crete is a sliding puzzle game.  Fastring requires capturing pieces by building a series of completed rectanges.  Master of bombs is a tricky variation of Tetris.  Flying Pictures is similar to concentration.  Shadows plays like Breakout except the targets move as well.  And of course there's Klondike Solitaire.The games were developed by Russian programers and published by Interplay

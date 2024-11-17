@@ -1,3 +1,1 @@
-Bible Crossword Puzzles is a single player, shareware, crossword puzzle game based on the King James bible.
-All clues in the crossword are accompanied by the relevant bible reference. The game has a save/load function, in-game help, and a hint feature. It can be played by either a keyboard of the mouse.
-An unusual feature of this game is that it will not let the player enter an incorrect letter which means that obscure clues can be solved by trial and error
+Bible Crossword Puzzles is a single player, shareware, crossword puzzle game based on the King James bible.All clues in the crossword are accompanied by the relevant bible reference. The game has a save/load function, in-game help, and a hint feature. It can be played by either a keyboard of the mouse.An unusual feature of this game is that it will not let the player enter an incorrect letter which means that obscure clues can be solved by trial and error

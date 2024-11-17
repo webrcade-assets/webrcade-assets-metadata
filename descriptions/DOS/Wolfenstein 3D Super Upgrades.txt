@@ -1,7 +1,1 @@
-Wolfenstein 3D Super Upgrades is an add-on pack for Wolfenstein 3D. It contains:
-
-815 user-made maps along with a simple shell named "WolfMaster"
-a level generator ("Wolf Creator")
-a level editor ("MapEdit")
-
-These "Super Upgrades" were not authorized by id Software and thus must be considered unofficial.
+Wolfenstein 3D Super Upgrades is an add-on pack for Wolfenstein 3D. It contains:815 user-made maps along with a simple shell named "WolfMaster"a level generator ("Wolf Creator")a level editor ("MapEdit")These "Super Upgrades" were not authorized by id Software and thus must be considered unofficial.

@@ -1,6 +1,1 @@
-This compilation contains three classic strategy games from Microprose.
-The following games are included:
-
-Magic: The Gathering
-Sid Meier's Civilization II
-X-COM: Apocalypse
+This compilation contains three classic strategy games from Microprose.The following games are included:Magic: The GatheringSid Meier's Civilization IIX-COM: Apocalypse

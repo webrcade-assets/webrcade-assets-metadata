@@ -1,2 +1,1 @@
-Lupercalia is an interactive fiction game where you have to save the poor shepherd from the wolves. You'll meet some strange travellers and entities such as Pan or the Greenman, and you can play from a young man or woman point of view.
-Initially this game was only released in French.
+Lupercalia is an interactive fiction game where you have to save the poor shepherd from the wolves. You'll meet some strange travellers and entities such as Pan or the Greenman, and you can play from a young man or woman point of view.Initially this game was only released in French.

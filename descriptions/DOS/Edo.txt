@@ -1,2 +1,1 @@
-Edo is a strategy board game for MS-DOS.
-The player tries to take control of a multi-colored board.
+Edo is a strategy board game for MS-DOS.The player tries to take control of a multi-colored board.

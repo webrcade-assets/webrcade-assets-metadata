@@ -1,2 +1,1 @@
-Omega War! is a single player Asteriods style game, with gameplay based on Omega Race. This game however dispenses with the asteroids and just has the alien spaceships to destroy.
-The game is entirely keyboard-controlled, and allows the player to adjust the start level, the game speed, and the number of enemies on screen at the beginning. It also has optional sound.
+Omega War! is a single player Asteriods style game, with gameplay based on Omega Race. This game however dispenses with the asteroids and just has the alien spaceships to destroy.The game is entirely keyboard-controlled, and allows the player to adjust the start level, the game speed, and the number of enemies on screen at the beginning. It also has optional sound.

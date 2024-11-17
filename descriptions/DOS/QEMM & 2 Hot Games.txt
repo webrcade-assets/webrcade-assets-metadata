@@ -1,3 +1,1 @@
-This package bundles QEMM Version 7 (Quarterdeck Expanded Memory Manager), with two classic Origin Systems games:* ShadowCaster
-
-Wing Commander: Privateer
+This package bundles QEMM Version 7 (Quarterdeck Expanded Memory Manager), with two classic Origin Systems games:* ShadowCasterWing Commander: Privateer

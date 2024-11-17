@@ -1,17 +1,1 @@
-JetSet Miner Willy-PC is a PC remake of platform games from the Miner Willy series. It includes the games Manic Miner and Jet Set Willy, as well as several fan-made levelsets by various authors, most of which were originally released for ZX Spectrum:
-
-Join the Jet-Set
-JetSet Willy III
-Willy's New Hat "Manic Miner 7" (original levelset created for the remake, based on the author's unfinished ZX Spectrum mod)
-The Deadly Mission
-Willy's Holiday
-Willy in Space
-The Continuing Adventures
-
-All these fan-made levelsets (except for "Manic Miner 7") are distributed with the game as ZX Spectrum ROM files, from which the game reads level data. Two "bonus" levelsets are also available to play from the main selection screen, although their ROM files must first be downloaded from the game's website:
-
-Willy the Hacker, labelled in the game as "JSW Hack"
-J4
-
-The games play identically to the originals: The player's goal is to collect all the items, while avoiding monsters and stationary hazards. In the Manic Miner games, the player must collect all items in a room to be able to progress. In the Jet Set Willy games, the player can freely move between rooms.
-The program keeps track of the score (items collected) in each of the Jet Set Willy games. Additionally, a special challenge is included. If the player manages to collect a large score in all the Jet Set Willy games and complete both the Manic Miner games, the Banyan Tree on the game selection screen will grow and reveal a door. The door has to be opened with secret keys hidden in the Manic Miner games. Entering the door allows the player to reach a special ending.
+JetSet Miner Willy-PC is a PC remake of platform games from the Miner Willy series. It includes the games Manic Miner and Jet Set Willy, as well as several fan-made levelsets by various authors, most of which were originally released for ZX Spectrum:Join the Jet-SetJetSet Willy IIIWilly's New Hat "Manic Miner 7" (original levelset created for the remake, based on the author's unfinished ZX Spectrum mod)The Deadly MissionWilly's HolidayWilly in SpaceThe Continuing AdventuresAll these fan-made levelsets (except for "Manic Miner 7") are distributed with the game as ZX Spectrum ROM files, from which the game reads level data. Two "bonus" levelsets are also available to play from the main selection screen, although their ROM files must first be downloaded from the game's website:Willy the Hacker, labelled in the game as "JSW Hack"J4The games play identically to the originals: The player's goal is to collect all the items, while avoiding monsters and stationary hazards. In the Manic Miner games, the player must collect all items in a room to be able to progress. In the Jet Set Willy games, the player can freely move between rooms.The program keeps track of the score (items collected) in each of the Jet Set Willy games. Additionally, a special challenge is included. If the player manages to collect a large score in all the Jet Set Willy games and complete both the Manic Miner games, the Banyan Tree on the game selection screen will grow and reveal a door. The door has to be opened with secret keys hidden in the Manic Miner games. Entering the door allows the player to reach a special ending.

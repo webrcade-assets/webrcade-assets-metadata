@@ -1,4 +1,1 @@
-This compilation consists of three simplified sports games:
-
-Baseball for one or two players, with selection from among six available teams
-Rackets, which features Tennis for two players and Squash for one player
+This compilation consists of three simplified sports games:Baseball for one or two players, with selection from among six available teamsRackets, which features Tennis for two players and Squash for one player

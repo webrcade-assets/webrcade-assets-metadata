@@ -1,9 +1,1 @@
-Blasten ! is a single player, shareware, monochrome Asteroids clone.
-The game gives the player three ships with which to destroy all meteors and comets that threaten space traffic. It is keyboard controlled and the action keys can be redefined.
-This game differs from many in the genre in that ammunition is not unlimited. Each ship starts with two hundred units of energy, firing the laser costs ten units, firing a missile costs one unit. A ship in good condition can absorb additional energy from a comet while a damaged one will be destroyed by it.
-The game can be configured by answering questions as it starts up:
-
-The ship can be magnetic - i.e. it will attract meteors
-It can bounce off the walls around the edge of the screen or it can fly off one edge and reappear on the opposite side
-Sound effects are optional
-Game speed can be affected by selecting one of four machine types
+Blasten ! is a single player, shareware, monochrome Asteroids clone.The game gives the player three ships with which to destroy all meteors and comets that threaten space traffic. It is keyboard controlled and the action keys can be redefined.This game differs from many in the genre in that ammunition is not unlimited. Each ship starts with two hundred units of energy, firing the laser costs ten units, firing a missile costs one unit. A ship in good condition can absorb additional energy from a comet while a damaged one will be destroyed by it.The game can be configured by answering questions as it starts up:The ship can be magnetic - i.e. it will attract meteorsIt can bounce off the walls around the edge of the screen or it can fly off one edge and reappear on the opposite sideSound effects are optionalGame speed can be affected by selecting one of four machine types

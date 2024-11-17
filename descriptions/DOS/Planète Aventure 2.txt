@@ -1,6 +1,1 @@
-This compilation includes the following games:
-
-Explora III: Sous le signe du serpent
-Loom
-Populous
-The Secret of Monkey Island
+This compilation includes the following games:Explora III: Sous le signe du serpentLoomPopulousThe Secret of Monkey Island

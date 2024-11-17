@@ -1,2 +1,1 @@
-Pool Shark is a two player, shareware, pool game.
-It is mouse controlled, has sound and configuration options including table colour, pocket size, and player names. The shareware release, version 1.1, has just six balls on the table while the full release, version 1.2, has a full set of sixteen balls.
+Pool Shark is a two player, shareware, pool game.It is mouse controlled, has sound and configuration options including table colour, pocket size, and player names. The shareware release, version 1.1, has just six balls on the table while the full release, version 1.2, has a full set of sixteen balls.

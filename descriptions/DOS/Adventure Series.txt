@@ -1,16 +1,1 @@
-This value pack collects the twelve Scott Adams Classic Adventures in
-their all-text format with the original IBM PC interpreter. The following
-games comprise the package:
-
-Adventureland
-Ghost Town
-Golden Voyage
-Mystery Fun House
-Pirate Adventure
-Pyramid of Doom
-Savage Island Part One
-Savage Island Part Two
-Secret Mission (aka Mission Impossible)
-Strange Odyssey
-The Count
-Voodoo Castle
+This value pack collects the twelve Scott Adams Classic Adventures intheir all-text format with the original IBM PC interpreter. The followinggames comprise the package:AdventurelandGhost TownGolden VoyageMystery Fun HousePirate AdventurePyramid of DoomSavage Island Part OneSavage Island Part TwoSecret Mission (aka Mission Impossible)Strange OdysseyThe CountVoodoo Castle

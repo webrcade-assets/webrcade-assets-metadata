@@ -1,6 +1,1 @@
-This compilation contains the following sports games:
-
-Indianapolis 500: The Simulation
-Advantage Tennis
-European Championship 1992
-PGA Tour Golf
+This compilation contains the following sports games:Indianapolis 500: The SimulationAdvantage TennisEuropean Championship 1992PGA Tour Golf

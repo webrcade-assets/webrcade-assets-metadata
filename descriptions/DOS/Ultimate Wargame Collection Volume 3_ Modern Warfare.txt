@@ -1,8 +1,1 @@
-This compilation contains four games:
-
-People's General
-Steel Panthers III: Brigade Command - 1939-1999
-Su-27 Flanker: Squadron Commander's Edition
-Team Apache
-
-All the games come with documentation in PDF files and are patched to their final versions.
+This compilation contains four games:People's GeneralSteel Panthers III: Brigade Command - 1939-1999Su-27 Flanker: Squadron Commander's EditionTeam ApacheAll the games come with documentation in PDF files and are patched to their final versions.

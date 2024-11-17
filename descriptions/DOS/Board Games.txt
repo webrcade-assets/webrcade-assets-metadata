@@ -1,6 +1,1 @@
-Board Games is a compilation containing the following games:
-
-Backgammon: an implementation of the classic game of Backgammon
-Chess: an implementation of the classic game of Chess
-Flip-It: an implementation of the classic game of Othello
-Yahts-zee: an implementation of the classic game of Yahtzee
+Board Games is a compilation containing the following games:Backgammon: an implementation of the classic game of BackgammonChess: an implementation of the classic game of ChessFlip-It: an implementation of the classic game of OthelloYahts-zee: an implementation of the classic game of Yahtzee

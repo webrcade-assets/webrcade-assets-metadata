@@ -1,8 +1,1 @@
-Laser Surgeon: The Microscopic Mission is an educational game where you are taught (or lose a patient trying...oops) to sharpen your medical skills, specifically in the area of surgery.
-You start as a medical trainee and work your way up the medical ladder for each successful surgery. Each case comes with a medical debriefing on the patient's historical background and medical procedures on how to operate on the patient.
-The gameplay is focused from a microscopic surgery monitor point of view on the area of the patient that needs surgery (e.g. the brain). As the surgery is real-time, you need to brush up on your biology skills and medical skills to:
-
-Identify which cell(s) needs operation.
-Decide what procedure needs to be conducted.
-
-The game contains an in-game help file to teach you about the various microscopic cells featured. Incorrect diagnosis may result in the death of the patient (and hefty malpractice lawsuit...). Who said it was easy being a doctor?
+Laser Surgeon: The Microscopic Mission is an educational game where you are taught (or lose a patient trying...oops) to sharpen your medical skills, specifically in the area of surgery.You start as a medical trainee and work your way up the medical ladder for each successful surgery. Each case comes with a medical debriefing on the patient's historical background and medical procedures on how to operate on the patient.The gameplay is focused from a microscopic surgery monitor point of view on the area of the patient that needs surgery (e.g. the brain). As the surgery is real-time, you need to brush up on your biology skills and medical skills to:Identify which cell(s) needs operation.Decide what procedure needs to be conducted.The game contains an in-game help file to teach you about the various microscopic cells featured. Incorrect diagnosis may result in the death of the patient (and hefty malpractice lawsuit...). Who said it was easy being a doctor?

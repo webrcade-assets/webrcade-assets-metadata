@@ -1,8 +1,1 @@
-Blockers and Finders is an educational and strategy game for multiple systems.
-The player has a 4 x 4 grid, into which a vehicle can enter from 16 different sides the player selects. The player must determine the location of specific turn signals and directions within the 16 spaces by the location at which a vehicle enters and exits the maze. The player must use a menu to place where they think each piece goes, and the player can opt to have 1 - 16 unknown directions placed in each maze.
-There are three different challenges:* Tilties - which always move the vehicle at a 90 degree angle depending on the tilt
-
-Arrows - which move the vehicle in the arrow direction
-Detours - Move the vehicle randomly lat a 90 degree angle if hit perpendicular, but allow a vehicle to pass through if hit parallel
-
-The player is given an infinite number of tries to get the correct answer, but the player can reveal a hint for a specific block if required, or can be shown the answer.
+Blockers and Finders is an educational and strategy game for multiple systems.The player has a 4 x 4 grid, into which a vehicle can enter from 16 different sides the player selects. The player must determine the location of specific turn signals and directions within the 16 spaces by the location at which a vehicle enters and exits the maze. The player must use a menu to place where they think each piece goes, and the player can opt to have 1 - 16 unknown directions placed in each maze.There are three different challenges:* Tilties - which always move the vehicle at a 90 degree angle depending on the tiltArrows - which move the vehicle in the arrow directionDetours - Move the vehicle randomly lat a 90 degree angle if hit perpendicular, but allow a vehicle to pass through if hit parallelThe player is given an infinite number of tries to get the correct answer, but the player can reveal a hint for a specific block if required, or can be shown the answer.

@@ -1,9 +1,1 @@
-Numbers & Logic I is a single-player, shareware compendium of three puzzle games. The puzzles in this game are:
-
-Maze 8: where the player is presented with a hexagonal grid in which each cell contains a number from one to nine. The objective is to find the path that connects the left and right sides of the grid that totals the least.
-
-Find 9: this is played on a 16x11 grid where each cell contains the numbers from one to nine. The objective is to find 3x3 areas within that grid where no number is repeated
-
-Dial 10: this game consists of four concentric circles which the player must rotate so that the numbers one to ten appear once only in each quadrant
-
-All games are played using the mouse and are timed and the eight fastest times are listed on the high score table.
+Numbers & Logic I is a single-player, shareware compendium of three puzzle games. The puzzles in this game are:Maze 8: where the player is presented with a hexagonal grid in which each cell contains a number from one to nine. The objective is to find the path that connects the left and right sides of the grid that totals the least.Find 9: this is played on a 16x11 grid where each cell contains the numbers from one to nine. The objective is to find 3x3 areas within that grid where no number is repeatedDial 10: this game consists of four concentric circles which the player must rotate so that the numbers one to ten appear once only in each quadrantAll games are played using the mouse and are timed and the eight fastest times are listed on the high score table.

@@ -1,3 +1,1 @@
-Megaopoly is a shareware, single-player, investment game.
-The player starts with one hundred thousand dollars and the object of the game is to make as much money as possible over a twenty year cycle by buying property, land, shares etc.
-The game is entirely keyboard controlled.
+Megaopoly is a shareware, single-player, investment game.The player starts with one hundred thousand dollars and the object of the game is to make as much money as possible over a twenty year cycle by buying property, land, shares etc.The game is entirely keyboard controlled.

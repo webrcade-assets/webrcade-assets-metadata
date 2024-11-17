@@ -1,14 +1,1 @@
-Ultimate Flight Pack offers the player five flight simulations, from three different categories. Two games are military airplane simulations, two games are military helicopter simulations, and the last one is a civil airplane simulation.
-The two airplane flight simulations are:
-
-iF-16
-Tornado including the Operation Desert Storm add-on
-
-The two helicopter flight simulations are:
-
-Apache Longbow
-Hind: The Russian Combat Helicopter Simulation
-
-And the civil airplane flight simulation is:
-
-Flight Unlimited
+Ultimate Flight Pack offers the player five flight simulations, from three different categories. Two games are military airplane simulations, two games are military helicopter simulations, and the last one is a civil airplane simulation.The two airplane flight simulations are:iF-16Tornado including the Operation Desert Storm add-onThe two helicopter flight simulations are:Apache LongbowHind: The Russian Combat Helicopter SimulationAnd the civil airplane flight simulation is:Flight Unlimited

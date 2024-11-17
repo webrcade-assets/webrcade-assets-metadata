@@ -1,5 +1,1 @@
-Convoy is a compilation of the following DOS games:* Air Trax
-
-Big Rig
-Fire Fighter (here called Fire Out)
-International Bridge Contractor (here called Bridge Contractor)
+Convoy is a compilation of the following DOS games:* Air TraxBig RigFire Fighter (here called Fire Out)International Bridge Contractor (here called Bridge Contractor)

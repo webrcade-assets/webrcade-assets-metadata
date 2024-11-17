@@ -1,6 +1,1 @@
-Arcade Bonanza is a set of four simple games. It contains:
-
-Frog, a Frogger variant, where the player must perform a frog safely across the street full of cars.
-Pac-Em, a Pac-Man variant in text mode.
-Red Alert, a text mode naval shooter.
-Tank !, a two-player text mode tank battle.
+Arcade Bonanza is a set of four simple games. It contains:Frog, a Frogger variant, where the player must perform a frog safely across the street full of cars.Pac-Em, a Pac-Man variant in text mode.Red Alert, a text mode naval shooter.Tank !, a two-player text mode tank battle.

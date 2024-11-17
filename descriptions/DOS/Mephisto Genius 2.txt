@@ -1,2 +1,1 @@
-Mephisto Genius 2 is a chess simulator. The player can play against the computer or another player, tournament or blitz chess in different difficulties.
-The design of the game can be changed. A vast library of chess games, analyses and turn suggestions are included.
+Mephisto Genius 2 is a chess simulator. The player can play against the computer or another player, tournament or blitz chess in different difficulties.The design of the game can be changed. A vast library of chess games, analyses and turn suggestions are included.

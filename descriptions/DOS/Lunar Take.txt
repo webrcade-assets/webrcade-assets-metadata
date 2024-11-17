@@ -1,4 +1,1 @@
-Similar to other games like Lunar Lander or Rocket Lander, in Lunar Take the player must land a spacecraft on a landing platform on the moon's surface.
-The player must be careful with the meteors, clouds of acid, enemies and mountains. And, also, the spacecraft has a limited amount of fuel.
-The difficulty level will increase as the player clears levels. The player has 3 lives to complete the game.
-There are high-score tables for the best players.
+Similar to other games like Lunar Lander or Rocket Lander, in Lunar Take the player must land a spacecraft on a landing platform on the moon's surface.The player must be careful with the meteors, clouds of acid, enemies and mountains. And, also, the spacecraft has a limited amount of fuel.The difficulty level will increase as the player clears levels. The player has 3 lives to complete the game.There are high-score tables for the best players.

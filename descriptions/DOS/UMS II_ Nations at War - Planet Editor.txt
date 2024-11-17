@@ -1,4 +1,1 @@
-This is the official add-on editor to UMS II: Nations at War. It also includes two additional scenarios for the game:
-
-Pacific War 1942-1945
-Southeast Asia 1956-1975
+This is the official add-on editor to UMS II: Nations at War. It also includes two additional scenarios for the game:Pacific War 1942-1945Southeast Asia 1956-1975

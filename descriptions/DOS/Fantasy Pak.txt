@@ -1,6 +1,1 @@
-This compilation contains:
-
-Asteroid Rescue
-Dungeons of Kroz
-Night Bomber
-Wumpus Hunter
+This compilation contains:Asteroid RescueDungeons of KrozNight BomberWumpus Hunter

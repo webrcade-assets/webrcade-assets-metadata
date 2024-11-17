@@ -1,2 +1,1 @@
-Bicycle Bridge is a card game for multiple systems.
-A 1-player implementation of the popular card game, in which the player is joined by a computer partner against two computer opponents.  All gameplay is mouse-driven, and the player can view the played tricks and score card at any time.  During betting, the player chooses from a list of available bets and commands.
+Bicycle Bridge is a card game for multiple systems.A 1-player implementation of the popular card game, in which the player is joined by a computer partner against two computer opponents.  All gameplay is mouse-driven, and the player can view the played tricks and score card at any time.  During betting, the player chooses from a list of available bets and commands.

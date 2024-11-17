@@ -1,7 +1,1 @@
-Fantasy Fest! is a collection of four licensed AD&D and D&D games.
-It includes the following titles:
-
-Dungeon Hack developed by DreamForge
-Unlimited Adventures developed by MicroMagic
-Fantasy Empires developed by Silicon Knights
-Stronghold developed by Stormfront Studios
+Fantasy Fest! is a collection of four licensed AD&D and D&D games.It includes the following titles:Dungeon Hack developed by DreamForgeUnlimited Adventures developed by MicroMagicFantasy Empires developed by Silicon KnightsStronghold developed by Stormfront Studios

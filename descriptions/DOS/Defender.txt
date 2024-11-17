@@ -1,2 +1,1 @@
-Defender is a shareware clone based like many others on Eugene Jarvis' classic.
-As this is a clone the gameplay is identical to the original. The player controls a spaceship which they must use to prevent aliens from abducting people. This version can be played with the keyboard, mouse or joystick. It has a high score table and sound effects.
+Defender is a shareware clone based like many others on Eugene Jarvis' classic.As this is a clone the gameplay is identical to the original. The player controls a spaceship which they must use to prevent aliens from abducting people. This version can be played with the keyboard, mouse or joystick. It has a high score table and sound effects.

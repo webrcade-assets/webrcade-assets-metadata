@@ -1,13 +1,1 @@
-This is a compilation of ten classic Electronic Arts titles, which include:
-
-Chuck Yeager's Air Combat
-PGA Tour Golf
-Wing Commander II: Vengeance of the Kilrathi - Deluxe Edition
-Ultrabots
-Kasparov's Gambit
-Ultima VII: The Black Gate
-Seal Team
-Indianapolis 500: The Simulation
-Grand Slam Bridge II
-
-Also included is Financial Workshop, a personal finance program.
+This is a compilation of ten classic Electronic Arts titles, which include:Chuck Yeager's Air CombatPGA Tour GolfWing Commander II: Vengeance of the Kilrathi - Deluxe EditionUltrabotsKasparov's GambitUltima VII: The Black GateSeal TeamIndianapolis 500: The SimulationGrand Slam Bridge IIAlso included is Financial Workshop, a personal finance program.

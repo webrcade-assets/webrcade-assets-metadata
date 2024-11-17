@@ -1,5 +1,1 @@
-This compilation contains the following games:
-
-Frontier: Elite II
-Lemmings
-Sid Meier's Civilization
+This compilation contains the following games:Frontier: Elite IILemmingsSid Meier's Civilization

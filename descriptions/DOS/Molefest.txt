@@ -1,2 +1,1 @@
-Molefest is a single player, freeware, variant of Pipe Mania but instead of laying pipes to carry water the player is laying a pathway so that the mole can find its way home. The player cannot progress from one level to another until the current level has been completed.
-The game has sound, three levels of difficulty, a high score table and is mouse controlled
+Molefest is a single player, freeware, variant of Pipe Mania but instead of laying pipes to carry water the player is laying a pathway so that the mole can find its way home. The player cannot progress from one level to another until the current level has been completed.The game has sound, three levels of difficulty, a high score table and is mouse controlled

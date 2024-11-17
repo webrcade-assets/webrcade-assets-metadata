@@ -1,7 +1,1 @@
-Magics I is a collection of three arcade style games:
-
-Magics-Cobra - a Snake variant
-Magics-Dia - a Columns variant
-Magics-Ball - an arcade/puzzle game that combines elements from both Snake and Columns
-
-Magics I was sold as shareware, with the unregistered version only allowing to play the first few levels from each of the above games. Registered users would also receive level editors for Magics-Ball and Magics-Cobra.
+Magics I is a collection of three arcade style games:Magics-Cobra - a Snake variantMagics-Dia - a Columns variantMagics-Ball - an arcade/puzzle game that combines elements from both Snake and ColumnsMagics I was sold as shareware, with the unregistered version only allowing to play the first few levels from each of the above games. Registered users would also receive level editors for Magics-Ball and Magics-Cobra.

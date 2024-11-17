@@ -1,4 +1,1 @@
-A very simple math game for young children. There are two game modes:
-
-Introduction to numbers : A player types any number from 1–9, and the corresponding quantity of animated objects is displayed.
-Counting : The screen shows some quantity of animated objects, and the task is to type in their number.
+A very simple math game for young children. There are two game modes:Introduction to numbers : A player types any number from 1–9, and the corresponding quantity of animated objects is displayed.Counting : The screen shows some quantity of animated objects, and the task is to type in their number.

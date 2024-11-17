@@ -1,6 +1,1 @@
-Adventure Fun-Pak is a collection of four adventure games:
-
-Night Bomber
-Raiders of the Forbidden Mine
-Rogue Runner
-The Thing
+Adventure Fun-Pak is a collection of four adventure games:Night BomberRaiders of the Forbidden MineRogue RunnerThe Thing

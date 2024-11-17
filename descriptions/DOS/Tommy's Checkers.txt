@@ -1,10 +1,1 @@
-Tommy's Checkers is a shareware Checkers management game.
-This game has no playing capability itself, it documents a game thus allowing matches to be played via mail or email with other players. Features include:
-
-Saving the current position, part of a game or a whole game.
-Backstepping, i.e. an undo function.
-Editing the board at any time.
-Annotating the game with comments and/or sound effects.
-Replaying a game.
-
-The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display.
+Tommy's Checkers is a shareware Checkers management game.This game has no playing capability itself, it documents a game thus allowing matches to be played via mail or email with other players. Features include:Saving the current position, part of a game or a whole game.Backstepping, i.e. an undo function.Editing the board at any time.Annotating the game with comments and/or sound effects.Replaying a game.The game is entirely keyboard controlled. It has basic sound effects and command line switches to start the game with sound turned off and to force either a colour or monochrome display.

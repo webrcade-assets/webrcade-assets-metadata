@@ -1,7 +1,1 @@
-This compilation includes five full versions of simulation games:
-
-Airplane Factory
-Chuck Yeager's Advanced Flight Trainer
-Life & Death
-The Chessmaster 2000
-The Hunt for Red October
+This compilation includes five full versions of simulation games:Airplane FactoryChuck Yeager's Advanced Flight TrainerLife & DeathThe Chessmaster 2000The Hunt for Red October

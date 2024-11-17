@@ -1,2 +1,1 @@
-Rock Invaders is a single player, keyboard-controlled, Space Invader clone.
-This game plays in a very narrow letter-box type screen, meaning there is only room for three rows of invaders and they start very close to the player's bases. Movement is controlled by the left/right arrow keys and the ENTER key fires the player's cannon.
+Rock Invaders is a single player, keyboard-controlled, Space Invader clone.This game plays in a very narrow letter-box type screen, meaning there is only room for three rows of invaders and they start very close to the player's bases. Movement is controlled by the left/right arrow keys and the ENTER key fires the player's cannon.

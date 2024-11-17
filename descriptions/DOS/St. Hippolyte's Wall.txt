@@ -1,2 +1,1 @@
-St. Hippolyte's Wall is an arcade game for DOS.
-The player attempts to gather symbols in a maze, where the walls in the maze move. At higher levels, there are guards that can block the player's movement. The player can move through walls if they are the same color.
+St. Hippolyte's Wall is an arcade game for DOS.The player attempts to gather symbols in a maze, where the walls in the maze move. At higher levels, there are guards that can block the player's movement. The player can move through walls if they are the same color.

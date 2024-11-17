@@ -1,2 +1,1 @@
-Grandmaster Chess is a chess game with multiple skill levels and various sets of boards and pieces.
-Other features include pull-down menus, an analysis mode, a VCR-like replay option and the ability to give the player a chess rating.
+Grandmaster Chess is a chess game with multiple skill levels and various sets of boards and pieces.Other features include pull-down menus, an analysis mode, a VCR-like replay option and the ability to give the player a chess rating.

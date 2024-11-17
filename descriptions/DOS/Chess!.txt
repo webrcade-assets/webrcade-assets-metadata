@@ -1,9 +1,1 @@
-Chess! was originally released as shareware under the name EdChess.
-This game has the following features:* A command line parameter to play in monochrome
-
-Different skill settings for the AI opponent
-A board editing function so that the player can use the game to solve chess problems
-A save/load function
-The computer can optionally be allowed to reference a book of standard openings
-
-The player can either play against the computer or watch the computer play itself.
+Chess! was originally released as shareware under the name EdChess.This game has the following features:* A command line parameter to play in monochromeDifferent skill settings for the AI opponentA board editing function so that the player can use the game to solve chess problemsA save/load functionThe computer can optionally be allowed to reference a book of standard openingsThe player can either play against the computer or watch the computer play itself.

@@ -1,2 +1,1 @@
-Mosaix is a jigsaw puzzle game. A picture is divided into pieces and scrambled. Reassemble the pieces in the correct order to display the original image. The game can create a 25-piece, 50-piece, or 100-piece puzzle.
-This game features both keyboard and mouse control. It comes with three images, with the option to load PCX files. The company offered color image scanning services.
+Mosaix is a jigsaw puzzle game. A picture is divided into pieces and scrambled. Reassemble the pieces in the correct order to display the original image. The game can create a 25-piece, 50-piece, or 100-piece puzzle.This game features both keyboard and mouse control. It comes with three images, with the option to load PCX files. The company offered color image scanning services.

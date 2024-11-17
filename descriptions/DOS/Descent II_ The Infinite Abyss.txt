@@ -1,4 +1,1 @@
-This compilation includes:
-
-Descent II (with 3dfx and Rendition graphics card patches)
-Descent II: Vertigo Series
+This compilation includes:Descent II (with 3dfx and Rendition graphics card patches)Descent II: Vertigo Series

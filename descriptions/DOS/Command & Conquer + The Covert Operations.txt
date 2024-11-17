@@ -1,4 +1,1 @@
-This compilation contains:
-
-Command & Conquer (base game)
-Command & Conquer: The Covert Operations (expansion pack)
+This compilation contains:Command & Conquer (base game)Command & Conquer: The Covert Operations (expansion pack)

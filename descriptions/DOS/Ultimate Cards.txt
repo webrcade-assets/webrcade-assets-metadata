@@ -1,9 +1,1 @@
-Ultimate Cards is a collection of 6 card games: * Spades
-
-Hearts
-Gin Rummy
-Oh Hell!
-Whist
-Crazy 8's
-
-There are 12 opponents with different skills, which may be assigned by the player to the table before each game starts. Such opponents may advise the player during the game. The game progress may be turned back and replayed as well as advice may be taken or not. The goal of the game is to win as many points as possible. The best winners will be stored in the Hi-Scores table.
+Ultimate Cards is a collection of 6 card games: * SpadesHeartsGin RummyOh Hell!WhistCrazy 8'sThere are 12 opponents with different skills, which may be assigned by the player to the table before each game starts. Such opponents may advise the player during the game. The game progress may be turned back and replayed as well as advice may be taken or not. The goal of the game is to win as many points as possible. The best winners will be stored in the Hi-Scores table.

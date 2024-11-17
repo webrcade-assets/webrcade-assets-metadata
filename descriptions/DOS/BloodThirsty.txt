@@ -1,13 +1,1 @@
-BloodThirsty is a Risk-style strategy game for two players. Each player can be a human or computer. When the game starts, territories in the map are divided between the two players. Each turn, a player gets some armies based on the continents they control, and can attack enemy territories. Conquering an enemy territory creates a cash reward, which can be spent on more armies, or on increasing the attack and defense power of armies. The player can also fortify territories they own by moving armies.
-Options include:
-
-Hide armies: normally, you can view enemy strength in territories.
-Attack/Defense: the starting attack/defense for the player.
-Starting armies: the number of armies that the player will start with.
-Armies per turn: the number of armies that the player will get per turn.
-Aggressiveness: how often the computer will attack.
-Intelligence: how well the computer will place armies.
-Super Computer: sets all computer stats to the highest possible values.
-
-The first four options can be set separately for human and computer players. The last three are just for the computer.
-BloodThirsty was distributed as Shareware. The Shareware version only comes with two maps. The registered version comes with twelve.
+BloodThirsty is a Risk-style strategy game for two players. Each player can be a human or computer. When the game starts, territories in the map are divided between the two players. Each turn, a player gets some armies based on the continents they control, and can attack enemy territories. Conquering an enemy territory creates a cash reward, which can be spent on more armies, or on increasing the attack and defense power of armies. The player can also fortify territories they own by moving armies.Options include:Hide armies: normally, you can view enemy strength in territories.Attack/Defense: the starting attack/defense for the player.Starting armies: the number of armies that the player will start with.Armies per turn: the number of armies that the player will get per turn.Aggressiveness: how often the computer will attack.Intelligence: how well the computer will place armies.Super Computer: sets all computer stats to the highest possible values.The first four options can be set separately for human and computer players. The last three are just for the computer.BloodThirsty was distributed as Shareware. The Shareware version only comes with two maps. The registered version comes with twelve.

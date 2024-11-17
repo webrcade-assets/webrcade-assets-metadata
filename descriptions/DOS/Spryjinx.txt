@@ -1,10 +1,1 @@
-Spryjinx is a platform game in which two players compete to get the highest score by jumping on platforms. Platforms are moving from the top of the screen to the bottom where they are destroyed. Initially all the platforms are grey but when a player jumps onto a platform it will change color to that players color. A number on the platform indicates how much points it is worth and this amount will be added to the players score when it drops out of the screen. In addition to standard platform blocks with numbers on them there are ones with a question mark (gives a random number of points) and ones with a red devil (moves to adjacent free spaces).
-To make the game more interesting there are several bonus items:
-
-Paint bucket: Allows the player to paint platform blocks permanently. The opponent can not change the color.
-Lightning bolt: The player will move twice as fast.
-Glue bottle: Grants the ability to glue the other player to the ground.
-Bomb: Destroys a number of platform blocks.
-Magnet: Allows the player to move platform blocks to free places by jumping out in the air.
-
-There are two ways to win the game: Get the most points or kill the opponent three times.
+Spryjinx is a platform game in which two players compete to get the highest score by jumping on platforms. Platforms are moving from the top of the screen to the bottom where they are destroyed. Initially all the platforms are grey but when a player jumps onto a platform it will change color to that players color. A number on the platform indicates how much points it is worth and this amount will be added to the players score when it drops out of the screen. In addition to standard platform blocks with numbers on them there are ones with a question mark (gives a random number of points) and ones with a red devil (moves to adjacent free spaces).To make the game more interesting there are several bonus items:Paint bucket: Allows the player to paint platform blocks permanently. The opponent can not change the color.Lightning bolt: The player will move twice as fast.Glue bottle: Grants the ability to glue the other player to the ground.Bomb: Destroys a number of platform blocks.Magnet: Allows the player to move platform blocks to free places by jumping out in the air.There are two ways to win the game: Get the most points or kill the opponent three times.

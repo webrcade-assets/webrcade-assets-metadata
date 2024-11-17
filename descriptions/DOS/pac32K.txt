@@ -1,8 +1,1 @@
-pac32K is another Pac-Man clone, but coded not to overcome the 32 Kb of memory boundary, hence the name.
-There are three major differences with the original:
-
-Three ghosts instead of of four;
-The labyrinth, which is quite horizontal;
-The color of the pellets is no longer yellow and changes color as the player passes on them. Blue pellets must be eaten once, green pellets twice, and red pellets three times.
-
-The game offers the other usual bonuses such as energizing pellets, oranges, and so on. The player's score is kept in memory thanks to a high score table, created as a separate file as you run the program the first time. Even if the program fits in 32Kb, it features both music and sounds.
+pac32K is another Pac-Man clone, but coded not to overcome the 32 Kb of memory boundary, hence the name.There are three major differences with the original:Three ghosts instead of of four;The labyrinth, which is quite horizontal;The color of the pellets is no longer yellow and changes color as the player passes on them. Blue pellets must be eaten once, green pellets twice, and red pellets three times.The game offers the other usual bonuses such as energizing pellets, oranges, and so on. The player's score is kept in memory thanks to a high score table, created as a separate file as you run the program the first time. Even if the program fits in 32Kb, it features both music and sounds.

@@ -1,18 +1,1 @@
-The ShowText system is a programming language, designed for developing interactive DOS applications with a customized TUI (text-based user interface) and mouse support. The system was originally distributed as a shareware product, and each release came with a selection of demonstration programs - including games. As of the final revision (v2.2, released as freeware) the package includes the following games:
-
-Attack (aka Aliens in earlier versions), in which you hunt down invading ships with the mouse cursor before they laser the city to death
-Bricks , a Breakout clone
-Card Match , a concentration game with standard playing cards
-Cave-Dive , where you must collect diamonds while dodging bombs and cave walls, all in free-fall
-Depth Charge , similar to Deep Scan, where a destroyer must time its charges to destroy the roving submarines below the surface
-Land-Mine , a Minesweeper variant
-Lights-Off , an adaptation of the electronic puzzle game Lights Out
-MasterMind , revisiting the classic code-breaking board game of the same name
-Number Guessing , which gives you five attempts to guess a number between 1 and 50 based on visual cues
-Peg Jump (aka Pegs ), a game of peg solitaire
-Puzzle , the familiar basic 4x4 sliding tile puzzle
-Reverse , which challenges you to arrange the scrambled digits from 1 to 9 by reversing parts of the sequence at a time
-Sequence Repeat , a 'Simon Says' game with optional sound
-Shooting Gallery , the well-known carnival shooting game, now in ASCII form
-Towers , a Tower of Hanoi puzzle, playable with 3-7 discs
-Wiggle-Worm , a multi-level Snake -like game (including instructions for designing additional levels using the ShowText language)
+The ShowText system is a programming language, designed for developing interactive DOS applications with a customized TUI (text-based user interface) and mouse support. The system was originally distributed as a shareware product, and each release came with a selection of demonstration programs - including games. As of the final revision (v2.2, released as freeware) the package includes the following games:Attack (aka Aliens in earlier versions), in which you hunt down invading ships with the mouse cursor before they laser the city to deathBricks , a Breakout cloneCard Match , a concentration game with standard playing cardsCave-Dive , where you must collect diamonds while dodging bombs and cave walls, all in free-fallDepth Charge , similar to Deep Scan, where a destroyer must time its charges to destroy the roving submarines below the surfaceLand-Mine , a Minesweeper variantLights-Off , an adaptation of the electronic puzzle game Lights OutMasterMind , revisiting the classic code-breaking board game of the same nameNumber Guessing , which gives you five attempts to guess a number between 1 and 50 based on visual cuesPeg Jump (aka Pegs ), a game of peg solitairePuzzle , the familiar basic 4x4 sliding tile puzzleReverse , which challenges you to arrange the scrambled digits from 1 to 9 by reversing parts of the sequence at a timeSequence Repeat , a 'Simon Says' game with optional soundShooting Gallery , the well-known carnival shooting game, now in ASCII formTowers , a Tower of Hanoi puzzle, playable with 3-7 discsWiggle-Worm , a multi-level Snake -like game (including instructions for designing additional levels using the ShowText language)
