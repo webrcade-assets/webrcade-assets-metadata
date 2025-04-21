@@ -1,0 +1,1 @@
+This volume of the Puzzle Series focuses on Hitori. Hitori is a Sudoku like numbs puzzle where all numbers are already filled in. The player needs to identify the wrong numbers.

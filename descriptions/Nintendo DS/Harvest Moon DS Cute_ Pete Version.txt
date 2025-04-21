@@ -1,0 +1,5 @@
+This hack replaces the Clair sprite (girl) from Harvest Moon DS Cute to sprite Pete (boy) from Harvest Moon DS.
+
+Only sprite, no script editing.
+
+In the question harvest goddess, select the first choice of each question, because only change the Clair sprite.

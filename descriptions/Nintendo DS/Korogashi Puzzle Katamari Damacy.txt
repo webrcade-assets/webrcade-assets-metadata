@@ -1,0 +1,1 @@
+Korogashi Puzzle Katamari Damacy is a falling block puzzle game. The player must stack items up and then drop a katamari, a round object that rolls up items, to sweep them away all at once. It uses the gameplay of Pac-Attack.

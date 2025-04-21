@@ -1,0 +1,3 @@
+Enemies have come in search of your treasure, Captain!
+
+Pirates Assault is tower defence game that brings a little twist to the genre. A treasure must be protected, and to accomplish that you have to build the best defence strategy. Even if some pieces of the treasure are stolen, they can be retrieved as long as the enemy that stole them is on the screen and alive. If the enemy is sunk, that piece of treasure can’t be recovered!

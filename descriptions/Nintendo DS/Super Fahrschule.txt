@@ -1,0 +1,9 @@
+The "Super Driving School" is a learning program for Nintendo DS with which the learner driver can prepare for the theoretical driving test at his own pace and thus maximize his chances of success. Whether in the bus or on the sofa, with the "Super Driving School" you can train anywhere .
+
+Features:
+* Official TÜV exam questions (status 12/2007)
+* 12 driving license categories: A, A1, B, B1, C, C1, D, D1, L, M, T, MOFA
+* More than 1,400 questions in 8 subject areas
+* Practice mode and exam simulation under time pressure
+* Mini-game "Labyrinth" in which traffic signs can be learned
+* Extensive statistics functions with which the player can constantly check his progress.

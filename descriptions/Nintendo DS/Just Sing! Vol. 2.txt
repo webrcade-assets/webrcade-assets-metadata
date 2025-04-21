@@ -1,0 +1,23 @@
+The follow-up to the karaoke game Just Sing!. New features include an interactive video wall, improved pitch recognition technology,and a challenge mode (no text to sing along to), The game also features co-op and competitive multiplayer modes.
+
+The 19 songs in the game are:
+
+    Cheryl Cole - Fight For This Love
+    Lady Gaga - Paparazzi
+    Lady Gaga - Bad Romance
+    Rihanna - Rude Boy
+    Owl City - Fireflies
+    La Roux - Bulletproof
+    Keri Hilson - I Like
+    Tokio Hotel - Automatic
+    Amy MacDonald - This Is The Life
+    Livingston - Broken
+    Gabriella Cilmi - Sweet about me
+    Milow - You Don't Know
+    Razorlight - Wire To Wire
+    Mando Diao - Dance With SomebodyThe Cardigans - Lovefool
+    The Cardigans - Lovefool
+    Keane - Everybody’s Changing
+    Snow Patrol - Crack The Shutters
+    Snow Patrol - Chasing Cars
+    Mika - We Are Golden

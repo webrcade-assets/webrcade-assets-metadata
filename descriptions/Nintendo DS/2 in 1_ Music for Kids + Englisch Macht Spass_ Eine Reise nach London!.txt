@@ -1,0 +1,2 @@
+The music program consists of 15 smaller games that train different skills such as rhythm and melody.
+The English program comes with a speech recognition program and gives points when the player nails the pronunciation.

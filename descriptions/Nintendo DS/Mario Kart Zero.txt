@@ -1,0 +1,3 @@
+This is a hack of Mario Kart DS that changes the tracks to different ones. It also has custom music.
+
+The hack is originally based on Mario Kart CW OSE (Open-Source Edition) 6.2, which is again based on Mario Kart CW Tri originally by DSHack.org.

@@ -1,0 +1,1 @@
+This DS take on the series is set up like a board game. You collect ingredients, make bread, and set up a shop on the game board. If rival players end up in your shop's space, they have to buy bread from you.

@@ -1,0 +1,21 @@
+Refined Gold Overhaul is an expansion of the original Refined Gold hack that substantially improves trainers and the difficulty curve along with meaningful QoL such as the Platinum shard tutors. However, the game is still true to vanilla where possible, modernizing unique design choices of HeartGold by using first-of-its-kind features such as nonlinear progression in the midgame and move tutors that take shards like in Platinum. All exotic Pokémon are in the postgame, meaning the player’s options mirror vanilla HeartGold. Gameplay changes instead focus on allowing access to options such as Houndour and Yanma to make proper use of the preexisting Johto Dex. Despite having engaging and competent trainer design this is not a difficulty hack. It should be easier than Renegade Platinum and feel more like vanilla B2W2 Challenge Mode applied to all trainers than anything else.
+
+Refined Gold Overhaul also features several novel advancements in the scripting department that serve to better capture the intended original experience.
+
+* Move Tutors that accept shards in Ecruteak and Lake of Rage to match Platinum’s R212 and Snowpoint tutors respectively, in addition to earlier Relearner and Deleter access. A Saffron tutor covers the Survival Area moves.
+    
+* Kanto has been segmented into three phases. You can pick the gyms of each phase in any order, Mega Man 7 style. It goes Surge/Janine/Erika/Sabrina-Brock/Misty/Blaine-Blue. This offers a more cohesive and engaging postgame campaign because frankly vanilla Kanto is a mess.
+
+* As of v2.0, the entirety of the Kanto postgame is redone with new teams on every trainer along with a fresh level curve building right from Lance.
+
+* Additional field dialogue to chat with the Johto Elite Four and other such NPCs is available as the player progresses.
+
+And, of course, THE OVERHAUL:
+
+* From post-Morty to Radio Tower is fully nonlinear, allowing the player to pick their own path.
+
+* This recreates the original choice in vanilla without sacrificing player agency or gameplay quality.
+
+*Both trainers and wild encounters will become more powerful after completing a “track”, either by finishing Rocket HQ or getting the SecretPotion.
+
+* Gym trainers and leaders scale off of the player’s badge count, with the 7th Gym being a real threat and packing 5 mons instead of 4.

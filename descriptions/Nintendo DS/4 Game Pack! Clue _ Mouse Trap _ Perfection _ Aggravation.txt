@@ -1,0 +1,8 @@
+A collection of four computerized versions of popular board games by Hasbro:
+
+The games included are:
+
+Clue
+Mouse Trap
+Perfection
+Aggravation

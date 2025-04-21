@@ -1,0 +1,4 @@
+A mod of Pokémon SoulSilver, by MeroMero 
+Warning, this hack is available only in French.
+The crux of this hack is obviously the inclusion of the Fairy-type at 100%.
+Most of the changes were done from a technical standpoint.

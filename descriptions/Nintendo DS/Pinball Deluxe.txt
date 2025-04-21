@@ -1,0 +1,1 @@
+This is a pinball simulation game in which players control bumpers, hit targets, and guide balls through various triggering switches. Players are rewarded bonus points for hitting sports-themed targets that glide across the machine.

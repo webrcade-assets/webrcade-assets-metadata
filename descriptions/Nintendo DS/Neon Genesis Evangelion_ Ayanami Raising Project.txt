@@ -1,0 +1,5 @@
+Shin Seiki Evangelion: Ayanami Ikusei Keikaku is a simulation game (originally released for Windows and later ported to the Dreamcast) in which the player assumes the role of a NERV employee who just recently started working in Tokyo-3. He is tasked by Commander Ikari to take care of the pilot Ayanami Rei.
+
+The gameplay consists of taking decisions upon Rei’s weekly schedule, such as when she should attend classes, perform her duties as a NERV pilot, or simply go out and have fun. Graphically, the whole game is viewed from a first person perspective, with transitions between different scenarios, just like in visual novels. Sound-wise, music from the series is used.
+
+The game spawns over the period of one year, and takes place during the events of the main series, while also encompassing the movie The End of Evangelion.

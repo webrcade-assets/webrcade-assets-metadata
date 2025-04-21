@@ -1,0 +1,3 @@
+The game involves players sliding colored tiles on a game board in order to match the positions of colored balls resting on the same board.
+
+Some puzzles in higher-level stages may feature obstacles that could send some colored balls bouncing elsewhere or get stuck, etc.

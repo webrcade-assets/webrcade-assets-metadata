@@ -1,0 +1,5 @@
+This project began life as a fan-made modernisation of Dray's Pokémon Black 2 and White 2 Rom hack, Blaze Black 2 and Volt White 2. It has since blossomed into a full-on reimagining of the project, in collaboration with Drayano himself!
+
+With Dray's original project nearing a decade in age (and indeed, the original titles!), Redux is naturally a significant jump in content from the original.
+
+Thus, Redux is much closer to Renegade Platinum in terms of content than Redux is to the original Blaze Black 2 and Volt White 2.

@@ -1,0 +1,3 @@
+Created by Wiseman, this software supports systems for nursing care and welfare facilities. It  was used by hospital staff to enter patients’ medical records into their database, which utilizes a communication middleware "VCE".
+
+The software took advantage of the Nintendo DS's easy-to-use operability, information visibility on two screens, functionality, etc., making it much easier getting used to than using a computer to convert conventional care records into data, and inputting care information in the right place at the right time.

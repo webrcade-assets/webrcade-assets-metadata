@@ -1,0 +1,8 @@
+This NDS release includes two full games from NES (Family Computer) platform:
+
+    Lode Runner
+    Championship Lode Runner 
+
+Lode Runner release for Nintendo DS platform contains certain upgrades and differences to fit the gameplay on Nintendo DS handheld. Additionally, this release features some new gameplay modes not present in the original versions of included games.
+
+The game idea is to control your character to collect lodestones on multi-story platform levels and dig holes to trap your enemies. Having collected all lodestones you can move up to the next level.

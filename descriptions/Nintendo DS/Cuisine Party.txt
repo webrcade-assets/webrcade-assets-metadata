@@ -1,0 +1,3 @@
+Cuisine Party is a party game. At the beginning, you choose a cook from among five international cooks. After this step, you start a culinary championship where you have to confront another chef in every stage like in a TV show. The game contains 60 recipes with three levels of difficulty. It's possible to realize 20 different actions with the controller.
+
+You can play in 2-player modes to have fun with a friend. Additionally, you can read the recipe book if you want to cook in real life.

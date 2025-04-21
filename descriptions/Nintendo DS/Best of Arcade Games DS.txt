@@ -1,0 +1,3 @@
+Best of Arcade Games takes four classic arcade games and puts them in a new jacket. Flipper is, as the name suggests, a pinball game. Brick-Breaker is based on Arkanoid. The player can move a paddle to the left and to the right. With this he has to bounce a ball into the field again and again. The goal is to destroy all bricks in the different fields by hitting them with the ball. 
+
+Tetraminos is based on the well-known and popular puzzle game Tetris. From the top of the screen blocks of different shapes fall down. The player can turn them and move left and right. The goal is to slide the blocks into each other and drop as few holes as possible. Finally, Labyrinth is based on Pac-Man. Eat all the pills in a maze and avoid the ghosts.

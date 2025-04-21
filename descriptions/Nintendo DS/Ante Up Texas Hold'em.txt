@@ -1,0 +1,1 @@
+This is a simulated gambling game in which players compete in games of Texas Hold'Em Poker. Players can wager chips on hands of poker in an attempt to eliminate opponents with distinct play styles. Players can also modify games to determine buy-in fees and starting chip counts.

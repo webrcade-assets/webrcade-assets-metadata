@@ -1,0 +1,1 @@
+The game contains four classic board games from Milton Bradley and Parker Brothers: Battleship, Connect Four, Sorry!, and Trouble.

@@ -1,0 +1,3 @@
+Players start with a solid block of cubes marked with numbers on the end of each row. If the number five is marked on the end of a row of six blocks, for example, one of those blocks must be eliminated. But which one? Players must deduce the answer based on the numbers marked on other rows.
+Players tap a chisel to eliminate blocks they think don’t belong or use a paintbrush to mark ones they think should stay.
+Once all the appropriate blocks have been chipped away, a fun object will be revealed. There are more than 350 objects to discover in the game.

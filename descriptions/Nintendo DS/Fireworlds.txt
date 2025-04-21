@@ -1,0 +1,1 @@
+An original puzzle/platformer adventure. The objective is to collect all energy bits from the level and then get to the exit. You need to carry around stuff, activate switches, push boxes. However, there is also a great part of action: jumping, running, avoiding the water.

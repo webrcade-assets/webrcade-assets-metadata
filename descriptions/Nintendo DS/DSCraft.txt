@@ -1,0 +1,1 @@
+DScraft is a DS homebrew adaptation of the popular game Minecraft. At the moment this is a rather complete adaptation of "creative mode" (or minecraft Classic), which means there is only exploration and creation in this version.

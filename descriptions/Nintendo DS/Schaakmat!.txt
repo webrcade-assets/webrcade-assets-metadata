@@ -1,0 +1,3 @@
+Schaakmat! is a chess game. Being on the Nintendo DS allows for two screens with one screen displaying a top-down view of the board and the other screen showing the game with a 3D representation. Options include choosing what color to play as, difficulty level of the computer opponent (up to Elo rating of 2300), the amount of time allowed between moves, the game type (for alternate chess setups like Fisher random chess aka Chess 960), the setting, possible moves, and voice entry.
+
+Other than the traditional chess game, the game also offers chess puzzles to solve and historic matches to watch.

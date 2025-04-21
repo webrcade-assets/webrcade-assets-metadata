@@ -1,0 +1,15 @@
+This is a standalone patch meant to enhance and improve Pokémon Heartgold while keeping the original feel. Instead of being a complete reworking of the game, this is essentially “Vanilla Heartgold+”, with versions exclusives fixed, trade evolutions rectified, evolution items and berries both renewable, and alternatives provided for the more luck-based encounters. A good-sized amount of dialogue has been changed, as well as a handful of NPCs being added to explain some of the more obscure mechanics, not to mention superbosses to test your mettle. The core plot is identical to vanilla Heartgold. If you want to go back to Heartgold, whether to revisit memories or make new ones, this mod is meant to help make them a little more vivid.
+
+Features include:
+
+* Golden Corrals - All Pokémon are now consistently available, with Johto encounters strictly being from the Johto Dex. All evolutions that require an additional game, including both trade evolutions and Probopass, Glaceon, etc. can now be done without any such requirements.
+
+* Indigo Tales - All legendaries and mythicals can now be fought through regular gameplay. Similarly, the Celebi and Spiky-Eared Pichu events have been restored.
+
+* Worth its Weight - An overwhelming amount of wild Pokémon now hold held items.
+
+* A Silver Tongue - The core plot is identical, but a sizable amount of dialogue has been changed to make NPCs and bookshelves more interesting.
+
+* Bullion Market - All TMs, evo items and berries are now renewable and buyable from Olivine and Vermillion after beating Lance.
+
+* Gold Standard - Movepools have been slightly altered to allow easier access to certain egg moves and the like. However, all movepools are legal in Generation 4.

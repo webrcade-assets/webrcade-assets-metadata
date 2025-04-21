@@ -1,0 +1,7 @@
+Zettai Karen Children: The 4th Child (絶対可憐チルドレンDS 第４のチルドレン, Zettai Karen Children DS: Dai 4 no Children) is a Nintendo DS game released only in Japan.
+You play as Kōichi Minamoto and must command The Children through various missions. The story is divided into ten Senses (chapters), each having one or two main missions required to advance, and several optional missions.
+Each mission involves finding particular enemies on the map and defeating them in battle. Main story missions can only be completed one, while other missions can be repeated.
+
+When you complete a mission you earn evaluation points. The amount you earn in a mission determines your grade (from C to S). These points are accrued and can later be spent in Training. You earn evaluation points for defeating enemies, which can vary depending on the rarity of those enemies. You will lose evaluation points for destroying objects in the field. Your points are also affected by your current level.
+
+On completing a mission, you may also earn Chips, which can be equipped to The Children to increase their stats or have bonus effects.

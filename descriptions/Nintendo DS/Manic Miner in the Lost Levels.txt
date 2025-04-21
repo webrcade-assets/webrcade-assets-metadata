@@ -1,0 +1,1 @@
+Manic Miner: The Lost Levels is a DS port of classic platformer Matthew Smith's Manic Miner series. It features a total of 50 stages, arranged in three sections. The Lost Levels portion includes 20 levels that were added (or modified) for the Manic Miner versions released on Oric, BBC Micro, Dragon 32, Amstrad CPC and GBA.

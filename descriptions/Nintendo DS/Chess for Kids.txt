@@ -1,0 +1,3 @@
+thinkSMART: Chess for Kids aka Schach Attacke is an adaptation of the classic game of chess geared towards children. It is presented as a rivalry between two gangs at a school: the Weißen Westen and the Schwarzen Schafe. Players can choose to be one of the leaders of the two gangs.
+
+The rules of chess are taught through mini-games featuring BMX, inline-skating and skateboarding, where a singular elements of chess is implemented, with cartoon-like characters. A diary is used to store all the past lessons until everything has been learned and full games of chess can be played against a human player or an AI opponent. There are ten difficulty levels and the pieces are controlled with the stylus.

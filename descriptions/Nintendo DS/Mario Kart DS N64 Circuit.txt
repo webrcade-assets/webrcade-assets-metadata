@@ -1,0 +1,3 @@
+This is a hack of Mario Kart DS. It changes many courses and changes the old ones for other retro courses. There is also some custom music.
+
+The project was initiated back in May or June of 2014, and it is meant to be a sequel of sorts to Mario Kart Advance/Mario Kart Super Circuit.

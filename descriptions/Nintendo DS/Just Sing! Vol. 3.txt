@@ -1,0 +1,22 @@
+The follow-up to the karaoke game Just Sing! 2.
+
+It contains the following 18 songs :
+
+    Lady Gaga – Alejandro
+    Lady Gaga – Born this Way
+    Amy MacDonald – Don´t tell me that it´s over
+    Bruno Mars – Grenade
+    Lena – Satellite
+    Roxette – She´s got nothing on (but the Radio)
+    30 Seconds To Mars – The Kill
+    Empire of the Sun – We are the People
+    Sunrise Avenue – Fairytale Gone Bad
+    Sunrise Avenue – Hollywood Hills
+    Jason Derulo – In my Head
+    Madcon – Freaky like me
+    Hurts – Wonderful Life
+    Hurts – Stay
+    Plan B – She said
+    Anna Ternheim – Make it on my own
+    Swedish House Mafia – Save the World
+    Natalia Kills – Mirrors

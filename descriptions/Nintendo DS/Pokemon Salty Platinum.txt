@@ -1,0 +1,5 @@
+Salty Platinum is a French rom based on Pokémon platinum. It aims to contain all the craziness related to the Fildrong community. 
+For the Discord, references are placed on NPCs throughout the game. 
+For YouTube, watch the TV. 
+It contains a functional fairy type, an experience curve tending towards a level 100 League modeled after Blaze Black, the presence of regular xp farms, the addition of 5th to 8th generation attacks, updated level attacks to match 7th and 8th generation, rebalancing of Pokémon types, talents, and statistics. 
+It also has a modified storyline to limit spoilers and other surprises you'll see throughout the game.

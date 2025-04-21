@@ -1,0 +1,5 @@
+Cradle of Rome is a tile-matching game with a classical antiquity theme. The tiles have icons of city resources, for example piles of wood, wine barrels and coins. Matching three or more of these tiles collects them to their respective resources tab.
+
+Three resources tabs are displayed at the top of the screen for money, wood and food. As the player progresses through the game buildings become available to build, their cost being a combination of those resources.
+
+An amphora serves as the timer, slowly leaking water as time passes. If the player manages to finish the level before it is empty, the water remaining is added as a bonus to the resources. Otherwise, the player loses a life. Some of the board surface has marble underneath it. To complete a level, this marble has to be broken by matching the tiles over it.

@@ -1,0 +1,6 @@
+This compilation contains the four games of the simply series by Engine Software B.V.:
+
+    Simply Mahjong
+    Simply Solitaire
+    Simply Sudoku
+    Simply Minesweeper

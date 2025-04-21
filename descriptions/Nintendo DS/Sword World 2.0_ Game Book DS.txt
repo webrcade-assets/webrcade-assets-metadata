@@ -1,0 +1,3 @@
+Gamebook DS: Sword World 2.0 focuses on a fantasy world called Forcelia, taken from the tabletop role-playing game of the same name. It follows a main character—a warrior or wizard—who travels through a story filled with danger and adventure.
+
+The game is a visual novel that uses dice rolling from the tabletop game, where the score decides how the player reacts instead of picking exact responses. Players choose between a warrior or wizard path, and the story moves forward based on dice outcomes. Battles and events depend on these rolls, shaping the character’s actions.

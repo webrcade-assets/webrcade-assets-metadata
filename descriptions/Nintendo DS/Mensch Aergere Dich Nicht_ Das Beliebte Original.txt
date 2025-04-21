@@ -1,0 +1,12 @@
+The original Nintendo DS implementation of the million-selling board game classic from Schmidt Spiele.
+
+Generations have had a lot of fun at the gaming table and sometimes got really annoyed. Experience the classic game now on the Nintendo DS and play in multiplayer mode with your friends or alone against your DS! In the integrated freestyle variant, funny 3D figures and special features such as event fields, duels and bonuses are used and refresh the classic game rules with action.
+
+Features:
+
+original board game implementation
+two game variants (classic and freestyle)
+wireless multi-card game (2-4 players)
+wireless single card game (2-4 players)
+3D graphics
+Languages: German, English, French

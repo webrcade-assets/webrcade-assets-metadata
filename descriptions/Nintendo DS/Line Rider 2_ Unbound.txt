@@ -1,0 +1,3 @@
+Based off of the original flash game, this version is revamped for the home consoles with colorful graphics. Once again the player must draw a line on the screen and patch in missing sections to get the rider around on the level (40 total) to collect coins and make it to the end of the level with three different modes to choose from: Story, Puzzle and Freestyle.
+
+The player uses their respective console's control to draw these lines: the Wii utilizes the Wii-remote, the PC version uses the mouse while the DS uses the stylus pen and the dual-screen capabilities.

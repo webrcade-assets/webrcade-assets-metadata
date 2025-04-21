@@ -1,0 +1,5 @@
+Includes selectable English, French, or Spanish language for on-screen text, options, and "How to Play" instructions. 707 unique full-featured game variations consisting of:
+101 Mahjong layouts with 6 selectable tilesets in 2-D or fully zoomable and rotatable 3-D.
+202 Solitaire games from your favorite families like Klondike, FreeCell, Spider, and many more. Each game has on-screen instructions and customizing options.
+303 Tangram puzzles of people, animals, and objects. Select a tileset then drag, rotate, or flip the pieces to make them fit within the puzzle shape.
+101 Picture Puzzles composed of photo-realistic content. Touch the HELP icon at any time to automatically move puzzle pieces when you get stuck.

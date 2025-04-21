@@ -1,0 +1,2 @@
+A breakout clone with two playmodes: free play and challenge. 
+In  free play, you pick one of the eight characters and set special items to play at your own pace whereas in the challenge mode, different levels of missions are given - clear them to advance in the game.

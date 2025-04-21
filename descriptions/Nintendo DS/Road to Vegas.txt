@@ -1,0 +1,29 @@
+Road to Vegas is a card game in which the player travels from Blackpool in the United Kingdom to Las Vegas in the United States. In between the player will be able to play 27 different play modes:
+
+- Baccarat
+- Bingo
+- Blackjack
+- Blazing aces
+- Higher or lower
+- Pontoon
+- Poker
+- Jackpot cut
+- Cardapult
+- Cash Cadavers
+- Casino War
+- Cup ‘n’ Ball
+- A fish full of dollars
+- Five card draw
+- Horse race arcade
+- Nudging Ninjas
+- Pairs
+- Pillaging Pirates
+- Rocking Reels
+- Roulette
+- Solitaire
+- Solitiles
+- Spin the Wheel
+- Spit
+- Texas Hold'em
+- Whack a Jackal
+- Whist

@@ -1,0 +1,3 @@
+Counter-Strike DS is a recreation of Counter Strike on a Nintendo DS that supports online multiplayer (Ad hoc (Nifi) is not supported).
+
+It is made using libnds (devkitPro) and Nitro Engine for 3D rendering.

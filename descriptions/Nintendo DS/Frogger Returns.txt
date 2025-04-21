@@ -1,0 +1,3 @@
+Hop your way to the safety of your home.
+
+Frogger Returns is a 2D platform game with 3D graphics. It plays much like the classic Frogger but now there are power-ups to gather that stop time, reverse the traffic, or make you invulnerable to road or water hazards, etc. There are up to four levels of play set in the city, subway, sewers, and swamp.

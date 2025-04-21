@@ -1,0 +1,3 @@
+The game is an unique blend of the „Snake“ and „Arkanoid“ game concepts. Using the stylus the player controls a snake on the lower screen and tries to use it to bounce the ball destroying boulders on the upper screen. In each level the boulders are organized in a different shape.
+
+At the same time the snake has to avoid enemies and may collect bonuses, falling out of the destroyed boulders. The aim of the game is to finish all the levels with the most points.

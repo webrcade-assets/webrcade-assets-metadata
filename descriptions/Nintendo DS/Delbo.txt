@@ -1,0 +1,5 @@
+Delbo is a shooting puzzle game. The aim is to shoot an orb from the lower screen and hit the falling orbs from the upper screen.
+
+The shooting orb needs to be the same colour as the falling orbs to extinguish them.
+
+Easy to play, but so hard to master.

@@ -1,0 +1,3 @@
+Solitär features 12 variants of the famous card game like Klondike, Pyramid and Yukon as well as 6 variants of the same named board game. Create your individual player card and unlock new game variants piece by piece. Play with your friends through wireless DS communication or try to beat the high scores. Blowing into the microphone reshuffles the cards.
+
+Solitär supports the following languages: German, English, French, Italian, Spanish

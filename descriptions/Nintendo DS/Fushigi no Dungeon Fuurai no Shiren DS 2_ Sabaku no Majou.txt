@@ -1,0 +1,1 @@
+This is a remake of the GameBoy Color release, specifically designed for Nintendo DS.
