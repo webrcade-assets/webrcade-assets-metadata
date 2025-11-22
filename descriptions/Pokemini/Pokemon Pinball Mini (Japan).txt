@@ -1,0 +1,11 @@
+With Pokémon Pinball Mini, the aim is to shoot as many balls as possible into the pockets using the special ‘Pokémon Plunger’. The goal is to try and beat the high scores on the different stages and become a genuine Pokémon Pinball Champion.
+
+*Pokémon Pinball Mini has three different play modes, including Quest, Time Attack and Score Attack.
+
+*Quest Mode consists of 70 stages in total, each having a different objective for the player to complete in order to clear the stage.
+
+*Time Attack mode contains 10 stages. In this mode, a limited amount of time is available to complete the stage. The quicker the stage is completed the higher the score earned.
+
+*Score Attack mode also consists of 10 stages. In this mode you must exceed the target score before the time runs out. If there is still time remaining, players can battle on for an even higher score.
+
+An entertaining option is the “Catching Pokémon Stage”. Players have a chance to catch Pokémon here to add to their collections and use them when necessary.

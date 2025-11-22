@@ -1,0 +1,5 @@
+Pokémon Shock Tetris is a Japan-exclusive Pokémon Mini puzzle game based on 
+a falling-block mechanic similar to Tetris. Blocks featuring different Pokémon 
+icons drop from the top of the screen, and the player rotates and arranges 
+them to clear lines. The game includes multiple modes, difficulty options, and 
+fast-paced play designed around short sessions on the Pokémon Mini system.

@@ -1,0 +1,1 @@
+Cortex is a puzzle game in which you have to clear all blocks from a room by pushing 3 or more matching blocks together to make them disappear. Features a total of 40 levels.
