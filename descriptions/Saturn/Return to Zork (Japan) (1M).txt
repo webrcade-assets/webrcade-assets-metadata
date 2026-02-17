@@ -1,0 +1,1 @@
+A graphical adventure game set in the Zork universe. It utilizes FMV and a point-and-click interface. Players explore the underground empire, solving inventory-based puzzles. This Japanese release features localized text and dubbing.

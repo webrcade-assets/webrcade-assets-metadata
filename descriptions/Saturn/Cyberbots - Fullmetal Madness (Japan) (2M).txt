@@ -1,0 +1,1 @@
+A 2D mech fighting game from Capcom. It is a spin-off of the Beat 'em up 'Armored Warriors'. Players choose a pilot and a mech (Variant Armor), battling it out with heavy metal destruction. This version utilizes the 1MB RAM cart to ensure fluid animation and minimal loading times.

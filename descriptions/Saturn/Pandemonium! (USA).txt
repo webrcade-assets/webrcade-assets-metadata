@@ -1,0 +1,1 @@
+A '2.5D' platformer where the gameplay is on a 2D plane that winds through a 3D environment. Players control the jester Fargus or the acrobat Nikki. The game is known for its twisting camera angles and colorful, psychedelic level design.

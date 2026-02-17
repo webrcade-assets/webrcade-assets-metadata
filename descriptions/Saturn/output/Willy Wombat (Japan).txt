@@ -1,0 +1,1 @@
+A 3D isometric action-puzzle game by Westone. Players control Willy, navigating levels by pushing blocks, avoiding traps, and jumping gaps. The game features full voice acting and animated cutscenes, offering a polished, albeit imported, platforming experience.

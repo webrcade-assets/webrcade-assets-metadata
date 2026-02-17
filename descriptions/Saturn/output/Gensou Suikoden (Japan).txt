@@ -1,0 +1,1 @@
+The Saturn port of Konami's classic RPG based on the Chinese novel 'Water Margin'. Players must recruit 108 Stars of Destiny to build an army and overthrow a corrupt empire. The Saturn version is known for having slightly sharper 2D sprites and faster loading times compared to the PlayStation original.

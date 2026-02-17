@@ -1,0 +1,1 @@
+Konami's tactical RPG featuring 3D maps and 2D sprites. It uses a rock-paper-scissors class system (Infantry, Air, Bow). The game is known for its gory combat effects (blood fountains) and solid, linear mission design.

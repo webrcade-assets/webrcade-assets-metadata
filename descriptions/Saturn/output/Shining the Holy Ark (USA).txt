@@ -1,0 +1,1 @@
+A first-person dungeon crawler with impressive pre-rendered 3D graphics. It serves as a prelude to the Shining Force III story. Players control Arthur and his party using a turn-based combat system that involves a 'pixie' mechanic for preemptive strikes.

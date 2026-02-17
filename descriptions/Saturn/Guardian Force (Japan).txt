@@ -1,0 +1,1 @@
+A tank-based shoot-'em-up by Success. The key mechanic involves a rotating turret that allows players to fire in 360 degrees while moving in a different direction. This adds a layer of tactical depth to the bullet-dodging gameplay. The game features detailed 2D sprites and huge, multi-segmented bosses.

@@ -1,0 +1,1 @@
+A unique competitive vertical shooter by ADK. It combines shmup gameplay with puzzle game mechanics; destroying enemies sends fireballs to the opponent's screen. The game features cute, vibrant graphics and a fun, fast-paced 2-player mode.

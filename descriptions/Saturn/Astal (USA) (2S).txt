@@ -1,0 +1,1 @@
+A launch-window 2D side-scroller that showcases the Saturn's 2D capabilities with large, hand-drawn sprites and colorful backgrounds. Players control Astal, who must use his immense strength and a bird companion to rescue Leda. It is praised for its beautiful artistic direction and rich graphical details.

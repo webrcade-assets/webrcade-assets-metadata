@@ -1,0 +1,1 @@
+A Technosoft shooter where players navigate a steampunk world. It features a unique mechanic where players can switch between two different shot types on the fly to handle different enemy waves. The game also includes branching paths, offering significant replayability compared to linear shooters.

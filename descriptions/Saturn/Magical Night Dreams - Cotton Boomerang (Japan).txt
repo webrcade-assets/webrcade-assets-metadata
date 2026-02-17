@@ -1,0 +1,1 @@
+A remixed and refined version of Cotton 2. It changes the gameplay structure by allowing players to choose a team of three characters, switching between them and using them as 'lives'. It features altered stage layouts and more aggressive enemy patterns, catering to hardcore fans of the genre.

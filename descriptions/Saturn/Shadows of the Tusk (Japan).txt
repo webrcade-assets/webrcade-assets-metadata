@@ -1,0 +1,1 @@
+A tactical strategy game that supports the Saturn's NetLink modem for online play (at the time). It features grid-based combat with 3D battle scenes, focusing on a conflict between competing nations in a fantasy setting.

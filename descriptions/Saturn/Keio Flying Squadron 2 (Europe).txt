@@ -1,0 +1,1 @@
+A quirky 2D platformer that shifts away from the shoot-'em-up genre of its predecessor. Players control Rami, a bunny-girl in a kimono, using a hammer and various sub-weapons to battle through Japanese folklore-inspired stages. It features beautiful 2D art and humorous cutscenes.

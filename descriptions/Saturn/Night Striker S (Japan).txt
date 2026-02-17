@@ -1,0 +1,1 @@
+A cyberpunk rail shooter reminiscent of Space Harrier but with a hovercar. Based on the Taito arcade game, the 'S' version adds a Saturn-exclusive Arrange Mode with new graphics and story elements. It features branching paths and a fast-paced techno soundtrack.

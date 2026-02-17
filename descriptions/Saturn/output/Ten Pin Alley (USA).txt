@@ -1,0 +1,1 @@
+A comical 3D bowling game featuring caricature-style characters. It uses a unique swing mechanic requiring precision. The game supports multiplayer and is known for its humorous animations and physics-based pin action.

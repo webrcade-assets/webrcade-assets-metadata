@@ -1,0 +1,1 @@
+A 'cute-em-up' where players control the witch Cotton. This installment introduces a fighting-game-like input system for special magical attacks and the ability to grab and throw enemies. It features beautiful hand-drawn 2D sprites and backgrounds, blending shooter mechanics with brawler-style command inputs.
