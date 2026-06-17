@@ -1,0 +1,1 @@
+A one-or-two-player space shooter inspired by the trench run from the original Star Wars film. One player controls an X-Wing style fighter while the other — or the computer — pilots a Tie Fighter, viewed from a third-person pseudo-3D perspective inside the trench. Adjusting the joystick changes each fighter's speed and apparent depth, with a single hit deciding each point.

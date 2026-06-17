@@ -1,0 +1,1 @@
+Guide your flock of chickens safely across six lanes of increasingly congested traffic, with each successful crossing advancing the calendar to the next weekday and worsening the road conditions. A lost chicken leaves a fatal spot on the roadway that kills any other chicken that touches it. The game ends when the last chicken has been lost.

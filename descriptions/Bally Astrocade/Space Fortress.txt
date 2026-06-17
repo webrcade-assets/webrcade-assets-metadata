@@ -1,0 +1,1 @@
+Originally released in arcades as Space Zap, Space Fortress places the player in control of a stationary laser base fixed in the center of the screen. Alien ships appear from all four sides and launch space mines at the base, while attack satellites orbit before diving in to attack. Five buttons handle shooting and four-directional aiming.

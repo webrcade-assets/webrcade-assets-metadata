@@ -1,0 +1,1 @@
+A machine language implementation of Conway's Game of Life for the Astrocade, originally written by Jay Fenton and coded by Richard C. Degler. A universe of cellular objects is displayed on screen and evolves through generations according to rules governing birth, survival, and death, applied simultaneously to every cell in the field.

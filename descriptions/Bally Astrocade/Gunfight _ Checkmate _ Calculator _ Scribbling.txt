@@ -1,0 +1,1 @@
+Four programs built directly into the Bally Astrocade's ROM. Gunfight is a two-player western showdown, Checkmate is a strategic grid competition, Calculator provides basic arithmetic functions, and Scribbling is a freeform drawing program. These built-in titles were a key part of the Astrocade's out-of-the-box experience from day one.

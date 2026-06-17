@@ -1,0 +1,1 @@
+A Missile Command variant where enemy ships enter the screen one at a time and drop bombs on the player's cities below. Three ground-based outposts, each with limited ammunition, must be fired independently to shoot down both the ships and their bombs. An extra city is awarded at 10,000 points, and the game ends when all cities have been destroyed.

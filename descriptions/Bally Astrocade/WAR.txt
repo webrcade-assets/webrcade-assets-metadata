@@ -1,0 +1,1 @@
+A multiplayer combat game similar to the Warlords arcade game by Atari. Up to four players can battle each other, or any combination of human players can face off against computer-controlled opponents.

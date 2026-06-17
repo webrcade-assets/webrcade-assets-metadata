@@ -1,0 +1,1 @@
+A downhill skiing game from Esoterica. Players navigate a treacherous slope at top speed, dodging obstacles all the way to the bottom. No experience is necessary — just point downhill and see how far you can get before the mountain wins.

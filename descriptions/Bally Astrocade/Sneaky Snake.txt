@@ -1,0 +1,1 @@
+A 1983 clone of the arcade game Centipede, published by New Image and developed by Dave Ibach. Players shoot down a descending centipede as it winds through a field of mushrooms, while also fending off spiders, fleas, and other pests that swarm in from the sides.

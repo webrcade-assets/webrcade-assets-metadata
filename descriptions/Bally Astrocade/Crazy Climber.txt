@@ -1,0 +1,1 @@
+A 2011 homebrew port of the Nichibutsu 1980 arcade classic, developed by Bally Alley. Players scale the sides of skyscrapers up to 200 stories tall, dodging flower pots, iron dumbbells, bottles, and condor droppings hurled by angry residents opening and closing windows above. Both the original two-joystick control scheme and a single-controller mode are supported.

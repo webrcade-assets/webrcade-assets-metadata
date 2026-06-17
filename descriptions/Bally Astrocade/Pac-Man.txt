@@ -1,0 +1,1 @@
+A prototype port of Namco's legendary maze-chase arcade game for the Bally Astrocade. Players guide Pac-Man through a pellet-filled maze, eating dots while evading four colorful ghosts that patrol the corridors with growing aggression. Though never officially released for the platform, this prototype demonstrates the remarkable capability of the Astrocade hardware.

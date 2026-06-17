@@ -1,0 +1,1 @@
+Bally BASIC is a programming interface for the Bally Astrocade that transforms the console into a home development platform. The first version required a separately purchased tape interface for saving and loading programs. A second version added a built-in 2000 baud cassette interface and additional programming commands, and was bundled with some Arcade Plus console packages.

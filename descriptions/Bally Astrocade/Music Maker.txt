@@ -1,0 +1,1 @@
+A prototype cartridge that never saw official release, allowing users to compose music over a three-octave range using the controller to enter notes for playback through the TV speaker. Development began at Bally before 1979, continued in 1982 with the addition of a 2000-baud cassette interface, and was finalized in 1985.

@@ -1,0 +1,1 @@
+Two classic strategy board games brought to the Astrocade. Checkers pits players in the traditional diagonal-movement battle to capture all of the opponent's pieces. Backgammon challenges players to race their pieces around the board, with dice rolls and strategic blocking deciding the outcome. Both games can be played against a friend or the computer.

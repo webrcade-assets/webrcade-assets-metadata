@@ -1,0 +1,1 @@
+Two fast-paced educational games built around basic arithmetic. Speed Math rewards quick answers across addition, subtraction, multiplication, and division, with the computer automatically adjusting difficulty to keep all players equally challenged. Bingo Math wraps the same math challenges in a bingo format, making the learning feel like play.

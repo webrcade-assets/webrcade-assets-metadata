@@ -1,0 +1,1 @@
+Two arcade-style games in one cartridge. Brickyard is a Breakout-style game where a paddle bounces a ball against bricks at the top of the screen, with the ball building momentum on each hit. Clowns adapts the concept to a circus setting, with a pair of clowns bouncing on a teeter-totter to pop rows of balloons overhead, picking up speed with every bounce.

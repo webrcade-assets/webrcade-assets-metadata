@@ -1,0 +1,1 @@
+Astro Battle is a Space Invaders clone published by Bally Manufacturing in 1978 for the Bally Astrocade. Players aim to defeat waves of descending aliens with a laser cannon and earn as many points as possible across increasingly difficult waves. Unlike the original Space Invaders, Astro Battle is rendered in full color.

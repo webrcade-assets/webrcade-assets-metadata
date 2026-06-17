@@ -1,0 +1,1 @@
+A strategy game for one to five players where the goal is to place lines on a grid and claim as much area as possible by completing squares. The completed square goes to whoever closes it off, so careful play is required to avoid handing territory to opponents. Up to four human players can compete, with the option to include Bally as a fifth computer-controlled opponent.

@@ -1,0 +1,1 @@
+A top-down soccer simulation where players dribble up the field, pass to teammates, and shoot for the goal while watching out for interceptions and defensive pressure from the opposition. Supports up to four players. The game originated as a prototype and was never officially released.

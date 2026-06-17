@@ -1,0 +1,1 @@
+Blast Droids has players flying a ship around a horizontal arena, firing at alien vessels while staying alert to shots that ricochet off the walls. The unpredictable bouncing projectiles force constant movement and add a dangerous layer of challenge to every encounter.

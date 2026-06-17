@@ -1,0 +1,1 @@
+Three educational word games designed to build vocabulary and spelling skills. Letter Match challenges players to quickly pair randomly selected letters. Spell'n Score tasks players with forming as many words as possible from a randomly generated set of letters. Crosswords has players turning computer-generated letters into crossword-style words on the grid.

@@ -1,0 +1,1 @@
+Two racing games in one cartridge. Grand Prix is a top-down formula race across three tracks with selectable lap counts and beginner or pro difficulty. Demolition Derby uses the same arena but changes the objective: ram into the other cars until only one remains, with each hit costing a car points until it is knocked out of the competition.

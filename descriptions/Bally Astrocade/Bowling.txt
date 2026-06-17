@@ -1,0 +1,1 @@
+A ten-pin bowling simulation with all the action and sounds of the real thing. Direct your ball with as much hook as you want, aiming for strikes and spares while watching out for splits and gutter balls. The game keeps score according to official rules and supports up to four players.

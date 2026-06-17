@@ -1,0 +1,1 @@
+A maze-action game where players gobble up dots and everything in their path while being chased by hungry ghosts. Munch or be munched as you race through the corridors and try to post the highest score possible.

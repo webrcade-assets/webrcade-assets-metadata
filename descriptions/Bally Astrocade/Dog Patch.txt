@@ -1,0 +1,1 @@
+A two-player skeet shooting game where a target spins through the air as each player raises their shotgun and fires. Good shooting keeps the target bouncing between players, building score in an explosive juggling act. Players can vary the number of targets and the length of the game.

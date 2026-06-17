@@ -1,0 +1,1 @@
+A Defender-style side-scrolling shoot 'em up set in the alien sector Larkin. Players defend a planet by destroying enemy fighters and intercepting the bombs they drop toward the surface, while collecting energy stars that temporarily grant an invincible shield. The game supports up to four players, each with individually selectable difficulty levels.

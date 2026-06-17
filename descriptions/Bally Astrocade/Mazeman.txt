@@ -1,0 +1,1 @@
+A Pac-Man style maze game where players gobble up everything in their path while being chased by creepy ghosts. The developer and programmer remained anonymous to avoid legal issues with Namco. The game ships without sound as released.
