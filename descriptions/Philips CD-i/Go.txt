@@ -1,0 +1,1 @@
+Go is a digital version of the classic Chinese board game. The game is played with two players or against an AI. Like in the board game players take turns to place white or black markers on intersections of the game grid. The goal is to gain a majority control of the board. Players can remove an opponents markers by completely surrounding them with their own.

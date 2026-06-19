@@ -1,0 +1,1 @@
+Strip-Poker Pro is a typical game of strip poker. You play the game of poker, but for each hand lost a player loses a piece of clothing. There are five computer opponents; three women and two men. Each of the computer opponents is displayed in full motion video.
