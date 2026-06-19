@@ -1,0 +1,1 @@
+Con*Putation is a 2-player educational tile-matching game for the Apple II. A tile-matching game played on a 4 x 5 board. Players try to match equations or numbers with similar value. Players can choose from 8 levels of puzzle difficulty, that encompasses addition, subtraction, multiplication, and division.

@@ -1,0 +1,1 @@
+Swashbuckler is an early fighting game for the Apple II family of computers, created by Paul Stephenson and published by Datamost in 1982. The player controls a sword-wielding swashbuckler who must fight and dispatch various attackers. Combat occurs in a wooden-beamed ship's hold littered with skeletons and cobwebs, which the player views from the side. (from Wikipedia)

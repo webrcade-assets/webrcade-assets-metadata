@@ -1,0 +1,1 @@
+Life Star is a game set in space, where you can choose between 4 different tasks.  Search for an outpost or blow some enemies into nowhere, it's up to you! You can kill the enemies either with lasers (which will overheat) or missiles. The missiles will kill an enemy immediately though.

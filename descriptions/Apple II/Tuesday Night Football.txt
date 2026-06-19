@@ -1,0 +1,1 @@
+A game written in BASIC where you can play as the Browns playing against the Oilers, except some of the players have been switched around with players from the Steelers. The game was published by Shoestring Software in 1980.

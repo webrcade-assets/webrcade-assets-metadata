@@ -1,0 +1,1 @@
+A single-screen platformer made in 1982 by Demetrius Cross. The goal of the each level is to make it to the exit. However standing in your way there are a bunch of monsters/obstacles such as bats, robots, and alien-like creatures just to name a few.

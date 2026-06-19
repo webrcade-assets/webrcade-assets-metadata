@@ -1,0 +1,1 @@
+In Glidepath you try to hold your glider as long in the air as possible. A game made by D. Morrison and J. Hanson of HRM Software where you can pick from a number of preset glider designs, tweak them and go for the longest possible glide path before landing.

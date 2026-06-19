@@ -1,0 +1,1 @@
+Falcons is a Phoenix variant created by Eric Varsanyi and Thomas Ball. Aliens move in formation at the top of the screen, occasionally swooping down on you and shooting. There are only five different screens, with the fifth being a huge mother ship. The screens then loop at an increasing difficulty level.

@@ -1,0 +1,1 @@
+Microgammon is a computer adaptation of the Backgammon board game for one person playing against an AI opponent. The game uses simple text based graphics to draw the board as well as the dice. The game is played with the keyboard. Each point on the board has a number and to make a move the player simply types in the number of the starting point followed by the end point.

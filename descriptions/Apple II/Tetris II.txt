@@ -1,0 +1,1 @@
+A homebrew sequel to Tetris developed by TBT. In "Tetris 2" blocks of different colours and shapes fall down and it is your task to have as less many gaps as possible.

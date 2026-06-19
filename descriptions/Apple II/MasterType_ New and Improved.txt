@@ -1,0 +1,1 @@
+This is an updated version of the popular Mastertype typing game.  This version takes advantage of the expanded capabilities of the newer Apple II series (//c and enhanced //e).  The title could utilize 128k of RAM as well as the DHR graphics mode.

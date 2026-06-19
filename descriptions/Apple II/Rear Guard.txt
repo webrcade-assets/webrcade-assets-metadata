@@ -1,0 +1,1 @@
+Rear Guard is a game originally written for the 8-bit Atari computer and released in 1981 by Adventure International. Neil Larimer created the game with assistance from Sparky Starks; it was subsequently ported by other programmers to the Apple II, TRS-80, and TRS-80 Color Computer computer platforms.

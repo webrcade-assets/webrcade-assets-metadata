@@ -1,0 +1,1 @@
+Galactic Wars is a 2-player strategy game for the Apple II. Itcwws developed by Waltson Victor Software and published by Apple Computer in 1980. Competition takes place between the Krillians and the Centrons on a 14 x 8 board. Players take turns moving units between different positions on the board, and claiming locations. Games can be saved in progress.

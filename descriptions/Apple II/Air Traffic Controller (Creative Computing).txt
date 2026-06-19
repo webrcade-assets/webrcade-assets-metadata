@@ -1,0 +1,1 @@
+This simulation puts you in the role of an air traffic controller in charge of an 15x25 mile airspace (with 2 airports and 10 entry/exit fixes). The player has to process 26 aircraft entering/leaving the area within a 16-99 minutes time frame (adjustable setting, affects difficulty), with radar display updated real-time every 15s. Commands are given via simple keyboard input.

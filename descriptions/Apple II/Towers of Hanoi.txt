@@ -1,0 +1,1 @@
+Towers of Hanoi is a 1-player strategy game based upon the puzzle of the same name. The player must move between 3 and 7 disks from the first peg on the screen to reconstruct the tower on the third peg. Only smaller disks can be placed upon larger ones, and disks are moved one at a time. This was published in 1978 as part of the Apple Software Bank series.

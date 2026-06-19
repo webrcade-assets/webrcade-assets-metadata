@@ -1,0 +1,1 @@
+Mouskattack is very similar to Pac-Man. Take the role of Larry Bain, a plumber working for Rodent Rooter attempting to get rid of all the huge rats in Rat Alley. The player is pursued by 4 rats in a maze and player must set mouse traps to get rid of them all as well as make sure the player traverses the entire maze à la Pac-Man to complete the level.

@@ -1,0 +1,1 @@
+CompuCube is a Rubik's Cube game for the Apple II. The player can create a 2 x 2 x 2 or a 3 x 3 x 3 color cube. Gameplay allows the player to set up a custom cube by placing colors where they like, or they can start with a completed or randomized cube. The player moves the cube by entering 2 letter text commands.

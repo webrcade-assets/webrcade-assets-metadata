@@ -1,0 +1,1 @@
+TeleChess is a 2-player only chess game designed to be played with a modem. Follows standard chess rules. Pieces are visually displayed on the screen, and the player can engage in local chess games or play against their opponent online via modem.

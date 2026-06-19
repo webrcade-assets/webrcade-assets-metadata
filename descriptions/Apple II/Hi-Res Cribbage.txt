@@ -1,0 +1,1 @@
+A cribbage game that allows one player to compete against a challenging computer opponent. Cards are animated and dealt automatically, and the program takes care of all scoring. Scores are audibly pegged on a visual cribbage board. A match ends once either the player or the computer has won six rounds. Matches can also be saved to disk to be resumed at a later time.

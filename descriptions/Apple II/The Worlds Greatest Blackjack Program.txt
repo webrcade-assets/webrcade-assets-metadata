@@ -1,0 +1,1 @@
+The Worlds Greatest Blackjack Program is a Blackjack simulator and so much more. It features many different options for how the dealer and simulated players operate, how many decks are present and what rules are used. In addition to game play, it also has modes for drilling on strategy and card counting.

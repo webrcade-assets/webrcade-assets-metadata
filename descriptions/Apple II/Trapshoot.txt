@@ -1,0 +1,1 @@
+Trapshoot is an early 1 - 5 player arcade game for the Apple II. The predecessor to Skeet Shoot, the player must shoot at clay pigeons. Each player takes 5 shots from each of 5 positions, as clay pigeons emerge from the center of the screen. The player is rewarded a score based upon the number of pigeons shot. The player can control pigeon size, pigeon speed, and shotgun choke.

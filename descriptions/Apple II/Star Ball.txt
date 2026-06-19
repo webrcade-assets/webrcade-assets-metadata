@@ -1,0 +1,1 @@
+Star Ball is a space-themed racquetball game. Played from a first person perspective, the player controls a racket which can move in all directions. The player attempts to hit the ball to direct it towards the red circle in the center of the far end of the stage. The player receives a score based upon how successful they are returning the rapidly moving ball.

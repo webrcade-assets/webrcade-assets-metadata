@@ -1,0 +1,1 @@
+You take the role of Max, a computer operator. Your job is to activate all computers, which will activate inactive (white) platforms and to exit the levels, which are symbolized by a crystal. But beware of the hammers, which go up and down!

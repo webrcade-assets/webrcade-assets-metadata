@@ -1,0 +1,1 @@
+Alter Ego is a game which tries to simulate life itself. The player creates a character with different personality statistics, either by assigning them randomly or by answering a few introductory questions. They then guide this character through seven life phases, from infancy to old age.

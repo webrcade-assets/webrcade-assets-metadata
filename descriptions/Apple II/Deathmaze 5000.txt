@@ -1,0 +1,1 @@
+This is a first-person view adventure game that takes place in a five story building, each floor with numerous rooms. You start off in the top floor and your only goal is to get out alive. The first person view makes this pretty unique. It's a precursor to the somewhat better known Asylum by the same company.

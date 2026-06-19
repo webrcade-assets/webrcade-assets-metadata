@@ -1,0 +1,1 @@
+23 Bricks is a Nim variant using the same rules as 23 Matches. The computer and player take turns to remove either one, two or three bricks from a pile with the aim of being the one to take the last bricks. The game was developed by Alan Shapiro, and published by Apple Computer themselves as a free game in 1978.

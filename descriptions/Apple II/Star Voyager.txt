@@ -1,0 +1,1 @@
+Star Voyager tasks the player with destroying a star base. The player must infiltrate their defenses using their space ship and after destroying the base the player has to return to Earth.

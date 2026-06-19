@@ -1,0 +1,1 @@
+Dungeon! is a rogue-like RPG for 1 - 4 players.  Every player can choose one of four classes, which are:  Elf, Hero, Superhero, Wizard.  The better the class, the more gold you have to get to win the game.

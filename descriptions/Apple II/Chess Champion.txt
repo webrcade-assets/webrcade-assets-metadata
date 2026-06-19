@@ -1,0 +1,1 @@
+Chess Champion: Challenge the Master is a collection of chess and cribbage for the Apple II. A re-release of two previously distributed titles. This collection contains a 1-player versus computer graphical version of chess, as well as 1-player cribbage game where the player squares off against the computer.

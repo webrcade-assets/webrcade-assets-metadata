@@ -1,0 +1,1 @@
+Robot Odyssey is a logic adventure game. You have been taken into Robotropolis, an underground city of robots. To escape, you must program your robot helpers Sparky, Checkers, and Scanner to solve the puzzles and escape.

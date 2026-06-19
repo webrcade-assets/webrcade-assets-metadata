@@ -1,0 +1,1 @@
+Craps simulates the familiar casino dice game. The player bets and the computer throws the dice. The goal is to increase earnings.

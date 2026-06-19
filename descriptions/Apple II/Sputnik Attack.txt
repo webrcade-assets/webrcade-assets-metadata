@@ -1,0 +1,1 @@
+Sputnik Attack is a game similar to Galaga or Galaxian. You control a spaceship, which task it is to destroy the oncoming forces of the evil Sputnik. That's right, the satellite Sputnik became evil and sends now aliens of all kinds.

@@ -1,0 +1,1 @@
+Gorgon is a clone of the arcade game Defender, a horizontally scrolling shoot 'em up, for the Apple II. It was programmed by Nasir Gebelli and published by Sirius Software.  In Gorgon, the player flies a spaceship across a side-scrolling landscape while protecting civilians on the ground from aliens that drop down from the top of the screen to try to carry them off.

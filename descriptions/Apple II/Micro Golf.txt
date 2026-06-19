@@ -1,0 +1,1 @@
+Micro Golf is a 1 - 4 player miniature golf game for the Apple II. Players attempt to hit a golf ball into a hole during a game of miniputt. The player must control the direction and power of their putt, and can play through 3 different courses. The player can also modify or create their own courses. The player must control the direction and power of their putt.

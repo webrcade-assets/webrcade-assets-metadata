@@ -1,0 +1,1 @@
+International Gran Prix is a driving game similar to Night Driver. The player can choose manual or automatic transmission and then between five different track and try to stay on the road while going as fast as possible racking up the most points.

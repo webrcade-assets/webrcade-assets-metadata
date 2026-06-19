@@ -1,0 +1,1 @@
+Dragon Fire is an early RPG for Apple II computers. It follows the standard concept of early fantasy games - shops to buy equipment, moving around with keyboard, and fighting monsters to win treasures, with which to buy better equipment. There are 5 character classes to choose from: Warrior, Huntress, Wizard, Dwarf or Elf. There are 10 levels with over 150 rooms and treasures.

@@ -1,0 +1,1 @@
+Dell Crossword Puzzles contains a number of crossword puzzles developed by Dell Magazine. Contains a number of crossword puzzles of varying topics. The player must manually type the answers within the corresponding blanks. Includes word checks, letter answers, and clues to difficult puzzles. Game contains 30 puzzles of varying difficulties.

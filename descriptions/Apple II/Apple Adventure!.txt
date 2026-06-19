@@ -1,0 +1,1 @@
+This is the Apple-published complete version of the original Colossal Cave Adventure, written by Don Woods and based on Will Crowther's idea. As one of the first text-based games, you explore a cave system and solve puzzles.

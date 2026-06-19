@@ -1,0 +1,1 @@
+Designed as a tool to assist dungeon masters in the tabletop role-playing game, Advanced Dungeons & Dragons, this computer program features a database of over 1,000 distinct encounters and more than 1,300 monsters.

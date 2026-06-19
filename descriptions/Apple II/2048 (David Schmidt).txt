@@ -1,0 +1,1 @@
+The game consists in combining digits of the same value to increase it by one. The digits are moved with the cursor keys. With each move another digit is added to the board. The game ends when no movement is possible.

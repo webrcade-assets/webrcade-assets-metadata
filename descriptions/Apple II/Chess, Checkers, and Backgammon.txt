@@ -1,0 +1,1 @@
+Chess, Checkers, and Backgammon is a 1-player series of 3 board games. Contains 1-player 3 board games versus the computer: chess, checkers, and backgammon.

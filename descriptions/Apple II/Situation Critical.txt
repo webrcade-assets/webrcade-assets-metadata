@@ -1,0 +1,1 @@
+Situation Critical is a space-themed one-player arcade game. There are 3 separate gameplay components, a Berserk-like top-down game, a side-scrolling space shooter, and a top-down space pilot game. The player can choose to play to focus on just one component, or play all 3 games in series.

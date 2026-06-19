@@ -1,0 +1,1 @@
+The third part of the Froggy software saga is finally completed. You will be able to play with" Private Java ", a graphic adventure with a parser well from home! This time, you are a bit shabby private detective who must save an apparently very simple affair and collect an envelope at the Post Office.

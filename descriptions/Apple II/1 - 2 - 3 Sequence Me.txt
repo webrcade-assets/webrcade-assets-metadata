@@ -1,0 +1,1 @@
+1 - 2 - 3 Sequence Me is an educational game for the Apple II. The player must place items in the order that they are performed. The player can be shown pictures, text, or a combination of both. The game was made in 1988, but not released until 1991.

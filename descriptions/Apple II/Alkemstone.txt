@@ -1,0 +1,1 @@
+The player must explore 3D mazes in search of clues to a puzzle. There are no monsters or other dangers in the maze, but the clues, if put together, will lead to the location of the Alkemstone, a place in the real world. The first person to find the stone wins $5000 cash. This is perhaps the first computer 'treasure quest' game ever.

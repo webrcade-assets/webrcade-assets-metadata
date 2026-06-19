@@ -1,0 +1,1 @@
+Spectrum is a pattern guessing game for multiple systems. The player encounters 20 rows of colors, and must try to determine the color pattern by revealing as few of turns as possible. Once the player determines the pattern, they must program the pattern using individual colors and loop statements. The player maximizes score by minimizing the lines of programming.

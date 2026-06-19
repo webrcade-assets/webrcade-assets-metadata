@@ -1,0 +1,1 @@
+L.A. Land Monopoly is a computer version of Monopoly using landmarks from the Los Angeles area.  The game has no single player mode

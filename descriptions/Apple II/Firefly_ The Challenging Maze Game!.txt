@@ -1,0 +1,1 @@
+Firefly (originally released as Firebug) is a lo-res graphics, action game where the objective is to pop open cans of gasoline and ignite them to burn down successive floors of a building. Your goal is to burn down the entire building while dodging the exploding cans yourself.

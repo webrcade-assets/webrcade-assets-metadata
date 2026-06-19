@@ -1,0 +1,1 @@
+The player controls a small creature whom can move in all directions, and has the ability to fire right and left. Alien creatures and alligators rapidly scroll across the screen horizontally from both sides. The player's goal is to shoot these creatures without themselves being hit. The player starts with 3 lives, and it's game over when all are lost.

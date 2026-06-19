@@ -1,0 +1,1 @@
+A French text adventure game. The game stars in a local cafe in Nice. Look around, meet your informant, gather some things you may need and keep your eyes open.

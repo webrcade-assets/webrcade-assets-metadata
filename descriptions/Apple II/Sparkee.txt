@@ -1,0 +1,1 @@
+A public Domain where you use keys and paddles\buttons to change how the music and associated graphics play. It is reminiscent of similar games such as Swinth for the Commodore 64. Press a key and it will reveal a "sparkee". Each key has a different one.

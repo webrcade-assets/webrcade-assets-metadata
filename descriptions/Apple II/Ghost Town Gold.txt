@@ -1,0 +1,1 @@
+Ghost Town Gold is a text adventure for the Apple II. The player comes across the abandoned western town of Sandy Valley, population 0. Commands are via VERB NOUN commands, and the player's goal is to search the town for gold, and then leave. The player must explore a number of old buildings, including an abandoned hotel, barber shop, food store, jail, and clothing store.

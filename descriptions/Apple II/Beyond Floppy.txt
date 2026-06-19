@@ -1,0 +1,1 @@
+An action puzzle game, this was preceeded by the game FLoppy, the action is very much in the spirit of BoulderDash but possibly preceeding it. Move around the maze, move and drop the rocks to get to the gems and avoid the various monsters.

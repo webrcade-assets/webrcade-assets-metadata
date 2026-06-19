@@ -1,0 +1,1 @@
+A save-the-princess text adventure in a fantasy world. Emphasis is on determining the function of the magical words and items you come across, with significant character interaction.

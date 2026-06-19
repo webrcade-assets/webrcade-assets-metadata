@@ -1,0 +1,1 @@
+A single player, bird's-eye, arena shooter created by Jim Stockla and published in 1984. Score points by killing foes, surviving, and getting apples. Pulsating apples activate a time portal to the next round.

@@ -1,0 +1,1 @@
+Planetoids is a clone of the popular arcade game Asteroids. Apple version features super sound effects, high resolution and three different skill levels including an expert level where your hull has become magnetized and is attracting the asteroids. Game paddles required.

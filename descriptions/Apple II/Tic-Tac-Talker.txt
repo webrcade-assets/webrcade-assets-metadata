@@ -1,0 +1,1 @@
+Tic-Tac-Talker is a Tic-Tac-Toe game with speech recognition. The goals of the game remain the same with the player and computer trying to get 3 symbols in a row and taking turns to place them in a grid. The player enters his moves verbally and the computer also speaks its moves out loud. Side B of the cassette contains software for audio spectrum analysis.

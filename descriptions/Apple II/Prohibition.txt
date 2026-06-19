@@ -1,0 +1,1 @@
+A text adventure with pictures created by B. Graniou, and C. Bahadoran.

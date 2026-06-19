@@ -1,0 +1,1 @@
+Pyramid of Doom is a text-based adventure program released by Scott Adams' Adventure International. An Egyptian Treasure Hunt leads you into the dark recesses of a recently uncovered Pyramid. Will you recover all the treasures or more likely will you join its denizens for that long eternal sleep?

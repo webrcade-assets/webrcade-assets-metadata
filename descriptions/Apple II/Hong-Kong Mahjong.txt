@@ -1,0 +1,1 @@
+A Hong-Kong style mahjong game created by Y. Wong in 1985.   Key controls. P:  Pon(ポン).  Q: Kan(カン).  T: Chii(チー).  I:  Winning(アガリ).    No riichi in Hong Kong mahjong!

@@ -1,0 +1,1 @@
+Merlin's Castle is a graphical text adventure. The player must infiltrate Merlin's Castle in search of treasure while avoiding dangers. All commands are via VERB NOUN entries, and the player must solve several inventory-based puzzles. There is no save/restore feature.

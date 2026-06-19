@@ -1,0 +1,1 @@
+A Wizardry character editor written by Thomas Conner and published by Datamost for the Apple II.
