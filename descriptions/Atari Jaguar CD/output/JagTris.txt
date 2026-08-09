@@ -1,0 +1,1 @@
+The first homebrew title programmed for the Jaguar dates back to 1995, which was a Jaguar version of Tetris called JSTetris (often referred as Jaguar Tetris or JagTris) developed using a hacked Jaguar (BJL, ROM replaced by custom software).
