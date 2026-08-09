@@ -1,0 +1,3 @@
+Prototype build of Speedster II, a driving game developed by L4 Software for Carousel International. Although the game got developed on Atari Jaguar hardware, it was intended as a kiddie ride you’d see outside a local supermarket.
+
+Given its target demographic of very young children, the game is quite simple. You drive down a straight road, avoiding traffic cones and cow dung. After a few minutes, you arrive at a parking lot. That’s it.

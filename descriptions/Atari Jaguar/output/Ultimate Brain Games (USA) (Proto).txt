@@ -1,0 +1,3 @@
+Ultimate Brain Games features three board games; Checkers, Chess and Backgammon. The game was never released due to low success of the platform until an early playable build was leaked online by a former Teque London employee in 2008. 
+
+Prior to starting a match, players must choose a variety of setting such as order of turns and level of difficulty for the CPU opponent, in addition of being able to configurate the default control settings. Players can also choose between two different visual styles, one of which changes the pieces, board and scenery into a more cartoony-style.

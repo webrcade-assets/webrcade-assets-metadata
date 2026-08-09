@@ -1,0 +1,1 @@
+Atomic Reloaded, a logic puzzle game inspired by Thalion's Atomic in which you are tasked with creating molecules from their component atoms by moving them around a maze. Described as 'Atomic as it should have been', Atomic Reloaded features 82 original levels guaranteed to challenge even veterans of the original!

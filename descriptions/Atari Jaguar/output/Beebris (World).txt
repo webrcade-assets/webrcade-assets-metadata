@@ -1,0 +1,66 @@
+Beebris is a single-player puzzle game featuring several challenging game modes. Based on the popular tetromino arcade games, Beebris has 40 levels of difficulty, web-based high score tables and one-more-game addictiveness. It also has rather iffy controls in very early and later levels!
+
+The four distinct game modes are:
+
+BEEBRIS
+
+This is the standard game mode. Points are scored by making complete horizontal lines of blocks in the Well. Greater scores can be obtained by ‘Quick-Dropping’ the tetromino - the higher the Quick Drop, the higher the score.
+
+Once 10 lines have been completed, the level will increase and the game will speed up noticeably. This will continue to a point where it reverts back to slower speeds. As you continue further into the higher levels, you will see the start position of the tetromino becomes lower - the Well top has been lowered! The game ends when a tetromino is placed in a position above the Well top.
+
+ 
+
+BEEBRIS+
+
+Gameplay is similar to the normal BEEBRIS mode but with the addition of new polyominoes for extra difficulty. These new shapes do not tessellate quite as easily as the regular tetrominoes. To offset this there is another special single-block - the Bomb! This block will complete the line of blocks it falls to even if the line is not
+complete!
+
+ 
+
+ARCADE
+
+This is similar to regular Beebris mode with some additions -
+there are now 4 level types:
+
+Normal
+As with the regular game of Beebris, the object is to make
+10 lines to advance to the next level.
+
+Progressive Advance
+The same as a Normal level but occasionally the game will
+move all blocks in the Well upwards and insert a random
+line at the bottom.
+
+Random Blocks
+The same as a Normal level but occasionally the game will
+insert a new block into the well at a random position.
+
+Pre-Built Well
+The same as a Normal level but the Well will contain a
+pre-selected pattern of blocks to start the level off with.
+
+ 
+
+ARCADE+
+
+The same additions to Beebris+ apply here - new
+polyominoes and the Bomb!
+
+CONTROLS
+
+GAME SCREEN
+
+After the introduction and title screen, you will be presented with the all-in-one gameplay and control screen. To the left lies the Well - this is where the action takes place. The box to the right contains all the current game information. The game mode is indicated to the top left. Beneath this is the Next Block display area and off to the right the Current Level is displayed. The large 6-digit figure below shows the player Score.
+
+GAME OPTIONS
+
+Select game mode 1, 2, 3, 4 on keypad
+Select starting level 6 & 9 on keypad
+Reset game * and # on keypad
+
+IN-GAME CONTROLS
+
+Move tetromino left: Left D-pad
+Move tetromino right: Right D-pad
+Quick Drop tetromino: Down D-pad
+Rotate tetromino: B or C D-pad
