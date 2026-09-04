@@ -1,0 +1,1 @@
+A real-time card battle RPG set within the mythical world of a Japanese collectible card game.

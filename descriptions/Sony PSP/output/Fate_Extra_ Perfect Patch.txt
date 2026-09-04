@@ -1,0 +1,1 @@
+This patch is for the US version of Fate/Extra. It adds subtitles to all the spoken battle lines, fixes lore translations to match the common Fate canon, subtitles the opening video, and fixes various translation issues from the original English release.

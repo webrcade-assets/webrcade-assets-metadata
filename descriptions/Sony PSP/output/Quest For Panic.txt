@@ -1,0 +1,1 @@
+Odyssey For Panic is a fresh Playstation Portable homebrew speed-coded game during the AC 2018 convention. It’s not a full-fledged game but should be fun for a few minutes Goal: Get two gifts, give these to the minotaur and leave the maze Controls: △ Switch ON/OFF your torch ▯ Jump Analog nub: move

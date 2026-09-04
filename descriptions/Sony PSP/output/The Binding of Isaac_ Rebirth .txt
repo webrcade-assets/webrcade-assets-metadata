@@ -1,0 +1,1 @@
+A demake of "The Binding of Isaac: Rebirth" for the Sony PSP console Game made with GameMaker 8.1 If the game runs slowly, enable the Low Detail Mode (LDM) option in the menu or set the cpu clock to 333 Mhz
