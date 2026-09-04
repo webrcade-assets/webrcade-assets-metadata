@@ -1,0 +1,1 @@
+Rectangle Battle is a shoot-'em-up where players control a spaceship to fight enemies in space. The game uses simple graphics inspired by 1970s shooters. It has a single-player survival mode where players aim for high scores and a 2-player versus mode for quick matches against a friend. Players must avoid obstacles like evil triangles while shooting enemies.

@@ -1,0 +1,1 @@
+Dreamstudio (ドリームスタジオ) is a piece of Dreamcast software which allows the user to create video games. It was released exclusively in Japan. Games created with Dreamstudio are more often than not restricted by the 128kB of VMU storage space. There is also a lot of text input, so the game recommends a Dreamcast Keyboard.

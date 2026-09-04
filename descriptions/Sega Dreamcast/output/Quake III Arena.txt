@@ -1,0 +1,1 @@
+Unlike its predecessors, Q3A does not have a plot-based single-player campaign. Instead, it simulates the multiplayer experience with computer controlled players known as bots. The game's story is brief - 'the greatest warriors of all time fight for the amusement of a race called the Vadrigar in the Arena Eternal.'

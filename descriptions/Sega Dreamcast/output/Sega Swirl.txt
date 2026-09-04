@@ -1,0 +1,1 @@
+Sega Swirl is a tile matching game in which the player attempts to clear adjacent matching colored swirls to clear the board and earn points. When removed, swirls above fall down toward the bottom of the screen and when columns clear all the way to the bottom columns shift to be flush left. Sega Swirl is reminiscent of later games like Collapse!

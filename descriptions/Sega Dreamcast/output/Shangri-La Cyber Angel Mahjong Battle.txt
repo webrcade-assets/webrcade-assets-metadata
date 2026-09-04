@@ -1,0 +1,1 @@
+A mahjong table game for the Sega NAOMI arcade platform. It was ported to the Sega Dreamcast.
